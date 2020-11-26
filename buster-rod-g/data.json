@@ -1,0 +1,55 @@
+{
+    "robot_token": "buster-rod-g",
+    "robot_number": "WWN-001",
+    "robot_name": "Buster Rod G",
+    "robot_game": "MMWW",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Agile Monkey Unit",
+    "robot_description2": "After a few failed attempts at conquering the world, Wily constructed the magnificent Wily Tower, and he put the Genesis Unit as his main line of defense. Buster Rod G was designed to naturally lead the group, being the swiftest and most skilled of the bunch. However, due to his general inexperience as serving as a combat robot, Buster Rod G ended up failing against Mega Man, and the Wily Tower scheme ended just like every other Wily plan. His main weapon is his extendable rod, which can grow to great lengths to attack the opponent. After losing to Mega Man, Buster Rod G's been reported to have survived and traveled on a journey to a foreign land in the west, training for the day that he can face Mega Man in battle yet again. He's a rowdy robot, and argues with Mega Water S constantly. He's a bit of a bubble brain, and can easily be convinced to things if you offer some banana bribery. He also dislikes Rush, Mega Man's trusty helper. While Buster Rod G is one of Mega Man's lesser known rivals, he's as unique as they come, just not nearly as serious or as conventional as the rest of them.",
+    "robot_energy": 115,
+    "robot_weapons": 20,
+    "robot_attack": 155,
+    "robot_defense": 145,
+    "robot_speed": 185,
+    "robot_weaknesses": [
+        "water",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "nature"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-rod"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "buster-rod"
+    ],
+    "robot_quotes_start": "Ook, ook, eek! Let's have some fun!",
+    "robot_quotes_taunt": "C'mon, c'mon! You're looking like second banana, kikiki!",
+    "robot_quotes_victory": "I did my training on a journey to the west -- try it next time!",
+    "robot_quotes_defeat": "You're real tough! Let's fight again some day, heheh!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

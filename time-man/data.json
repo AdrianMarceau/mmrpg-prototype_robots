@@ -1,0 +1,85 @@
+{
+    "robot_token": "time-man",
+    "robot_number": "DLN-00A",
+    "robot_name": "Time Man",
+    "robot_game": "MMPU",
+    "robot_field": "clock-citadel",
+    "robot_field2": "",
+    "robot_support": "flutter-fly",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "time-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Time Man (Green Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Time Man (Orange Alt)",
+            "summons": 200,
+            "colour": "explode"
+        },
+        {
+            "token": "alt3",
+            "name": "Time Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt9",
+            "name": "Time Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "time",
+    "robot_core2": "",
+    "robot_description": "Prototype Time-Control Robot",
+    "robot_description2": "Time Man was created for research on the growing research field of time, but unforeseen time restraints stopped production on Time Man. The main problem was his confusing algorithm system that Dr. Light thought would make him too \u201cpowered up\u201d compared to other robots, so he thought he would temporarily shelve the project. Sometime not far after, Dr. Wily stole him and completed him, although not without some flaws and compromises. Time Man was originally supposed to be able to stop time completely for a few short seconds, but now he can only slow down time for a few seconds, something his successor was able to manage. To make up for this, Dr. Wily gave him the Time Arrow in order to make him more offensively viable. Time Man's all about being punctual, going so far that he even plans his day out the week before! He's awfully conceited however, and he doesn't tend to speak if he finds that a response would only waste his time. Time Man has found use as the top researcher at the Chronos Time-Space Institute and was instrumental in the creation of the \"Time Skipper\", but after Wily haphazardly used it, the research for it was utterly wasted. Time Man does annoy others with his schedule, but it appears that it does give him an awful lot of free time....The thing is though, he finds hobbies to be a waste of time, so if you don't have hobbies to enjoy your free time with, what's the point of being so punctual?",
+    "robot_energy": 102,
+    "robot_weapons": 10,
+    "robot_attack": 126,
+    "robot_defense": 64,
+    "robot_speed": 108,
+    "robot_weaknesses": [
+        "electric",
+        "nature"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "time"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "time-arrow"
+        },
+        {
+            "level": 2,
+            "token": "time-slow"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "time-arrow",
+        "time-slow"
+    ],
+    "robot_quotes_start": "Finally. I grew tired of waiting.",
+    "robot_quotes_taunt": "You're ahead of schedule... let me slow you down!",
+    "robot_quotes_victory": "0.03 seconds late... Just sloppy.",
+    "robot_quotes_defeat": "Time waits for no one....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

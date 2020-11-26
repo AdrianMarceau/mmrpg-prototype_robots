@@ -1,0 +1,57 @@
+{
+    "robot_token": "cold-man",
+    "robot_number": "KGN-002",
+    "robot_name": "Cold Man",
+    "robot_game": "RnF",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "cold-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "freeze",
+    "robot_core2": "",
+    "robot_description": "Deep Freeze Robot",
+    "robot_description2": "Cold Man was a robot designed for storing prehistoric DNA within his body, working within a science lab. However, this job was rather boring, so Cold Man ended up joining King's coup, hoping to find a way to live that was more suited to his style. He was equipped with the Ice Wall, designed to keep any advancing enemies away and into any nearby pits. His body is also kept at absolute zero at all times, making him a bit cold to be around. Unfortunately, Cold Man wasn't suited to the fighting job either, and quickly became bored with that as well, resulting in a loss for King's troops. He's a bit of a carefree robot, and can be rather slow to react to things. He also likes drinking coffee, and dislikes the El Ni\u00f1o effect. If it hasn't been made clearly obvious at this point, Cold Man easily gets bored with things, like his jobs over the years, and would prefer a job where he could socialize with his customers. He eventually ended up in the soda vendor business, but who knows where that will go? He has found quite a bit of success here, and hasn't seemed to be disliking it so far. Cold Man is a tough opponent to impress, and any battles he finds boring, he'll quickly end the fight. Entertain him, however, and it'll be a freezing fight to the finish!",
+    "robot_energy": 108,
+    "robot_weapons": 10,
+    "robot_attack": 92,
+    "robot_defense": 124,
+    "robot_speed": 76,
+    "robot_weaknesses": [
+        "electric",
+        "impact"
+    ],
+    "robot_resistances": [
+        "water"
+    ],
+    "robot_affinities": [
+        "freeze"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "ice-wall"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "ice-wall"
+    ],
+    "robot_quotes_start": "You'll have to compensate for overtime on this one, {this_player}.",
+    "robot_quotes_taunt": "*Yawn* This is more boring than my job...",
+    "robot_quotes_victory": "Now I have something to talk about at work, at least.",
+    "robot_quotes_defeat": "Does this mean I can take the rest of the day off?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

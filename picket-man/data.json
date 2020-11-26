@@ -1,0 +1,71 @@
+{
+    "robot_token": "picket-man",
+    "robot_number": "PCKT-001",
+    "robot_name": "Picket Man",
+    "robot_game": "MM1",
+    "robot_field": "mountain-mines",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "picket-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Picket Man (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Picket Man (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Picket Throwing Mecha",
+    "robot_description2": "Similar in appearance to the Met, the Picket Man series is a general-purpose labor robot. In addition to a handheld ceratanium shield, they are equipped with a high-frequency pickaxe capable of breaking down the hardest of rocks.",
+    "robot_energy": 35,
+    "robot_weapons": 5,
+    "robot_attack": 75,
+    "robot_defense": 65,
+    "robot_speed": 25,
+    "robot_weaknesses": [
+        "impact",
+        "explode"
+    ],
+    "robot_resistances": [
+        "water",
+        "flame",
+        "electric",
+        "nature"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "picket-throw"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "picket-throw"
+    ],
+    "robot_quotes_start": "Pikkeru!",
+    "robot_quotes_taunt": "Pik! Pik! Pik!",
+    "robot_quotes_victory": "Pik-pik-pik! Piiiik!",
+    "robot_quotes_defeat": "Pikpik\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

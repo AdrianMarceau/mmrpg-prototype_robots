@@ -1,0 +1,69 @@
+{
+    "robot_token": "pyre-fly",
+    "robot_number": "PFLY-001",
+    "robot_name": "Pyre Fly",
+    "robot_game": "MM4",
+    "robot_field": "egyptian-excavation",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "pyre-fly",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Pyre Fly (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Pyre Fly (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Burning Dragonfly Mecha",
+    "robot_description2": "The Egyptian government contracted Dr. Cossack to design the Pyre Fly series to aid Pharaoh Man in protecting ancient ruins from grave robbers and armed insurgents. Their audiovisual sensors are linked directly to Pharaoh Man\u2019s, allowing him to spot intruders long before they reach his wards.",
+    "robot_energy": 60,
+    "robot_weapons": 5,
+    "robot_attack": 45,
+    "robot_defense": 35,
+    "robot_speed": 60,
+    "robot_weaknesses": [
+        "water",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "shadow",
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "pyre-flame"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "pyre-flame"
+    ],
+    "robot_quotes_start": "Haehaey! Hae!",
+    "robot_quotes_taunt": "Haeeeeeey!",
+    "robot_quotes_victory": "Haehaehaehaey!",
+    "robot_quotes_defeat": "Hae\u2026?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

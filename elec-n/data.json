@@ -1,0 +1,69 @@
+{
+    "robot_token": "elec-n",
+    "robot_number": "ELCN-001",
+    "robot_name": "Elec'n",
+    "robot_game": "MM3",
+    "robot_field": "power-plant",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "elec-n",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Elec'n (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Elec'n (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Flying Plug Mecha",
+    "robot_description2": "The Elec\u2019n series was created to maintain power plants and electrical substations. They can plug into any electrical system to recharge themselves.",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 75,
+    "robot_defense": 35,
+    "robot_speed": 60,
+    "robot_weaknesses": [
+        "water",
+        "cutter",
+        "crystal"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "electric"
+    ],
+    "robot_immunities": [
+        "swift"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "elec-spark"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "elec-spark"
+    ],
+    "robot_quotes_start": "Erekin!",
+    "robot_quotes_taunt": "Erererererere! Kin!",
+    "robot_quotes_victory": "Rekin! Rekin!",
+    "robot_quotes_defeat": "Errrrreeeee\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

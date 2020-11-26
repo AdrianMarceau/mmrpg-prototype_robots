@@ -1,0 +1,55 @@
+{
+    "robot_token": "enker",
+    "robot_number": "MKN-001",
+    "robot_name": "Enker",
+    "robot_game": "MMI",
+    "robot_field": "final-destination",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "enker",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "shield",
+    "robot_core2": "",
+    "robot_description": "Prototype Megaman Hunter",
+    "robot_description2": "After a multitude of failures regarding his attempts to take over the world due to his adversary Mega Man, Dr. Wily was in a rut. Suddenly, the idea hit him! He'd focused on robots based on a single gimmick, but what if he were to create a robot whose gimmick was to defeat Mega Man specifically? This led to the conception of Enker, who proved to be the first of a long line of rivals for the Blue Bomber. His main weapon was designed for containing energy and sending it back in an even larger dose, albeit with the compromise of dropping his guard. Against physical foes it'd be horribly useless, but against the Mega Buster it was a slimy yet still crafty tactic to rely on! Since Enker was designed to be nothing more than a soldier, he really doesn't have any proper emotional connections or pastimes. He's a eminently cold individual, and anti-social to match, preferring to stay back and work on his own lonesome accord. Wily saw potential in his design, leading to the creation of further Mega Man Killers in order to try and eventually do in his fated enemy. Regardless of his successors and his lone wolf attitude, Enker's a robot who stands above the average Robot Master, taking in attacks and poetically sealing his opponents' fates with their own attacks.",
+    "robot_energy": 110,
+    "robot_weapons": 20,
+    "robot_attack": 112,
+    "robot_defense": 140,
+    "robot_speed": 138,
+    "robot_weaknesses": [
+        "impact",
+        "explode"
+    ],
+    "robot_resistances": [
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "mirror-buster"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "mirror-buster"
+    ],
+    "robot_quotes_start": "I'm ready for you, fool!",
+    "robot_quotes_taunt": "Hit me with your best shot, I'll just bounce it right back!",
+    "robot_quotes_victory": "Be true to yourself, {target_robot}, and maybe you'll have a chance at beating me!",
+    "robot_quotes_defeat": "I was supposed to defeat you... what else am I good for otherwise...?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

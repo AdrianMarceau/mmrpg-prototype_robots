@@ -1,0 +1,68 @@
+{
+    "robot_token": "manta-missile",
+    "robot_number": "MANT-001",
+    "robot_name": "Manta Missile",
+    "robot_game": "MM4",
+    "robot_field": "submerged-armory",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "manta-missile",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Manta Missile (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Manta Missile (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Homing Mantaray Mecha",
+    "robot_description2": "Patterned after a stingray, the Manta Missile is an aquatic take on the Killer Bullet. They are commonly used in offshore drilling operations, using sonar to track down the planet\u2019s diminishing fossil fuel deposit.",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 65,
+    "robot_defense": 35,
+    "robot_speed": 70,
+    "robot_weaknesses": [
+        "wind",
+        "space",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "missile",
+        "earth"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "manta-seeker"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "manta-seeker"
+    ],
+    "robot_quotes_start": "Mantan-tan-tan!",
+    "robot_quotes_taunt": "Maaaaantaaaan!",
+    "robot_quotes_victory": "Man\u2026tan? Mantan!",
+    "robot_quotes_defeat": "Taaaaaaannnn\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

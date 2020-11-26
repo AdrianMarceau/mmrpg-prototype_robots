@@ -1,0 +1,75 @@
+{
+    "robot_token": "gyro-man",
+    "robot_number": "DWN-036",
+    "robot_name": "Gyro Man",
+    "robot_game": "MM5",
+    "robot_field": "",
+    "robot_field2": "sky-ridge",
+    "robot_support": "fan-fiend",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "gyro-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Gyro Man (Red Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Gyro Man (Blue Alt)",
+            "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt9",
+            "name": "Gyro Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Aerial Strike Robot",
+    "robot_description2": "Even the craziest of mad scientists can have an idea that flops. Dr. Wily intended to create an airborne Robot Master using a new theoretical form of rocket propulsion, but when it failed to come to fruition, Wily decided to cut his losses and attached a propeller to the unfinished Robot Master. Gyro Man doesn\u2019t seem to mind though, using his propellers to their fullest in both mobility and combat. In the air, Gyro Man is uncontested, and he knows it. Gyro Man will belittle his opponents (and sometimes allies) from the safety of the skies, sometimes tauntingly diving down just out of reach. You might think he\u2019s all bark and no bite, but Gyro Man can back up his aerial bombardment of jeers with the Gyro Attack. A speeding rotating blade is hard enough to deal with, but Gyro Man\u2019s ability to remotely redirect the attack allows him to hit the most evasive foes. Few Robot Masters have bested Gyro Man on the battlefield, and even fewer still have done so while also earning his respect, the sore loser decrying techniques like gravity distortion as \u201ccheap tricks.\u201d Ironically, those who have met Gyro Man\u2019s standards, like Quick Man and Tengu Man, ended up treating Gyro Man with the same contempt he treats so many others with. Why are all the fast Robot Masters such egomaniacs?",
+    "robot_energy": 98,
+    "robot_weapons": 10,
+    "robot_attack": 93,
+    "robot_defense": 80,
+    "robot_speed": 129,
+    "robot_weaknesses": [
+        "electric",
+        "nature"
+    ],
+    "robot_resistances": [
+        "earth",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "gyro-attack"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "gyro-attack"
+    ],
+    "robot_quotes_start": "I feel the need... the need for speed!",
+    "robot_quotes_taunt": "In life, you get either a propeller or an engine. And engine people are the absolute worst!",
+    "robot_quotes_victory": "Mission complete! {this_player}, you can be my wingman anytime!",
+    "robot_quotes_defeat": "{this_robot} down, {this_robot} down! Mayday, mayday, mayday!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

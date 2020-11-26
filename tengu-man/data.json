@@ -1,0 +1,61 @@
+{
+    "robot_token": "tengu-man",
+    "robot_number": "DWN-057",
+    "robot_name": "Tengu Man",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "tengu-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Jet-Powered Flight Robot",
+    "robot_description2": "It\u2019s no secret Dr. Wily loves some of his Robot Masters more than others, and if you had to guess which one was his favorite, you just might guess it was Tengu Man. This Robot Master\u2019s got it all: the power of flight, a diverse arsenal of weaponry, the ability to create typhoons, the experimental evil energy enhancement, an ego second only to his creator, and a Saturday morning cartoon-esque distaste for friendship and unity. Well, Tengu Man\u2019s overconfidence isn\u2019t necessarily misplaced. He masterfully utilizes the Tornado Hold to trap opponents in strong winds and the Tengu Blade, a slash of his Ha-Uchiwa that generates a quick moving shockwave. You\u2019ll only see these moves if he deems you worthy, though. Against most foes, Tengu Man is content to pelt enemies from the high ground, attacking foes just out of reach. He\u2019s a sore loser too, going as far as to join King\u2019s rogue militia just so he could rematch Mega Man. If you thought two defeats at the hand of the Blue Bomber would have mellowed Tengu Man out, you\u2019d be wrong: his arrogance and distaste for personal bonds only grew in an attempt to shore up his damaged ego. He started seeking out new hobbies to dominate others in, but even here Tengu Man found himself struggling. He can beat others in fly fishing, sure, but when Tengu Man started competing in chassis maintenance, he realized how outmatched he was. It doesn\u2019t matter how sharp and pointy he keeps his nose, how would Tengu Man ever beat Flame Man\u2019s prize-winning mustache?",
+    "robot_energy": 95,
+    "robot_weapons": 10,
+    "robot_attack": 110,
+    "robot_defense": 78,
+    "robot_speed": 117,
+    "robot_weaknesses": [
+        "freeze",
+        "missile"
+    ],
+    "robot_resistances": [
+        "shield",
+        "water"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "tengu-blade"
+        },
+        {
+            "level": 10,
+            "token": "tornado-hold"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "tornado-hold",
+        "tengu-blade"
+    ],
+    "robot_quotes_start": "You think you're worthy of my challenge? Don't make me laugh!",
+    "robot_quotes_taunt": "C'mon, someone like you isn't even worth the effort!",
+    "robot_quotes_victory": "That was weak. Or perhaps I was just much too strong!",
+    "robot_quotes_defeat": "Impossible! Being defeated by you... It's just regretful!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

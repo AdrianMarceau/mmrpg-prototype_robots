@@ -1,0 +1,56 @@
+{
+    "robot_token": "junk-man",
+    "robot_number": "DWN-050",
+    "robot_name": "Junk Man",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "junk-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Waste Collection Robot",
+    "robot_description2": "After accepting he was forever going down in history as a mad scientist, Dr. Wily decided he might as well take inspiration from the classic examples, right? Taking a page right out of Frankenstein is Junk Man, a hulking mass of spare parts and debris held together by strong electromagnetic forces. Despite his bulky stature, Junk Man was initially created as a resource collection robot, using his grotesque appearance to blend into the piles of trash laying in junkyards, where Junk Man searches for parts Wily can salvage. Junk Man is diligent in this task, having gained quite a knack for valuing pilfered parts on the fly, making the most of his trash heap trips. He isn\u2019t just an errand boy, though. Junk Man is perfectly capable of using all that collected litter in combat, most iconically in the form of the Junk Shield, using scrap metal to shore up his already imposing defenses. The most intact parts end up going to Wily, but ever the efficient worker, Junk Man makes use of any trash he can find, more than happy to attach even the grimiest of scraps to his body. The exception to this rule might be food waste, which never ceases to drive Junk Man up a wall. It\u2019s not that hard guys: food and food contaminated containers, like coffee cups and pizza boxes, can\u2019t be recycled! Do your part so Junk Man can do his.",
+    "robot_energy": 99,
+    "robot_weapons": 10,
+    "robot_attack": 111,
+    "robot_defense": 121,
+    "robot_speed": 69,
+    "robot_weaknesses": [
+        "electric",
+        "water"
+    ],
+    "robot_resistances": [
+        "nature",
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "junk-shield"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "junk-shield"
+    ],
+    "robot_quotes_start": "People see junk as just waste... But I see it as a new beginning!",
+    "robot_quotes_taunt": "Once you lose, I could probably turn you into a nice hat!",
+    "robot_quotes_victory": "...You're not using those parts anymore, right? Could I take them?",
+    "robot_quotes_defeat": "Well, recycling's not too bad either. I guess.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

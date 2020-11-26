@@ -1,0 +1,92 @@
+{
+    "robot_token": "slash-man",
+    "robot_number": "DWN-054",
+    "robot_name": "Slash Man",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "preserved-forest",
+    "robot_support": "batton",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "slash-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "maistir1234",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Slash Man (Fiery Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Slash Man (Royal Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt3",
+            "name": "Slash Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "energy"
+        },
+        {
+            "token": "alt4",
+            "name": "Slash Man (Enraged Alt)",
+            "summons": 400,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt5",
+            "name": "Slash Man (Progenitor Alt)",
+            "summons": 500,
+            "colour": "cossack"
+        },
+        {
+            "token": "alt9",
+            "name": "Slash Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "nature",
+    "robot_core2": "",
+    "robot_description": "Razor Claws Robot",
+    "robot_description2": "The Stardroids\u2019 invasion of Earth was an inspiring event for Dr. Wily, the alien technology having reinvigorated the creativity-spent doctor. Wily was particularly interested in Pluto, wondering how he might repurpose, or blatantly steal, their design. Well, they say imitation is the sincerest form of flattery, and if Pluto could see the beast of a Robot Master Slash Man became, maybe he\u2019d be proud. Slash Man is usually stationed in the jungle, where he excels in both construction and combat. His claws are equally good at cutting down trees and climbing up them, where he stalks his prey from the high ground. Once his opponent is spotted, he\u2019ll crash down at blazing speeds and tear into them with the Slash Claw, a swipe of his razor-sharp claws. Most robots don\u2019t consider Slash Man to be a fair fighter, but he doesn\u2019t seem to mind, so long as his tactics keep working. After all, in the jungle, it\u2019s slash or be slashed, crush or be crushed, goop or be gooped! Well, maybe most jungle predators don\u2019t use that last skill, but it seems to work out well for Slash Man. The sticky piles of goop Slash Man rains down on the battlefield trap opponents, allowing him to more easily run them down. The substance seems to be a mix of tar and yolk from the eggs of his dinosaur robot armada, which seems a little morbid, doesn\u2019t it? It\u2019d be like having a robot work in a junkya-oh, wait. Anyways, Slash Man is too brash to care about this macabre attack, and is willing to do whatever it takes to finish the hunt.",
+    "robot_energy": 99,
+    "robot_weapons": 10,
+    "robot_attack": 117,
+    "robot_defense": 60,
+    "robot_speed": 124,
+    "robot_weaknesses": [
+        "freeze",
+        "flame"
+    ],
+    "robot_resistances": [
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "slash-claw"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "slash-claw"
+    ],
+    "robot_quotes_start": "Welcome to the jungle, {target_robot}! It's ALL fun and games here!",
+    "robot_quotes_taunt": "C'mon, if you slip up, I'll skewer you with my Slash Claw! Ghaha!",
+    "robot_quotes_victory": "You lose, {target_robot}! Heheh, I enjoyed that game!",
+    "robot_quotes_defeat": "Pal, you're out of your mind!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

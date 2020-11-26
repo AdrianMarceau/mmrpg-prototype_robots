@@ -1,0 +1,57 @@
+{
+    "robot_token": "magma-man",
+    "robot_number": "DLN-071",
+    "robot_name": "Magma Man",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "magma-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "chaosfantazy",
+    "robot_image_editor2": "elitep1",
+    "robot_image_alts": [],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Geothermal Power Robot",
+    "robot_description2": "A robot created by Dr. Light to work in a geothermal power plant, Magma Man was scheduled to be scrapped, much like the rest of his line. His main weapon, Magma Bazooka, was based on Atomic Fire, a flame-based attack that can be charged up for more power. The stronger the charge, the stronger the flame! However, generally just staying around him in battle is incredibly dangerous, as he's constantly generating heat to attack his enemies with, leaving teammates struggling to not get hit themselves. Magma Man's material is specifically designed to withstand him from high temperatures, although it isn't designed to assist him in cold areas. He's a bit of a rowdy fellow, but ultimately he's often reserved. This makes him a bit unpredictable, as one second he could be as calm as a feather and the next, he's fiercer than ever. He also likes to visit the local hot spa after work, relaxing in the warm waters. Magma Man's generally not too rough in battle and won't bother you, but if he's getting ready to explode with the power of Magma Bazooka, there might not be any hope....",
+    "robot_energy": 106,
+    "robot_weapons": 10,
+    "robot_attack": 112,
+    "robot_defense": 93,
+    "robot_speed": 89,
+    "robot_weaknesses": [
+        "wind",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "water"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "flame"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "magma-bazooka"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "magma-bazooka"
+    ],
+    "robot_quotes_start": "This volcano's getting set to explode!",
+    "robot_quotes_taunt": "Ashes to ashes, dust to dust! And then the dust into ashes too!",
+    "robot_quotes_victory": "If you can't handle the heat, stay out of the level!",
+    "robot_quotes_defeat": "And here, I shall lay dormant...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

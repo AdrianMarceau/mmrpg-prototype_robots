@@ -1,0 +1,57 @@
+{
+    "robot_token": "jupiter",
+    "robot_number": "SRN-005",
+    "robot_name": "Jupiter",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "electric",
+    "robot_core2": "wind",
+    "robot_description": "Electro Bombardier Stardroid",
+    "robot_description2": "During the Stardroids's invasion on Earth, Jupiter stood guard at a power plant the Stardoids often used. Jupiter used to be a fighter pilot, where he successfully dropped bombs in several galactic wars. However, the constant raging of war eventually even gets to robots as cruel as the Stardroids, so he opted to generate electricity for his brothers instead. This doesn't mean he's a slouch in combat, however. His Electric Shock is a powerful short range weapon, a strong beam of electricity that can paralyze and damage opponents for several seconds. Jupiter is also an incredibly speedy fighter, so combined with his Electric Shock, he applies a lot of pressure and control over his opponents. In fact, Jupiter has entered several races, beating land racers like Turbo Man and sky racers like Gyro Man. After his inevitable victories, Jupiter often gloats about his alien jet engine. Hitting him with a few bombs might get him to shut up, but good luck actually hitting him with that mobility of his.",
+    "robot_energy": 120,
+    "robot_weapons": 20,
+    "robot_attack": 181,
+    "robot_defense": 176,
+    "robot_speed": 223,
+    "robot_weaknesses": [
+        "explode",
+        "water"
+    ],
+    "robot_resistances": [
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "electric-shock"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "electric-shock"
+    ],
+    "robot_quotes_start": "You may be hot stuff here, but I'm the fastest in the universe!",
+    "robot_quotes_taunt": "You earthlings are so rudimentary! Speed it up before I die of boredom!",
+    "robot_quotes_victory": "I'm simply the fastest; not even lightning could keep up with me!",
+    "robot_quotes_defeat": "These injuries... remind me of the bombs...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

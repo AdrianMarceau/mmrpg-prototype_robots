@@ -1,0 +1,93 @@
+{
+    "robot_token": "shadow-man",
+    "robot_number": "DWN-024",
+    "robot_name": "Shadow Man",
+    "robot_game": "MM3",
+    "robot_field": "septic-system",
+    "robot_field2": "",
+    "robot_support": "ribbitron",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "shadow-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "elitep1",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Shadow Man (Orange Alt)",
+            "summons": 100,
+            "colour": "explode"
+        },
+        {
+            "token": "alt2",
+            "name": "Shadow Man (Purple Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt3",
+            "name": "Shadow Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt4",
+            "name": "Shadow Man (Electric Shadow Alt)",
+            "summons": 400,
+            "colour": "electric"
+        },
+        {
+            "token": "alt5",
+            "name": "Shadow Man (EWN-003 Alt)",
+            "summons": 500,
+            "colour": "flame"
+        },
+        {
+            "token": "alt9",
+            "name": "Shadow Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty",
+            "generate_shadows": 1
+        }
+    ],
+    "robot_core": "shadow",
+    "robot_core2": "",
+    "robot_description": "Ninja Assasin Robot",
+    "robot_description2": "Discarded and buried away in the confines of a temple long forgotten to time, Dr. Wily ran into Shadow Man rather unexpectedly yet fortunately, as he was swiftly given a prominent position in Dr. Wily's nefarious scheme to take ownership of the mined Energy Elements. Rumors have circulated that Shadow Man is of extraterrestrial origin, stemming from his inexplicable background and the fact that his trademark weapon, the Shadow Blade, is entirely coated with some sort of substance not of this world. Oddly enough, despite the possible alien background, Shadow Man's somehow an expert in Earth-based ninjutsu techniques, able to perform basic illusory tricks, transformations into objects like logs, and summoning frogs.... All taken together, it's incredibly weird, but perhaps that's part of the mystery? Regardless, he's been often described as having a shallow mindset, and impulsive in nature. Above all else, Shadow Man seeks to uphold the honorifics of his class, with an intensive knack and interest towards capturing the surprise of both his enemies and allies. Naturally, following the ninja way, Shadow Man is easily one of the most dedicated robots to Dr. Wily's cause and ideals. So much so, in fact, that Shadow Man began illustrating and writing his own manga, \"Shadow Man Megamix\", in his free time to provide further funding to Dr. Wily's resources! An extraterrestrial start, ninja gimmicks, a penchant for surprise, a manga author... Shadow Man's one mysterious robot.",
+    "robot_energy": 93,
+    "robot_weapons": 10,
+    "robot_attack": 122,
+    "robot_defense": 68,
+    "robot_speed": 117,
+    "robot_weaknesses": [
+        "swift",
+        "laser"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "shadow"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "shadow-blade"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "shadow-blade"
+    ],
+    "robot_quotes_start": "Shameful ronin... I, {this_robot}, will be your opponent!",
+    "robot_quotes_taunt": "Run and hide, but your shadow always follows.",
+    "robot_quotes_victory": "No one can escape their shadow. This is your final burial!",
+    "robot_quotes_defeat": "Imagine me, being surprised... You are a worthy opponent.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

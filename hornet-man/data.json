@@ -1,0 +1,76 @@
+{
+    "robot_token": "hornet-man",
+    "robot_number": "DLN-070",
+    "robot_name": "Hornet Man",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "preserved-forest",
+    "robot_support": "batton",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "hornet-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Hornet Man (Indigo Alt)",
+            "summons": 100,
+            "colour": "space"
+        },
+        {
+            "token": "alt2",
+            "name": "Hornet Man (Emerald Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Hornet Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "nature",
+    "robot_core2": "",
+    "robot_description": "Flower Pollination Robot",
+    "robot_description2": "Hornet Man was a difficult robot for Dr. Light to envision, if only due to the lack of reference for creating a bug-based Robot Master. Taking inspiration from nature's most efficient and well-working specimens, the bees, Hornet Man was to pollinate the flowers of a large park nearby the Light household and overall aid the dying bee population. The Hornet Chaser was used for widespread care of plants, but Hornet Man modified them for more offensive strategies as well, helping when he served the role as opposition against Mega Man. Hornet Man is practically a database of ways to take care of gardens, making him an expert at what he does. He spends most of his time gardening if you weren't sure, and even allows Beat to fly through and help him out. But, due to his dedicated passion of urban planning, Hornet Man's schedule is filled to the brim with responsibility; it's been rumored that he's never used a single vacation day in all his days of service! As far as micro-managers go, Hornet Man definitely lies in the upper echelon!",
+    "robot_energy": 100,
+    "robot_weapons": 10,
+    "robot_attack": 109,
+    "robot_defense": 80,
+    "robot_speed": 111,
+    "robot_weaknesses": [
+        "flame",
+        "wind"
+    ],
+    "robot_resistances": [
+        "earth"
+    ],
+    "robot_affinities": [
+        "nature"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "hornet-chaser"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "hornet-chaser"
+    ],
+    "robot_quotes_start": "I'm quite busy, so let's make this quick!",
+    "robot_quotes_taunt": "Pollination is quite facinating, don't you think?",
+    "robot_quotes_victory": "I've got my flowers to return to, so go and buzz off now.",
+    "robot_quotes_defeat": "But\u2026 who will look after my precious flowers?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

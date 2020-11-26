@@ -1,0 +1,55 @@
+{
+    "robot_token": "strike-man",
+    "robot_number": "DWN-078",
+    "robot_name": "Strike Man",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "strike-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "impact",
+    "robot_core2": "",
+    "robot_description": "Baseball Pitching Robot",
+    "robot_description2": "If you ever saw the Mega City Tigers practicing for a game, you probably saw Strike Man there, pitching for them. Strike Man was created to be a batting-practice robot, but he found himself enjoying other sports, such as soccer, as well. He was especially skilled at throwing fast balls, his top speed clocking in at 121.6 mph, a whole 16.5 mph faster then the human world record equivalent. When Dr. Wily released his Roboenza on the world, Strike Man was one of the robots to fall ill, causing him to malfunction. While under Wily's control, his normal pitching abilities were updated to allow him to calculate rebound pitches. He was given the weapon Rebound Striker for fighting Mega Man. He can also launch himself into opponents, tackling them with his whole body. After the Roboenza incident, Strike Man spent several years re-perfecting his pitch. He's been put back on the Mega City Tigers, but only to pitch; whenever he goes to bat, the ball goes into orbit. If you're ever at bat with Strike Man pitching, you definitely do not want to lean into his pitches to score a free walk.",
+    "robot_energy": 105,
+    "robot_weapons": 10,
+    "robot_attack": 107,
+    "robot_defense": 85,
+    "robot_speed": 103,
+    "robot_weaknesses": [
+        "cutter",
+        "flame"
+    ],
+    "robot_resistances": [
+        "electric"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "rebound-striker"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "rebound-striker"
+    ],
+    "robot_quotes_start": "{this_robot} enters the game, eyeing his opponent...",
+    "robot_quotes_taunt": "{this_robot} is obviously going for the no-hitter, but will it work?",
+    "robot_quotes_victory": "Three strikes, he's out of here! {this_robot} has won the game!",
+    "robot_quotes_defeat": "Ow! It seems {this_robot} will be out for the rest of the season!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

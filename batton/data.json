@@ -1,0 +1,68 @@
+{
+    "robot_token": "batton",
+    "robot_number": "BATN-001",
+    "robot_name": "Batton",
+    "robot_game": "MM2",
+    "robot_field": "preserved-forest",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "batton",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Batton (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Batton (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "nature",
+    "robot_core2": "",
+    "robot_description": "Forest Patrol Mecha",
+    "robot_description2": "The Batton series serve as wardens for nature preserves and parks. Scientists have used Battons to study rare and elusive species up-close without disturbing their habitats. At one point, they were highly sought after as pets.",
+    "robot_energy": 80,
+    "robot_weapons": 5,
+    "robot_attack": 10,
+    "robot_defense": 60,
+    "robot_speed": 50,
+    "robot_weaknesses": [
+        "electric",
+        "wind"
+    ],
+    "robot_resistances": [
+        "earth",
+        "cutter",
+        "crystal"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "batton-drain"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "batton-drain"
+    ],
+    "robot_quotes_start": "Batta!",
+    "robot_quotes_taunt": "Baton-ton-ton-ton!",
+    "robot_quotes_victory": "Batta! Batta! Batton!",
+    "robot_quotes_defeat": "Baaaaaa\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,88 @@
+{
+    "robot_token": "trill",
+    "robot_number": "EXN-00X",
+    "robot_name": "Trill",
+    "robot_game": "MMRPGP",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "trill",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Trill (Attack Alt)",
+            "summons": 100,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Trill (Defense Alt)",
+            "summons": 200,
+            "colour": ""
+        },
+        {
+            "token": "alt3",
+            "name": "Trill (Speed Alt)",
+            "summons": 300,
+            "colour": ""
+        }
+    ],
+    "robot_core": "space",
+    "robot_core2": "",
+    "robot_description": "Galactic Assistant Robot",
+    "robot_description2": "As of now, there is no data recorded on this robot, nor their abilities. If encountered, take extreme caution; It is unknown what is the extent of this robot's power.",
+    "robot_energy": 180,
+    "robot_weapons": 20,
+    "robot_attack": 140,
+    "robot_defense": 140,
+    "robot_speed": 140,
+    "robot_weaknesses": [],
+    "robot_resistances": [
+        "space",
+        "water",
+        "electric"
+    ],
+    "robot_affinities": [
+        "freeze",
+        "flame"
+    ],
+    "robot_immunities": [
+        "copy"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 15,
+            "token": "trill-aura"
+        },
+        {
+            "level": 30,
+            "token": "trill-slasher"
+        },
+        {
+            "level": 45,
+            "token": "trill-teranova"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "trill-aura",
+        "trill-slasher",
+        "trill-teranova"
+    ],
+    "robot_quotes_start": "The master has tasked me with deleting your data.  Do not resist.",
+    "robot_quotes_taunt": "Resistance is futile, but I'll entertain your struggles just the same.",
+    "robot_quotes_victory": "Mission complete.  The master will be pleased with this victory.",
+    "robot_quotes_defeat": "Mission failure.  The master will not be pleased with this defeat.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

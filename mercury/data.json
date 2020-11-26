@@ -1,0 +1,57 @@
+{
+    "robot_token": "mercury",
+    "robot_number": "SRN-002",
+    "robot_name": "Mercury",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "freeze",
+    "robot_core2": "crystal",
+    "robot_description": "Melting Slime Stardroid",
+    "robot_description2": "When the Stardroids attacked the Earth, Mercury was one of the four Stardroids leading the conquest. His body is entirely composed out of pure liquid metal, manipulating his body in the same way that a robot of the Devil series would. When his opponent is surprised by his body manipulation, he'll use his signature weapon, Grab Buster, to quickly drain them of their energy. Being the type of droid that he is though, he might even use his Grab Buster on his teammates, draining their energy to benefit his own! He's known throughout the galaxy for his loose tongue, and as a result, he doesn't have too many friends, especially not Pluto. He's also a greedy robot, taking any chance to gain zenny, even if it requires changing sides for a brief moment. As a Stardroid, he's ruthless and unpredictable, and definitely not someone to turn your back on. This guy practically is a devil!",
+    "robot_energy": 120,
+    "robot_weapons": 20,
+    "robot_attack": 179,
+    "robot_defense": 224,
+    "robot_speed": 177,
+    "robot_weaknesses": [
+        "shadow",
+        "impact"
+    ],
+    "robot_resistances": [
+        "crystal"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "grab-buster"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "grab-buster"
+    ],
+    "robot_quotes_start": "I'll drain your energy dry! Everything belongs to me!",
+    "robot_quotes_taunt": "I'm gettin' paid a lot of cash for you to die!",
+    "robot_quotes_victory": "The means of production, resources, this whole rock-- I'll seize it all!",
+    "robot_quotes_defeat": "You little slime-ball! You made me lose my reward!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

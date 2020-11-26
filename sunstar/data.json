@@ -1,0 +1,66 @@
+{
+    "robot_token": "sunstar",
+    "robot_number": "SRN-00X",
+    "robot_name": "Sunstar",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "flame",
+    "robot_core2": "time",
+    "robot_description": "Doomsday Weapon Stardroid",
+    "robot_description2": "Known as the doomsday robot, Sunstar is easily one of the most powerful robots who has come into existence, focusing on attacks that use the burning power of a star itself! In fact, his main weapon, Sunstar Supernova, has the ability to level a planet! Even without those attacks, Sunstar is already educated in many various forms of fighting, and is an extremely quick learner of attacks, from lasers to fiery spheres. Despite not being technically classified as a Stardroid himself, he's still considered their leader, and with them, he fought a war against the entire universe itself! However, one day, he was confronted by a force that rivaled his own, and in the end, he was imprisoned, his only legacy left being the Stardroids. Centuries after, the Stardroids crashed on Earth and blacked out, and would've stayed the way had Dr. Wily not repaired them. The Stardroids ended up being defeated, but Sunstar gained enough energy to break out of his seal, and attacked Dr. Wily's capsule, painting the Doomsday robot as not being the most grateful of robots. Due to being a doomsday bot, Sunstar always has his mind set on destroying, nothing else. However, he isn't resistant to change, as was proven when he saved Mega Man's life in order to continue protecting the Earth. It has been many years since his war on Earth, but one would wonder that if he was brought back, would he take Mega Man's words to heart? Or would he continue his path of destruction?",
+    "robot_energy": 120,
+    "robot_weapons": 20,
+    "robot_attack": 232,
+    "robot_defense": 182,
+    "robot_speed": 166,
+    "robot_weaknesses": [
+        "cutter",
+        "nature"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "flame"
+    ],
+    "robot_immunities": [
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "sunstar-supernova"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "sunstar-supernova",
+        "spark-chaser",
+        "grab-buster",
+        "bubble-bomb",
+        "photon-missile",
+        "electric-shock",
+        "black-hole",
+        "deep-digger",
+        "salt-water",
+        "break-dash"
+    ],
+    "robot_quotes_start": "The apocalypse emerges... I am the doomsday robot, Sunstar!",
+    "robot_quotes_taunt": "Robots were created to fight... but I was created to destroy!",
+    "robot_quotes_victory": "All inferior life forms will be annihilated... You have the honor of being first!",
+    "robot_quotes_defeat": "Perhaps I was wrong... but I will never know...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

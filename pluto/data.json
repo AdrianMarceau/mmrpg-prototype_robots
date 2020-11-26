@@ -1,0 +1,57 @@
+{
+    "robot_token": "pluto",
+    "robot_number": "SRN-008",
+    "robot_name": "Pluto",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "swift",
+    "robot_core2": "impact",
+    "robot_description": "Pouncing Feline Stardroid",
+    "robot_description2": "When Mega Man had defeated the four Stardroids attacking Earth, he led a sneak attack on the other four, one of them being Pluto, who mined materials from a nearby planetoid for the Stardroids. He has the quickest reflexes of the Stardroids and is extremely agile. His main weapon, Break Dash, allows him to dash at supersonic speeds at a short distance. He can also slash opponents and climb up walls with those claws of his, and these moves inspired Dr. Wily when he was making Slash Man. Despite being covered in all that fur, he's quite weak to the cold, and hates being chilly. The most important thing to him are his claws, and he'll take the best care of them to ensure that they're at their sharpest. However, if he gets his claws broken, he'll get incredibly annoyed and will go on a frenzied rage. He also dislikes the deceitful Mercury, and they'll constantly fight over the smallest of things. Being as mobile as he is, he's the greatest close-combat fighter within the Stardroids, and could likely defeat any other Earth contenders with his claws tied behind his back.",
+    "robot_energy": 120,
+    "robot_weapons": 20,
+    "robot_attack": 183,
+    "robot_defense": 164,
+    "robot_speed": 233,
+    "robot_weaknesses": [
+        "freeze",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "impact"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "break-dash"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "break-dash"
+    ],
+    "robot_quotes_start": "You're gonna be my new scratching post!",
+    "robot_quotes_taunt": "So stubborn... You remind me of a real slimeball I know...",
+    "robot_quotes_victory": "Meow... time for a cat nap...",
+    "robot_quotes_defeat": "*hack* Just wait until I get this *hack* hairball out!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

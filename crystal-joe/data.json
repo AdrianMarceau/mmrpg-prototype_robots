@@ -1,0 +1,56 @@
+{
+    "robot_token": "crystal-joe",
+    "robot_number": "SJOE-003",
+    "robot_name": "Crystal Joe",
+    "robot_game": "MM5",
+    "robot_field": "cossack-citadel",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "crystal-joe",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "crystal",
+    "robot_core2": "",
+    "robot_description": "Diamond Shard Mecha",
+    "robot_description2": "Outfitted with a miniaturized variant of Crystal Man's own crystalline-counterfeiting generator, the Sniper Joe model was the only Mecha series advanced enough to assist in Dr. Wily's gem-profiteering scheme. As a defect to their carbon-forging prowess, they lack the traditional offensive and maneuverability options found in their siblings. And so to Dr. Wily's chagrin, they simply starting using their highly valuable gemstones as ammunition instead.",
+    "robot_energy": 60,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 50,
+    "robot_speed": 40,
+    "robot_weaknesses": [
+        "explode",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "water",
+        "flame",
+        "electric",
+        "nature"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "",
+    "robot_quotes_taunt": "",
+    "robot_quotes_victory": "",
+    "robot_quotes_defeat": "",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

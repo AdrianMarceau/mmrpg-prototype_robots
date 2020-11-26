@@ -1,0 +1,56 @@
+{
+    "robot_token": "king",
+    "robot_number": "KGN-00X",
+    "robot_name": "King",
+    "robot_game": "RnF",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "shield",
+    "robot_core2": "",
+    "robot_description": "Rebel Leader Robot",
+    "robot_description2": "Some time after the events of the Evil Energy disaster, a robot had shown up and claimed that he would now take the helm of the world, attempting to lead an independent robot nation. This robot was known as King, and he employed various Robot Masters of different backgrounds, including Wily's own Tengu Man and Astro Man, for his purpose. While he doesn't have any specific weaponry, he's been known for using an energy-absorbing shield and a lance in battle. His battle prowess is incredible, as he once defeated Proto Man in a single move, and kept Mega Man and Bass on their toes. Contrary to popular belief, King is not a tyrant; he was arguably misguided in his attempts to reform the world. King's efforts to change the world would also happen to be inspiring to a robot dozens of years after. He's a remarkable and passionate speaker, but his background simply rings of suspicion. This was all revealed when Mega Man and Bass, unaware the other was there, found out his true background at his castle, being a creation of Wily all along. After their battle, King sacrificed his life to save the two, an act that even impacted Bass in a way. However, soon afterwards, Mega Man received a letter with King's insignia, meaning King could still be out there. The question is: would he be friend or foe?",
+    "robot_energy": 100,
+    "robot_weapons": 20,
+    "robot_attack": 100,
+    "robot_defense": 100,
+    "robot_speed": 100,
+    "robot_weaknesses": [
+        "electric",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "impact",
+        "explode"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "repair-mode"
+    ],
+    "robot_quotes_start": "{target_robot}, since you're a robot... Why not join with me against the humans?",
+    "robot_quotes_taunt": "{target_robot}... Don't you realize you're only a pawn to {target_player}?",
+    "robot_quotes_victory": "I had hoped it wouldn't come to this, but alas... That's checkmate.",
+    "robot_quotes_defeat": "Stay shackled by your captors, then. I fall here, but the Robot Kingdom lives on!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

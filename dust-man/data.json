@@ -1,0 +1,74 @@
+{
+    "robot_token": "dust-man",
+    "robot_number": "DCN-030",
+    "robot_name": "Dust Man",
+    "robot_game": "MM4",
+    "robot_field": "rusty-scrapheap",
+    "robot_field2": "",
+    "robot_support": "lady-blader",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "dust-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "metalman",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Dust Man (Purple Alt)",
+            "summons": 100,
+            "colour": "time"
+        },
+        {
+            "token": "alt2",
+            "name": "Dust Man (Green Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Dust Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Scrap Contracting Robot",
+    "robot_description2": "There's nothing much to disguise or sweeten here; Dr. Cossack entirely designed Dust Man around the concept of being a vacuum cleaner. While a robot made for cleaning servitude is rather archaic and certainly raises a robot rights question, Dust Man wouldn't be the one asking, as he's dedicated to cleaning up every corpuscle of trash he can! His suction is extremely powerful, albeit Dust Man's overeager attitude often causes him to be inundated with debris and dust. With his eye on the malicious, Dr. Wily quickly took note of this flaw, and much to Cossack's protest, outfitted Dust Man with an ability to launch extra volatile stage debris from his vacuum, henceforth christened the \"Dust Crusher\". An eager sanitation robot, Dust Man's all for spring cleaning, but as aforementioned, he does tend to overestimate his suction. As a result of this, he has somewhat poor confidence in his own capabilities. Other things of notice is that he's often been known to have a severe case of bad breath, as well as a vehement fear of all sorts of rodents. As an asset in battle, Dust Man's surprisingly an unexpected threat, as while other robots can throw fireballs and flip gravity, Dust Man's suction and exhaling has a simple effectiveness and strength to it. And, free of charge, he'll clean up any messes on the battlefield afterwards!",
+    "robot_energy": 105,
+    "robot_weapons": 10,
+    "robot_attack": 102,
+    "robot_defense": 111,
+    "robot_speed": 82,
+    "robot_weaknesses": [
+        "space",
+        "explode"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "wind"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "dust-crusher"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "dust-crusher"
+    ],
+    "robot_quotes_start": "You wanna fight? I'll try not to suck too much...",
+    "robot_quotes_taunt": "ah.. ACHOO!!!.. Oh, my poor aching sinuses...",
+    "robot_quotes_victory": "Oh no! Is this one of your parts?... Um, can I eat it?",
+    "robot_quotes_defeat": "Drats, I overdid it once again. I'm such a mess...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

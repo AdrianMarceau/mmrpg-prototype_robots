@@ -1,0 +1,57 @@
+{
+    "robot_token": "bounce-man",
+    "robot_number": "DWN-088",
+    "robot_name": "Bounce Man",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "spinning-greenhouse",
+    "robot_support": "spin-fiend",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "robot",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Elastic Fitness Robot",
+    "robot_description2": "To live life as vicariously as a ball bouncing happily upon its own momentum must be an utterly carefree lifestyle, wouldn\u2019t it? Now with Bounce Man as evidence, the answer to that question is a resounding \u2018yes!\u2019 Originally developed by Joint R&D to work as a recyclable crash test robot, his phenomenal elasticity and resilience bestowed him a position at \u2018Boing Boing Park\u2019, an indoor athletics facility meant to teach children the importance of exercise. Given the proper momentum, Bounce Man with his hefty stature can bounce and fling around rooms like a rubber ball that just won\u2019t stop, making him an unintentional nuisance to the people around him! His elastic jab makes for a heck of a punch, and he can even toss out more bouncy balls to crowd out the room with. All this would make Bounce Man one of the toughest Robot Masters out there, but due to his childlike demeanor, combat\u2019s just one big silly game to him! Innocence and optimism abound emanate from his joyous disposition, and kids go crazy for his funny looks and big, round body. He\u2019s also surprisingly popular among middle-aged women due to his \u2018Hopxercise\u201d program -- it\u2019s like boxing, but on trampolines. All in all, Bounce Man\u2019s jocular reputation have made him and Boing Boing Park a household name for all who enjoy the act of bouncing. Thus, it is no wonder to see how Bounce Man can be so carefree and riddled with positive energy! Actually, there is one thing that gets him down in the dumps\u2026 the stairs!",
+    "robot_energy": 105,
+    "robot_weapons": 10,
+    "robot_attack": 124,
+    "robot_defense": 108,
+    "robot_speed": 63,
+    "robot_weaknesses": [
+        "impact",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "space"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "electric"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "bounce-ball"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "bounce-ball"
+    ],
+    "robot_quotes_start": "Boy oh boy, a new special playmate! Wanna bounce with me?",
+    "robot_quotes_taunt": "Oops, Bounce Man always bounces back! Bounce me again, again!",
+    "robot_quotes_victory": "Hehe, you were so, so fun! Catch you on the rebound!",
+    "robot_quotes_defeat": "Aww, playtime's over...? I guess that's the way the ball bounces...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

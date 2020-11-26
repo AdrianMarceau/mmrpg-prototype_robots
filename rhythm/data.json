@@ -1,0 +1,139 @@
+{
+    "robot_token": "rhythm",
+    "robot_number": "SCN-001",
+    "robot_name": "Rhythm",
+    "robot_game": "MMRPGP",
+    "robot_field": "cossack-citadel",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "female",
+    "robot_image": "rhythm",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Rhythm (Proto Alt)",
+            "summons": 50,
+            "colour": "flame",
+            "generate_shadows": 1
+        },
+        {
+            "token": "alt2",
+            "name": "Cute Dress Rhythm",
+            "summons": 100,
+            "colour": "nature",
+            "generate_shadows": 1
+        },
+        {
+            "token": "alt3",
+            "name": "Cute Dress Rhythm (Proto Alt)",
+            "summons": 150,
+            "colour": "flame",
+            "generate_shadows": 1
+        },
+        {
+            "token": "alt4",
+            "name": "Mobile Suit Rhythm",
+            "summons": 200,
+            "colour": "nature",
+            "generate_shadows": 1
+        },
+        {
+            "token": "alt5",
+            "name": "Mobile Suit Rhythm (Proto Alt)",
+            "summons": 250,
+            "colour": "flame",
+            "generate_shadows": 1
+        }
+    ],
+    "robot_core": "",
+    "robot_core2": "",
+    "robot_description": "Genius Hacker Robot",
+    "robot_description2": "Rhythm is a digital support robot coded by Dr. Cossack and integrated directly into the data of the prototype. Rhythm's initial function was to act as a kind of debug tool for the two doctors during the prototype's development, tweaking values and swapping parameters as needed, but recent events have forced Cossack to use her data to take on a direct combat role instead. As a genius hacker, Rhythm excels in abilities that modify the system from the inside to alter the conditions of battle in strange and unusual ways. Rhythm's a child prodigy, keeping a somewhat whimsical and carefree attitude interspersed with a love for complex equations and a massive intellect to match. Due to a lack of social interaction beforehand, Rhythm lacks a proper relationship with both Proto Man or any of the other Cossack numbers, but continues to support them regardless for the sake of Dr. Cossack's well-being. She does secretly envy Roll and Disco though, as they get to wear the pretty casual clothes while she's stuck with a boring old combat uniform! With abilities that allow her to swap robot stats at will, Rhythm's a complete game-breaker for the world of Prototype; of course, only a child would lack the fairness to not cheat their way towards winning a game!",
+    "robot_energy": 140,
+    "robot_weapons": 15,
+    "robot_attack": 85,
+    "robot_defense": 75,
+    "robot_speed": 100,
+    "robot_weaknesses": [
+        "laser",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "space"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        },
+        {
+            "level": 22,
+            "token": "rhythm-buster"
+        },
+        {
+            "level": 24,
+            "token": "energy-swap"
+        },
+        {
+            "level": 26,
+            "token": "attack-swap"
+        },
+        {
+            "level": 28,
+            "token": "defense-swap"
+        },
+        {
+            "level": 30,
+            "token": "speed-swap"
+        },
+        {
+            "level": 32,
+            "token": "rhythm-satellite"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "rhythm-buster",
+        "rhythm-satellite",
+        "attack-support",
+        "defense-support",
+        "speed-support",
+        "energy-support",
+        "attack-assault",
+        "defense-assault",
+        "speed-assault",
+        "energy-assault",
+        "attack-shuffle",
+        "defense-shuffle",
+        "speed-shuffle",
+        "energy-shuffle",
+        "repair-mode",
+        "experience-booster",
+        "recovery-booster",
+        "damage-booster",
+        "experience-breaker",
+        "recovery-breaker",
+        "damage-breaker",
+        "proto-buster",
+        "roll-buster",
+        "disco-buster",
+        "item-swap"
+    ],
+    "robot_quotes_start": "Alright {this_player}, let's do this!",
+    "robot_quotes_taunt": "I've run the numbers, and we win every time!",
+    "robot_quotes_victory": "Yes! My calculations were right on!",
+    "robot_quotes_defeat": "What? How is this even possible?!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

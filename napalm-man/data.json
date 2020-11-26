@@ -1,0 +1,80 @@
+{
+    "robot_token": "napalm-man",
+    "robot_number": "DWN-039",
+    "robot_name": "Napalm Man",
+    "robot_game": "MM5",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "napalm-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Napalm Man (Orange Alt)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Napalm Man (Green Alt)",
+            "summons": 200,
+            "colour": "none"
+        },
+        {
+            "token": "alt3",
+            "name": "Napalm Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "water"
+        },
+        {
+            "token": "alt9",
+            "name": "Napalm Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Walking Arsenal Robot",
+    "robot_description2": "Napalm Man is a true Swiss Army Knife of weaponry! Dr. Wily built the walking tank to protect his secret weapons factory, which fostered a great passion for artillery in the Robot Master. His armament of choice is the Napalm Bomb, a small peanut shaped capsule that bounces around daintily\u2026 until it erupts into a violent explosion of sticky napalm! His intimidating appearance scares most away, but in truth, Napalm Man is no warmonger. He is fiercely loyal and personable to those he gets close to and his love for weaponry comes across more like a nerdy hobby than a blood-- er, oil lust. No, Napalm loves weaponry and identifies it as a true art form, preserving that he deems beautiful. Maybe that\u2019s why he once blew up his own weapons museum; art is fleeting!",
+    "robot_energy": 102,
+    "robot_weapons": 10,
+    "robot_attack": 126,
+    "robot_defense": 74,
+    "robot_speed": 98,
+    "robot_weaknesses": [
+        "crystal",
+        "flame"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "explode"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "napalm-bomb"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "napalm-bomb"
+    ],
+    "robot_quotes_start": "I love the smell of me in the morning!",
+    "robot_quotes_taunt": "Your weapon will look great in my collection!",
+    "robot_quotes_victory": "Explosions are music to my audio receptors!",
+    "robot_quotes_defeat": "That was a good strategy...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

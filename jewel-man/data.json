@@ -1,0 +1,86 @@
+{
+    "robot_token": "jewel-man",
+    "robot_number": "DLN-069",
+    "robot_name": "Jewel Man",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "reflection-chamber",
+    "robot_support": "nitron-r",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "jewel-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Jewel Man (Emerald Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Jewel Man (Sapphire Alt)",
+            "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt3",
+            "name": "Jewel Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "freeze"
+        },
+        {
+            "token": "alt9",
+            "name": "Jewel Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "crystal",
+    "robot_core2": "",
+    "robot_description": "Shining Diamond Robot",
+    "robot_description2": "Another addition to the Ambition Revival line, Jewel Man had been put to work in a diamond mine, cutting and polishing minerals to be high-class jewelry. Although he isn't quite an offensive fighter, nor would he ever want to be, his Jewel Barrier manages to keep any opponents or attacks out of his range. That's right, he's using priceless diamonds to defend himself from attacks! Jewel Man's eye is never fixated too long on the battle though, as his eyes are naturally more attentive to the finer things in life. True to his name, Jewel Man is obsessed with bejeweled trinkets and ornaments. No, really, it's actually a genuine problem. Jewel Man ended up snatching Dr. Light's credit card and expending cash towards particularly priceless pieces of jewelry, causing the Light family to hold their first ever family intervention. It'd be nicely saccharine to pretend that Jewel Man has now sworn off his jewel temptations, but in reality all it means is that he's just more discreet in his money-mooching attempts... Anyways, back on topic, Jewel Man's able to be fortified in battle with the simple snap of his fingers. However, if one were to apply enough pressure, it's possible to get Jewel Man to crack!",
+    "robot_energy": 102,
+    "robot_weapons": 10,
+    "robot_attack": 85,
+    "robot_defense": 132,
+    "robot_speed": 81,
+    "robot_weaknesses": [
+        "space",
+        "swift"
+    ],
+    "robot_resistances": [
+        "shadow",
+        "electric",
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "jewel-polish"
+        },
+        {
+            "level": 2,
+            "token": "jewel-satellite"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "jewel-satellite"
+    ],
+    "robot_quotes_start": "Fight? Why dull my glorious jewels battling you?",
+    "robot_quotes_taunt": "{target_robot}, you're so... droll. Don't you know diamonds are forever?",
+    "robot_quotes_victory": "If you've got no shine, you've really got no business fighting...",
+    "robot_quotes_defeat": "Eee! My jewels! Broken! This is the worst thing EVER!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

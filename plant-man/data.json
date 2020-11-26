@@ -1,0 +1,76 @@
+{
+    "robot_token": "plant-man",
+    "robot_number": "MXN-045",
+    "robot_name": "Plant Man",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "spinning-greenhouse",
+    "robot_support": "spin-fiend",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "plant-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Plant Man (Aroma Alt)",
+            "summons": 100,
+            "colour": "weapons"
+        },
+        {
+            "token": "alt2",
+            "name": "Plant Man (Swamp Alt)",
+            "summons": 200,
+            "colour": "wind"
+        },
+        {
+            "token": "alt9",
+            "name": "Plant Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "nature",
+    "robot_core2": "",
+    "robot_description": "Flora Analysis Robot",
+    "robot_description2": "Built by Pedro Astil, Plant Man was originally created to run a sulfuric acid producing chemical plant in Brazil. If you actually believed that, you clearly haven\u2019t seen Plant Man, who was inspired by the rafflesia flower. The rafflesia doesn\u2019t even grow in South America, but maybe it\u2019s a good thing Plant Man\u2019s design isn\u2019t totally authentic; who would want a Robot Master that smells like rotten meat?! Instead, Plant Man smells as wonderful as the endangered flowers he was built to maintain in Brazil\u2019s botanical gardens. His noble profession and extravagant design engraved Plant Man as a cultural icon of Brazil, and thus won him the Brazilian nomination for the First Annual Robot Master Tournament. Plant Man didn\u2019t have the heart to decline it, but his reluctant acceptance didn\u2019t change the fact he had no weapons to use. In response, Astil equipped Plant Man with the Plant Barrier, an orbiting satellite of petal decorated drones that Plant Man can summon and launch at will. Maybe Plant Man was right to fear this tournament, as he was reprogrammed by Mr. X in a plot to take over the world. After Mega Man defeated and freed the robots of the tournament, Plant Man returned to his gardens, continuing to care for rare and exotic flowers. It's sad, really. Such a talented Robot Master lacks the confidence to pursue any ventures beyond caring for his plants. At least he takes pride in that.",
+    "robot_energy": 99,
+    "robot_weapons": 10,
+    "robot_attack": 77,
+    "robot_defense": 118,
+    "robot_speed": 106,
+    "robot_weaknesses": [
+        "freeze",
+        "flame"
+    ],
+    "robot_resistances": [
+        "nature"
+    ],
+    "robot_affinities": [
+        "water"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "plant-barrier"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "plant-barrier"
+    ],
+    "robot_quotes_start": "Nature... So beautiful, isn't it? It'll be tough to stay focused...",
+    "robot_quotes_taunt": "Wake up and smell the roses! See the beauty of this world!",
+    "robot_quotes_victory": "Splendid! These violent delights have such violent ends!",
+    "robot_quotes_defeat": "Ah, I feel so dry, so wilted! I need water!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,69 @@
+{
+    "robot_token": "beak",
+    "robot_number": "BEAK-001",
+    "robot_name": "Beak",
+    "robot_game": "MM1",
+    "robot_field": "final-destination",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "beak",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Beak (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Beak (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "laser",
+    "robot_core2": "",
+    "robot_description": "Motion Sensing Mecha",
+    "robot_description2": "The Beak series is an automated turret gun, so named for their beak-like ceratanium cladding. They are often employed to guard military installations and munitions depots.",
+    "robot_energy": 40,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 80,
+    "robot_speed": 30,
+    "robot_weaknesses": [
+        "explode",
+        "impact"
+    ],
+    "robot_resistances": [
+        "water",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "laser"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "beak-shot"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "beak-shot"
+    ],
+    "robot_quotes_start": "Burabura!",
+    "robot_quotes_taunt": "Bu-bu-bu-buuuuura!",
+    "robot_quotes_victory": "Bura! Bura! Burabura!",
+    "robot_quotes_defeat": "Bu\u2026 ra!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

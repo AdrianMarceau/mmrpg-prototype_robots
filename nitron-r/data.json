@@ -1,0 +1,55 @@
+{
+    "robot_token": "nitron-r",
+    "robot_number": "NTRN-001",
+    "robot_name": "Nitron R",
+    "robot_game": "MM3",
+    "robot_field": "reflection-chamber",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "nitron-r",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "brashbuster",
+    "robot_image_alts": [],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Flaming Geysers Mecha",
+    "robot_description2": "The Nitron series is a military robot used to bombard targets into submission from low altitudes. While most Nitrons use a potent mixture of nitroglycerin (hence their name), rumor has it that Dr. Wily has installed cryogenic mines and electrostatic generators on his units.",
+    "robot_energy": 100,
+    "robot_weapons": 5,
+    "robot_attack": 100,
+    "robot_defense": 100,
+    "robot_speed": 100,
+    "robot_weaknesses": [
+        "freeze",
+        "electric"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "flame"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "nitron-fire"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "nitron-fire"
+    ],
+    "robot_quotes_start": "!",
+    "robot_quotes_taunt": "?",
+    "robot_quotes_victory": "Ni!",
+    "robot_quotes_defeat": "Ro?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

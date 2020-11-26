@@ -1,0 +1,57 @@
+{
+    "robot_token": "turbo-man",
+    "robot_number": "DWN-056",
+    "robot_name": "Turbo Man",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "turbo-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "milansaponja",
+    "robot_image_alts": [],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Transforming Auto Robot",
+    "robot_description2": "People often form strong bonds with their first cars, and Dr. Wily was no different. Wily preserved the beloved vehicle of his youth for decades, making sure to take it for a spin in between world domination schemes. However, when Wily was setting up one of his more masterful plots and needed to throw everything he could at the Blue Bomber, he decided his first mechanical love would make a fitting challenger. Thus, Turbo Man was born, and then promptly beaten by Mega Man; so much for sentimentality. Well, even if he isn\u2019t one of Wily\u2019s strongest Robot Masters, he is one of the fastest. Turbo Man can keep up with and even outpace Quick Man, given he has enough gasoline. Wily managed to optimize Turbo Man\u2019s engine for near immediate acceleration, but this performance is taxing on Turbo Man when used for a prolonged period. Anything more than a quick burst of speed will heat Turbo Man\u2019s engine to the point of catching fire, which he actually uses to his advantage in combat! Besides just ramming into foes, Turbo Man\u2019s weapon of choice is the Scorch Wheel, a flaming wheel of fire that burns the things it touches, generated from his internal body temperature. Considering how recklessly Turbo Man fights, it\u2019s curious he doesn\u2019t catch his own fuel on fire, but this might be because Turbo Man is also equipped to work off electricity. Dr. Wily scrapped the complete transition of Turbo Man\u2019s power source last minute, so rather than using his affinity for electricity to power his attacks or prolong his performance, Turbo Man connected it directly to his stereo. How else is he supposed to blast his victory theme when he wins the Battle and Chase competition for the umpteenth time?",
+    "robot_energy": 94,
+    "robot_weapons": 10,
+    "robot_attack": 122,
+    "robot_defense": 63,
+    "robot_speed": 121,
+    "robot_weaknesses": [
+        "shadow",
+        "earth"
+    ],
+    "robot_resistances": [
+        "swift"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "electric"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "scorch-wheel"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "scorch-wheel"
+    ],
+    "robot_quotes_start": "Impressed with my engine? Yeah, it's entirely custom, baby!",
+    "robot_quotes_taunt": "Hey, hey, look out for me in the Battle and Chase, okay?",
+    "robot_quotes_victory": "I'm just a hunk of burning wheels, you speed bump!",
+    "robot_quotes_defeat": "Man, I've gotta phone Repair Man real quick...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,76 @@
+{
+    "robot_token": "blizzard-man",
+    "robot_number": "MXN-041",
+    "robot_name": "Blizzard Man",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "arctic-jungle",
+    "robot_support": "peng",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "blizzard-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Blizzard Man (Spring Alt)",
+            "summons": 100,
+            "colour": "laser"
+        },
+        {
+            "token": "alt2",
+            "name": "Blizzard Man (Summer Alt)",
+            "summons": 200,
+            "colour": "electric"
+        },
+        {
+            "token": "alt9",
+            "name": "Blizzard Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "freeze",
+    "robot_core2": "",
+    "robot_description": "Skiing Snowball Robot",
+    "robot_description2": "Blizzard Man was originally built by Canadian engineers to monitor weather patterns in Marie Byrd Land. Unsurprisingly, being surrounded by nothing but ice and snow can get pretty boring, and soon Blizzard Man longed for greener pastures, both metaphorically and literally. Using his Antarctic exploration skills, Blizzard Man tried competitive skiing, which he quickly found success in. This Canuck has gotten three golden metals in the Robot Olympics for skiing\u2026 in a row! He discovered a true passion for all aspects of competitive events, including sportscasting various winter sports and helping to set up the snowy slopes in warmer climates. Blizzard Man does so by using the artificial snow maker he received in exchange for his meteorological equipment, which incidentally allows him to create the deadly Blizzard Attack, a flurry of sharp ice crystals he can fire at his opponents. It is this move that got Blizzard Man entered as a contestant in the First Annual Robot Master Tournament in the first place, as he was originally attending to commentate! After a quick failed stint being reprogrammed and helping Dr. Wi- er, Mr. X, take over the world, Blizzard Man settled down as a weather forecaster, combining his meteorological work and his commentating abilities. Don\u2019t count Blizzard Man out yet though; dashing through snow and enemies alike, Blizzard Man is sure to outcompete his opponents on the battlefield.",
+    "robot_energy": 108,
+    "robot_weapons": 10,
+    "robot_attack": 81,
+    "robot_defense": 90,
+    "robot_speed": 121,
+    "robot_weaknesses": [
+        "flame",
+        "explode"
+    ],
+    "robot_resistances": [
+        "impact"
+    ],
+    "robot_affinities": [
+        "freeze"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "blizzard-attack"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "blizzard-attack"
+    ],
+    "robot_quotes_start": "Say {target_robot}, you're a regular old gaper, eh?",
+    "robot_quotes_taunt": "You know, you're up against a three-time gold medal skier -- consecutively, of course!",
+    "robot_quotes_victory": "O, Canada! Our home and native land!",
+    "robot_quotes_defeat": "... I much prefer skiing to fighting, thank you very much.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

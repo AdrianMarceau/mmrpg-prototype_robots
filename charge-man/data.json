@@ -1,0 +1,75 @@
+{
+    "robot_token": "charge-man",
+    "robot_number": "DWN-038",
+    "robot_name": "Charge Man",
+    "robot_game": "MM5",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "charge-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "metalman",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Charge Man (Blue Alt)",
+            "summons": 100,
+            "colour": "space"
+        },
+        {
+            "token": "alt2",
+            "name": "Charge Man (Green Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Charge Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Chugging Locomotive Robot",
+    "robot_description2": "Arriving right on time on the battlefield is Charge Man, a Robot Master created by Dr. Wily to resemble a train. Well, maybe calling it a resemblance sells Charge Man short: he also functions like a steam locomotive, requiring coal and water to run. While this archaic energy system is hard to maintain, the energy production is incredible, allowing Charge Man to ram into foes with all the force of a derailed train. For enemies that call for ranged attacks, Charge Man can simply shoot out the very flaming coal that powers him. That stuff burns hot, so getting hit by it will hurt a lot! The Charge Kick is usually all he needs though, because if he gets enough momentum going, nothing is stopping him from running you down. This one-track battle tactic and his nostalgic design aren\u2019t the only things old fashioned about him. Hard working and honest, yet stubborn and neophobic, Charge Man is a real old chunk of coal. He\u2019ll bemoan the loss of the \u201cgood ol\u2019 days\u201d and how much simpler things were, even though the artificial intelligence that gives him life is a distinctly 20XX advancement. Funny he\u2019s brothers with the Gravity Distortion and Space Exploration Robot Masters then. At least he gets along with Gyro Man, the two of them both taking pride in their respective antiquated technologies. Just don\u2019t ask who\u2019s faster; their feud will last for days.",
+    "robot_energy": 107,
+    "robot_weapons": 10,
+    "robot_attack": 101,
+    "robot_defense": 116,
+    "robot_speed": 76,
+    "robot_weaknesses": [
+        "earth",
+        "water"
+    ],
+    "robot_resistances": [
+        "flame",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "charge-kick"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "charge-kick"
+    ],
+    "robot_quotes_start": "All aboard!",
+    "robot_quotes_taunt": "I think I can, I think I can...",
+    "robot_quotes_victory": "The pain train is pulling into the station!",
+    "robot_quotes_defeat": "Golly, the youth these days, derailing everything...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

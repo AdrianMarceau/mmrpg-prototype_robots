@@ -1,0 +1,55 @@
+{
+    "robot_token": "hyper-storm-h",
+    "robot_number": "WWN-003",
+    "robot_name": "Hyper Storm H",
+    "robot_game": "MMWW",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Bulky Boar Unit",
+    "robot_description2": "After a few failed attempts at conquering the world, Wily constructed the magnificent Wily Tower, and he put the Genesis Unit as his main line of defense. Hyper Storm H was built to be the most durable of the three, taking powerful attacks like they're absolutely nothing. His external armor is incredibly thick, and he uses his mass as his main weapon, crushing opponents from below. He also has large in-built fans, allowing his body to be propelled as well as blow any nearby opponents away. He's generally a laid-back robot, and stays out of Buster Rod G's and Mega Water S's conflicts. He's also incredibly gullible and will fall for anything you tell him, making him naive as well. He's also one of Dr. Wily's largest robots, and has a large amount of endurance compared to the average robot. Unfortunately, his extra size causes him to overheat easily, leaving him susceptible to extra attacks. As another member to the Genesis Unit, he's proved to be quite the robot, and would be a tough fighter to face in battle. The Genesis Unit is just filled with tough robots!",
+    "robot_energy": 115,
+    "robot_weapons": 20,
+    "robot_attack": 145,
+    "robot_defense": 185,
+    "robot_speed": 155,
+    "robot_weaknesses": [
+        "swift",
+        "explode"
+    ],
+    "robot_resistances": [
+        "impact"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "hyper-storm"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "hyper-storm"
+    ],
+    "robot_quotes_start": "Fighting's not my thing, but if I've gotta pull my weight....",
+    "robot_quotes_taunt": "Some bacon would be amazing right now... What?",
+    "robot_quotes_victory": "Next time, let your friends handle the fighting. That's what I do!",
+    "robot_quotes_defeat": "Augh! You've went and conned me!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

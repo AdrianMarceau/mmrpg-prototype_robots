@@ -1,0 +1,73 @@
+{
+    "robot_token": "fuse-man",
+    "robot_number": "DWN-082",
+    "robot_name": "Fuse Man",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "lighting-control",
+    "robot_support": "bulb-blaster",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "fuse-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Fuse Man (Magenta Alt)",
+            "summons": 100,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt2",
+            "name": "Fuse Man (Emerald Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Fuse Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "High Voltage Robot",
+    "robot_description2": "Manufactured by O.D.A Electronics as their equivalent to Elec Man, Fuse Man works overseeing and managing the electrical equipment at a power plant much like his Light counterpart. Don't let that fool you; it'd be erroneous to classify him as a mere Elec Man rip-off, as while Elec Man actively manipulates the flow of electricity, Fuse Man travels alongside it to efficiently fine tune any power transformers. As one may imagine, this makes Fuse Man unbelievably fast, rivaling the speed of a lightning bolt as his body condenses beyond mere matter to become pure energy! And, if his speed doesn't do the trick, his \"Scramble Thunder\" releases mild bolts of electricity to cover even further ground. While this method is certainly admirable, it is not without its flaws; channeling currents excessively or improperly will cause him to short circuit, and thus his fuses will preemptively blow to avoid a potential critical overload. As such, Fuse Man can never afford to be capricious, as his sense of responsibility will dictate either a city's pleasantly leisure or its catastrophic blackout. Of course, being on edge 24\/7 is exceedingly stressful even for tireless robots, so he comes up with silly puns to discharge any anxiety. Yet, he's always fully charged mentally after he's gotten to tend to his dear pet rabbit, \"Watt.\" You'd think that something like an electrical eel would fit his tastes more thematically, but chances are his rabbit probably just makes him feel more comfortable about his over-the-top headgear....",
+    "robot_energy": 91,
+    "robot_weapons": 10,
+    "robot_attack": 93,
+    "robot_defense": 72,
+    "robot_speed": 144,
+    "robot_weaknesses": [
+        "swift",
+        "nature"
+    ],
+    "robot_resistances": [
+        "electric",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "scramble-thunder"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "I couldn't refuse this challenge even if I wanted to... Prepare to diode!",
+    "robot_quotes_taunt": "Fine, let's amp this up! High voltage!",
+    "robot_quotes_victory": "Sigh, I'll never get a break... but that's why I'm lightning-efficient!",
+    "robot_quotes_defeat": "Gah, m-my electrons are scrambled... S-Short circuit!!!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

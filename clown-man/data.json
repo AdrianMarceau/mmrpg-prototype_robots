@@ -1,0 +1,56 @@
+{
+    "robot_token": "clown-man",
+    "robot_number": "DWN-060",
+    "robot_name": "Clown Man",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "clown-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Electrifying Entertainer Robot",
+    "robot_description2": "During his eighth plot of taking over the world, Wily stole an entertainment robot from an amusement park, and adapted it for combat using his newly found Evil Energy, becoming Clown Man. Dr. Wily had apparently meant for Clown Man to be much larger, as many of the spare parts went towards Frost Man. His already long arms and trapeze skills were enhanced with electrical properties, which Clown Man calls the Thunder Claw. He's able to send his arms out and swing himself along any outwards stretching object while creating an electrical field around him, damaging any who come hear them. Clown Man also can perform the Thunder Carnival, which is when Clown Man rolls in a ball around the room while sending off sparks of electricity. Due to his years of being laughed at while working at the amusement park, Clown Man has become insecure, going through bouts of happiness, sadness, and anger. Although normally a fair sport in combat, he'll take the time to insult you if you're doing poorly, his favorite seeming to be \u201cgeeky\u201d. Laugh at Clown Man all you want, but if he sees you in his dreams, what do you see in your nightmares? Clowns are spooky!",
+    "robot_energy": 97,
+    "robot_weapons": 10,
+    "robot_attack": 104,
+    "robot_defense": 68,
+    "robot_speed": 131,
+    "robot_weaknesses": [
+        "wind",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "electric",
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "thunder-claw"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "thunder-claw"
+    ],
+    "robot_quotes_start": "Don\u2019t expect any funny business! I\u2019m serious!",
+    "robot_quotes_taunt": "Wimp, my Thunder Carnival act is no laughing matter!",
+    "robot_quotes_victory": "Geeky, your performance was hilarious! Hilariously bad!",
+    "robot_quotes_defeat": "Ouch! See you in my dreams!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

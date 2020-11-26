@@ -1,0 +1,81 @@
+{
+    "robot_token": "magic-man",
+    "robot_number": "KGN-006",
+    "robot_name": "Magic Man",
+    "robot_game": "RnF",
+    "robot_field": "",
+    "robot_field2": "septic-system",
+    "robot_support": "ribbitron",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "magic-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "sovietcommando",
+    "robot_image_editor2": "rhythmbca",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Magic Man (Reverse Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Magic Man (Executable Alt)",
+            "summons": 200,
+            "colour": "freeze"
+        },
+        {
+            "token": "alt3",
+            "name": "Magic Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "time"
+        },
+        {
+            "token": "alt9",
+            "name": "Magic Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "shadow",
+    "robot_core2": "",
+    "robot_description": "Showy Illusionist Robot",
+    "robot_description2": "Known as the robot of illusions, Magic Man was built purely for entertainment purposes, hence the magician theme. In fact, he was even quite popular! However, after a while, Magic Man got sick of the same old acts and decided the best way to spruce up his life was to employ in King's army, calling it a new source of entertainment. At first, King was doubtful in employing Magic Man, but after he saw the \"Magic Card\", a weapon that could sap energy from the target to boost Magic Man's power, King gave him a high position in his corps. Magic Man also uses quite a bit of illusions to confuse his opponents, another factor that led to his high position. Magic Man happens to love the sound of applause, being a bit of an attention-seeker, and he employs the \"Magician never tells his secrets\" philosophy well, although this had led to him being a bit of a shady robot. He also has incredibly bad timing, even when he spends long periods of time perfecting a trick. He's also good friends with Crystal Man. It's hard to tell when Magic Man is throwing either tricks or the real deal, but pay attention and show him the trick you have up your sleeve!",
+    "robot_energy": 96,
+    "robot_weapons": 10,
+    "robot_attack": 109,
+    "robot_defense": 88,
+    "robot_speed": 107,
+    "robot_weaknesses": [
+        "cutter",
+        "flame"
+    ],
+    "robot_resistances": [
+        "shadow",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "magic-card"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "magic-card"
+    ],
+    "robot_quotes_start": "Ladies and gentle-bots, prepare to be amazed!",
+    "robot_quotes_taunt": "As you can see, I've got nothing up my sleeves...",
+    "robot_quotes_victory": "A good magician never reveals his secrets!",
+    "robot_quotes_defeat": "I knew I should have practiced more!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

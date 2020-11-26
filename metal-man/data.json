@@ -1,0 +1,83 @@
+{
+    "robot_token": "metal-man",
+    "robot_number": "DWN-009",
+    "robot_name": "Metal Man",
+    "robot_game": "MM2",
+    "robot_field": "industrial-facility",
+    "robot_field2": "",
+    "robot_support": "pierrobot",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "metal-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "metalman",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Metal Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Metal Man (Green Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Metal Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "missile"
+        },
+        {
+            "token": "alt9",
+            "name": "Metal Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Lethal Blades Robot",
+    "robot_description2": "Dr. Wily's first full-fledged attempt on individually making his own Robot Master, Metal Man owes his design from the schematics of Cut Man. However, their similarities end there; Metal Man's Metal Blades are much more deadly than anything Cut Man's made, being razor-sharp discs that can be thrown for pinpoint accuracy. He's fond of using the environment to his advantage in order to overwhelm his opponents, switching between conveyor belt to conveyor belt before unleashing a barrage of Metal Blades. Metal Man's an efficient and determined worker, but fellow coworkers often have issues working with him due to his dry wit and untrustworthy tone. On his free time, he enjoys playing with flying discs in the park, for reasons that certainly shouldn't need any explanation. Although he may not display his emotions about it, Metal Man also gets incredibly flustered whenever someone mockingly calls him a dentist. Metal Man's an incredibly fierce opponent with a killer weapon, but it appears that his own armor isn't all that durable. Chances are it probably couldn't even endure his own Metal Blades!",
+    "robot_energy": 103,
+    "robot_weapons": 10,
+    "robot_attack": 114,
+    "robot_defense": 72,
+    "robot_speed": 111,
+    "robot_weaknesses": [
+        "swift",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "wind",
+        "nature"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "metal-blade"
+        },
+        {
+            "level": 2,
+            "token": "metal-press"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Are you expecting some formal intro? I'll slice you in two!",
+    "robot_quotes_taunt": "Here, try and catch this next attack! Ghee hee hee...",
+    "robot_quotes_victory": "That's unsatisfying, but expected; no one can withstand my Metal Blades!",
+    "robot_quotes_defeat": "No... I shouldn't be the one who's torn up!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,97 @@
+{
+    "robot_token": "mega-man",
+    "robot_number": "DLN-001",
+    "robot_name": "Mega Man",
+    "robot_game": "MM1",
+    "robot_field": "light-laboratory",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "mega-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "copy",
+    "robot_core2": "",
+    "robot_description": "Super Fighting Robot",
+    "robot_description2": "Before the world of Robot Masters, before the world of mechanical conflict, Dr. Light and Dr. Wily were partners, pioneering the world of robotic technologies together. After a failed prototype, a single robot was created, who would serve to be the template for all robots afterward. This robot was named Rock, and was later followed by his sister Roll and the Robot Masters, a team of industrial humanoid robots designed to help humanity. However, Dr. Light\u2019s lab partner, Dr. Wily, was jealous of Light\u2019s critical acclaim and stole the Robot Masters, harming humanity instead of protecting it. When all hope seemed lost, Rock, with a strong sense of justice, volunteered to stop the rampaging robots himself and was upgraded to become Mega Man! With the Variable Weapons System, Mega Buster, and the hope of the world on his shoulders, he prevailed against Dr. Wily\u2019s malicious plans. However, Dr. Wily continued his work to make new plans and robots, even stealing other's work to benefit himself! However, each time has resulted in failure due to Mega Man\u2019s fight for justice. Mega Man hasn\u2019t done everything himself though. Drs. Light and Cossack have made various upgrades, including a slide, an explosive ball, and a charging blast ability, while also working on various other robots designed to help Mega Man\u2019s struggle, most notably his robodog Rush. He also gains support from mysterious allies, and from the various robotic denizens of the world. As long as Mega Man is in the fight, hope will never be lost!",
+    "robot_energy": 100,
+    "robot_weapons": 10,
+    "robot_attack": 100,
+    "robot_defense": 100,
+    "robot_speed": 100,
+    "robot_weaknesses": [
+        "electric",
+        "wind"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "shadow"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        },
+        {
+            "level": 2,
+            "token": "mega-buster"
+        },
+        {
+            "level": 6,
+            "token": "mega-ball"
+        },
+        {
+            "level": 12,
+            "token": "mega-slide"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "attack-support",
+        "defense-support",
+        "speed-support",
+        "energy-support",
+        "attack-assault",
+        "defense-assault",
+        "speed-assault",
+        "energy-assault",
+        "attack-shuffle",
+        "defense-shuffle",
+        "speed-shuffle",
+        "energy-shuffle",
+        "experience-booster",
+        "recovery-booster",
+        "damage-booster",
+        "experience-breaker",
+        "recovery-breaker",
+        "damage-breaker",
+        "bass-buster",
+        "proto-buster",
+        "roll-buster",
+        "disco-buster",
+        "rhythm-buster",
+        "bass-crush",
+        "bass-baroque",
+        "proto-shield",
+        "proto-strike",
+        "mega-buster",
+        "mega-ball",
+        "mega-slide",
+        "item-swap"
+    ],
+    "robot_quotes_start": "Stand down, {target_robot}! I don't want to fight you!",
+    "robot_quotes_taunt": "If you won't stand down, then... I'll have to stop you!",
+    "robot_quotes_victory": "Rock on! We make a great team, don't we, {this_player}?",
+    "robot_quotes_defeat": "I can't let you beat me! I have to get stronger...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

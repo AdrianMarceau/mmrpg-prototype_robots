@@ -1,0 +1,57 @@
+{
+    "robot_token": "flame-man",
+    "robot_number": "MXN-043",
+    "robot_name": "Flame Man",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "flame-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Refinery Control Robot",
+    "robot_description2": "Most Robot Masters in the year 20XX run off solar energy, thanks to how much control over the weather mankind had achieved. However, when making a robot master who works under the smoke-filled skies of an oil-fired power plant, it makes more sense to indulge in some of that fuel, doesn\u2019t it? This was the philosophy behind Flame Man, and the project achieved great success\u2026 ignoring the fact he needs to fill up three times a day. Flame Man doesn\u2019t seem to mind, having been influenced by this strict time limit to embrace punctuality and discipline. His self-maintenance is meticulous, always taking scrupulous care of his oil reserves and facial hair alike. Flame Man quickly proved himself to be an effective worker, and this dedication won him the Saudi Arabian nomination for the First Annual Robot Master Tournament. Flame Man can channel the intense heat of his power production to fire off small flames from his buster. This attack has minimal cost on his supply of oil, but in serious combat, Flame Man can exhaust it further by unleashing the deadly Flame Blast, a pillar of flame that can erupt from any surface. Flame Man demonstrated this arsenal to great effect\u2026 until being reprogrammed and forced to fight Mega Man. This dealt a major blow to his pride, and the only way he could gain back his confidence was to take even more painstaking care of his mustache. In the days directly following the tournament, he\u2019d do nothing but refine his mustache between oil refills!",
+    "robot_energy": 101,
+    "robot_weapons": 10,
+    "robot_attack": 81,
+    "robot_defense": 107,
+    "robot_speed": 111,
+    "robot_weaknesses": [
+        "wind",
+        "water"
+    ],
+    "robot_resistances": [
+        "earth"
+    ],
+    "robot_affinities": [
+        "flame"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "flame-blast"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "flame-blast"
+    ],
+    "robot_quotes_start": "Prepare, challenger, for the ferocious flames of the legendary {this_robot}!",
+    "robot_quotes_taunt": "My energy's faltering... high time for an oil change.",
+    "robot_quotes_victory": "There is no robot that is a better fighter, or has better facial hair, than {this_robot}!",
+    "robot_quotes_defeat": "That's the last time I ever buy this ruddy discounted oil!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

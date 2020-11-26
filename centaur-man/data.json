@@ -1,0 +1,57 @@
+{
+    "robot_token": "centaur-man",
+    "robot_number": "MXN-042",
+    "robot_name": "Centaur Man",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "centaur-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "time",
+    "robot_core2": "",
+    "robot_description": "Teleporting Half-Horse Robot",
+    "robot_description2": "Centaur Man, the first quadrupedal Robot Master, was originally created to be a tour guide for a museum in Greece. That might sound like overkill, but this museum held some of the most historically significant artifacts in all of Europe, so the imposing figure of the eight-foot Robot Master was deemed appropriate. If his stature wasn\u2019t enough to give troublemakers pause, Centaur Man could use the Centaur Flash, creating a dimensional distortion to stop his targets in their tracks. The technique causes no direct harm to its quarry, but its combat potential was obvious to Centaur Man, which is why he decided to enlist in the First Annual Robot Master Tournament, exercising his otherwise dormant competitive nature. He performed well by using carefully premeditated strategies, but ultimately fell to Mega Man. This skirmish revealed the insane power of the Centaur Flash to the rest of the world, so Centaur Man was pressured out of combat by the international robotics community. The dejected Robot Master had to seek other forms of competition, and ultimately settled on losing all his zenny in the casino. You\u2019d think someone as thoughtful as Centaur Man would choose a pastime more virtuous than gambling, or at the very least one he was better at. Alas, Centaur Man bombs at the poker and blackjack tables alike, his horns giving away any attempt at a poker face. At least he seems to have a good track record betting on the ponies.",
+    "robot_energy": 95,
+    "robot_weapons": 10,
+    "robot_attack": 77,
+    "robot_defense": 90,
+    "robot_speed": 138,
+    "robot_weaknesses": [
+        "impact",
+        "wind"
+    ],
+    "robot_resistances": [
+        "water"
+    ],
+    "robot_affinities": [
+        "time"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "centaur-flash"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "centaur-flash"
+    ],
+    "robot_quotes_start": "Say, I've placed my bets on winning... I'll split the cash if you give up now!",
+    "robot_quotes_taunt": "When it comes to my money, you bet I'm running on pure horsepower!",
+    "robot_quotes_victory": "My money! I've finally won it back! But... one more bet couldn't hurt, right?",
+    "robot_quotes_defeat": "It's all about the spur of the moment... why do I never learn?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

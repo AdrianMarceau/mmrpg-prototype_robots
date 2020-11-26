@@ -1,0 +1,80 @@
+{
+    "robot_token": "dynamo-man",
+    "robot_number": "KGN-001",
+    "robot_name": "Dynamo Man",
+    "robot_game": "RnF",
+    "robot_field": "",
+    "robot_field2": "power-plant",
+    "robot_support": "elec-n",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "dynamo-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Dynamo Man (Electric-B Alt)",
+            "summons": 100,
+            "colour": "defense"
+        },
+        {
+            "token": "alt2",
+            "name": "Dynamo Man (Purple-L Alt)",
+            "summons": 200,
+            "colour": "speed"
+        },
+        {
+            "token": "alt3",
+            "name": "Dynamo Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cutter"
+        },
+        {
+            "token": "alt9",
+            "name": "Dynamo Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Power-Plant Supervisor Robot",
+    "robot_description2": "Dynamo Man was originally made as a tour robot in a power plant for budding students on field trips, but he spent a small amount of time enlisted in King\u2019s militia. During his time with King, his electric storage was heavily modified due to the power generator that King added to Dynamo. However, the upgraded electric generation causes bugs in Dynamo Man\u2019s programming, giving him a more aggressive and unstable personality. Although this prevents him from being very sociable, his personality does assist him in combat, especially with the use of his Lightning Bolt. Lightning Bolt creates a surprisingly strong current through the air, electricity flowing between Dynamo Man\u2019s electrical field and the opposing robot, which should speak volumes for how strong Dynamo Man\u2019s electrical output is. He also has a custom designed recharging station, which can re-power him within seconds. If his banter about being alone doesn\u2019t warn you to retreat, the strong Lightning Bolt should get the message across.",
+    "robot_energy": 106,
+    "robot_weapons": 10,
+    "robot_attack": 107,
+    "robot_defense": 87,
+    "robot_speed": 100,
+    "robot_weaknesses": [
+        "space",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "wind"
+    ],
+    "robot_affinities": [
+        "electric"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "dynamo-bolt"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Get away from me before I shock you!",
+    "robot_quotes_taunt": "Go, go, shoo! It's really not safe to be around me!",
+    "robot_quotes_victory": "I told you that you should've run away! Like everyone else....",
+    "robot_quotes_defeat": "Is it time to recharge already?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

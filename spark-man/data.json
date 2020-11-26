@@ -1,0 +1,81 @@
+{
+    "robot_token": "spark-man",
+    "robot_number": "DWN-023",
+    "robot_name": "Spark Man",
+    "robot_game": "MM3",
+    "robot_field": "power-plant",
+    "robot_field2": "",
+    "robot_support": "elec-n",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "spark-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "elitep1",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Spark Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Spark Man (Yellow Alt)",
+            "summons": 200,
+            "colour": "electric"
+        },
+        {
+            "token": "alt3",
+            "name": "Spark Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "swift"
+        },
+        {
+            "token": "alt9",
+            "name": "Spark Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Double Spark-Plug Robot",
+    "robot_description2": "Spark Man is, in essence, the technical successor to Dr. Light's research on Elec Man, foregoing palm electrical control and an ergonomic build to produce twice the electrical output that his predecessor could. By all means, Spark Man would be an obvious improvement over Elec Man-- that is, save for one itsy-bitsy oversight Drs. Light and Wily failed to account for. Spark Man's way too scatterbrained to have the focus to produce that much energy! As a result, Spark Man's signature \"Spark Shot\" attack-- which was calculated to be more offensively viable than the Thunder Beam-- instead only completely paralyzes the target instead. Despite not living up to his electrical potential, Spark Man doesn't really seem to care; he is awfully scatter-brained after all! Rather than sparking a war, he's more suited towards finding sparks of friendship, willing to befriend any robot no matter their threat or intimidation level. And his favorite place to take his friends? The \"Seaside Town Aquarium\", home to a myriad of different forms of sea-life, with his obvious favorite being the electric eel. Naturally, Spark Man's pleas of saccharine friendship quickly gets on the nerves of his teammates, but it's a burden they often have to tough out; while those needles aren't offensively viable, they're great in patch-ups and repairs! However, Needle Man seems to be deathly afraid of being friends with Spark Man.... But that doesn't stop Spark Man!",
+    "robot_energy": 104,
+    "robot_weapons": 10,
+    "robot_attack": 86,
+    "robot_defense": 116,
+    "robot_speed": 94,
+    "robot_weaknesses": [
+        "shadow",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "water",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "spark-shock"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "spark-shock"
+    ],
+    "robot_quotes_start": "I feel a spark between us...let's be friends?",
+    "robot_quotes_taunt": "Don't do anything crazy, {target_robot}! We don't want to spark a war...",
+    "robot_quotes_victory": "Oh no, did I hurt you?  Guess I don't know my own power...",
+    "robot_quotes_defeat": "I'm shocked!  I thought we were friends...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

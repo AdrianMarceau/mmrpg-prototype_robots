@@ -1,0 +1,76 @@
+{
+    "robot_token": "wave-man",
+    "robot_number": "DWN-034",
+    "robot_name": "Wave Man",
+    "robot_game": "MM5",
+    "robot_field": "",
+    "robot_field2": "submerged-armory",
+    "robot_support": "manta-missile",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "wave-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "metalman",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Wave Man (Green Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Wave Man (Purple Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt9",
+            "name": "Wave Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "water",
+    "robot_core2": "",
+    "robot_description": "Amphibious Assault Robot",
+    "robot_description2": "Designed to be taken marginally more seriously than Bubble Man, Wave Man is the first Amphibious Combat Robot Master that lives up to the title. For starters, he can move effectively both on the land and in the water! Equipped with the Water Wave, Wave Man pumps water into the ground, causing geysers to erupt from random spots when the pressure reaches a breaking point. While good as a crowd control move, the attack lacks precision, so Wave Man is also equipped with a Harpoon cannon. However, even when used in tandem, this combination can\u2019t defend Wave Man from close-range combat. Working on the ocean floor, it is rare Wave Man would meet anything with consciousness, and his propensity for long range combat means he consciously avoids any form of contact. It\u2019s probably this lack of social interaction that\u2019s makes him so moody. Wave Man alternates between contemplative loneliness, miserable sorrow, and violent rages. These mood swings mostly happen at random, the only consistent trigger being pollution. Encountering aquatic contaminants, especially sludge, will throw Wave Man into a tantrum. Trying to use sludge against him probably isn\u2019t worth the risk, as it\u2019s easier to deal with a nervous Wave Man than an angry one.",
+    "robot_energy": 102,
+    "robot_weapons": 10,
+    "robot_attack": 123,
+    "robot_defense": 73,
+    "robot_speed": 102,
+    "robot_weaknesses": [
+        "swift",
+        "missile"
+    ],
+    "robot_resistances": [
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "water"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "water-wave"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "water-wave"
+    ],
+    "robot_quotes_start": "... Hey, who said you could come here? Go away!",
+    "robot_quotes_taunt": "Grr, mind your personal space already! I swear I'll harpoon you!",
+    "robot_quotes_victory": "At least now I can get some peace and quiet....",
+    "robot_quotes_defeat": "I just wanna be alone! Is that really too much to ask?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

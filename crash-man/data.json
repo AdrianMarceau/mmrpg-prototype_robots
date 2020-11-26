@@ -1,0 +1,83 @@
+{
+    "robot_token": "crash-man",
+    "robot_number": "DWN-013",
+    "robot_name": "Crash Man",
+    "robot_game": "MM2",
+    "robot_field": "pipe-station",
+    "robot_field2": "",
+    "robot_support": "killer-bullet",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "crash-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Crash Man (Green Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Crash Man (Purple Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt3",
+            "name": "Crash Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "swift"
+        },
+        {
+            "token": "alt9",
+            "name": "Crash Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Aggressive Artillery Robot",
+    "robot_description2": "Designed to crash and clash, Crash Man was created by Dr. Wily in an effort to combine both Guts Man and Bomb Man's best attributes into one agile robot. While at first glance he may appear rather clumsy, Crash Man's adept at causing large-scale damage with all sorts of explosives, his favorite being his very own Crash Bomber. To be quite frank, Crash Man's likely to destroy stuff even if he isn't asked to. That being said, he's an obedient robot who's willing to help out Dr. Wily whenever needed .... If he's in a good mood, that is. While a majority of the time Crash Man can be docile, he can easily be thrown into a trigger-happy rage where he can end up causing thousands in property damage. Because of this, Dr. Wily tends to keep Crash Man on a short leash within a controllable environment. With his temper and his Crash Bomber, however, Crash Man is an invaluable asset on the battlefield, if only because chances are there'll be nothing left on it once he's finished. Now if only he could figure out how to pick things up with his hands....",
+    "robot_energy": 95,
+    "robot_weapons": 10,
+    "robot_attack": 139,
+    "robot_defense": 67,
+    "robot_speed": 99,
+    "robot_weaknesses": [
+        "wind",
+        "shield"
+    ],
+    "robot_resistances": [
+        "explode",
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "crash-bomber"
+        },
+        {
+            "level": 2,
+            "token": "crash-avenger"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Crash and smash! I'll blow you all to smithereens!",
+    "robot_quotes_taunt": "I'll destroy everything with these hands of destruction!... or, uh, drills.",
+    "robot_quotes_victory": "Destruction, that's who I am! The world's, like, papier-m\u00e2ch\u00e9 to me!",
+    "robot_quotes_defeat": "Can't a guy just destroy everything in peace...?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

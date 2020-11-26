@@ -1,0 +1,80 @@
+{
+    "robot_token": "ring-man",
+    "robot_number": "DCN-029",
+    "robot_name": "Ring Man",
+    "robot_game": "MM4",
+    "robot_field": "space-simulator",
+    "robot_field2": "",
+    "robot_support": "ring-ring",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "ring-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "metalman",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Ring Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Ring Man (Green Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Ring Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "impact"
+        },
+        {
+            "token": "alt9",
+            "name": "Ring Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "space",
+    "robot_core2": "",
+    "robot_description": "Ring Juggling Robot",
+    "robot_description2": "The ultimatum of combat is to destroy the opponent beyond resistance, isn't it? That may be the case, but pacifistic as he is, Dr. Cossack designed the robot Ring Man to break combat traditions and constrain opponents instead, with the usage of his signature palliative rings. Don't let that fool you, though; that ring still packs a punch! Especially when Ring Man effortlessly hurdles the ring, just before surprising the opponent as his ring boomerangs right back to him! Surprise is essential to Ring Man's fighting style after all, as he's a strategist and tactician that takes any logical opportunity to catch an enemy by their backs. Unfortunately, as a result, he's somewhat smug in attitude and unwilling to show mercy, no matter how deserved, towards his defeated foes. He's a letter-of-the-law individual, which needs to be pointed out as Ring Man's a member of Interpol, facilitating international police efforts and working alongside local policemen and federal agents alike. When he's not busy kicking crime by the proverbial heinie, he's known to be quite affluent in quoits (for the uninitiated, a ring-tossed game), and, barring his adorable princess Kalinka Cossack, has a pungent dislike of kids, toddlers and teens. A combat robot meant to detain rather than fight, Ring Man's an awfully admirable guy. He'd probably make a great best man at a wedding, too!",
+    "robot_energy": 99,
+    "robot_weapons": 10,
+    "robot_attack": 114,
+    "robot_defense": 68,
+    "robot_speed": 119,
+    "robot_weaknesses": [
+        "flame",
+        "swift"
+    ],
+    "robot_resistances": [
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "ring-boomerang"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "ring-boomerang"
+    ],
+    "robot_quotes_start": "Expect no mercy, {target_robot}! I'm here to disable you!",
+    "robot_quotes_taunt": "I've waited a long time for this moment, {target_robot}!",
+    "robot_quotes_victory": "Success! I thank the stars for this victory!",
+    "robot_quotes_defeat": "Failure? I guess defeating you wasn't in the stars...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

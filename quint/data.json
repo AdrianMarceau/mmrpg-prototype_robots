@@ -1,0 +1,57 @@
+{
+    "robot_token": "quint",
+    "robot_number": "SVN-001",
+    "robot_name": "Quint",
+    "robot_game": "MMII",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "quint",
+    "robot_image_size": 80,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Future Megaman Hunter",
+    "robot_description2": "Quint was originally Mega Man from the future, reprogrammed and modified to destroy the Mega Man in the present. It's... a confusing story. See, Wily kidnapped the future Mega Man to be able to destroy the Mega Man who was plaguing him in the present, traveling in time with the help of a machine called the Time Skipper. As far as abilities go, Quint can do just about anything Mega Man can, Copy Chip and all, but his signature weapon is Sakugarne, a weapon from the future that can be best described as a cross between a Pogo stick and a jackhammer. As a contrast to the pleasant Rock everyone knows and loves, Quint is known for being sadistic and enjoys torturing any opponent he knows he can defeat. He also entertains himself with fortunetelling, and he hates timezone fatigue, although he never defines what he really means by \"timezone.\" He was made to scrap Mega Man, but if he succeeded, would he still exist? And what would happen to everyone else? Would the future change or would the present timeline branch off? This is a robot whose existence perhaps offers a few too many questions, so just ignore him for now!",
+    "robot_energy": 110,
+    "robot_weapons": 20,
+    "robot_attack": 119,
+    "robot_defense": 139,
+    "robot_speed": 132,
+    "robot_weaknesses": [
+        "impact",
+        "missile"
+    ],
+    "robot_resistances": [
+        "shadow"
+    ],
+    "robot_affinities": [
+        "time"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "sakugarne-hammer"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "sakugarne-hammer"
+    ],
+    "robot_quotes_start": "Destiny has taken us here! Your future ends now, {target_robot}!",
+    "robot_quotes_taunt": "Enough talk of timelines and paradoxes! Sakugarne, crush them!",
+    "robot_quotes_victory": "Once I believed in a just and kind world... how time changes us all.",
+    "robot_quotes_defeat": "I can't let you beat me! I refuse to be your shadow...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

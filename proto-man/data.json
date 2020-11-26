@@ -1,0 +1,97 @@
+{
+    "robot_token": "proto-man",
+    "robot_number": "DLN-000",
+    "robot_name": "Proto Man",
+    "robot_game": "MM3",
+    "robot_field": "cossack-citadel",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "proto-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "copy",
+    "robot_core2": "",
+    "robot_description": "Renegade Prototype Robot",
+    "robot_description2": "Once the origin point for every bit of mechanical life today, Proto Man's now taken the mantle of being a renegade that stops villainy in the shadows. Proto Man has the Proto Buster, his trusty Proto Shield, the Variable Weapons System, and his trump card that redirects power directly from his nuclear core, the Proto Strike. Unfortunately, that outdated core is also Proto Man's greatest flaw; it's completely destabilized and acts as a ticker to his own life, for once that core breaks down, so will Proto Man. Proto Man's a resilient robot who seems to take pride in his lone wolf status, and despite his disconnection to the Light family, retains a sense of brotherhood with Mega Man as he assists the Blue Bomber. Proto Man's overall history is admittedly tragic and arduous, as he fled from his father figure, Dr. Light, to avoid repairs to his core and thus hang on to his identity. He roamed the world with only solitude and an impending end as his companions, eventually being manipulated by Dr. Wily to work under the guise of \"Break Man\" to properly spite Dr. Light once and for all. However, once it became apparent what Dr. Wily's true ambition was, he quickly turned on the doctor and saved Mega Man's life, forever cementing that he was neither Dr. Light's mistake nor Dr. Wily's weapon, instead finding his identity as his own independent robot, the Red Renegade Proto Man! Since then, he's worked to preserve world peace, and due to rescuing Kalinka and a sense of respect for Dr. Cossack, has recently found himself welcomed into the Cossack home. Despite showing some age, Proto Man's a great fighter among robots\u2014-and he's a good whistler, too!",
+    "robot_energy": 95,
+    "robot_weapons": 10,
+    "robot_attack": 120,
+    "robot_defense": 85,
+    "robot_speed": 100,
+    "robot_weaknesses": [
+        "impact",
+        "explode"
+    ],
+    "robot_resistances": [
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        },
+        {
+            "level": 22,
+            "token": "proto-buster"
+        },
+        {
+            "level": 26,
+            "token": "proto-shield"
+        },
+        {
+            "level": 32,
+            "token": "proto-strike"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "attack-support",
+        "defense-support",
+        "speed-support",
+        "energy-support",
+        "attack-assault",
+        "defense-assault",
+        "speed-assault",
+        "energy-assault",
+        "attack-shuffle",
+        "defense-shuffle",
+        "speed-shuffle",
+        "energy-shuffle",
+        "experience-booster",
+        "recovery-booster",
+        "damage-booster",
+        "experience-breaker",
+        "recovery-breaker",
+        "damage-breaker",
+        "mega-buster",
+        "bass-buster",
+        "roll-buster",
+        "disco-buster",
+        "rhythm-buster",
+        "mega-ball",
+        "mega-slide",
+        "bass-crush",
+        "bass-baroque",
+        "proto-buster",
+        "proto-shield",
+        "proto-strike",
+        "item-swap"
+    ],
+    "robot_quotes_start": "I've stood by for long enough; this ends now.",
+    "robot_quotes_taunt": "I'm no hero, {target_robot}. Expect no mercy coming from me.",
+    "robot_quotes_victory": "If you want to blame something, blame your own fate... As I do.",
+    "robot_quotes_defeat": "Breaking apart in this Prototype... I suppose it's only poetic...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

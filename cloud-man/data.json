@@ -1,0 +1,55 @@
+{
+    "robot_token": "cloud-man",
+    "robot_number": "DWN-052",
+    "robot_name": "Cloud Man",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "cloud-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Hovering Cloud Robot",
+    "robot_description2": "Originally designed to be a weather control robot, Dr. Wily stole Cloud Man and repurposed him as a combat robot, planting him and three other Robot Masters in hiding as a backup plan should Wily ever be incarcerated. This roster of Robot Masters had varied responses to being stationed and forced to lie in wait, Cloud Man\u2019s being an almost complete loss of the work ethic he developed in his previous career. The formerly patient Cloud Man became a couch potato and was now only interested in casting harsh thunderstorms, abandoning the variety of weather patterns in his former arsenal. It\u2019s hard to argue with his preference for the raw power of lightning though! His Thunder Bolt attack can inflict some truly wicked damage, given it isn\u2019t redirected by nearby lightning rods. Cloud Man can also summon cloudbursts to halt his opponent\u2019s mobility. It\u2019s a wonder Cloud Man himself isn\u2019t impacted by his strong winds, considering he doesn\u2019t have any legs or feet to anchor him to the ground. Maybe it\u2019s appropriate Cloud Man is the only one capable of weathering these storms, considering his allies don\u2019t want to be around him anyways. Cloud Man makes an insufferable teammate, spending more time in battles pranking his allies or trying to find an easy way out rather than actually fighting. However, if the stars align and Cloud Man finds himself motivated to fight, get ready for a world of hurt.",
+    "robot_energy": 107,
+    "robot_weapons": 10,
+    "robot_attack": 90,
+    "robot_defense": 91,
+    "robot_speed": 112,
+    "robot_weaknesses": [
+        "explode",
+        "wind"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "earth"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "thunder-bolt"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "thunder-bolt"
+    ],
+    "robot_quotes_start": "{target_robot}.... Couldn't we fight tomorrow instead?",
+    "robot_quotes_taunt": "This weather's so boring! Where's the lightning?! The squalls?!",
+    "robot_quotes_victory": "Look at me, I'm on cloud nine! And a real cloud!",
+    "robot_quotes_defeat": "Mmmh... this floor's so comfy....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

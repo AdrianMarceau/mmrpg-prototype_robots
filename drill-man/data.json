@@ -1,0 +1,76 @@
+{
+    "robot_token": "drill-man",
+    "robot_number": "DCN-027",
+    "robot_name": "Drill Man",
+    "robot_game": "MM4",
+    "robot_field": "mineral-quarry",
+    "robot_field2": "",
+    "robot_support": "drill-mole",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "drill-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "milansaponja",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Drill Man (Green Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Drill Man (Blue Alt)",
+            "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt9",
+            "name": "Drill Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty",
+            "generate_shadows": 1
+        }
+    ],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Mineral Excavation Robot",
+    "robot_description2": "Drill Man isn't particularly a robot with much variance or creative liberty going on with his design; he's called Drill Man because all he has is three distinct drills! Chalk it up to Dr. Cossack for not being much with visual pizzazz, but chances are Drill Man doesn't mind either way! As one would expect from his namesake, Drill Man's profession lies in drilling through the most dense of minerals, a complete aficionado when it comes to barraging the ground to its basics! And when austere drilling doesn't get the job done, Drill Man cuts to the chase by simply blowing up the job to itty-bitty little smithereens, bypassing both nature and safety limitations! These methods mirror the traits of their master, as Drill Man is as haphazard as they come. Calculations and planning ahead are nothing more than affirmations for his surely-always-correct gut feeling, so why bother with all the honorifics when you can get the job done in record time? Yes, this has worked out for Drill Man multiple times in the past, as he was lauded for his keen and nimble work in finding a long-forgotten gold mine! But, on the other end of the spectrum, Drill Man's hasty work ended up sinking most of his company's equipment and buildings. Whoops.",
+    "robot_energy": 101,
+    "robot_weapons": 10,
+    "robot_attack": 105,
+    "robot_defense": 82,
+    "robot_speed": 112,
+    "robot_weaknesses": [
+        "missile",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "electric",
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "drill-blitz"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "drill-blitz"
+    ],
+    "robot_quotes_start": "Let's speed this along, I know the drill!",
+    "robot_quotes_taunt": "Fine, screw safety! I'm going no-holds barred!",
+    "robot_quotes_victory": "Aha, see that? Rush everything and nothing can ever go wrong!",
+    "robot_quotes_defeat": "I'm gonna need you to lend me a hand, 'cause I don't seem to have any...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

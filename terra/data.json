@@ -1,0 +1,57 @@
+{
+    "robot_token": "terra",
+    "robot_number": "SRN-001",
+    "robot_name": "Terra",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "laser",
+    "robot_core2": "electric",
+    "robot_description": "Homing Lasers Stardroid",
+    "robot_description2": "Terra's creator and their intentions are unknown, but he serves as the Stardroids' second-in-command, under his leader, Sunstar. Despite being number 2, he leads the Stardroids often and has been confused as their leader multiple times. When he's not being a galactic threat, he prefers to look his best with the finest shampoo in the galaxy, and he's been described as a hard-nosed individual. His weapon, the Spark Chaser, fires a single laser that locks onto a single target and flies at them multiple times, striking them over and over. Terra is especially notorious because, of every foe that Mega Man has ever fought, Terra is the only one to have ever defeated him (though Mega Man later claimed victory against him once he had been upgraded with the Mega Arm). Being able to defeat Mega Man is a task that nearly seemed impossible to our heroes, which made Terra one of the most notable threats known, accomplishing a goal even Dr. Wily couldn't do with his large amount of nefarious schemes throughout the years.",
+    "robot_energy": 120,
+    "robot_weapons": 20,
+    "robot_attack": 184,
+    "robot_defense": 208,
+    "robot_speed": 188,
+    "robot_weaknesses": [
+        "impact",
+        "earth"
+    ],
+    "robot_resistances": [
+        "electric"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "spark-chaser"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "spark-chaser"
+    ],
+    "robot_quotes_start": "I am Terra, and you will soon be my slave!",
+    "robot_quotes_taunt": "Earth robots are so droll; put up a good fight before you die!",
+    "robot_quotes_victory": "Why despair? We Stardroids will give your pitiful Earth a glorious rebirth!",
+    "robot_quotes_defeat": "Fool! How can I face my master now...?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

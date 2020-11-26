@@ -1,0 +1,67 @@
+{
+    "robot_token": "ribbitron",
+    "robot_number": "RBIT-001",
+    "robot_name": "Ribbitron",
+    "robot_game": "MM3",
+    "robot_field": "septic-system",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "ribbitron",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Ribbitron (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Ribbitron (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "impact",
+    "robot_core2": "",
+    "robot_description": "Jumping Frog Mecha",
+    "robot_description2": "Modeled after a frog, the Ribitron series is an upgrade of the earlier Flea series. Dr. Wily outfitted them with thicker armor to make them more resilient, sacrificing jump height in the process.",
+    "robot_energy": 25,
+    "robot_weapons": 5,
+    "robot_attack": 40,
+    "robot_defense": 30,
+    "robot_speed": 105,
+    "robot_weaknesses": [
+        "nature",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "water",
+        "impact"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "leap-frog"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "leap-frog"
+    ],
+    "robot_quotes_start": "Kero? Kero.",
+    "robot_quotes_taunt": "Mekakkero!",
+    "robot_quotes_victory": "Keeerrrroooo!",
+    "robot_quotes_defeat": "Me\u2026ka\u2026ka.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

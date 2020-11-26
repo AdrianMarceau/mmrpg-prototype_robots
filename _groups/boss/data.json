@@ -1,0 +1,88 @@
+{
+    "MMRPG": {
+        "group_class": "boss",
+        "group_token": "MMRPG",
+        "group_order": 0,
+        "group_child_tokens": [
+            "doc-robot",
+            "mega-man-ds",
+            "proto-man-ds",
+            "bass-ds"
+        ]
+    },
+    "MMRPG2": {
+        "group_class": "boss",
+        "group_token": "MMRPG2",
+        "group_order": 1,
+        "group_child_tokens": [
+            "enker",
+            "punk",
+            "ballade",
+            "quint",
+            "dark-man",
+            "dark-man-2",
+            "dark-man-3",
+            "dark-man-4"
+        ]
+    },
+    "MM085": {
+        "group_class": "boss",
+        "group_token": "MM085",
+        "group_order": 2,
+        "group_child_tokens": [
+            "king"
+        ]
+    },
+    "MM21": {
+        "group_class": "boss",
+        "group_token": "MM21",
+        "group_order": 3,
+        "group_child_tokens": [
+            "buster-rod-g",
+            "mega-water-s",
+            "hyper-storm-h"
+        ]
+    },
+    "MM30": {
+        "group_class": "boss",
+        "group_token": "MM30",
+        "group_order": 4,
+        "group_child_tokens": [
+            "terra",
+            "mercury",
+            "venus",
+            "mars",
+            "jupiter",
+            "saturn",
+            "uranus",
+            "pluto",
+            "neptune",
+            "sunstar"
+        ]
+    },
+    "MMEXE": {
+        "group_class": "boss",
+        "group_token": "MMEXE",
+        "group_order": 5,
+        "group_child_tokens": [
+            "trill",
+            "slur"
+        ]
+    },
+    "Hidden": {
+        "group_class": "boss",
+        "group_token": "Hidden",
+        "group_order": 6,
+        "group_child_tokens": [
+            "cache",
+            "planet-man",
+            "cosmo-man",
+            "trio",
+            "trio-2",
+            "trio-3",
+            "duo",
+            "duo-2",
+            "solo"
+        ]
+    }
+}

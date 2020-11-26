@@ -1,0 +1,87 @@
+{
+    "robot_token": "fire-man",
+    "robot_number": "DLN-007",
+    "robot_name": "Fire Man",
+    "robot_game": "MM1",
+    "robot_field": "steel-mill",
+    "robot_field2": "",
+    "robot_support": "tackle-fire",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "fire-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Fire Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Fire Man (Yellow Alt)",
+            "summons": 200,
+            "colour": "electric"
+        },
+        {
+            "token": "alt3",
+            "name": "Fire Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "swift"
+        },
+        {
+            "token": "alt9",
+            "name": "Fire Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Trash Incinerator Robot",
+    "robot_description2": "Due to foreseeable issues with rising waste production, Dr. Light wanted to deal with it in the most creative way he could. So, he went ahead and made Fire Man in order to burn it all until there was nothing left. Fire Man's Fire Storm ability can easily reach temperatures to over 7000 degrees, allowing him to focus in a stream of fire while using its excess energy to protect himself. He's even been able to hone in his fire production even further, creating the Fire Chaser technique. Fire Man's sense of justice is the most fiery thing about him though, strongly believing in what he calls the \"Flames of Justice\" and primarily why he created the Fire Chaser technique in the first place. Fire Man had a brief stint as a vigilante of the night, trying to round up villainy and stop it in its tracks, but this was short-lived as his flame would quickly give out where he was hiding in the middle of the night. In his off-time, he enjoys camping and relaxing in the summer, but gets rather down on rainy days. Fire Man was the first of a multitude of flame-based robots, but he hasn't been proved outdated yet; perhaps it's his strong belief in the Flames of Justice that keep him pressing forward.",
+    "robot_energy": 106,
+    "robot_weapons": 10,
+    "robot_attack": 132,
+    "robot_defense": 84,
+    "robot_speed": 78,
+    "robot_weaknesses": [
+        "freeze",
+        "wind"
+    ],
+    "robot_resistances": [
+        "water"
+    ],
+    "robot_affinities": [
+        "flame"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "fire-storm"
+        },
+        {
+            "level": 2,
+            "token": "fire-chaser"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "fire-storm",
+        "fire-chaser"
+    ],
+    "robot_quotes_start": "I reckon you cool yourself down, pardner, or I'll fire you!",
+    "robot_quotes_taunt": "The path of the righteous is lighted with flames of justice!",
+    "robot_quotes_victory": "Evil! Remember my name, for I am {this_robot}!",
+    "robot_quotes_defeat": "The fire... It's been smothered by chills of injustice...!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

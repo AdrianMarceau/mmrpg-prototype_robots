@@ -1,0 +1,74 @@
+{
+    "robot_token": "gravity-man",
+    "robot_number": "DWN-033",
+    "robot_name": "Gravity Man",
+    "robot_game": "MM5",
+    "robot_field": "",
+    "robot_field2": "space-simulator",
+    "robot_support": "ring-ring",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "gravity-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "metalman",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Gravity Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Gravity Man (Purple Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt9",
+            "name": "Gravity Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Gravity Manipulation Robot",
+    "robot_description2": "Gravity Man is a Robot Master like no other. Dr. Wily could have easily outshined Light with his pioneering of gravity distortion technology, but instead he made a robot out of it. At least Gravity Man puts it to good use! He likes to keep him and his opponent on separate planes to disrupt their strategies. However, this tactic is about all he has going for him in combat. Gravity Man is more interested in furthering the field of gravitational studies with his revolutionary research. Unfortunately, this involves confronting a lot of skeptics. A group of scientists once claimed the gravity shtick was a parlor trick done with superconducting magnets. Gravity Man responded by tossing a Redwood into their institute. He might seem a little distant, but maybe a reminder of space\u2019s vast gravitational pulls will bring him back down to Earth. Gravity Man could use some grounding.",
+    "robot_energy": 99,
+    "robot_weapons": 10,
+    "robot_attack": 82,
+    "robot_defense": 109,
+    "robot_speed": 110,
+    "robot_weaknesses": [
+        "space",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "gravity-hold"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "gravity-hold"
+    ],
+    "robot_quotes_start": "I'm going to turn your entire world upside down!",
+    "robot_quotes_taunt": "What's wrong? Has my gravity-switching made you dizzy?",
+    "robot_quotes_victory": "It seems you didn't understand the gravity of the situation.",
+    "robot_quotes_defeat": "And yet the Earth does move...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

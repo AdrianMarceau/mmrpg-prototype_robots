@@ -1,0 +1,55 @@
+{
+    "robot_token": "blade-man",
+    "robot_number": "DWN-073",
+    "robot_name": "Blade Man",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "blade-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Sword Sparring Robot",
+    "robot_description2": "Blade Man was never a robot designed for chaos, he was instead made to guide people through an ancient castle, lost long to history. His creator had an obsession for swords, and created a robot after his own heart. However, when Blade Man caught ill of Roboenza, he was upgraded with the Triple Blade, where he slices his opponents with three miniature blades. He's also extremely agile and can hook on to walls, allowing him to traverse easily and defeat the opponent quickly. He has a rather encyclopedic knowledge about all types of close-ranged weapons and swords, and can talk on the subject for long periods of time. He also enjoys fencing and considers himself a gentleman's sword, being the finest choice for anyone skilled in swordsmanship. He also happens to dislike all types of long-ranged weapons, including weapons like the Mega Busters, considering them foolhardy. While Blade Man retired from battle after the Roboenza event, he's still a fine weapon, and he'll always bring a sword to a gun-fight. Just don't expect him to lose!",
+    "robot_energy": 102,
+    "robot_weapons": 10,
+    "robot_attack": 127,
+    "robot_defense": 64,
+    "robot_speed": 107,
+    "robot_weaknesses": [
+        "missile",
+        "earth"
+    ],
+    "robot_resistances": [
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "triple-blade"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "triple-blade"
+    ],
+    "robot_quotes_start": "I hereby challenge you to a duel! En garde, {target_robot}!",
+    "robot_quotes_taunt": "Parry! Thrust! Riposte!",
+    "robot_quotes_victory": "Blades are a gentleman's weapon, after all.",
+    "robot_quotes_defeat": "Ack! Foiled again!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

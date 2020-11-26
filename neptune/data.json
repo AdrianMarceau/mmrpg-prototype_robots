@@ -1,0 +1,57 @@
+{
+    "robot_token": "neptune",
+    "robot_number": "SRN-009",
+    "robot_name": "Neptune",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "water",
+    "robot_core2": "earth",
+    "robot_description": "Oceanic Avenger Stardroid",
+    "robot_description2": "During the Stardroids conquest on Earth, Neptune led a large battleship through the Pacific Ocean, cutting off any human intevention to the Stardroid's plan. In combat, Neptune utilizes the Salt Water, but the name of this move is misleading. Rather than launching a puddle of actual water, the Salt Water attack is actually made of several corrosive chemicals which can melt through even the toughest of Earth metals. Neptune also enjoys throwing his weight around. In his battle with Mega Man, he would leap over Mega Man, jump on him, and cause the ceiling of his underwater ship hull to leak, damaging Mega Man. Due to his alien armor, Neptune can swim in both fresh and salt water for extended periods of time without fear of rusting. Neptune has become quite the experienced swimmer, recounting stories at galactic seas as if he was a pirate, discussing his latest voyage. In both combat and his love of oceans, Neptune will swim and fight to the bitter end. If this robot's ship goes down, he's going with it, but not before putting up a last stand.",
+    "robot_energy": 120,
+    "robot_weapons": 20,
+    "robot_attack": 164,
+    "robot_defense": 217,
+    "robot_speed": 199,
+    "robot_weaknesses": [
+        "laser",
+        "electric"
+    ],
+    "robot_resistances": [
+        "earth"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "salt-water"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "salt-water"
+    ],
+    "robot_quotes_start": "{target_robot}, sorry to say this, but today's yer rusting day!",
+    "robot_quotes_taunt": "I'll throw salt in yer wounds-- and rust you from the inside!",
+    "robot_quotes_victory": "Har, you've received a fate worse than scurvy!",
+    "robot_quotes_defeat": "Well, fry me up, 'cause nothing's worse than this!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

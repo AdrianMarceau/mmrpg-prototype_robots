@@ -1,0 +1,80 @@
+{
+    "robot_token": "acid-man",
+    "robot_number": "DWN-084",
+    "robot_name": "Acid Man",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "waterfall-institute",
+    "robot_support": "snapper",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "acid-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Acid Man (Jello Alt)",
+            "summons": 100,
+            "colour": "laser"
+        },
+        {
+            "token": "alt2",
+            "name": "Acid Man (Slime Alt)",
+            "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt9",
+            "name": "Acid Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "water",
+    "robot_core2": "",
+    "robot_description": "Chemical Mixer Robot",
+    "robot_description2": "A chemical plant may sound like an unfitting home for anyone with the smallest shred of sense, but for Acid Man, it's practically paradise. Manufactured by the Mecha-Chucets Institute of Robology, Acid Man's so comfortable with acerbic properties that he has tubes upon tubes of who-knows-whats constantly coursing through his body like a bloodstream.   And for practicality in the plant, Acid Man's buster is specially designed to easily expel those chemicals -- though this gives him an obvious edge in combat as well. Not only can he fire biting globs in rapid succession, but he has such high chemical mastery that he can enclose himself in a barrier of corrosive acid that'll keep even the most courageous of robots at bay. Of course, you couldn't do the mad chemical mixer any justice without mentioning his impeccable swimming prowess. As a byproduct of a cutting-edge hydrodynamic design, Acid Man will gladly take a graceful dive into the plant's chemical tanks and swim worry-free as he ensures that the tanks' measurements stay true to his high standards. This habit has led the plant's human workers to give him the sobriquet of \"the Acid Merman\", a nickname Acid Man so vehemently detests. And on the topic of detest, the only thing Acid Man detests more is sloppy work; he's well-known for being an utter perfectionist in the workplace, one that doesn't shy away from throwing tantrums when chemicals aren't measured out to his exact expectations. This may give one the impression that Acid Man is only a mad scientist gone too far, but is it really so 'mad' to have a passion that burns with such bright joy that you're literally named after what you love?... If it's highly corrosive acid, then yes, probably.",
+    "robot_energy": 96,
+    "robot_weapons": 10,
+    "robot_attack": 104,
+    "robot_defense": 92,
+    "robot_speed": 108,
+    "robot_weaknesses": [
+        "earth",
+        "laser"
+    ],
+    "robot_resistances": [
+        "water",
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "acid-glob"
+        },
+        {
+            "level": 2,
+            "token": "acid-barrier"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "acid-glob",
+        "acid-barrier"
+    ],
+    "robot_quotes_start": "Come to ruin my chemical paradise, hmm? It's high-time for an experiment!",
+    "robot_quotes_taunt": "You're ruining everything... I swear I'll melt you to the last bolt!",
+    "robot_quotes_victory": "My experiment's results confirm it... Acid's awfully corrosive, eheh!",
+    "robot_quotes_defeat": "Nyeagh... Chemistry, my love... I've failed you!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

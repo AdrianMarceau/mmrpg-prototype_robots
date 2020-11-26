@@ -1,0 +1,56 @@
+{
+    "robot_token": "tundra-man",
+    "robot_number": "DWN-085",
+    "robot_name": "Tundra Man",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "arctic-jungle",
+    "robot_support": "peng",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "tundra-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "freeze",
+    "robot_core2": "",
+    "robot_description": "Subzero Skater Robot",
+    "robot_description2": "Out in the most desolate and algid areas of the arctic, a hulking surveillance robot catches a glance of the 20XX World Ice Skating Championship on the television. Inspired by the humans who could make the ice their dance floor, this robot challenged the notions of their creation and began to make modifications to become gracile and graceful, transforming into the Robot Master we now know as Tundra Man. Though designed by Dr. Cossack to monitor drastic environmental changes and develop land in the coldest climates of Earth, Tundra Man\u2019s love of ice skating quickly took over and encouraged him to put on the skates, making him far faster than Cossack had ever originally intended! Tundra Man\u2019s so fast, in fact, that his triple axel is capable of producing a numbing funnel of subzero winds! But, combat is never his first priority; skating is his raison d'\u00eatre, and if he happens to bump into anyone while doing so, so be it. He\u2019s flashy, dramatic, but most of all!.... He\u2019s really rather lonely. With an audience of mainly huskies, polar bears, and seals, Tundra Man yearns for the day for when he can display his dazzling  footwork to the same grand stage that had inspired him so many years ago! For now, styling on his opponents during combat will have to do.",
+    "robot_energy": 97,
+    "robot_weapons": 10,
+    "robot_attack": 108,
+    "robot_defense": 70,
+    "robot_speed": 125,
+    "robot_weaknesses": [
+        "electric",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "wind",
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "tundra-storm"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "tundra-storm"
+    ],
+    "robot_quotes_start": "It's showtime! Cue the music, dim the lights... And let me dance!",
+    "robot_quotes_taunt": "Take my spotlight, ehh? BITTER! HEARTLESS! Yet... DRAMATIC!",
+    "robot_quotes_victory": "I am but a rose, frozen in ice... You? You're just yellow snow!",
+    "robot_quotes_defeat": "Shattered are my dreams... but it made for a wondrous grand finale!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

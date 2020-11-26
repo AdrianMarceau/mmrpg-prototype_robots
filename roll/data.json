@@ -1,0 +1,146 @@
+{
+    "robot_token": "roll",
+    "robot_number": "DLN-002",
+    "robot_name": "Roll",
+    "robot_game": "MM1",
+    "robot_field": "light-laboratory",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "female",
+    "robot_image": "roll",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Roll (Mega Alt)",
+            "summons": 50,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Button Dress Roll",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt3",
+            "name": "Button Dress Roll (Mega Alt)",
+            "summons": 150,
+            "colour": "water"
+        },
+        {
+            "token": "alt4",
+            "name": "Heart Suit Roll",
+            "summons": 200,
+            "colour": "flame"
+        },
+        {
+            "token": "alt5",
+            "name": "Heart Suit Roll (Mega Alt)",
+            "summons": 250,
+            "colour": "water"
+        },
+        {
+            "token": "alt6",
+            "name": "Hooded Dress Roll",
+            "summons": 300,
+            "colour": "flame"
+        },
+        {
+            "token": "alt7",
+            "name": "Hooded Dress Roll (Mega Alt)",
+            "summons": 350,
+            "colour": "water"
+        }
+    ],
+    "robot_core": "",
+    "robot_core2": "",
+    "robot_description": "Lab Assistant Robot",
+    "robot_description2": "Although crafted by Dr. Light to have a hand maintaining the Light household, Roll's breaking gender roles by intending to assist in battle after being stuck in the sidelines for as long as she has! A pedestrian glance might find Roll too dainty to come as help, but she's got great gymnastic skill and can use common household items such as brooms and umbrellas to surprisingly devastatingly effects! However, Roll's main strength, befitting her supportive nature, specializes in techniques that benefit her friends and detriments her foes. Roll's often the most efficient and serene of the Light family, with a bit of an innocent schoolgirl tinge to her, but what's most notable is her persevering and admirable \"Go-get-'em!\" attitude. She's supportive and helpful in every sense she can be, and a friend to people, robots, animals, and mechas everywhere. Ever since she was infected by Dr. Wily's Roboenza virus, she felt responsible for worrying Mega Man and weakening his sense of focus, since then putting her efforts into having more of a presence outside of being the Light family's housekeeper. As such, she's intent on garnering the weight of everyone's hopes along with Mega Man, standing as courageously as her brother does on the battlefield! Not many know it, not even the other members of the Light family, but this was her dream all along....",
+    "robot_energy": 150,
+    "robot_weapons": 15,
+    "robot_attack": 90,
+    "robot_defense": 75,
+    "robot_speed": 85,
+    "robot_weaknesses": [
+        "freeze",
+        "nature"
+    ],
+    "robot_resistances": [
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        },
+        {
+            "level": 2,
+            "token": "roll-buster"
+        },
+        {
+            "level": 4,
+            "token": "energy-boost"
+        },
+        {
+            "level": 6,
+            "token": "attack-boost"
+        },
+        {
+            "level": 8,
+            "token": "defense-boost"
+        },
+        {
+            "level": 10,
+            "token": "speed-boost"
+        },
+        {
+            "level": 12,
+            "token": "roll-swing"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "roll-buster",
+        "roll-swing",
+        "attack-support",
+        "defense-support",
+        "speed-support",
+        "energy-support",
+        "attack-assault",
+        "defense-assault",
+        "speed-assault",
+        "energy-assault",
+        "attack-shuffle",
+        "defense-shuffle",
+        "speed-shuffle",
+        "energy-shuffle",
+        "repair-mode",
+        "experience-booster",
+        "recovery-booster",
+        "damage-booster",
+        "experience-breaker",
+        "recovery-breaker",
+        "damage-breaker",
+        "mega-buster",
+        "disco-buster",
+        "rhythm-buster",
+        "item-swap"
+    ],
+    "robot_quotes_start": "I've got my role to play just like everyone else! I've gotta do my best!",
+    "robot_quotes_taunt": "Hey, don't go easy on me just because my brother's Mega Man!",
+    "robot_quotes_victory": "We did it, {this_player}! Thank you for believing in me!",
+    "robot_quotes_defeat": "I can't lose here... everyone's depending on me!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

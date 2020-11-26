@@ -1,0 +1,56 @@
+{
+    "robot_token": "ground-man",
+    "robot_number": "KGN-003",
+    "robot_name": "Ground Man",
+    "robot_game": "RnF",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "ground-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Underground Drilling Robot",
+    "robot_description2": "Ground Man was created by the same company that employed Drill Man, and he was set to work in mining precious materials in caves. He did this quickly with the Spread Drill, a mining drill that could cover ground fast. However, he was enraged by the fact that he couldn't keep any of his precious treasures, when a robot by the name of King invited Ground Man to join his army and to preserve the treasures he finds under his control. Ground Man quickly accepted, and ended up fighting against Mega Man and Bass. Ground Man is a deep thinker, but he never speaks his mind and prefers to keep to himself most of the time. He's also a collector of priceless treasures, hence why he enlisted himself in King's army. Ground Man also never gives up on his drilling, unless he's ordered to by a higher figure. After King was defeated, Ground Man returned to his old job, working harder with the new skills he found in King's army. He's earned the respect of his coworkers and superiors with his new proficiency, and is now allowed a treasure collection of his own, though it still can't leave company grounds...",
+    "robot_energy": 103,
+    "robot_weapons": 10,
+    "robot_attack": 111,
+    "robot_defense": 106,
+    "robot_speed": 80,
+    "robot_weaknesses": [
+        "explode",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "earth",
+        "swift"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "spread-drill"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "spread-drill"
+    ],
+    "robot_quotes_start": "....Hmm. Is there a problem, {target_robot}...?",
+    "robot_quotes_taunt": ".... Hmph!",
+    "robot_quotes_victory": "....{this_player}, I'll be leaving now. Farewell.",
+    "robot_quotes_defeat": "Ugh. I hate sand.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

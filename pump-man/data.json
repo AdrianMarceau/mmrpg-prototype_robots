@@ -1,0 +1,76 @@
+{
+    "robot_token": "pump-man",
+    "robot_number": "DWN-074",
+    "robot_name": "Pump Man",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "rainy-sewers",
+    "robot_support": "robo-fishtot",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "pump-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Pump Man (Scalding Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Pump Man (Sewer Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Pump Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "water",
+    "robot_core2": "",
+    "robot_description": "Sewer Management Robot",
+    "robot_description2": "Pump Man was designed to work at a wastewater treatment plant, but things quickly changed for him after he caught Roboenza. In his malfunctioning state, he attacked the world under Dr. Wily's control, using large water droplets as a shield. The Water Shield sounds bad in idea only, it's actually one of the more effective and interesting shield attacks out there! He relocated his base to a sewer beneath a heavily-populated city, but Mega Man and friends eventually confronted him there, defeating him in the process. Afterwards, Pump Man's life went back to normal, but it also gave him a chance to meet his favorite fellow Water Robot Master, Splash Woman. Pump Man is a bit obsessed with cleanliness, and is known to be a bit of a clean-freak. He washes things two times over, fearing all the germs that life holds. He also started a program to wash off graffiti in his local neighborhood, and it's gone well. Pump Man has a disliking for Oil Man, the slick oil Robot Master. Make fun of him all you want for his habits, but he'll clean that smirk off your face! Rightfully so, as he has no clue how many germs smiles could give!",
+    "robot_energy": 104,
+    "robot_weapons": 10,
+    "robot_attack": 101,
+    "robot_defense": 115,
+    "robot_speed": 80,
+    "robot_weaknesses": [
+        "electric",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "water"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "water-shield"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "water-shield"
+    ],
+    "robot_quotes_start": "Gah! This stage is filthy! And you... Don't even come near me!",
+    "robot_quotes_taunt": "I'll make you suffer! Suffer as much as the cleaning guy around here...",
+    "robot_quotes_victory": "There we go! Nice and clean, and lemon-scented!",
+    "robot_quotes_defeat": "Germs... Germs everywhere...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,82 @@
+{
+    "robot_token": "skull-man",
+    "robot_number": "DCN-032",
+    "robot_name": "Skull Man",
+    "robot_game": "MM4",
+    "robot_field": "robosaur-boneyard",
+    "robot_field2": "",
+    "robot_support": "skullmet",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "skull-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "metalman",
+    "robot_image_editor2": "rhythmbca",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Skull Man (Golden Alt)",
+            "summons": 100,
+            "colour": "electric"
+        },
+        {
+            "token": "alt2",
+            "name": "Skull Man (Red Alt)",
+            "summons": 200,
+            "colour": "swift"
+        },
+        {
+            "token": "alt3",
+            "name": "Skull Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "freeze"
+        },
+        {
+            "token": "alt9",
+            "name": "Skull Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "shadow",
+    "robot_core2": "",
+    "robot_description": "Dead Executor Robot",
+    "robot_description2": "As Dr. Cossack's repertoire only included a total of seven Robot Masters to be pushed forth against Mega Man, one can reasonably infer that Skull Man was a desperate effort scrambled together by the morally-entrapped doctor, with his theme an obvious nod to his captor as well. Thus, in contrast to the functional designs of his other robots, Skull Man's entirely centered around nothing short of pure combat, being the culmination of Cossack's technical knowledge while embodying nothing of his ideals. His strikes are tuned to be precise and killer, yet he can guarantee absolute invulnerability with his Skull Barrier, generating nightmarish skulls for an unexpected defense. Coupled with this is his strategic mindset; it's said Skull Man would willingly stand still indefinitely until his opponent made the first movement. However, being 100% combat at all times... has proven to be an issue in a restoration lifestyle. Skull Man has no sense of purpose nor social affability, and so has resigned himself to a lonely existence. He revels alone in the macabre, and watches horror movies all by his lonesome... At least, he did, until he found out Kalinka was also a fervent fan of horror as well! Still, with such a tragic and destitute background, it's hard not to feel bad for the guy.... Well, unless he's crushing you in battle, that is...",
+    "robot_energy": 90,
+    "robot_weapons": 10,
+    "robot_attack": 101,
+    "robot_defense": 125,
+    "robot_speed": 84,
+    "robot_weaknesses": [
+        "wind",
+        "explode"
+    ],
+    "robot_resistances": [
+        "space",
+        "time",
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "skull-barrier"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "skull-barrier"
+    ],
+    "robot_quotes_start": "Now {target_robot}! Let's get ready to rumble!",
+    "robot_quotes_taunt": "Fight me! Fight me! Battles like these are what I live for!",
+    "robot_quotes_victory": "Mwahahaha! Your execution was my pleasure!",
+    "robot_quotes_defeat": "Gah! Broken into pieces... This is an awful feeling!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

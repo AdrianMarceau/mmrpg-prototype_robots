@@ -1,0 +1,56 @@
+{
+    "robot_token": "concrete-man",
+    "robot_number": "DLN-065",
+    "robot_name": "Concrete Man",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "concrete-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "milansaponja",
+    "robot_image_alts": [],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Dam Construction Robot",
+    "robot_description2": "Built by Dr. Light in what he called his \"new series\", Concrete Man's purpose is supervision of dam construction, and there's no one who knows the topic like he does. Unfortunately, his line came out around the time that robots were announced to have scrapping dates. Thanks to Mega Man, the scrapping law was fortunately cancelled. Concrete Man is known for being incredibly stubborn and will tell off any and all lazy robots or humans in the workplace. He's also good friends with Guts Man, fitting as they both have an extremely similar design. Concrete Man's main weapon in battle is the Concrete Shot, which will immobilize the enemy if they are hit. He's also incredibly strong, another trait he shares with Guts Man, but there is an attack out there that can penetrate his shielding. He's not an easy foe to deal with, but just like with any foundation, he has a weakness!",
+    "robot_energy": 107,
+    "robot_weapons": 10,
+    "robot_attack": 108,
+    "robot_defense": 125,
+    "robot_speed": 60,
+    "robot_weaknesses": [
+        "water",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "flame",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "concrete-shot"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "concrete-shot"
+    ],
+    "robot_quotes_start": "C'mon, you lazy bums! This project won't finish itself!",
+    "robot_quotes_taunt": "There better not be any slackers back there...",
+    "robot_quotes_victory": "Good! Now get back to work!",
+    "robot_quotes_defeat": "This'll set us back a few months....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

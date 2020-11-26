@@ -1,0 +1,57 @@
+{
+    "robot_token": "uranus",
+    "robot_number": "SRN-007",
+    "robot_name": "Uranus",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "impact",
+    "robot_core2": "earth",
+    "robot_description": "Charging Bull Stardroid",
+    "robot_description2": "When Mega Man had defeated the four Stardroids attacking Earth, he led a sneak attack on the other four, one of them being Uranus. Uranus doesn't have any type of special attacks, he simply uses his amazing brute strength to lift the ground from right under him! As a Stardroid, he has the strongest physical strength, only being outmatched by Mars's heavy arsenal. However, he's a bit of a clumsy fighter due to his size, and he might even accidentally fall in a hole he made himself. He's a bulwark of a robot, being able to take on directly most attacks inflicted upon him. He's confident in his abilities, but he's a bit of a klutz, breaking most things by accident. He can also get a little wild once in a while, making his mood unpredictable. Uranus, like how a Stardroid should be, is leagues above most other robots. Don't get overconfident with this one, or else things could easily go south...",
+    "robot_energy": 120,
+    "robot_weapons": 20,
+    "robot_attack": 203,
+    "robot_defense": 228,
+    "robot_speed": 149,
+    "robot_weaknesses": [
+        "swift",
+        "impact"
+    ],
+    "robot_resistances": [
+        "earth"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "deep-digger"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "deep-digger"
+    ],
+    "robot_quotes_start": "Crush... I'll crush everything! Grraaah!!!",
+    "robot_quotes_taunt": "I'm really, REALLY mad... I'll bury you in the ground, loser!!!",
+    "robot_quotes_victory": "I'm a Stardroid... They shouldn't make me fight losers!!!",
+    "robot_quotes_defeat": "Noooo! Not on this backwater planet... I'm the strongest...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

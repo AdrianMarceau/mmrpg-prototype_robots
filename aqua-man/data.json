@@ -1,0 +1,76 @@
+{
+    "robot_token": "aqua-man",
+    "robot_number": "DWN-064",
+    "robot_name": "Aqua Man",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "waterfall-institute",
+    "robot_support": "snapper",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "aqua-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Aqua Man (Tepid Alt)",
+            "summons": 100,
+            "colour": "swift"
+        },
+        {
+            "token": "alt2",
+            "name": "Aqua Man (Toxic Alt)",
+            "summons": 200,
+            "colour": "energy"
+        },
+        {
+            "token": "alt9",
+            "name": "Aqua Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "water",
+    "robot_core2": "",
+    "robot_description": "Water Spraying Robot",
+    "robot_description2": "While his blueprints intended for him to work in a waterworks bureau, Aqua Man was modified by Dr. Wily for combat, and his abilities were boosted further by the Evil Energy. He attacks with high-pressure streams of water, dealing heavy damage to his foes. However, his internal water tanks are vulnerable to heavy-hitting attacks, so he generally likes to stay away from the fray of battle. His main weapon is the Water Balloon, a large sphere of water that he flings at his target to do some major-hitting damage. Aqua Man is a flamboyant Robot Master, using rainbows to spell his name in great glory, and shown in his general conversation. He's also mischievous and immature, squeezing terrible puns in any situation he can. He doesn't react well to serious situations, and prefers to stay away from those types of conversation if at all possible. He's also a bit bulky in terms of design, but he really doesn't care too much about that. Aqua Man, despite how he seems, isn't exactly the opponent you want to underestimate! If you do, you'll be all washed up! Talk about a H2-Oh no!",
+    "robot_energy": 108,
+    "robot_weapons": 10,
+    "robot_attack": 85,
+    "robot_defense": 117,
+    "robot_speed": 90,
+    "robot_weaknesses": [
+        "impact",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "water"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "water-balloon"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "water-balloon"
+    ],
+    "robot_quotes_start": "I'm {this_robot}, but you can feel free to call me Handsome Guy!",
+    "robot_quotes_taunt": "PFFFT... Hee hee, {target_robot}, was that you just now?",
+    "robot_quotes_victory": "You know, {this_player}, if we're done here... I say we call it lunchtime!",
+    "robot_quotes_defeat": "Aye aye aye! This is all way too serious for me!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

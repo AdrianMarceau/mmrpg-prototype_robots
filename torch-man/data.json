@@ -1,0 +1,56 @@
+{
+    "robot_token": "torch-man",
+    "robot_number": "DWN-086",
+    "robot_name": "Torch Man",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "steel-mill",
+    "robot_support": "tackle-fire",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "robot",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Heated Shotokan Robot",
+    "robot_description2": "Within the murky expanse of the wilds of nature, a single beacon lights the way to safety\u2026 Torch Man! Working as an outdoors advisor as a product of Tsubakuro Precision Machining, Torch Man delights in teaching others on how only they can prevent forest fires. Though one would suspect Torch Man and his safety hazard shoulders would be ill-fitting in a densely shrubbed area, he actually undergoes a strict training regiment to keep his heat under self-control; yet in moments where he becomes especially emblazoned, he can unleash spiraling infernos that soar and crash into the ground below! While impressive, it has little use in camping circumstances, so Torch Man dedicates himself to practicing martial arts daily to keep the fire burning within him tempered. Aside from being adept in the Shotokan and Aikido styles, Torch Man also started his own form of martial arts, \u2018Torch-jutsu\u2019, centered around strong self-discipline and jumping kicks. But despite his regiments, he can\u2019t help but afford to lapse when he emotionally flares up, like the time he crisped the camp dinner during a particularly invigorating turkey roast. As such, Torch Man still walks the long and harrowing road of self-improvement, never stopping, never faltering, until the day he can keep his searing spirit in check. His latest step in training, for example, was to stand under the calming pressure of a raging waterfall. The subsequent repairs took three months\u2026.",
+    "robot_energy": 101,
+    "robot_weapons": 10,
+    "robot_attack": 106,
+    "robot_defense": 95,
+    "robot_speed": 98,
+    "robot_weaknesses": [
+        "freeze",
+        "wind"
+    ],
+    "robot_resistances": [
+        "nature",
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "blazing-torch"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "blazing-torch"
+    ],
+    "robot_quotes_start": "Here comes a new challenger... Now fall to the fist of flame! Torch-jutsu!",
+    "robot_quotes_taunt": "Torch-jutsu may not be enough... Do I resort to using the Hot-douken?!",
+    "robot_quotes_victory": "You must defeat my flaming fist if you ever want to stand a chance.",
+    "robot_quotes_defeat": "I cannot resist these flames... The Satsui no Hotty is too strong!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

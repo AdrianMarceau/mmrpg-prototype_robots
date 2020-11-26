@@ -1,0 +1,71 @@
+{
+    "robot_token": "beetle-borg",
+    "robot_number": "BTLB-001",
+    "robot_name": "Beetle Borg",
+    "robot_game": "RnFWS",
+    "robot_field": "oil-wells",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "beetle-borg",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Beetle (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Beetle (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Earth Rolling Mecha",
+    "robot_description2": "The Beetle Borg series was built to monitor environmental conditions near industrial sites. Much like the dung beetle, Beetle Borgs will roll their soil samples into small spheres for easy transportation. Despite the Beetle Borg's rudimentary design, its AI is actually quite complex for its time.",
+    "robot_energy": 35,
+    "robot_weapons": 5,
+    "robot_attack": 25,
+    "robot_defense": 60,
+    "robot_speed": 80,
+    "robot_weaknesses": [
+        "cutter",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "earth",
+        "wind",
+        "impact",
+        "explode"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "beetle-ball"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "beetle-ball"
+    ],
+    "robot_quotes_start": "Kakakakakaka!",
+    "robot_quotes_taunt": "Kakakaka-buuuu!",
+    "robot_quotes_victory": "Kabu! Kabu! Kabuto!",
+    "robot_quotes_defeat": "Bu\u2026 ka!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

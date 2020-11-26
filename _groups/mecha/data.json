@@ -1,0 +1,90 @@
+{
+    "MM00": {
+        "group_class": "mecha",
+        "group_token": "MM00",
+        "group_order": 0,
+        "group_child_tokens": [
+            "met"
+        ]
+    },
+    "MMRPG": {
+        "group_class": "mecha",
+        "group_token": "MMRPG",
+        "group_order": 1,
+        "group_child_tokens": [
+            "sniper-joe",
+            "skeleton-joe",
+            "crystal-joe"
+        ]
+    },
+    "MM01": {
+        "group_class": "mecha",
+        "group_token": "MM01",
+        "group_order": 2,
+        "group_child_tokens": [
+            "flea",
+            "picket-man",
+            "peng",
+            "bombomb",
+            "tackle-fire",
+            "spine",
+            "flutter-fly",
+            "beetle-borg"
+        ]
+    },
+    "MM02": {
+        "group_class": "mecha",
+        "group_token": "MM02",
+        "group_order": 3,
+        "group_child_tokens": [
+            "pierrobot",
+            "fan-fiend",
+            "snapper",
+            "spring-head",
+            "killer-bullet",
+            "crazy-cannon",
+            "telly",
+            "batton"
+        ]
+    },
+    "MM03": {
+        "group_class": "mecha",
+        "group_token": "MM03",
+        "group_order": 4,
+        "group_child_tokens": [
+            "needle-ned",
+            "mag-fly",
+            "nitron-r",
+            "nitron-b",
+            "nitron-y",
+            "monking-r",
+            "spin-fiend",
+            "petit-snakey",
+            "elec-n",
+            "ribbitron"
+        ]
+    },
+    "MM04": {
+        "group_class": "mecha",
+        "group_token": "MM04",
+        "group_order": 5,
+        "group_child_tokens": [
+            "bulb-blaster",
+            "robo-fishtot",
+            "drill-mole",
+            "pyre-fly",
+            "ring-ring",
+            "lady-blader",
+            "manta-missile",
+            "skullmet"
+        ]
+    },
+    "MM005": {
+        "group_class": "mecha",
+        "group_token": "MM005",
+        "group_order": 6,
+        "group_child_tokens": [
+            "beak"
+        ]
+    }
+}

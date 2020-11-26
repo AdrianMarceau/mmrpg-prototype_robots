@@ -1,0 +1,139 @@
+{
+    "robot_token": "bass-ds",
+    "robot_number": "DSN-0W1",
+    "robot_name": "Bass DS",
+    "robot_game": "MMRPGP",
+    "robot_field": "final-destination-2",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "male",
+    "robot_image": "bass-ds",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "shadow",
+    "robot_core2": "",
+    "robot_description": "Dark Soul Robot",
+    "robot_description2": "",
+    "robot_energy": 130,
+    "robot_weapons": 20,
+    "robot_attack": 110,
+    "robot_defense": 125,
+    "robot_speed": 135,
+    "robot_weaknesses": [
+        "laser"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "shadow"
+    ],
+    "robot_immunities": [
+        "impact",
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        },
+        {
+            "level": 0,
+            "token": "metal-blade"
+        },
+        {
+            "level": 0,
+            "token": "air-shooter"
+        },
+        {
+            "level": 0,
+            "token": "bubble-spray"
+        },
+        {
+            "level": 0,
+            "token": "crash-bomber"
+        },
+        {
+            "level": 0,
+            "token": "atomic-fire"
+        },
+        {
+            "level": 0,
+            "token": "quick-boomerang"
+        },
+        {
+            "level": 0,
+            "token": "flash-stopper"
+        },
+        {
+            "level": 0,
+            "token": "leaf-shield"
+        },
+        {
+            "level": 2,
+            "token": "bass-buster"
+        },
+        {
+            "level": 4,
+            "token": "bass-crush"
+        },
+        {
+            "level": 8,
+            "token": "bass-baroque"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "attack-support",
+        "defense-support",
+        "speed-support",
+        "energy-support",
+        "attack-assault",
+        "defense-assault",
+        "speed-assault",
+        "energy-assault",
+        "attack-shuffle",
+        "defense-shuffle",
+        "speed-shuffle",
+        "energy-shuffle",
+        "repair-mode",
+        "experience-booster",
+        "recovery-booster",
+        "damage-booster",
+        "experience-breaker",
+        "recovery-breaker",
+        "damage-breaker",
+        "mega-buster",
+        "proto-buster",
+        "roll-buster",
+        "disco-buster",
+        "rhythm-buster",
+        "mega-ball",
+        "mega-slide",
+        "proto-shield",
+        "proto-strike",
+        "bass-buster",
+        "bass-crush",
+        "bass-baroque",
+        "metal-blade",
+        "bubble-spray",
+        "atomic-fire",
+        "leaf-shield",
+        "air-shooter",
+        "crash-bomber",
+        "flash-stopper",
+        "quick-boomerang"
+    ],
+    "robot_quotes_start": "With the world's strongest robot as my base, I'm unstoppable!",
+    "robot_quotes_taunt": "This body is impressively capable, just like the original!",
+    "robot_quotes_victory": "Looks like I am the new strongest robot!",
+    "robot_quotes_defeat": "This was the strongest robot?! It was just Mega Man with fins!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

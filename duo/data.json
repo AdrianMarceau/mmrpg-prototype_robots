@@ -1,0 +1,87 @@
+{
+    "robot_token": "duo",
+    "robot_number": "EXN-002\u03b1",
+    "robot_name": "Duo \u03b1",
+    "robot_game": "MM8",
+    "robot_field": "field",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "space",
+    "robot_core2": "",
+    "robot_description": "Alpha Energy Balancer",
+    "robot_description2": "",
+    "robot_energy": 230,
+    "robot_weapons": 20,
+    "robot_attack": 330,
+    "robot_defense": 230,
+    "robot_speed": 230,
+    "robot_weaknesses": [
+        "freeze",
+        "flame"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "energy-fist"
+        },
+        {
+            "level": 6,
+            "token": "comet-attack"
+        },
+        {
+            "level": 10,
+            "token": "meteor-knuckle"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "energy-fist",
+        "comet-attack",
+        "meteor-knuckle",
+        "buster-shot",
+        "attack-boost",
+        "attack-break",
+        "attack-swap",
+        "attack-mode",
+        "defense-boost",
+        "defense-break",
+        "defense-swap",
+        "defense-mode",
+        "speed-boost",
+        "speed-break",
+        "speed-swap",
+        "speed-mode",
+        "energy-boost",
+        "energy-break",
+        "energy-swap",
+        "energy-mode",
+        "field-support",
+        "mecha-support",
+        "light-buster",
+        "wily-buster",
+        "cossack-buster"
+    ],
+    "robot_quotes_start": "As long as I'm standing, there's still justice left to be served!",
+    "robot_quotes_taunt": "I fear no evil....",
+    "robot_quotes_victory": "Justice will overpower the odds, no matter the opponent!",
+    "robot_quotes_defeat": "Despite my loss...Justice will find a way to prevail...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 1,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

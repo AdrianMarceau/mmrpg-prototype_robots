@@ -1,0 +1,57 @@
+{
+    "robot_token": "spring-man",
+    "robot_number": "DWN-053",
+    "robot_name": "Spring Man",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "spring-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "impact",
+    "robot_core2": "",
+    "robot_description": "Bouncing Coil Robot",
+    "robot_description2": "As a man of science, Dr. Wily had always wanted to try to utilize the principles of physics and momentum to crush his blue-clad nemesis, and after tripping on a popular children\u2019s toy, spontaneously realized that springs were the ultimate weapon of physics! Built of over 2000 springs, Spring Man builds up potential energy in every movement he makes, and then unleashes it all as impactful kinetic energy when he sends his limbs out to devastate the opponent! He can also unleash the \u2018Wild Coil\u2019 ability from his buster, but as his arms already make the perfect ranged weapon, it\u2019s not often he\u2019ll bust that ability out. Unfortunately, his one-of-a-kind design means he\u2019s got a glaring weakness, as pushing his limits might cause his limbs to entangle and snag, leaving him a mess. And Tesla forbid if he were to fight near any stairs! All in all Spring Man\u2019s a carefree individual, the sort of fella to live vicariously through every step and bounce he takes. When he\u2019s particularly elated, he\u2019ll leap and jump as high as he can -- leading to him bumping his head on ceilings pretty often! But regardless, Spring Man\u2019s a joy to watch on any battlefield. Unless that battlefield happens to be on an incline. Then it\u2019s hilarious.",
+    "robot_energy": 90,
+    "robot_weapons": 10,
+    "robot_attack": 86,
+    "robot_defense": 111,
+    "robot_speed": 113,
+    "robot_weaknesses": [
+        "cutter",
+        "flame"
+    ],
+    "robot_resistances": [
+        "impact"
+    ],
+    "robot_affinities": [
+        "electric"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "wild-coil"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "wild-coil"
+    ],
+    "robot_quotes_start": "I'm all coiled up and ready to spring into action!",
+    "robot_quotes_taunt": "I sure hope there aren't any stairs in this level...",
+    "robot_quotes_victory": "Boing! Boing! Boing!",
+    "robot_quotes_defeat": "I feel vexed... Is it so wrong for me to have a little spring in my step?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

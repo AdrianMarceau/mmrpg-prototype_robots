@@ -1,0 +1,55 @@
+{
+    "robot_token": "burst-man",
+    "robot_number": "DWN-051",
+    "robot_name": "Burst Man",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "burst-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Liquid Fireworks Robot",
+    "robot_description2": "Created by Wily as a fail-safe in case he was ever jailed, Burst Man was stationed undercover in Edo. Burst Man was supposed to lie dormant in Edo, but being deployed in such a lively city had a formative effect on Burst Man, turning him into a happy-go-lucky Robot Master. Burst Man was giddy to perform at festivals, using the bombs Wily had designed for destructive combat instead as vibrant fireworks. A master at visual pizzazz, Burst Man uses the chemicals in his bubbles to modify his explosives, giving them different colorations and patterns. It\u2019s fortunate he prefers to use his arsenal for leisurely activities, because otherwise he\u2019d be a tricky opponent! His bubbles can coat the battlefield, either bursting to inflict splash damage, or more heinously, confining foes inside of them. In his most dangerous attack, Burst Man fires the Danger Wrap, a bomb encased in a bubble that can trap opponents before exploding, causing more damage due to its proximity. He never uses it to its fullest extent, however, as Burst Man tries to end fights as quickly as possible, fine with winning or losing, just to get back to his festivals. The only thing Burst Man hates more than fighting are extreme temperatures, as high hots and low colds can cause chain reactions in his bombs, ruining the more elaborate displays he has planned. Even if he\u2019s not the best fighter, if you can find him on a temperate summer evening, you\u2019ll be in for a show like no other.",
+    "robot_energy": 105,
+    "robot_weapons": 10,
+    "robot_attack": 101,
+    "robot_defense": 123,
+    "robot_speed": 71,
+    "robot_weaknesses": [
+        "freeze",
+        "swift"
+    ],
+    "robot_resistances": [
+        "water"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "danger-wrap"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "danger-wrap"
+    ],
+    "robot_quotes_start": "3, 2, 1... Kaboom!",
+    "robot_quotes_taunt": "I'd hate to burst your bubble, so don't burst mine!",
+    "robot_quotes_victory": "Now THAT was a fireworks display!",
+    "robot_quotes_defeat": "The party\u2019s over? Aw, man!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

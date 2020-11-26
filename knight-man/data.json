@@ -1,0 +1,56 @@
+{
+    "robot_token": "knight-man",
+    "robot_number": "MXN-044",
+    "robot_name": "Knight Man",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "knight-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "metalman",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "impact",
+    "robot_core2": "",
+    "robot_description": "Chivalrous Knight Robot",
+    "robot_description2": "Robot Masters\u2019 combat abilities are usually designed to serve a specific role, whether that be self-defense or world domination. Knight Man is an exception; is combat itself not a worthy goal? Based on the knights of medieval history, Knight Man\u2019s most noticeable feature is his incredible defense. Knight Man\u2019s resilient armor can shrug off most minor hits, but the shield he carries makes him nearly impenetrable. He\u2019s like a fortress on legs! Well, his armor is pretty heavy, so those legs aren\u2019t winning him any races. Fortunately, Knight Man doesn\u2019t need to worry about mobility when he wields impressive range and power. The Knight Crush is a deadly flail with a deceptively long chain, using its huge mass to plow through foes. Knight Man has used his mighty mace to smash through tons of robots, once reportedly defeating 1000 in a row\u2026 granted, it\u2019s not clear if these were 1000 Robot Masters, or a bunch of Mets and Tellies. Either way, this hefty repertoire easily won Knight Man the United Kingdom nomination for the First Annual Robot Master Tournament, which was promptly upended by Mr. X\u2019s evil scheme. Knight Man may be chivalrous, but Mr. X probably could have convinced Knight Man to willingly work for him, if only to get the chance to duel the famous Blue Bomber. Regardless, Mega Man bested the legendary warrior in combat, so with a win streak in ruins, Knight Man has appeared in the Prototype to do what he does best: fight!",
+    "robot_energy": 94,
+    "robot_weapons": 10,
+    "robot_attack": 98,
+    "robot_defense": 140,
+    "robot_speed": 68,
+    "robot_weaknesses": [
+        "cutter",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "missile",
+        "shield"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "knight-crush"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "knight-crush"
+    ],
+    "robot_quotes_start": "Taste my steel, thou gorbellied knave!",
+    "robot_quotes_taunt": "I bite my thumb at thee, knave! Verily, I bite it!",
+    "robot_quotes_victory": "Methink'st I near my two-thousandth victory streak!",
+    "robot_quotes_defeat": "Alas... they have killed me, {this_player}!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

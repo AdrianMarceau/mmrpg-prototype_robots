@@ -1,0 +1,68 @@
+{
+    "robot_token": "spin-fiend",
+    "robot_number": "SPNF-001",
+    "robot_name": "Spin Fiend",
+    "robot_game": "MM3",
+    "robot_field": "spinning-greenhouse",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "spin-fiend",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Spin Fiend (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Spin Fiend (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Top Dispensing Mecha",
+    "robot_description2": "Following his second defeat at the hands of Mega Man, Dr. Wily was left with dozens of destroyed Fan Fiends. Thusly, he used their components to create the Spin Fiend series, capable of firing top-shaped explosives from their chest cavities.",
+    "robot_energy": 80,
+    "robot_weapons": 5,
+    "robot_attack": 45,
+    "robot_defense": 60,
+    "robot_speed": 15,
+    "robot_weaknesses": [
+        "nature",
+        "cutter",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "swift",
+        "electric"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "power-spin"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "power-spin"
+    ],
+    "robot_quotes_start": "Buro!",
+    "robot_quotes_taunt": "Komasa! Koma!",
+    "robot_quotes_victory": "Koma! Sa! Buuurrrooo!",
+    "robot_quotes_defeat": "Buro?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

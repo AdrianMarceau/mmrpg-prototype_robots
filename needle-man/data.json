@@ -1,0 +1,80 @@
+{
+    "robot_token": "needle-man",
+    "robot_number": "DWN-017",
+    "robot_name": "Needle Man",
+    "robot_game": "MM3",
+    "robot_field": "construction-site",
+    "robot_field2": "",
+    "robot_support": "needle-ned",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "needle-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Needle Man (Magenta Alt)",
+            "summons": 100,
+            "colour": "laser"
+        },
+        {
+            "token": "alt2",
+            "name": "Needle Man (Emerald Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Needle Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "explode"
+        },
+        {
+            "token": "alt9",
+            "name": "Needle Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Deadly Spikes Robot",
+    "robot_description2": "Designed in conjunction by both Drs. Light and Wily to be able to pierce bedrock for mining, Needle Man was based on Air Man's build and sacrifices traditional hands for the sake of his rapid-firing Needle Cannon. His jumping prowess is quite impressive and can provide enough force to keep him suspended in the air, which is where he can surprise opponents with his quick barrage of needles. That's not all he has in his pointy repertoire though, as he can toss the needles on his head for short-range combat, a somewhat straightforward tactic but it's his way of continuing to surprise his opponents. Needle Man's somewhat of a well-read individual and an intellectual, but this is coupled with his dry wit and his sarcastic tone of speaking, making him a difficult robot to get a read on. His hobbies include knitting and sewing, and he's always quick to make people known of the distinction between the two, but ironically enough Needle Man's deathly afraid of injections, shots, and just about anything medical that goes hand-in-hand with needles. Of course, Needle Man's a robot in the first place, so as far as fears go, his are as irrational as they come. Granted, it's not his concerns that matter in battle, it's his opponents; when he's unleashing a barrage of piercing needles, any opponents or clumsy teammates should be wary of becoming a veritable robot shish kebab.",
+    "robot_energy": 105,
+    "robot_weapons": 10,
+    "robot_attack": 97,
+    "robot_defense": 123,
+    "robot_speed": 75,
+    "robot_weaknesses": [
+        "crystal",
+        "wind"
+    ],
+    "robot_resistances": [
+        "nature"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "needle-cannon"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "needle-cannon"
+    ],
+    "robot_quotes_start": "Don't bother with small talk-- you'll be a pincushion soon enough!",
+    "robot_quotes_taunt": "Fear the eye of the needle!... No, that just sounds lame...",
+    "robot_quotes_victory": "You see that, pinhead? Flawless work, as always.",
+    "robot_quotes_defeat": "Ohhh sure, great, thanks for busting my face in! No, I mean it!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

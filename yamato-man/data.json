@@ -1,0 +1,56 @@
+{
+    "robot_token": "yamato-man",
+    "robot_number": "MXN-048",
+    "robot_name": "Yamato Man",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "yamato-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Honorable Samurai Robot",
+    "robot_description2": "Hailing from the dojos of Japan, striking fear into the hearts of adversaries with his mighty spear is Yamato Man! Built from the start to be a combat robot, Yamato Man commands the Yamato Spear, a javelin like weapon that fires out armor piercing spear tips rather than throwing the whole weapon. His supply is limited, however, so during long fights Yamato Man will have to recollect the spear tips. Fortunately, Yamato Man can keep up with this costly battle tactic thanks to his special armor. His purple plating is only used to deflect weaker attacks, as anything sturdier would weigh Yamato Man down and inhibit his ability to recover the spear tips. It\u2019s unknown why Yamato Man only uses the Yamato Spear, as he is well versed in several martial arts and owns many Japanese swords. Maybe these are more like hobbies than backup combat techniques to Yamato Man, which would make sense seeing how laidback he is. Yamato Man is easygoing and a little on the shy side, living by the same style as his combat: honorably, justly, and calmly. While Yamato Man has always tried to uphold these principles, his belief in them was reinvigorated when he met the chivalrous Knight Man at the First Annual Robot Master Tournament. Yamato Man vowed to redouble his efforts, acting nobly like his newfound friend and inspiration\u2026 while abandoning the overly prideful parts. It\u2019s a wonder this bond even formed, considering Yamato\u2019s distaste for the English language, which Knight Man of course embodies with his representation of the United Kingdom. Maybe even the stoic Yamato Man finds Knight Man\u2019s thespian dialect funny.",
+    "robot_energy": 102,
+    "robot_weapons": 10,
+    "robot_attack": 121,
+    "robot_defense": 110,
+    "robot_speed": 67,
+    "robot_weaknesses": [
+        "earth",
+        "explode"
+    ],
+    "robot_resistances": [
+        "shadow",
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "yamato-spear"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "yamato-spear"
+    ],
+    "robot_quotes_start": "Watashi, dai Kazuo wa, anata o uchi makasu!",
+    "robot_quotes_taunt": "Watashi no bushi no yari o osoreru!",
+    "robot_quotes_victory": "Nagai Nihon wa raibu!",
+    "robot_quotes_defeat": "Watashi wa Nihon, anata o shippaishita...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,56 @@
+{
+    "robot_token": "shade-man",
+    "robot_number": "DWN-055",
+    "robot_name": "Shade Man",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "shade-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "chaosfantazy",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "shadow",
+    "robot_core2": "",
+    "robot_description": "Oil-Sucking Vampire Robot",
+    "robot_description2": "During one of his many attempts at world domination, Dr. Wily was running low on funds and could not afford to create a new robot from scratch. Instead, Dr Wily stole an entertainment robot from a haunted house, reprogrammed him, added powerful sound wave producing equipment, and named him Shade Man. The sound equipment was originally intended to control human minds, but due to some incorrect wiring, the sonar devices instead produced destructive sound waves, making Shade Man more effective as a combat robot. At least 100 decibels are required to shatter glass, so if Shade Man can burst through solid concrete with his Noise Crush, that should speak volumes of how strong his sound output is. Shade Man can also shoot petrifying glances from his eyes, causing any opponent to come to a halt. The Noise Crush requires high amounts of energy to work, so Shade Man often drains his opponents of oil, like a vampire to blood. His inner gyroscope is very easily disrupted, so hitting Shade Man with something fast moving or bouncy should take him out of the skies. Your worst nightmare should be his singing, however. Although he has spent countless hours vocally training, the sheer ear-splitting feeling his voice can be even worse than any weapon at his disposal.",
+    "robot_energy": 102,
+    "robot_weapons": 10,
+    "robot_attack": 110,
+    "robot_defense": 80,
+    "robot_speed": 108,
+    "robot_weaknesses": [
+        "impact",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "earth",
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "noise-crush"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "noise-crush"
+    ],
+    "robot_quotes_start": "My my, time for a well-deserved feast!",
+    "robot_quotes_taunt": "Ah, but what is a robot? Just a miserable pile of bolts and oil!",
+    "robot_quotes_victory": "One! One dead {target_robot}! Hahaha!",
+    "robot_quotes_defeat": "My thirst hasn't been quenched tonight..",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

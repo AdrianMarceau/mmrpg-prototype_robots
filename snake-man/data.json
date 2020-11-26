@@ -1,0 +1,81 @@
+{
+    "robot_token": "snake-man",
+    "robot_number": "DWN-022",
+    "robot_name": "Snake Man",
+    "robot_game": "MM3",
+    "robot_field": "serpent-column",
+    "robot_field2": "",
+    "robot_support": "petit-snakey",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "snake-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "milansaponja",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Snake Man (Amber Alt)",
+            "summons": 100,
+            "colour": "electric"
+        },
+        {
+            "token": "alt2",
+            "name": "Snake Man (Crimson Alt)",
+            "summons": 200,
+            "colour": "flame"
+        },
+        {
+            "token": "alt3",
+            "name": "Snake Man (Legacy Alt)",
+            "summons": 300,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Snake Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "nature",
+    "robot_core2": "",
+    "robot_description": "Stealthy Serpent Robot",
+    "robot_description2": "Someone has to traverse through narrow places no human could squeeze into, hence the conception of Snake Man. Unfortunately, Snake Man himself wasn't too fond of his occupation, and thus gladly took on the proposition to make Mega Man his prey! It's with this hunter mindset that Snake Man's battle tactics are entirely spun off of, utilizing and relying on ambush techniques in order to use the element of surprise to completely overwhelm opponents. And while Snake Man doesn't have any weapons that rely completely on force, he keeps track of prey through the usage of camouflaged miniature snakes, dubbed the \"Search Snakes.\" Fitting with his snake-ish appearance, Snake Man's vile and deceptive, a sneaky creature that revels in the cornering of all prey! This has led to multiple moral clashes between him and the mighty giant, Hard Man, whose beliefs in a fair and just battle naturally counter Snake Man's more behind-the-scenes mindset. Not everyone is Snake Man's enemy however, as he's known to find his comfort with his buddy, Toad Man; reportedly, this feeling is not mutual. Tenacity to a foul mindset, much like venom to a forked tongue, is a much too dangerous concoction to ever exist. Sadly, Snake Man's that exact dangerous mix",
+    "robot_energy": 99,
+    "robot_weapons": 10,
+    "robot_attack": 114,
+    "robot_defense": 78,
+    "robot_speed": 109,
+    "robot_weaknesses": [
+        "cutter",
+        "electric"
+    ],
+    "robot_resistances": [
+        "nature",
+        "impact"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "search-snake"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "search-snake"
+    ],
+    "robot_quotes_start": "The hunt beginsss.... It'sss foolisssh to try running!",
+    "robot_quotes_taunt": "Come out, come out, wherever you are...",
+    "robot_quotes_victory": "Another prey to fall into my jawssss....",
+    "robot_quotes_defeat": "I wasssn't the hunter... I wassss the hunted!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

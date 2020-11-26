@@ -1,0 +1,56 @@
+{
+    "robot_token": "commando-man",
+    "robot_number": "DWN-075",
+    "robot_name": "Commando Man",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "commando-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Minesweeper Tank Robot",
+    "robot_description2": "Commando Man was a robot specifically designed for intense weather, who used remote detonation techniques to clear various minefields all throughout the world. His main technique was the Commando Bomb, a small missile with quite an impact range, that can turn in sharp 90 degree angles. His armor was also intended to handle strong weather, and to be durable enough to handle an explosion. He also carries an antenna on his back, although electrical frequencies can disrupt his signals. He's a bit of a drill-sergeant type robot, giving direct orders he expects his men to follow. It's his way or the highway! He never gives up in a battle unless absolute necessary, and will always continue fighting, no matter the costs! All that matters is that he can taste victory at the end! He also has a disliking for renegades, and very well considers them the bane of his existence. This guy's all orders, but if you feel like disagreeing with him, it's all fine. Just expect a dozen Commando Bombs to be headed your way....",
+    "robot_energy": 107,
+    "robot_weapons": 10,
+    "robot_attack": 124,
+    "robot_defense": 104,
+    "robot_speed": 65,
+    "robot_weaknesses": [
+        "cutter",
+        "swift"
+    ],
+    "robot_resistances": [
+        "explode",
+        "earth"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "commando-bomb"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "commando-bomb"
+    ],
+    "robot_quotes_start": "Standing up your commander, cadet?! That smells like treason!",
+    "robot_quotes_taunt": "Fire! Fire everything we have! And then fire more!",
+    "robot_quotes_victory": "Alright, rebel with a cause, drop down and give me 20! STAT!",
+    "robot_quotes_defeat": "You may have won this battle, renegade, but I'll win the war...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

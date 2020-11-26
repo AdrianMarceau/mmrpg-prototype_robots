@@ -1,0 +1,70 @@
+{
+    "robot_token": "telly",
+    "robot_number": "TELY-001",
+    "robot_name": "Telly",
+    "robot_game": "MM2",
+    "robot_field": "atomic-furnace",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "telly",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Telly (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Telly (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Rotating Security Mecha",
+    "robot_description2": "The Telly series was built for security and police work in urban areas. Their photoreceptors house a pair of high-definition security cameras, as well as thermal and night vision systems. While most Tellies have limited offensive capabilities, Dr. Wily has installed flamethrower similar to Heat Man\u2019s Atomic Fire system on some of his stolen units.",
+    "robot_energy": 65,
+    "robot_weapons": 5,
+    "robot_attack": 20,
+    "robot_defense": 90,
+    "robot_speed": 25,
+    "robot_weaknesses": [
+        "freeze",
+        "water"
+    ],
+    "robot_resistances": [
+        "earth",
+        "nature",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "telly-burner"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "telly-burner"
+    ],
+    "robot_quotes_start": "Teri?",
+    "robot_quotes_taunt": "Teri-teri-teri!",
+    "robot_quotes_victory": "Teririririri!",
+    "robot_quotes_defeat": "Terriiiiii\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,56 @@
+{
+    "robot_token": "sniper-joe",
+    "robot_number": "SJOE-001",
+    "robot_name": "Sniper Joe",
+    "robot_game": "MM1",
+    "robot_field": "light-laboratory",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "sniper-joe",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "shield",
+    "robot_core2": "",
+    "robot_description": "Shield Sniper Mecha",
+    "robot_description2": "One of the few humanoid-based Mechas, the Sniper Joe was a mass-produced military model designed by the genius minds of Drs. Light and Wily, based heavily on the schematics of the prior Proto Man. More inventive in its programming than any other Mecha, the Sniper Joe is advanced enough to enact adaptable strategy routines, wield shields and firepower, or command vehicles. Despite there being thousands of this model, they are indeed all named 'Joe.'",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 40,
+    "robot_defense": 60,
+    "robot_speed": 50,
+    "robot_weaknesses": [
+        "explode",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "water",
+        "flame",
+        "electric",
+        "nature"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Yo!",
+    "robot_quotes_taunt": "",
+    "robot_quotes_victory": "",
+    "robot_quotes_defeat": "",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

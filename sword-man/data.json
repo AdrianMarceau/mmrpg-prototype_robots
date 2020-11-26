@@ -1,0 +1,55 @@
+{
+    "robot_token": "sword-man",
+    "robot_number": "DWN-059",
+    "robot_name": "Sword Man",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "sword-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Noble Swordsman Robot",
+    "robot_description2": "A robot built specifically for combat, Wily improved his skills further with the help of the Evil Energy he obtained, which made Sword Man a tough combatant. He mainly uses the Flame Sword in battle, attacking his enemies with a burning slash. This sword was a relic of the past, one which Wily stole and outfitted Sword Man with. However, the sword proved to be too heavy, so Wily attached an anti-gravitational device within him, allowing his body to split into two and completely defy the laws of gravity. Sword Man's design is a bit outdated, but he's proved to be quite the swordsman, having a rival in the form of Blade Man. He's also known for being rather polite and upfront about things; If he happens to attack you, it's simply business. Don't worry, it's nothing personal! He also prefers to have fair fights whenever he can, and will always fight his best. Yes, so the sword is a bit dated at this point, especially when there's opponents that can reverse gravity and the like, but Sword Man will still stand up against these foes. Like he so commonly states, it's nothing personal, just orders.",
+    "robot_energy": 100,
+    "robot_weapons": 10,
+    "robot_attack": 129,
+    "robot_defense": 80,
+    "robot_speed": 91,
+    "robot_weaknesses": [
+        "water",
+        "earth"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "flame"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "flame-sword"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "flame-sword"
+    ],
+    "robot_quotes_start": "Let us make this a fair fight, shall we?",
+    "robot_quotes_taunt": "It's nothing personal, but I have my orders.",
+    "robot_quotes_victory": "I'm afraid there is no second chance for you.",
+    "robot_quotes_defeat": "It would seem you are the better robot...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

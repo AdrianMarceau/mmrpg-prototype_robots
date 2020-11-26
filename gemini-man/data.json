@@ -1,0 +1,85 @@
+{
+    "robot_token": "gemini-man",
+    "robot_number": "DWN-019",
+    "robot_name": "Gemini Man",
+    "robot_game": "MM3",
+    "robot_field": "reflection-chamber",
+    "robot_field2": "",
+    "robot_support": "nitron-r",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "gemini-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Gemini Man (Kunzite Alt)",
+            "summons": 100,
+            "colour": "laser"
+        },
+        {
+            "token": "alt2",
+            "name": "Gemini Man (Emerald Alt)",
+            "summons": 200,
+            "colour": "energy"
+        },
+        {
+            "token": "alt3",
+            "name": "Gemini Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "freeze"
+        },
+        {
+            "token": "alt9",
+            "name": "Gemini Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "crystal",
+    "robot_core2": "",
+    "robot_description": "Twin Fighters Robot",
+    "robot_description2": "Being able to clone yourself can be considered a spectacular battle feat, but creating the illusion of being able to do so is even more effective. That's Gemini Man's modus operandi, a robot co-designed by both Drs. Light and Wily to ward off any potential smugglers from their energy mining efforts. As subtly aforementioned, Gemini Man has the special capability of forming holographic imitations of himself to confuse and overwhelm his opposition, but that's not his sole gimmick; he's capable of also spouting off the Gemini Laser, a high-piercing beam of light that refracts off surfaces to specifically overwhelm opponents through surprise. He's a tricky man of mystery, but not without his fair share of personality quirks. His most notable issue is his overwhelming narcissism; really, a narcissism that goes beyond the regular definition and into a borderline obsession. An appropriate obsession though, seeing the whole nature of his replication technique and everything. Still, not an entirely healthy obsession... Anyway, moving on, Gemini Man's still a robot willing to put everything on the line for his comrades and brethren, making him an incredibly reliable robot on the field. But, for those who find themselves battling against Gemini Man: might be worth double-checking that you're fighting the real guy, yeah?",
+    "robot_energy": 98,
+    "robot_weapons": 10,
+    "robot_attack": 93,
+    "robot_defense": 84,
+    "robot_speed": 125,
+    "robot_weaknesses": [
+        "nature",
+        "flame"
+    ],
+    "robot_resistances": [
+        "freeze",
+        "electric"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "gemini-clone"
+        },
+        {
+            "level": 2,
+            "token": "gemini-laser"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "gemini-laser"
+    ],
+    "robot_quotes_start": "Which one of us is the real one?",
+    "robot_quotes_taunt": "Beat us? We'd like to see you try!",
+    "robot_quotes_victory": "My clones were pretty impressive, don't you think?",
+    "robot_quotes_defeat": "T-there was a snake! It distracted us! No, really!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

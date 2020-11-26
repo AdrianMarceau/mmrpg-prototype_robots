@@ -1,0 +1,81 @@
+{
+    "robot_token": "top-man",
+    "robot_number": "DWN-021",
+    "robot_name": "Top Man",
+    "robot_game": "MM3",
+    "robot_field": "spinning-greenhouse",
+    "robot_field2": "",
+    "robot_support": "spin-fiend",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "top-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "elitep1",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Top Man (Purple Alt)",
+            "summons": 100,
+            "colour": "time"
+        },
+        {
+            "token": "alt2",
+            "name": "Top Man (Green Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Top Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cutter"
+        },
+        {
+            "token": "alt9",
+            "name": "Top Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Dizzy Spinning Robot",
+    "robot_description2": "Spin, spin, spin to win! That's Top Man's prime philosophy in life, a Robot Master created during Light and Wily's truce-based partnership to locate Energy Elements. To be entirely honest, a robot who spins doesn't seem entirely useful for mining alien compounds, but nor does it really matter; Top Man went on to face Mega Man in combat using his dizzying Top Spin attack. This technique causes Top Man to sprout out miniature tops, and while on initial impact it's admittedly weak, its strength comes from the tops hitting continuously to stack up damage. And while one can easily surmise this themselves, Top Man's also capable of spinning his body rapidly (although only for his own amusement; it's awfully ineffective at actually hitting people!) As for his personality, Top Man specializes in making arrangements on Dr. Wily's behalf, being somewhat of a smooth talker. However, his character is most brilliantly displayed through his actions-- specifically, the action of dance! A superb dancer known for pushing his luck, he moves gracefully and smoothly, with his absolute favorite being Ballroom Dance. Alas, while he initially had dreams of stardom in his youth, reality slowly crept in and faded his hopes, Top Man now settling for being a dance instructor in his free time. Kinda makes all that spinning sadder when it's all a facade for his crushed dreams, huh?",
+    "robot_energy": 93,
+    "robot_weapons": 10,
+    "robot_attack": 108,
+    "robot_defense": 83,
+    "robot_speed": 116,
+    "robot_weaknesses": [
+        "impact",
+        "explode"
+    ],
+    "robot_resistances": [
+        "time",
+        "laser"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "top-spin"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "top-spin"
+    ],
+    "robot_quotes_start": "The floor's been set, {target_robot}! Let's dance!",
+    "robot_quotes_taunt": "Yeah, yeah, we're really rolling now!",
+    "robot_quotes_victory": "Dropping out already? D'aw, I hardly started spinning!",
+    "robot_quotes_defeat": "Augh, now my head's the thing spinning...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

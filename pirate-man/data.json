@@ -1,0 +1,56 @@
+{
+    "robot_token": "pirate-man",
+    "robot_number": "KGN-004",
+    "robot_name": "Pirate Man",
+    "robot_game": "RnF",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "pirate-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Scurvy Sea-Dog Robot",
+    "robot_description2": "Yar har har, prepare for your vessel to be boarded with this robot on deck! His creator was a fugitive from the law, and to continue his life's work, he created Pirate Man to continue his lifelong work of pillaging vessels. At first, Pirate Man wandered aimlessly, but the second he \"found\" a suitable vessel, he began his plunders, aided by his special weapon, Remote Mine. A volatile explosive mine, it can be stealthily detonated by its user at any time. After a while, Pirate Man began doubting his life style, but was invigorated when he joined King's army, plundering the sea like never before. A shining example of his namesake, He's a fearless and ruthless captain, going at any means to get his goal, moral or not. Pirate Man will also do anything to gain further profit, quickly garnering a reputation and being gifted the cognomen, \"Scourge of the Seven Seas.\" After King's defeat, he was confronted by Dive Man and his fleet. Despite his long immoral history, Pirate Man immediately issued his surrender-- Being a pirate just wasn't the way he wanted to live anymore. He now serves as a reformed ship captain, sailing the seven seas he loves so vastly without the plight of pirating. Despite giving up his scallywag life-style, he still fights like a pirate, so beware the Scourge of the Seven Seas!",
+    "robot_energy": 99,
+    "robot_weapons": 10,
+    "robot_attack": 113,
+    "robot_defense": 104,
+    "robot_speed": 84,
+    "robot_weaknesses": [
+        "flame",
+        "missile"
+    ],
+    "robot_resistances": [
+        "water",
+        "earth"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "remote-mine"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "remote-mine"
+    ],
+    "robot_quotes_start": "Avast, me harties! Prepare for battle!",
+    "robot_quotes_taunt": "Don't try to beg for mercy, scallywag!",
+    "robot_quotes_victory": "Yo ho, yo ho, a pirate's life for me...",
+    "robot_quotes_defeat": "Shiver me timbers! Parley! Parley!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

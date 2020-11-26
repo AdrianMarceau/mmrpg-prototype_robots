@@ -1,0 +1,70 @@
+{
+    "robot_token": "drill-mole",
+    "robot_number": "MOLE-001",
+    "robot_name": "Drill Mole",
+    "robot_game": "MM4",
+    "robot_field": "mineral-quarry",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "drill-mole",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Drill Mole (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Drill Mole (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Ground Excavation Mecha",
+    "robot_description2": "The Drill Mole series is capable of tunneling through solid bedrock, leading them to be employed for mining and construction. Due to their small size, they operate in swarms when excavating large areas.",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 90,
+    "robot_defense": 25,
+    "robot_speed": 55,
+    "robot_weaknesses": [
+        "swift",
+        "explode"
+    ],
+    "robot_resistances": [
+        "wind",
+        "crystal",
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "earth"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "mole-rush"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "mole-rush"
+    ],
+    "robot_quotes_start": "Moru! | Moru! | Moru?",
+    "robot_quotes_taunt": "Mo\u2026ru! | Ru\u2026mo! | Mo\u2026ru!",
+    "robot_quotes_victory": "Moooooooo!!! | Ruuuuu!!! | Moooooooo!!!",
+    "robot_quotes_defeat": "Ruu\u2026! | Moo\u2026! | Ruu\u2026!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,84 @@
+{
+    "robot_token": "quick-man",
+    "robot_number": "DWN-012",
+    "robot_name": "Quick Man",
+    "robot_game": "MM2",
+    "robot_field": "underground-laboratory",
+    "robot_field2": "",
+    "robot_support": "spring-head",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "quick-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "metalman",
+    "robot_image_editor2": "rhythmbca",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Quick Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Quick Man (Green Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Quick Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt9",
+            "name": "Quick Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Lightspeed Boomerang Robot",
+    "robot_description2": "Designed for high-speed combat, Quick Man is easily one of the fastest man-made robots, outpacing just about anything with enough sentience to challenge him. Comprised of light-weight materials, he's able to rapidly dash around and attack his opponent with nothing but his sheer velocity and his signature weapon, the Quick Boomerang. Quick Man's a confident and cunning robot, and while it may seem like he's always got a looming strategy up his sleeve, in actuality every action he makes is improvised and based all on effective quick thinking. At the same time, he's impulsive and impatient, and is willing to drop whatever he's doing to prove his worth in a race. Notably, when Quick Man was competing in the Battle and Chase competition, he forfeited his lead simply because he got bored and would've rather spent his time racing against Turbo Man, a fellow Robot Master rival of his. Quick Man's speed is absolutely phenomenal, and despite being one of Dr. Wily's first attempts of individually making a robot, Quick Man still serves to be one of the fastest robots in Wily's arsenal. However, because of his lightweight composition, his other capabilities suffer as a result. Still, it's hard to hit what you can't keep up with.",
+    "robot_energy": 97,
+    "robot_weapons": 10,
+    "robot_attack": 75,
+    "robot_defense": 68,
+    "robot_speed": 160,
+    "robot_weaknesses": [
+        "time",
+        "explode"
+    ],
+    "robot_resistances": [
+        "swift"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "impact"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "quick-strike"
+        },
+        {
+            "level": 2,
+            "token": "quick-boomerang"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Let's see if you can keep up with my speed!",
+    "robot_quotes_taunt": "Geez, a robot like you couldn't even keep up with the ground!",
+    "robot_quotes_victory": "Seriously, what'd you expect?... I mean, I'm {this_robot}!",
+    "robot_quotes_defeat": "My pride... You've hurt me where I can be hurt the most!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

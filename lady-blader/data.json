@@ -1,0 +1,71 @@
+{
+    "robot_token": "lady-blader",
+    "robot_number": "LBLA-001",
+    "robot_name": "Lady Blader",
+    "robot_game": "MM4",
+    "robot_field": "rusty-scrapheap",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "lady-blader",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Lady Blader (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Lady Blader (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Bamboo Copter Mecha",
+    "robot_description2": "Unlike earlier Blader models, the Lady Blader series can be carried to safety by a short-distance jet engine if their propellers are damaged or detached. Thus, said propellers can be launched offensively, with the Lady Blader\u2019s jet holding it aloft until another can be installed.",
+    "robot_energy": 55,
+    "robot_weapons": 5,
+    "robot_attack": 35,
+    "robot_defense": 45,
+    "robot_speed": 65,
+    "robot_weaknesses": [
+        "missile",
+        "flame"
+    ],
+    "robot_resistances": [
+        "earth",
+        "nature"
+    ],
+    "robot_affinities": [
+        "wind"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "blade-spinner"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "blade-spinner"
+    ],
+    "robot_quotes_start": "Taketaketake!",
+    "robot_quotes_taunt": "Teeeeen&hellipto!",
+    "robot_quotes_victory": "Take-take! Taketento!",
+    "robot_quotes_defeat": "Takeeeeee\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

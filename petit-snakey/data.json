@@ -1,0 +1,69 @@
+{
+    "robot_token": "petit-snakey",
+    "robot_number": "PSNK-001",
+    "robot_name": "Petit Snakey",
+    "robot_game": "MM3",
+    "robot_field": "serpent-column",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "petit-snakey",
+    "robot_image_size": 80,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Petit Snakey (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Petit Snakey (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "nature",
+    "robot_core2": "",
+    "robot_description": "Small Serpent Mecha",
+    "robot_description2": "Dr. Wily developed the Petit Snakey series to guard Snake Man\u2019s lair at the Serpent Columns. Their highly modular design led Wily to create several varieties, including the gargantuan Big Snakey.",
+    "robot_energy": 40,
+    "robot_weapons": 5,
+    "robot_attack": 70,
+    "robot_defense": 55,
+    "robot_speed": 35,
+    "robot_weaknesses": [
+        "electric",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "swift",
+        "nature"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "snake-shot"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "snake-shot"
+    ],
+    "robot_quotes_start": "Ssssss!!",
+    "robot_quotes_taunt": "Sssssss!",
+    "robot_quotes_victory": "Nekiii! Nekiiiii!",
+    "robot_quotes_defeat": "Ssssssss\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

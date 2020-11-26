@@ -1,0 +1,57 @@
+{
+    "robot_token": "venus",
+    "robot_number": "SRN-003",
+    "robot_name": "Venus",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "explode",
+    "robot_core2": "water",
+    "robot_description": "Soapy Crustacean Stardroid",
+    "robot_description2": "When the Stardroids led a conquest on Earth, Venus waited in his lair to face Mega Man in battle. He mainly focused on attacking with the Bubble Bomb, an explosive bomb that was covered in a water bubble, which proved to be a powerful and unexpected weapon and later inspired the creation of Burst Man. Leave it to the Stardroids to set trends with unique and strange weapons! He's also made out of a sturdy material designed to handle explosives, and can take what he can dish out. Much like a crab, Venus can only walk sideways, not forward, which honestly makes him look a bit hilarious when walking. Don't make fun of him for it though, as he's an extremely aggressive robot. This guy would probably kick a puppy if he had the chance! He also loves cleanliness, going so far to wash his head despite having a lack of hair. Despite being an alien robot, Venus is clearly a robot inspired by something crab-like....which could mean Crustaceans exist elsewhere in the universe too? With such a short temper and his plethora of explosives, Venus isn't a guy to tick off!",
+    "robot_energy": 120,
+    "robot_weapons": 20,
+    "robot_attack": 200,
+    "robot_defense": 218,
+    "robot_speed": 162,
+    "robot_weaknesses": [
+        "missile",
+        "explode"
+    ],
+    "robot_resistances": [
+        "water"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "bubble-bomb"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "bubble-bomb"
+    ],
+    "robot_quotes_start": "Worthless litter, always picking fights to ruin my mood!",
+    "robot_quotes_taunt": "WHY I OUTTA! I'll blow you to shreds to settle my nerves!",
+    "robot_quotes_victory": "Your planet's hopeless... Well, maybe your shampoo's not half-bad.",
+    "robot_quotes_defeat": "Ugh... A bath would really calm the nerves right now...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

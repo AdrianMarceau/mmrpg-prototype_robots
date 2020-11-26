@@ -1,0 +1,71 @@
+{
+    "robot_token": "bulb-blaster",
+    "robot_number": "BULB-001",
+    "robot_name": "Bulb Blaster",
+    "robot_game": "MM4",
+    "robot_field": "lighting-control",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "bulb-blaster",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Bulb Blaster (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Bulb Blaster (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "100W Bulb Mecha",
+    "robot_description2": "Each model of the Bulb Blaster series houses a 100-watt lamp. Their uses are varied, from providing light to impoverished communities to guiding rescue workers through collapsed buildings.",
+    "robot_energy": 45,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 40,
+    "robot_speed": 55,
+    "robot_weaknesses": [
+        "water",
+        "electric"
+    ],
+    "robot_resistances": [
+        "freeze",
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "earth"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "flash-bulb"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "flash-bulb"
+    ],
+    "robot_quotes_start": "Watton!",
+    "robot_quotes_taunt": "Wat\u2026ton?",
+    "robot_quotes_victory": "Watton-ton-ton-ton!",
+    "robot_quotes_defeat": "Waaaaaa\u2026!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

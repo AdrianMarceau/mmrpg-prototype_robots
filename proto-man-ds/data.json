@@ -1,0 +1,129 @@
+{
+    "robot_token": "proto-man-ds",
+    "robot_number": "DSN-0C1",
+    "robot_name": "Proto Man DS",
+    "robot_game": "MMRPGP",
+    "robot_field": "final-destination-2",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "male",
+    "robot_image": "proto-man-ds",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "shadow",
+    "robot_core2": "",
+    "robot_description": "Dark Soul Robot",
+    "robot_description2": "",
+    "robot_energy": 120,
+    "robot_weapons": 20,
+    "robot_attack": 145,
+    "robot_defense": 110,
+    "robot_speed": 125,
+    "robot_weaknesses": [
+        "laser"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "shadow"
+    ],
+    "robot_immunities": [
+        "explode",
+        "missile"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        },
+        {
+            "level": 0,
+            "token": "bright-burst"
+        },
+        {
+            "level": 0,
+            "token": "rain-flush"
+        },
+        {
+            "level": 0,
+            "token": "drill-blitz"
+        },
+        {
+            "level": 0,
+            "token": "ring-boomerang"
+        },
+        {
+            "level": 0,
+            "token": "dust-crusher"
+        },
+        {
+            "level": 0,
+            "token": "skull-barrier"
+        },
+        {
+            "level": 2,
+            "token": "proto-buster"
+        },
+        {
+            "level": 4,
+            "token": "proto-shield"
+        },
+        {
+            "level": 8,
+            "token": "proto-strike"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "attack-support",
+        "defense-support",
+        "speed-support",
+        "energy-support",
+        "attack-assault",
+        "defense-assault",
+        "speed-assault",
+        "energy-assault",
+        "attack-shuffle",
+        "defense-shuffle",
+        "speed-shuffle",
+        "energy-shuffle",
+        "repair-mode",
+        "experience-booster",
+        "recovery-booster",
+        "damage-booster",
+        "experience-breaker",
+        "recovery-breaker",
+        "damage-breaker",
+        "mega-buster",
+        "bass-buster",
+        "roll-buster",
+        "disco-buster",
+        "rhythm-buster",
+        "mega-ball",
+        "mega-slide",
+        "bass-crush",
+        "bass-baroque",
+        "proto-buster",
+        "proto-shield",
+        "proto-strike",
+        "drill-blitz",
+        "rain-flush",
+        "bright-burst",
+        "ring-boomerang",
+        "dust-crusher",
+        "skull-barrier"
+    ],
+    "robot_quotes_start": "I'm the new and improved version, now with more power!",
+    "robot_quotes_taunt": "All the power but none of the glitches, better than the original!",
+    "robot_quotes_victory": "My robot selection was right on, this body is fantastic! And the scarf's rad too!",
+    "robot_quotes_defeat": "Copying a prototype model may have been a bad idea...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

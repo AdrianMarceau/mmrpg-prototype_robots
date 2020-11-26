@@ -1,0 +1,91 @@
+{
+    "robot_token": "guts-man",
+    "robot_number": "DLN-004",
+    "robot_name": "Guts Man",
+    "robot_game": "MM1",
+    "robot_field": "mountain-mines",
+    "robot_field2": "",
+    "robot_support": "picket-man",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "guts-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Guts Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Guts Man (Green Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Guts Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "missile"
+        },
+        {
+            "token": "alt4",
+            "name": "Guts Man (Wood Guts Alt)",
+            "summons": 400,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Guts Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "impact",
+    "robot_core2": "",
+    "robot_description": "Civil Engineering Robot",
+    "robot_description2": "Guts Man was built for civil engineering, and for the sake of that duty, he's been gifted tremendous strength. With the Super Arm modification he has, he can pick up a huge object many times heavier than himself and throw it like it was absolutely nothing. Give him something practically weightless in comparison to his strength, like maybe your average robot, and he can chuck it through a football field! Guts Man may be hot-tempered and stubborn, maybe overly stubborn, but deep inside it may be a surprise to hear he's a real softy. In fact, he loves Karaoke and tends to visit the local Karaoke bar almost every day after work, and it's been said his singing is almost indescribable, a sound no words could ever give justice to. But all of that happens after work; Guts Man never takes a break until his shift completely wraps up. At the end of the day however, he does really mean well, and despite his rough exterior and his muscles of steel, the guy's got a heart of gold.",
+    "robot_energy": 108,
+    "robot_weapons": 10,
+    "robot_attack": 128,
+    "robot_defense": 112,
+    "robot_speed": 52,
+    "robot_weaknesses": [
+        "explode",
+        "time"
+    ],
+    "robot_resistances": [
+        "impact"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "super-throw"
+        },
+        {
+            "level": 2,
+            "token": "super-arm"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "super-throw",
+        "super-arm"
+    ],
+    "robot_quotes_start": "Hey, hey! Wimps like you don't belong on a foreman's turf!",
+    "robot_quotes_taunt": "It's time to break through! Maximum power!!!",
+    "robot_quotes_victory": "My shift's about over, {this_player}... So let's start Karaoke Hour!",
+    "robot_quotes_defeat": "You got real guts, kid! I won't forget this!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

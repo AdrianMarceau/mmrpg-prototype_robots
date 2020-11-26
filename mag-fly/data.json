@@ -1,0 +1,69 @@
+{
+    "robot_token": "mag-fly",
+    "robot_number": "MFLY-001",
+    "robot_name": "Mag Fly",
+    "robot_game": "MM3",
+    "robot_field": "magnetic-generator",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "mag-fly",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Mag Fly (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Mag Fly (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Flying Magnet Mecha",
+    "robot_description2": "The Mag Fly series is used in warehouses, docks, and scrapyards across the word. Their powerful electromagnets can haul up to 200 kilograms of cargo.\u201d",
+    "robot_energy": 20,
+    "robot_weapons": 5,
+    "robot_attack": 20,
+    "robot_defense": 75,
+    "robot_speed": 85,
+    "robot_weaknesses": [
+        "flame",
+        "cutter",
+        "wind"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "electric"
+    ],
+    "robot_immunities": [
+        "earth"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "magfly-missile"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "magfly-missile"
+    ],
+    "robot_quotes_start": "Furai!",
+    "robot_quotes_taunt": "Magu! Magu!",
+    "robot_quotes_victory": "Magufurai!",
+    "robot_quotes_defeat": "Fuuurrraaaiiii\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,87 @@
+{
+    "robot_token": "ice-man",
+    "robot_number": "DLN-005",
+    "robot_name": "Ice Man",
+    "robot_game": "MM1",
+    "robot_field": "arctic-jungle",
+    "robot_field2": "",
+    "robot_support": "peng",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "ice-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Ice Man (Pink Alt)",
+            "summons": 100,
+            "colour": "laser"
+        },
+        {
+            "token": "alt2",
+            "name": "Ice Man (Mint Alt)",
+            "summons": 200,
+            "colour": "energy"
+        },
+        {
+            "token": "alt3",
+            "name": "Ice Man (Legacy Alt)",
+            "summons": 300,
+            "colour": "freeze"
+        },
+        {
+            "token": "alt9",
+            "name": "Ice Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "freeze",
+    "robot_core2": "",
+    "robot_description": "Arctic Exploration Robot",
+    "robot_description2": "Created to function under cold climate conditions, Ice Man's the most comfortable playing out in the snow. His Ice Slasher is a sharp piece of ice he form to freeze opponents, so cool it can stop a fiery opponent right in their tracks. His Ice Breath is also pretty impressive, releasing cold pieces of frost to immobilize his opponents. Ice Man's a pretty huge show-off, believing that he's the coolest robot out there, and the admiration from Freeze Man doesn\u2019t really hurt his ego. Ice Man loves having snow fights and he absolutely loves the winter season, but he hates getting remotely near a sauna, due to feeling stuffy in them. Although one might suppose Ice Man can\u2019t function well in hot environments, he performs averagely well in them, he simply just wouldn't want to be caught dead in them. He also has a bit of a crush on the acclaimed TV journalist Plum, but don't tell anyone! Ice Man's willingness to demonstrate how cool he is may just come from an inflated ego, but any of the fighters who might've tumbled with him could support that belief. Granted, they likely don't mean cool in the same way, but he'll take any chance he can get to show off.",
+    "robot_energy": 92,
+    "robot_weapons": 10,
+    "robot_attack": 104,
+    "robot_defense": 96,
+    "robot_speed": 108,
+    "robot_weaknesses": [
+        "electric",
+        "explode"
+    ],
+    "robot_resistances": [
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "freeze"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "ice-breath"
+        },
+        {
+            "level": 2,
+            "token": "ice-slasher"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "ice-breath",
+        "ice-slasher"
+    ],
+    "robot_quotes_start": "You better watch out, or... I'll put you on ice!",
+    "robot_quotes_taunt": "Freeze it at all costs, soldier! That's my motto for keeping my cool!",
+    "robot_quotes_victory": "Did you see that, everyone? That's Ice Man's signature handiwork!",
+    "robot_quotes_defeat": "Sniff.. I'm...I'm not gonna go home and cry... yet!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

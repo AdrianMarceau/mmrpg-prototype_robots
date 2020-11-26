@@ -1,0 +1,84 @@
+{
+    "robot_token": "air-man",
+    "robot_number": "DWN-010",
+    "robot_name": "Air Man",
+    "robot_game": "MM2",
+    "robot_field": "sky-ridge",
+    "robot_field2": "",
+    "robot_support": "fan-fiend",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "air-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Air Man (Sandstorm Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Air Man (Eco Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Air Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "weapons"
+        },
+        {
+            "token": "alt9",
+            "name": "Air Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Powerful Winds Robot",
+    "robot_description2": "Created by Dr. Wily to serve as a combat robot, Air Man was given an unusual yet intimidating look; instead of spending resources on developing an individual head, Dr. Wily simply put Air Man's face right on his torso! Air Man employs the wind to attack and push aside his enemies, generating powerful gusts and tornadoes with the propeller installed on his body. He can also pump wind through his body directly to his buster, allowing him to create a barrage of condensed wind he refers to as the Air Shooter. Despite having a fan for a mouth, Air Man can speak perfectly clear, and in fact speaks too much. He's often been referred to as condescending and had bored even the most stalwart of robots with his speeches. Most of the time, he grandiosely talks about his own feats and his fortitude as a fighter, claiming he believes there will never be a robot who could ever beat him. When he's not blowing hot air, Air Man enjoys wind surfing and playing the Japanese card game, Menko. Regardless of all his big talk, Air Man's winds are no laughing matter. They can completely blow away your expectations--and you as well!",
+    "robot_energy": 105,
+    "robot_weapons": 10,
+    "robot_attack": 86,
+    "robot_defense": 131,
+    "robot_speed": 78,
+    "robot_weaknesses": [
+        "nature",
+        "impact"
+    ],
+    "robot_resistances": [
+        "water"
+    ],
+    "robot_affinities": [
+        "wind"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "air-shooter"
+        },
+        {
+            "level": 2,
+            "token": "air-twister"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "{target_robot}? What wind blows you here?",
+    "robot_quotes_taunt": "I've hardly begun! I'll ramp up my winds and blow you away!",
+    "robot_quotes_victory": "Poor {target_robot}.... You should've known you can't beat me.",
+    "robot_quotes_defeat": "Ahw.. Ahw, mya propelleh brokuh! Noooou!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

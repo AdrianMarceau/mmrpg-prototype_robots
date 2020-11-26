@@ -1,0 +1,69 @@
+{
+    "robot_token": "crazy-cannon",
+    "robot_number": "CRAZ-001",
+    "robot_name": "Crazy Cannon",
+    "robot_game": "MM2",
+    "robot_field": "photon-collider",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "crazy-cannon",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Crazy Cannon (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Crazy Cannon (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "time",
+    "robot_core2": "",
+    "robot_description": "Tachyon Cannon Mecha",
+    "robot_description2": "Based on an unused security robot design, Dr. Wily outfitted each unit of the Crazy Cannon series with a weaker variant of the Tachyon Capacitor used in the construction of Flash Man. Said capacitor allows the Crazy Cannon to fire quantum energy shots faster than the speed of light.",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 100,
+    "robot_defense": 35,
+    "robot_speed": 35,
+    "robot_weaknesses": [
+        "nature",
+        "earth"
+    ],
+    "robot_resistances": [
+        "space",
+        "swift"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "time"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "cannon-shot"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "cannon-shot"
+    ],
+    "robot_quotes_start": "Shotto!",
+    "robot_quotes_taunt": "Sho! Sho! Shotto!",
+    "robot_quotes_victory": "Shoooooooo!",
+    "robot_quotes_defeat": "Shooooo\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,97 @@
+{
+    "robot_token": "bass",
+    "robot_number": "SWN-001",
+    "robot_name": "Bass",
+    "robot_game": "MM7",
+    "robot_field": "wily-castle",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "bass",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "copy",
+    "robot_core2": "",
+    "robot_description": "Strongest Challenger Robot",
+    "robot_description2": "Dr. Wily, having experienced failure upon failure upon even more failure, concluded that perhaps his Robot Masters were too focused on one singular aspect, hence their piddling results against his nemesis. After going through Mega Man's schematics, he eventually decided to make a robot just as adaptable as Mega Man, the end result being Bass, the most recurring rival of the Blue Bomber. Bass is equipped with the rapid-fire Bass Buster, an accelerating dash, and the Variable Weapons System, just like Mega Man. He also generously uses the Super Adaptor technology he \"borrowed\" from Dr. Light, which allows him to fuse with Treble, his support mecha. Although Bass is a diamond in the roughs of Wily's forces, commanding him is nigh impossible! He\u2019s reckless and acts entirely on his own accord, leading him to go against Dr. Wily a multitude of times! Although one might suppose Bass is evil incarnate, he's aided many attempts to maintain world peace, stopping a robot revolution and a robot-influenza, illustrating that perhaps Bass isn't as cruel as he lets on. Even the galactic scale of justice robot, Duo, could feel a glimmer of it in Bass, even if that sense of justice is motivated entirely by self-interest. Like the tails to Mega Man's heads, they both strongly fight for what they believe in.... These beliefs just happen to conflict pretty often.",
+    "robot_energy": 105,
+    "robot_weapons": 10,
+    "robot_attack": 85,
+    "robot_defense": 100,
+    "robot_speed": 110,
+    "robot_weaknesses": [
+        "shadow",
+        "space"
+    ],
+    "robot_resistances": [
+        "missile"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        },
+        {
+            "level": 12,
+            "token": "bass-buster"
+        },
+        {
+            "level": 16,
+            "token": "bass-crush"
+        },
+        {
+            "level": 22,
+            "token": "bass-baroque"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "attack-support",
+        "defense-support",
+        "speed-support",
+        "energy-support",
+        "attack-assault",
+        "defense-assault",
+        "speed-assault",
+        "energy-assault",
+        "attack-shuffle",
+        "defense-shuffle",
+        "speed-shuffle",
+        "energy-shuffle",
+        "experience-booster",
+        "recovery-booster",
+        "damage-booster",
+        "experience-breaker",
+        "recovery-breaker",
+        "damage-breaker",
+        "mega-buster",
+        "proto-buster",
+        "roll-buster",
+        "disco-buster",
+        "rhythm-buster",
+        "mega-ball",
+        "mega-slide",
+        "proto-shield",
+        "proto-strike",
+        "bass-buster",
+        "bass-crush",
+        "bass-baroque",
+        "item-swap"
+    ],
+    "robot_quotes_start": "You think you're worth the efforts of the strongest robot? Then prove it!",
+    "robot_quotes_taunt": "Justice, chaos, I couldn't care less! Being the strongest is all that matters!",
+    "robot_quotes_victory": "Yes! Behold the power of the world's strongest robot!",
+    "robot_quotes_defeat": "This is idiotic... There shouldn't be anyone stronger than me!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

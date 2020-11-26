@@ -1,0 +1,55 @@
+{
+    "robot_token": "tornado-man",
+    "robot_number": "DLN-066",
+    "robot_name": "Tornado Man",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "tornado-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Weather Control Robot",
+    "robot_description2": "Designed by Dr. Light to lead the operations of a weather regulation facility, Tornado Man has control over any weather related obstacle. Whether they be blizzards or even mini-bursts, Tornado can fend off the storm using the strong fans Dr. Light equipped on Tornado Man to manipulate the air current, allowing him to dissipate incoming storms. While Tornado Man was apart of the robot revolt, he made cyclones from the air current to both carry him around and to launch at opponents, lifting both them and small objects and platforms skyward. His Tornado Blow in specific was able to create several cyclones around him to carry opposing robots up and letting them crash down to the ground. Out of his Robot Master line, Tornado Man is always one, if not the most level-headed of his group and has the most leading qualities, despite the head-in-the-cloud jokes he always receives. However, if Tornado Man didn't constantly have his head in the clouds, there would be about 90% more storms in the area, so be thankful he has his eyes in the sky!",
+    "robot_energy": 98,
+    "robot_weapons": 10,
+    "robot_attack": 90,
+    "robot_defense": 73,
+    "robot_speed": 139,
+    "robot_weaknesses": [
+        "electric",
+        "freeze"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "wind"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "tornado-blow"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "tornado-blow"
+    ],
+    "robot_quotes_start": "Time for you to face the eye of the storm!",
+    "robot_quotes_taunt": "I've weathered hurricanes, and I can weather you, {target_robot}!",
+    "robot_quotes_victory": "I control the wind, the weather-- and I'll control my own fate.",
+    "robot_quotes_defeat": "All I was was dust in the wind...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

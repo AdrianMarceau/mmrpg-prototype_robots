@@ -1,0 +1,71 @@
+{
+    "robot_token": "tackle-fire",
+    "robot_number": "FIRE-001",
+    "robot_name": "Tackle Fire",
+    "robot_game": "MM1",
+    "robot_field": "steel-mill",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "tackle-fire",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Tackle Fire (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Tackle Fire (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Burning Spirit Mecha",
+    "robot_description2": "The Tackle Fire series, originally dubbed the Changkey, are living fireballs capable of generating temperatures up to 1500\u00b0C. A single Tackle Fire can melt through steel with ease.",
+    "robot_energy": 65,
+    "robot_weapons": 5,
+    "robot_attack": 110,
+    "robot_defense": 10,
+    "robot_speed": 15,
+    "robot_weaknesses": [
+        "water",
+        "wind",
+        "freeze",
+        "earth"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "flame"
+    ],
+    "robot_immunities": [
+        "impact",
+        "cutter"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "fire-tackle"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "fire-tackle"
+    ],
+    "robot_quotes_start": "Kikikiki!",
+    "robot_quotes_taunt": "Chanki\u2026 Ki?",
+    "robot_quotes_victory": "Ki! Ki! Chankiiii!",
+    "robot_quotes_defeat": "Chaaaaaan\u2026!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

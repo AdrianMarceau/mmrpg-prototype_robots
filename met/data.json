@@ -1,0 +1,58 @@
+{
+    "robot_token": "met",
+    "robot_number": "METT-001",
+    "robot_name": "Met",
+    "robot_game": "MM1",
+    "robot_field": "gentle-countryside",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "met",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "",
+    "robot_core2": "",
+    "robot_description": "Hard Helmet Mecha",
+    "robot_description2": "Any robot who's spent time on the battlefield will recognize this popular Mecha! The infamous Met, otherwise referred to as the Metool, Mettal, Mettaur, was originally designed for construction and mining assistance, but later came to be repurposed and utilized for any sort of task. As such, there are many varieties and 'species' of Mets, but the one seen here is the most basic of them all. Protected by a hardhat-like ceratanium shell, the Met will annoyingly surprise attack any who draw near.",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 30,
+    "robot_defense": 100,
+    "robot_speed": 20,
+    "robot_weaknesses": [
+        "impact",
+        "explode"
+    ],
+    "robot_resistances": [
+        "water",
+        "flame",
+        "electric",
+        "nature"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "met-shot"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "met-shot"
+    ],
+    "robot_quotes_start": "\u2026",
+    "robot_quotes_taunt": "\u2026",
+    "robot_quotes_victory": "\u2026?",
+    "robot_quotes_defeat": "\u2026!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,55 @@
+{
+    "robot_token": "chill-man",
+    "robot_number": "DWN-076",
+    "robot_name": "Chill Man",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "chill-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "freeze",
+    "robot_core2": "",
+    "robot_description": "Glacial Study Robot",
+    "robot_description2": "During Dr. Wily's 10th world domination scheme, Chill Man was one of the robots to fall to the Roboenza virus. Chill Man is a robot that was made to aid in stopping global warming and help recruit others by showing them the beauty of nature. However, while under Dr. Wily's control, his normal cooling systems were converted into weapon form, creating the Chill Spike. If the Chill Spike shot comes into direct contact with the enemy, they will be frozen in place and wide open to attacks. However, if the Chill Spike makes contact with the floor, the ice forms into the shape of 3 cone-like spikes, which can interrupt attacks and cause damage to anyone who runs into the Chill Spike. After the Roboenza incident, Chill Man was able to return to his arctic natural observation job and has found photography to be a better way of freezing a moment in time. It may seem odd for a robot to be this concerned with the environment, but Chill Man has become quite popular online for his stunning photographs of arctic life. Just try not to act too coldly to this robot; it gets lonely in a below zero environment, you know?",
+    "robot_energy": 99,
+    "robot_weapons": 10,
+    "robot_attack": 81,
+    "robot_defense": 108,
+    "robot_speed": 112,
+    "robot_weaknesses": [
+        "flame",
+        "explode"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "freeze"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "chill-spike"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "chill-spike"
+    ],
+    "robot_quotes_start": "Save the penguins! Stop global warming!",
+    "robot_quotes_taunt": "No need to give me the cold shoulder, {target_robot}!",
+    "robot_quotes_victory": "This will be great for my blog!",
+    "robot_quotes_defeat": "Sheesh! Someone needs to take a chill pill...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

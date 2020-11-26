@@ -1,0 +1,57 @@
+{
+    "robot_token": "burner-man",
+    "robot_number": "KGN-005",
+    "robot_name": "Burner Man",
+    "robot_game": "RnF",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "burner-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Rainforest Destruction Robot",
+    "robot_description2": "Burner Man's original purpose was to burn down foliage with powerful, but controlled flames; however, this intention was turned to insidious purposes when he became part of King's Robot army.  King deceived him in order to accomplish this, telling him that he was primed to self-destruct unless he burned down every forest in the world.  His signature weapon, the Wave Burner, shoots a continuous stream of intense flame from the flamethrower on his right hand.  As a result of his being lied to, Burner Man is incredibly high-strung, focusing intensely, almost completely, on his objective of burning everything in sight.  Between his dangerous weapon and his borderline-insane nature, Burner Man is dangerous, making even Crash Man's explosive rage seem sane. If one day, he learns about King's lies about him self-destructing by not burning, would he really stop incinerating nature?",
+    "robot_energy": 91,
+    "robot_weapons": 10,
+    "robot_attack": 132,
+    "robot_defense": 63,
+    "robot_speed": 114,
+    "robot_weaknesses": [
+        "freeze",
+        "water"
+    ],
+    "robot_resistances": [
+        "nature"
+    ],
+    "robot_affinities": [
+        "flame"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "wave-burner"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "wave-burner"
+    ],
+    "robot_quotes_start": "Burn! Burn to the ground!",
+    "robot_quotes_taunt": "Play with fire, and you'll get burned!",
+    "robot_quotes_victory": "I won't stop until the whole world is in flames!",
+    "robot_quotes_defeat": "Ow, hot, hot! This isn't fun when I'm the one getting burned!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,85 @@
+{
+    "robot_token": "cut-man",
+    "robot_number": "DLN-003",
+    "robot_name": "Cut Man",
+    "robot_game": "MM1",
+    "robot_field": "abandoned-warehouse",
+    "robot_field2": "",
+    "robot_support": "flea",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "cut-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Cut Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Cut Man (Yellow Alt)",
+            "summons": 200,
+            "colour": "electric"
+        },
+        {
+            "token": "alt3",
+            "name": "Cut Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cutter"
+        },
+        {
+            "token": "alt9",
+            "name": "Cut Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Giant Scissor Robot",
+    "robot_description2": "Cut Man was designed to be a lumber-felling robot, his tool of trade being his over-sized, goofy cutters, which in case you haven't noticed, sit firmly on the top of his head. However, those cutters happen to be his weapon of trade too, his signature technique being the \"Rolling Cutter\" where he throws his cutters at decently fast speeds! Cut Man also later developed the \"Rising Cutter\", an attack in which he releases a hilariously oversized pair of scissors to rise from the ground and sever enemies in twain. You'd expect someone working with such hazards to be pretty responsible, a honorable figure who takes every situation with a degree of maturity, but that certainly doesn't describe Cut Man. He's really just an overgrown child with a tendency to make horrible, horrible, horrible puns, puns most people wish he'd really just cut it out with. They thankfully don't always have to listen; Cut Man's a robot with a busy schedule, as requests for his help are sent from all over the world. And what exactly could one expect? Cut Man's function boils down to \"cut stuff\", so from hedge-trimming to hair-cutting to chopping lumber, he's got a lot of areas to cover.",
+    "robot_energy": 98,
+    "robot_weapons": 10,
+    "robot_attack": 108,
+    "robot_defense": 82,
+    "robot_speed": 112,
+    "robot_weaknesses": [
+        "impact",
+        "flame"
+    ],
+    "robot_resistances": [
+        "missile"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "rolling-cutter"
+        },
+        {
+            "level": 2,
+            "token": "rising-cutter"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "rolling-cutter",
+        "rising-cutter"
+    ],
+    "robot_quotes_start": "May the sharpest mind win!",
+    "robot_quotes_taunt": "Don't get mad if I happen to win! I'm... a cut above the rest! Hah!",
+    "robot_quotes_victory": "Win or lose, buddy, that's just the slice of life! ... Get it?",
+    "robot_quotes_defeat": "I guess I wasn't sharp enough! Haha! ....ow.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

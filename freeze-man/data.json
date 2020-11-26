@@ -1,0 +1,80 @@
+{
+    "robot_token": "freeze-man",
+    "robot_number": "DWN-049",
+    "robot_name": "Freeze Man",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "arctic-jungle",
+    "robot_support": "peng",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "freeze-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Freeze Man (Permafrost Alt)",
+            "summons": 100,
+            "colour": "energy"
+        },
+        {
+            "token": "alt2",
+            "name": "Freeze Man (Sherbet Alt)",
+            "summons": 200,
+            "colour": "swift"
+        },
+        {
+            "token": "alt3",
+            "name": "Freeze Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "defense"
+        },
+        {
+            "token": "alt9",
+            "name": "Freeze Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "freeze",
+    "robot_core2": "",
+    "robot_description": "Icy Blasts Robot",
+    "robot_description2": "When Freeze Man appears on the battlefield, two things should become immediately apparent: the sudden drop in the surrounding temperature, and the gaudy poses he is making up on the spot. While most ice themed robot masters are perfectly capable of generating extreme colds, none compare to the complete mastering of temperature Freeze Man wields. Turning the laws of thermodynamics on their heads, Freeze Man can split air temperature into highs and lows, using the heat to power himself. The cold gets harnessed and used in combat, his primary weapon being the Freeze Cracker, a projectile shaped like a snowflake that splinters apart upon contact. It might be disingenuous to say this is where most of the cold goes, though. A lot of it just gets wasted on icy props and misty surroundings for Freeze Man\u2019s egotistical entrances. As vain as Freeze Man can be, his dedication to looking cool comes from a desire to entertain as much as it is to impress. Also, it\u2019s not like Freeze Man is incapable of appreciating others, his idolization of Ice Man as the progenitor to freezing Robot Masters and his desire for cleaning pollution standing out as prime examples. Well, maybe the latter of the two is not as selfless as it might seem. After all, how is Freeze Man supposed to look cool with a bunch of junk lying around?",
+    "robot_energy": 96,
+    "robot_weapons": 10,
+    "robot_attack": 91,
+    "robot_defense": 103,
+    "robot_speed": 110,
+    "robot_weaknesses": [
+        "earth",
+        "flame"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "freeze"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "freeze-cracker"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "freeze-cracker"
+    ],
+    "robot_quotes_start": "Now that I'm in battle, expect a flawless victory, {this_player}!",
+    "robot_quotes_taunt": "What's the matter, {target_robot}? Cold feet?",
+    "robot_quotes_victory": "Ooh, ooh, finally! Check out my super-awesome victory pose!",
+    "robot_quotes_defeat": "I don't think I have a super-awesome pose for losing...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,86 @@
+{
+    "robot_token": "oil-man",
+    "robot_number": "DLN-00B",
+    "robot_name": "Oil Man",
+    "robot_game": "MMPU",
+    "robot_field": "oil-wells",
+    "robot_field2": "",
+    "robot_support": "beetle-borg",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "oil-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "rhythmbca",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Oil Man (Black Alt)",
+            "summons": 100,
+            "colour": "shadow"
+        },
+        {
+            "token": "alt2",
+            "name": "Oil Man (Light Alt)",
+            "summons": 200,
+            "colour": "freeze"
+        },
+        {
+            "token": "alt3",
+            "name": "Oil Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "impact"
+        },
+        {
+            "token": "alt9",
+            "name": "Oil Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Slick Sliding Robot",
+    "robot_description2": "Oil Man was made to solve the impending energy crisis that Dr. Light feared would occur with the new robotic way of the future, but eventually, Light decided to use solar energy and decided to hold off on Oil Man's creation. The main developmental issue was his confusing algorithm system that Dr. Light thought would make him too \u201cpowered up\u201d compared to other robots, so he thought he\u2019d hold off on the project. Some time not far after, Dr. Wily stole him and completed him, although not without some flaws and compromises. It was too late for Dr. Wily to convert his energy source to solar nor did he really care, so Wily just figured Oil Man could stick with the oil energy source and he could just power himself. Oil Man utilizes the Oil Shooter, a buster attachment that allows him to create oil quickly to splat nearby enemies. This goes great with the Oil Slider on which he slides at high speeds to damage enemies head-on. Oil Man works at an oil refinery, where he pays constant attention to the oil production. He was never really obligated to work there, but Oil Man simply loves being a part of the process. He's got a very loose personality and prefers to do things at the last minute, much to the dismay of Time Man who he often accompanies himself with. Oil Man also has business connections with Flame Man, seeing as Flame Man's one of the few other robots who willingly power themselves with oil. He doesn't tend to get close to him however; he's well aware of what happens when oil and fire happen to cross paths.",
+    "robot_energy": 104,
+    "robot_weapons": 10,
+    "robot_attack": 64,
+    "robot_defense": 96,
+    "robot_speed": 136,
+    "robot_weaknesses": [
+        "flame",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "water",
+        "electric"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "oil-shooter"
+        },
+        {
+            "level": 2,
+            "token": "oil-slider"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "oil-shooter",
+        "oil-slider"
+    ],
+    "robot_quotes_start": "Yeah, it's showtime! What'd 'ya say we get this show pumping?",
+    "robot_quotes_taunt": "I'm gonna kick your butt so hard, you'll be coughing up oil for months!",
+    "robot_quotes_victory": "What's a fight that can't be solved with a little bit of oil, y'know?",
+    "robot_quotes_defeat": "Your style's fine and all, but owww, that was harsh!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

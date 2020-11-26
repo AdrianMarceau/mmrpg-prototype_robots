@@ -1,0 +1,75 @@
+{
+    "robot_token": "pharaoh-man",
+    "robot_number": "DCN-028",
+    "robot_name": "Pharaoh Man",
+    "robot_game": "MM4",
+    "robot_field": "egyptian-excavation",
+    "robot_field2": "",
+    "robot_support": "pyre-fly",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "pharaoh-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "metalman",
+    "robot_image_editor2": "milansaponja",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Pharaoh Man (Cursed Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Pharaoh Man (Blessed Alt)",
+            "summons": 200,
+            "colour": "electric"
+        },
+        {
+            "token": "alt9",
+            "name": "Pharaoh Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Ancient Investigator Robot",
+    "robot_description2": "After demonstrating a clear fascination towards Egyptian culture and history at university, Dr. Cossack constructed Pharaoh Man on that clear fascination in order to navigate and explore antediluvian pyramids and ruins. Besides an astute sense of trap analysis, Pharaoh Man can, much like his brother unit Bright Man, light paths ahead of him using condensed solar energy. Likewise, he's able to launch the solar energy, henceforth referred to as the \"Pharaoh Shot\", in an offensive manner whenever he's stuck in a pinch! As his appearance would suggest, Pharaoh Man is a born leader, carrying an exemplary sense of verbosity, grandiosity, and gravitas! Eventually, Pharaoh Man swiftly began to take charge of the expeditions he was placed on, ultimately not requiring the assistance of human coworkers and commanding over 1000 different mechas! As this commendable description illustrates, Pharaoh Man appears to be a robot without a flaw to be had.... that is, he would be! However, for as grand as Pharaoh Man is, he transforms into a timid whelp the instant he sees a beautiful woman! The 1000-mecha army, the leadership skills, the grand demeanor doesn't mean anything if you can make Pharaoh Man blush!",
+    "robot_energy": 98,
+    "robot_weapons": 10,
+    "robot_attack": 91,
+    "robot_defense": 100,
+    "robot_speed": 111,
+    "robot_weaknesses": [
+        "time",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "shadow",
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "pharaoh-shot"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "pharaoh-shot"
+    ],
+    "robot_quotes_start": "So the sun god commands me to succeed. So it shall be done!",
+    "robot_quotes_taunt": "You are only but a grain of sand in my wide kingdom of desert!",
+    "robot_quotes_victory": "Kneel to me now, and the sun god may yet have mercy upon you.",
+    "robot_quotes_defeat": "The sun falls upon my empire no more...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,55 @@
+{
+    "robot_token": "plug-man",
+    "robot_number": "DLN-068",
+    "robot_name": "Plug Man",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "plug-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Electronic Maintenance Robot",
+    "robot_description2": "When Dr. Light was conceptualizing robot ideas, he had decided that an alternative take on an electricity-based robot would be beneficial, hence Plug Man's creation. He was designed to test the quality control in a television factory, although he's more notably known for being an unwilling facet in Dr. Wily's expiration date plot. Plug Man's main weapon is the Plug Ball, a small, round electric-based ball that can scurry on surfaces that aren't even conductive! Yet, despite his electrical capabilities, Plug Man simply doesn't have the heart of a fighter compared to his electrical counterpart, Elec Man; he's certainly much more into the casual aspects of life in Mega City. He's obsessed with electronic stores, and an connoisseur of various shonen and slice-of-life animes. He's also not afraid about talking with his friends about geeky subjects, and he also seems to be good friends with Bright Man. Despite being a bit odd, he's an incredibly nice person to know and chat with. And, if you likely ask him nicely enough, he'd probably be willing to power your TV for you!",
+    "robot_energy": 104,
+    "robot_weapons": 10,
+    "robot_attack": 111,
+    "robot_defense": 92,
+    "robot_speed": 93,
+    "robot_weaknesses": [
+        "crystal",
+        "earth"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "electric"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "plug-ball"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "plug-ball"
+    ],
+    "robot_quotes_start": "Now that I'm plugged up, I'm ready for action!",
+    "robot_quotes_taunt": "So, uh, {target_robot}... What's your favorite anime?",
+    "robot_quotes_victory": "Game over! A winner is me, hehe!",
+    "robot_quotes_defeat": "I guess I won't get to go to Akihabara today...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,75 @@
+{
+    "robot_token": "dive-man",
+    "robot_number": "DCN-031",
+    "robot_name": "Dive Man",
+    "robot_game": "MM4",
+    "robot_field": "submerged-armory",
+    "robot_field2": "",
+    "robot_support": "manta-missile",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "dive-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "metalman",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Dive Man (Crimson Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Dive Man (Platinum Alt)",
+            "summons": 200,
+            "colour": "cutter"
+        },
+        {
+            "token": "alt9",
+            "name": "Dive Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Submerged Warfare Robot",
+    "robot_description2": "Often when the public thinks of nautical Robot Masters, their first thoughts tend to drift towards certain scalawag pirates, aquatic mermaids, and pathetic bubble-flinging users; Dive Man is none of those things, for he is a robot grounded in mechanical realism and the most dedicated sense of naval code you've ever seen. Dr. Cossack was inspired to create Dive Man after reminiscing off of the old nationalist tales of his youth, about daring sea and submarine captains with an impeccable sense of drive towards serving the greater good. Dive Man encapsulates all these qualities, although he's really more of a submarine than a proper submarine captain; he's outfitted with homing torpedoes able to be burst out of his chest. And, due to a serendipitous design flaw, Dive Man can launch HIMSELF rapidly and dizzying, his go-to surprise attack when all else fails. It's important to emphasize that's entirely a last-resort move: not because of any massive stamina drain, but rather Dive Man occasionally suffers from an extreme case of motion sickness. Regardless, much like Cossack intended, Dive Man is the ideal sea captain, a figure who's trust-worthy, noble, an eager listener, and the utter epitome of a navy man. These attracting qualities put him at odds with his maritime foil, Pirate Man. But, whether he's friend or foe, Dive Man is nothing short of respectable. Just don't let him get too seasick, okay? Robot vomit is probably kind of gross.",
+    "robot_energy": 104,
+    "robot_weapons": 10,
+    "robot_attack": 131,
+    "robot_defense": 63,
+    "robot_speed": 102,
+    "robot_weaknesses": [
+        "shadow",
+        "electric"
+    ],
+    "robot_resistances": [
+        "water",
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "dive-torpedo"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "dive-torpedo"
+    ],
+    "robot_quotes_start": "{target_robot}? Well, a target is a target...",
+    "robot_quotes_taunt": "Don't bother running, my torpedos are inescapable!",
+    "robot_quotes_victory": "Sea or land, it doesn't make a difference; I always get my targets!",
+    "robot_quotes_defeat": "Yuck. I feel seasick. Bleah.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

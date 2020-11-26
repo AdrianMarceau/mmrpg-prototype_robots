@@ -1,0 +1,55 @@
+{
+    "robot_token": "tomahawk-man",
+    "robot_number": "MXN-046",
+    "robot_name": "Tomahawk Man",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "tomahawk-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "maistir1234",
+    "robot_image_alts": [],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Brave Warrior Robot",
+    "robot_description2": "After the announcement of the First Annual Robot Tournament, American engineers scrambled to create a US entrant. The result was Tomahawk Man, designed unsubtly after Native American iconography, including an interest in horseback riding; makes you wonder how he and Centaur Man get along. Tomahawk utilizes the Silver Tomahawk, a weapon he wields with both power and precision, reportedly being able to extinguish a candle with the weapon from over three hundred feet away. Being explicitly designed for the tournament, Tomahawk Man doesn\u2019t have much of a relationship with his community or the fellow combatants in the tournament. Maybe that\u2019s why Mr. X was able to reprogram him so easily? Even if he\u2019s a Robot Master of few words, he\u2019s not afraid to get up close and personal with his Silver Tomahawk and Feather Barrage attack. Try to use this lack of personal space against him.",
+    "robot_energy": 98,
+    "robot_weapons": 10,
+    "robot_attack": 119,
+    "robot_defense": 73,
+    "robot_speed": 110,
+    "robot_weaknesses": [
+        "nature",
+        "space"
+    ],
+    "robot_resistances": [
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "silver-tomahawk"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "silver-tomahawk"
+    ],
+    "robot_quotes_start": "My will is unbreakable! Prepare yourself!",
+    "robot_quotes_taunt": "Your courage is admirable. It is a shame we must meet here, on the battlefield\u2026",
+    "robot_quotes_victory": "The spirits of my fallen brethren will sleep soundly tonight....",
+    "robot_quotes_defeat": "Was my destiny\u2026 all a lie?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

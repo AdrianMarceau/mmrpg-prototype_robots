@@ -1,0 +1,57 @@
+{
+    "robot_token": "wind-man",
+    "robot_number": "MXN-047",
+    "robot_name": "Wind Man",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "wind-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Flying Gusts Robot",
+    "robot_description2": "If the air around you starts getting breezier, and the scent of Ginger assaults your senses, Wind Man just might be making the scene! Hailing from China, Wind Man was originally designed for agricultural duties, firing off razor sharp winds to cut down crops and manipulating the local weather patterns with his 200 mile per hour Wind Storms. Although Wind Man was content with his work, he always secretly longed to demonstrate his Martial Art moves, his favorite past time next to cooking. Fortunately, he was given the chance to do so at the First Annual Robot Master Tournament! Unfortunately, it was secretly an evil scheme masterminded by Mr. X, resulting in Wind Man being reprogrammed and forced to fight Mega Man. Well, at least he still got to show off some cool moves in the process. Don\u2019t let his bulky appearance deceive you: the engines in his feet allow him to zoom across the battlefield astonishingly quick, unleashing jet propelled tackles, kicks, and strikes on his opponents. Do not take this forward approach as a weakness; a great Martial Artist once said, \u201cI fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times\u2026 especially if that man has jet engines in his feet!\u201d",
+    "robot_energy": 105,
+    "robot_weapons": 10,
+    "robot_attack": 80,
+    "robot_defense": 102,
+    "robot_speed": 113,
+    "robot_weaknesses": [
+        "time",
+        "space"
+    ],
+    "robot_resistances": [
+        "earth"
+    ],
+    "robot_affinities": [
+        "wind"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "wind-storm"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "wind-storm"
+    ],
+    "robot_quotes_start": "I'll finish this battle just in time for the harvest!",
+    "robot_quotes_taunt": "Hi-ya! I learned that one from this old Kung Fu movie....",
+    "robot_quotes_victory": "The variety of battles is one of the many spices of life!",
+    "robot_quotes_defeat": "Aww man, the crops are going to be ruined!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

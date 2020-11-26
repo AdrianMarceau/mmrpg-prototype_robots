@@ -1,0 +1,69 @@
+{
+    "robot_token": "ring-ring",
+    "robot_number": "RING-001",
+    "robot_name": "Ring Ring",
+    "robot_game": "MM4",
+    "robot_field": "space-simulator",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "ring-ring",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Ring Ring (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Ring Ring (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "space",
+    "robot_core2": "",
+    "robot_description": "Saturn Seeking Mecha",
+    "robot_description2": "The Ring Ring series were created as companions and assistants for astronauts on deep-space voyages. Their internal gyroscopes allow them to remain stable and upright in zero-g environments.",
+    "robot_energy": 40,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 50,
+    "robot_speed": 60,
+    "robot_weaknesses": [
+        "missile",
+        "earth"
+    ],
+    "robot_resistances": [
+        "water",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "laser"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "ring-tackle"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "ring-tackle"
+    ],
+    "robot_quotes_start": "Riiiiiiiing!",
+    "robot_quotes_taunt": "Ri-ri-ri-ringuuuu!",
+    "robot_quotes_victory": "Riing! Riiing! Riiiiiing!",
+    "robot_quotes_defeat": "Ringu?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

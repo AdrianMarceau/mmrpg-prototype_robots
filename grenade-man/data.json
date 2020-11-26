@@ -1,0 +1,55 @@
+{
+    "robot_token": "grenade-man",
+    "robot_number": "DWN-063",
+    "robot_name": "Grenade Man",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "grenade-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Mad Bomber Robot",
+    "robot_description2": "Created by Dr. Wily to be an extremely powerful robot, his abilities were increased further by the Evil Energy Dr. Wily found. Soon after finishing the Eighth line, Wily sent Grenade Man to an ammunition factory in Chile to take control over the building, giving Wily a supply of back up weaponry. Taking the weapon motif to the extreme, Grenade Man was designed with a Pineapple Bomb in mind, striker lever and all. Grenade Man isn't exactly the most strategic fighter, but an effective one, due to his speed and explosives, which come in two varieties. The Flash Bomb doesn't cause much environmental damage, but the explosion lingers, making this his offensive weapon. The Crazy Destroyer, on the other hand, maximizes and destroys whatever it comes into contact with, but isn't too damaging. Although people commonly state he is masochistic, Grenade Man simply has a tough battle armor, so he likes proving to others he can take attacks without flinching. Just remember when near Grenade Man, if you hear ticking of any kind, it's best to get out of the way. Grenade Man is reckless in battle though, so use this flaw against him....",
+    "robot_energy": 87,
+    "robot_weapons": 10,
+    "robot_attack": 130,
+    "robot_defense": 73,
+    "robot_speed": 110,
+    "robot_weaknesses": [
+        "electric",
+        "crystal"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "explode"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "flash-bomb"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "flash-bomb"
+    ],
+    "robot_quotes_start": "Say hello to my cute little bombs!",
+    "robot_quotes_taunt": "Ha ha ha! Hit me harder! HARDER!",
+    "robot_quotes_victory": "That must really hurt... Ghaha, I'm so jealous!",
+    "robot_quotes_defeat": "THAT FELT GOOD!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

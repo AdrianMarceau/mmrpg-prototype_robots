@@ -1,0 +1,75 @@
+{
+    "robot_token": "galaxy-man",
+    "robot_number": "DLN-072",
+    "robot_name": "Galaxy Man",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "space-simulator",
+    "robot_support": "ring-ring",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "galaxy-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Galaxy Man (Gold Alt)",
+            "summons": 100,
+            "colour": "electric"
+        },
+        {
+            "token": "alt2",
+            "name": "Galaxy Man (Bronze Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Galaxy Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "space",
+    "robot_core2": "",
+    "robot_description": "Astronomic Calculations Robot",
+    "robot_description2": "After seeing the use Wily's own Astro Man could've provided for mankind, Dr. Light created the UFO-influenced robot, Galaxy Man. His use was to work in a space research center, observing and discovering new stars in the parts in the lesser-known parts of the universe. His main weapon, Black Hole Bomb, was designed to clear nearby meteors that would put any stations in impending danger. He can also retract his arms and legs to soar short distances, stereotypical UFO style. He's an extremely intelligent robot, and in his free time, he likes providing calculations for the trajectory of rockets. However, if he's ever proved wrong about a calculation, he'll quickly change the answer and claim he was only \"testing your knowledge.\" Recently, Galaxy Man and his fellow co-workers have noticed strange signals from space, but have dismissed it as of now, although they haven't kept it out of their minds. Galaxy Man is a knowledgeable fellow, and he prefers to use brain over brawn in his battles. He predicts and calculates every possible outcome, making him a dangerously intelligent foe to face.",
+    "robot_energy": 98,
+    "robot_weapons": 10,
+    "robot_attack": 110,
+    "robot_defense": 80,
+    "robot_speed": 112,
+    "robot_weaknesses": [
+        "earth",
+        "time"
+    ],
+    "robot_resistances": [
+        "space",
+        "nature"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "galaxy-bomb"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "galaxy-bomb"
+    ],
+    "robot_quotes_start": "I calculate an 87.36% chance of victory in my favor!",
+    "robot_quotes_taunt": "Come come, this can't be your best!",
+    "robot_quotes_victory": "I won?! I mean...of COURSE I won! I am a genius, after all!",
+    "robot_quotes_defeat": "Combat is a waste of time for someone of my intellect!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

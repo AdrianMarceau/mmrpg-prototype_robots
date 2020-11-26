@@ -1,0 +1,69 @@
+{
+    "robot_token": "slur",
+    "robot_number": "EXN-00Y",
+    "robot_name": "Slur",
+    "robot_game": "MMRPGP",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "slur",
+    "robot_image_size": 80,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "space",
+    "robot_core2": "",
+    "robot_description": "Galactic Judge Robot",
+    "robot_description2": "As of now, there is no data recorded on this robot, nor their abilities. If encountered, take extreme caution; It is unknown what is the extent of this robot's power.",
+    "robot_energy": 260,
+    "robot_weapons": 20,
+    "robot_attack": 248,
+    "robot_defense": 254,
+    "robot_speed": 138,
+    "robot_weaknesses": [],
+    "robot_resistances": [
+        "space",
+        "freeze",
+        "flame"
+    ],
+    "robot_affinities": [
+        "water",
+        "electric"
+    ],
+    "robot_immunities": [
+        "copy"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 30,
+            "token": "slur-aura"
+        },
+        {
+            "level": 60,
+            "token": "slur-twister"
+        },
+        {
+            "level": 90,
+            "token": "slur-supernova"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "slur-aura",
+        "slur-twister",
+        "slur-supernova"
+    ],
+    "robot_quotes_start": "Your efforts are futile, but I suppose I won't stop you from fighting...",
+    "robot_quotes_taunt": "Your efforts are pathetic! Giving in to the Master is your best option...",
+    "robot_quotes_victory": "As I expected, you only delayed the inevitable.",
+    "robot_quotes_defeat": "What? Perhaps we underestimated this planet's power....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

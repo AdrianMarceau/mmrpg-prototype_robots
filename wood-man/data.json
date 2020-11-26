@@ -1,0 +1,83 @@
+{
+    "robot_token": "wood-man",
+    "robot_number": "DWN-016",
+    "robot_name": "Wood Man",
+    "robot_game": "MM2",
+    "robot_field": "preserved-forest",
+    "robot_field2": "",
+    "robot_support": "batton",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "wood-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "milansaponja",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Wood Man (Autumn Alt)",
+            "summons": 100,
+            "colour": "attack"
+        },
+        {
+            "token": "alt2",
+            "name": "Wood Man (Winter Alt)",
+            "summons": 200,
+            "colour": "none"
+        },
+        {
+            "token": "alt3",
+            "name": "Wood Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Wood Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "nature",
+    "robot_core2": "",
+    "robot_description": "Forest Protector Robot",
+    "robot_description2": "Designed around the idea of camouflaged combat, and also to care for Dr. Wily's personal garden, Wood Man's body was made out of durable hinoki cypress, coated with a thin layer of metal to help preserve and enforce that cypress. Unfortunately, while the cypress is incredibly fortified and practically unbreakable, it's not exempt from natural deterioration nor damage from excessive heat, coupled with the fact that the cypress isn't really lightweight. To help try to circumvent that, Dr. Wily gave Wood Man the Leaf Shield, and while leaves don't really seem like they'd be a practical defensive item, Wood Man's actually using dulled pieces of leaf-shaped Ceratanium to protect himself. He's a nature fanatic, often heading out on hiking and mountaineering trips, and even serving as a park guide from time to time despite his criminal record as one of Dr. Wily's robots. Naturally, since he's so fond of nature's beauty, Wood Man's also fond of breaking the backs of anyone so daring to disrespect it, easily offended at the sight of the nearest litterer. Despite this, Wood Man is usually quite kind to both his colleagues and to the animal Mechas of Wily's forces, and holds environmental meetings along with Wave Man for the Wily robots to attend. He's a kind naturalist and a fortified warrior, and although skeptics may be stumped by his hinoki design, it helps to keep him closer to the beautiful world he loves..... It's lame, but it's sincerely lame!",
+    "robot_energy": 115,
+    "robot_weapons": 10,
+    "robot_attack": 66,
+    "robot_defense": 168,
+    "robot_speed": 51,
+    "robot_weaknesses": [
+        "flame",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "electric",
+        "water"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "leaf-fall"
+        },
+        {
+            "level": 2,
+            "token": "leaf-shield"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "I am the shield of Mother Nature-- I will not back down!",
+    "robot_quotes_taunt": "I speak for the trees, for the trees have no tongue!",
+    "robot_quotes_victory": "Unless someone like me cares enough, things won't get better!",
+    "robot_quotes_defeat": "Won't somebody please think of the trees?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

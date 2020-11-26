@@ -1,0 +1,55 @@
+{
+    "robot_token": "mega-water-s",
+    "robot_number": "WWN-002",
+    "robot_name": "Mega Water S",
+    "robot_game": "MMWW",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "water",
+    "robot_core2": "",
+    "robot_description": "Wise Kappa Unit",
+    "robot_description2": "After a few failed attempts at conquering the world, Wily constructed the magnificent Wily Tower, and he put the Genesis Unit as the main line of defense. Mega Water S was built with the mythical Kappa in mind, using water abilities to dampen his opponent's spirits. Along with this, he mainly focuses on using harpoon attacks to defeat his opponents, and can even create a water shield to defend himself from powerful attacks. However, his most dangerous weapon is his mind, as he's easily the brains of the Genesis Unit, and has even corrected Dr. Wily a few times over. Unfortunately, he isn't usually good at expressing his ideas out front, causing him to have a low level of confidence, and is known for having a heavy accent. He also has strong contention towards Buster Rod G, as their views often conflict. In fact, Mega Water S believes that Buster Rod G simply isn't fit for being a leader, and that the Genesis Unit would experience more fortune if he was in charge. Despite being a bit of an oddball, he's not an easy opponent to face, as he's proved himself as one of Dr. Wily's smartest bots and a valued member of the Genesis Unit. Of course, he still wishes that he was more than just a member.",
+    "robot_energy": 115,
+    "robot_weapons": 20,
+    "robot_attack": 185,
+    "robot_defense": 155,
+    "robot_speed": 145,
+    "robot_weaknesses": [
+        "wind",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "mega-water"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "mega-water"
+    ],
+    "robot_quotes_start": "I have arrived here to defeat your socks off!",
+    "robot_quotes_taunt": "You give me trouble! Shall I give punishment to you?",
+    "robot_quotes_victory": "You have been spoiled! No mercy for you!",
+    "robot_quotes_defeat": "I knew I could not find success in this land.....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

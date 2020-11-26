@@ -1,0 +1,67 @@
+{
+    "robot_token": "killer-bullet",
+    "robot_number": "KBUL-001",
+    "robot_name": "Killer Bullet",
+    "robot_game": "MM2",
+    "robot_field": "pipe-station",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "killer-bullet",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Killer Bullet (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Killer Bullet (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Industrial Bomb Mecha",
+    "robot_description2": "The Killer Bullet series is a sentient missile used in demolition and mining. As a consequence of their self-destructive nature, the use of Killer Bullets has become a hot-button issue for pro-robot rights groups.",
+    "robot_energy": 20,
+    "robot_weapons": 5,
+    "robot_attack": 110,
+    "robot_defense": 10,
+    "robot_speed": 60,
+    "robot_weaknesses": [
+        "electric",
+        "flame"
+    ],
+    "robot_resistances": [
+        "earth",
+        "water"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "bullet-tackle"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "bullet-tackle"
+    ],
+    "robot_quotes_start": "Bomu! Bomu!",
+    "robot_quotes_taunt": "Bobobobo! Bomu!",
+    "robot_quotes_victory": "Booooooooooooo!",
+    "robot_quotes_defeat": "Boooo\u2026mu!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

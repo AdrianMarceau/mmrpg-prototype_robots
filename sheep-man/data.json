@@ -1,0 +1,80 @@
+{
+    "robot_token": "sheep-man",
+    "robot_number": "DWN-077",
+    "robot_name": "Sheep Man",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "power-plant",
+    "robot_support": "elec-n",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "sheep-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "chaosfantazy",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Sheep Man (Berry Alt)",
+            "summons": 100,
+            "colour": "defense"
+        },
+        {
+            "token": "alt2",
+            "name": "Sheep Man (Grape Alt)",
+            "summons": 200,
+            "colour": "speed"
+        },
+        {
+            "token": "alt3",
+            "name": "Sheep Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "none"
+        },
+        {
+            "token": "alt9",
+            "name": "Sheep Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Static Electricity Robot",
+    "robot_description2": "A robot designed by his creator to herd sheep, Sheep Man is a bit of an unique robot, if not the most unique Robot Master out there. His signature weapon, Thunder Wool, is as every bit as unique as he is, where he creates a cloud made of pure wool to zap the opponent from above! He can also transform his material form into clouds of wool, an adjustment made by Dr. Wily when Sheep Man was infected with Roboenza. Speaking of, Dr. Wily was first unimpressed with Sheep Man, and decided not to use him in his operations, until Sheep Man showed off his electrifying qualities, and Wily gained confidence that Sheep Man would provide a fight against Mega Man. In his spare time, he volunteers at a circuit board manufacturer, testing static resistance and such. However, he easily gets bored of things and can fall asleep quite easily. He's also aware that his design is a bit ridiculous, but he'd rather take a nap than worry about such things. Speaking of sheep, since people dream of sheep jumping fence, what exactly does Sheep Man dream of? In fact, do robots even dream?",
+    "robot_energy": 90,
+    "robot_weapons": 10,
+    "robot_attack": 97,
+    "robot_defense": 115,
+    "robot_speed": 98,
+    "robot_weaknesses": [
+        "impact",
+        "flame"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "electric"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "thunder-wool"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "thunder-wool"
+    ],
+    "robot_quotes_start": "24, 25, 26, 2\u2014oh, we're starting?",
+    "robot_quotes_taunt": "Hang on... if androids dream of electric sheep, what do I dream of?",
+    "robot_quotes_victory": "Time to say good night, you.... zzzz, good night....",
+    "robot_quotes_defeat": "Maybe I should go back to sheep herding...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

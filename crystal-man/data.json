@@ -1,0 +1,87 @@
+{
+    "robot_token": "crystal-man",
+    "robot_number": "DWN-040",
+    "robot_name": "Crystal Man",
+    "robot_game": "MM5",
+    "robot_field": "",
+    "robot_field2": "reflection-chamber",
+    "robot_support": "nitron-r",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "crystal-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Crystal Man (Pink Alt)",
+            "summons": 100,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt2",
+            "name": "Crystal Man (Purple Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt3",
+            "name": "Crystal Man (Legacy Alt)",
+            "summons": 300,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Crystal Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "crystal",
+    "robot_core2": "",
+    "robot_description": "Gemstone Counterfeiting Robot",
+    "robot_description2": "It was between the framing of Dr. Cossack and Proto Man that Dr. Wily realized his previously accumulated money would not last forever. To fund his future world domination endeavors, Dr. Wily created Crystal Man. Using hydrothermal synthesis, Crystal Man can grow crystals by altering the atomic lattice of minerals using intense heat and high vapor pressures. Crystal Man was able to sell these crystals to laboratories for a while, but once the word got out on who his creator was, customers grew suspicious and the cash flow ceased. Not one to let a Robot Master become obsolete, Dr. Wily decided to repurpose Crystal Man into a combat robot. Crystal Man can form the Crystal Eye, a large gemstone designed to splinter apart upon contact, sending sharp debris across the battlefield. In addition, Crystal Man can use the Crystal Mind, a trick he picked up in his side endeavors that enables him to heighten his senses. Crystal Man proved to be effective in this new role, but felt unfulfilled, not meeting his initially programmed goal of making dough. He started fortune telling on the side, specifically to stick it to the scientists he no longer worked with. His gemstones were genuinely high quality, and if they couldn\u2019t appreciate that, he would dedicate his schemes to upending people\u2019s faith in those self-righteous hacks!",
+    "robot_energy": 97,
+    "robot_weapons": 10,
+    "robot_attack": 123,
+    "robot_defense": 84,
+    "robot_speed": 96,
+    "robot_weaknesses": [
+        "cutter",
+        "swift"
+    ],
+    "robot_resistances": [
+        "water",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "electric"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "crystal-mind"
+        },
+        {
+            "level": 2,
+            "token": "crystal-eye"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "crystal-eye"
+    ],
+    "robot_quotes_start": "I'm afraid your demise draws ever nearer...",
+    "robot_quotes_taunt": "What does your future hold for you? I'm afraid that... I see nothing!",
+    "robot_quotes_victory": "Woah, I was right! Err, rather... I knew I'd be right...",
+    "robot_quotes_defeat": "No, no, no! My crystals! I can't scam anyone like this!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

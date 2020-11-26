@@ -1,0 +1,57 @@
+{
+    "robot_token": "blast-man",
+    "robot_number": "DWN-083",
+    "robot_name": "Blast Man",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "pipe-station",
+    "robot_support": "killer-bullet",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "blast-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Explosion Artist Robot",
+    "robot_description2": "For most bomb-inclined robots, explosions are a method of strength, terror, exhilaration, or spectacle, but to Blast Man, explosions are his paintbrush and he is its artist. Manufactured by the B.B Bomb Company not for excavation but as a pyrotechnician, Blast Man provides practical effects from the smallest of bangs to cataclysmic bangs for some of the most established movie sets and theme parks in the world. His understanding of the importance of timing when it comes to explosions is also profound, and this makes him a whiz with his signature Chain Blast ability, a series of timed sticky bombs that, when detonated together, adds a wholly-inspired flourish of visual wonder! Any who know him would say that Blast Man may be volatile, unstable, and too easily excited, and while they\u2019re completely right about that, underneath the crazy hair and cobalt blue armor is the heart of an explosion artist. Blast Man has such a blazing passion for incendiary bursts that he even pens a serial column in his favorite magazine, Boom Monthly. And more than anything, Blast Man seeks to fulfill his life-long aspiration of creating \u2018Blast Man Adventure\u2019, an awe-inspiring, death-defying thrill-ride that\u2019ll render even the hardiest of thrill-seekers blown away! Of course, despite being an artist, Blast Man\u2019s chaotic gracefulness is also a major asset in the battlefield, and can only be aptly described as\u2026. Well, to quote Blast Man\u2019s own writing, \u201cfreakin\u2019 awesome. Ka-boom. Ka-blam. Pow.\u201d",
+    "robot_energy": 90,
+    "robot_weapons": 10,
+    "robot_attack": 124,
+    "robot_defense": 65,
+    "robot_speed": 121,
+    "robot_weaknesses": [
+        "flame",
+        "time"
+    ],
+    "robot_resistances": [
+        "nature"
+    ],
+    "robot_affinities": [
+        "explode"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "chain-blast"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "chain-blast"
+    ],
+    "robot_quotes_start": "The countdown begins, {target_robot}! Retaliate or detonate!",
+    "robot_quotes_taunt": "Hey, what's wrong? C'mon, don't be a dud, bud!",
+    "robot_quotes_victory": "Explosions... what a work of art, right? RIGHT?!",
+    "robot_quotes_defeat": "My last blast.... THAT WAS FREAKIN' AWESOME!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

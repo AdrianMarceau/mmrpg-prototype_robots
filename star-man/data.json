@@ -1,0 +1,74 @@
+{
+    "robot_token": "star-man",
+    "robot_number": "DWN-037",
+    "robot_name": "Star Man",
+    "robot_game": "MM5",
+    "robot_field": "",
+    "robot_field2": "space-simulator",
+    "robot_support": "ring-ring",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "star-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Star Man (Burning Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Star Man (Glowing Alt)",
+            "summons": 200,
+            "colour": "freeze"
+        },
+        {
+            "token": "alt9",
+            "name": "Star Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "space",
+    "robot_core2": "",
+    "robot_description": "Interstellar Research Robot",
+    "robot_description2": "Among Dr. Wily\u2019s catalogue of Robot Masters, Star Man stands out as one of the most eccentric, and that\u2019s saying something. Intended to maintain an abandoned space station, Star Man was designed to work under variable gravity fields. Space Debris has become exponentially more common in the year 20XX, so Dr. Wily also outfitted Star Man with the Star Crash so that he could protect himself, a defensive weapon not unlike those of Skull Man or Wood Man. Star Man has anything but a shielded personality, though. A romanticist deeply in love with the thespian arts, Star Man has found great success in film, much to the chagrin of Flash Man. You\u2019d think it was all the time control and gravity distortion technology that drained Dr. Wily\u2019s wallet, but it was actually the costs of Star Man\u2019s early filmography that exhausted his bank account. Dr. Wily had to focus so heavily on saving money in Gyro and Crystal Man\u2019s designs just to fund the special effects of Star Man\u2019s first space opera! Star Man\u2019s sentimental personality annoys his more pragmatic minded brethren, isolating the intergalactic Robot Master even further. It\u2019s lonely out in space, and despite his constant requests, Dr. Wily has yet to make a companion for Star Man. Poor Star Man seems doomed to burn out his fuse up there all alone\u2026.",
+    "robot_energy": 102,
+    "robot_weapons": 10,
+    "robot_attack": 80,
+    "robot_defense": 120,
+    "robot_speed": 98,
+    "robot_weaknesses": [
+        "water",
+        "earth"
+    ],
+    "robot_resistances": [],
+    "robot_affinities": [
+        "space"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "star-crash"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "star-crash"
+    ],
+    "robot_quotes_start": "This isn't for me or {this_player}... this is for all the love in the universe!",
+    "robot_quotes_taunt": "I'm the world's 'Splendid Noble Youth!' My stars will defend all!",
+    "robot_quotes_victory": "There may be billions of stars out there, but there's only one {this_robot}!",
+    "robot_quotes_defeat": "There's always show business, I suppose...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,55 @@
+{
+    "robot_token": "punk",
+    "robot_number": "MKN-002",
+    "robot_name": "Punk",
+    "robot_game": "MMIII",
+    "robot_field": "final-destination",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "punk",
+    "robot_image_size": 80,
+    "robot_image_editor": "metalman",
+    "robot_image_editor2": "milansaponja",
+    "robot_image_alts": [],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Brutal Megaman Hunter",
+    "robot_description2": "Punk's the next of robots in the Mega Man Killers, with his main notable point being his astute sense of pure brutality. Despite a hefty build, he can easily curl up in a spiked sphere, increasing both his defense and agility in order to mash his enemies into itty-bitty tiny pieces. Punk's a rebellious robot, following his own philosophy in life that persists of \"crush everything\" and often refuses to listen to reason, making him a detriment in group settings. He's also somewhat susceptible to misunderstanding people as well, most likely due to keeping up that rebellious streak of his. Dr. Wily often feared having to utilize Punk in any situation, due to his own traits and rough style of battle being a possible thorn to his plans. However, he's not a pain to absolutely everyone; he holds a high regard for Enker, his senior, and treats Ballade just like a brother. It's tough to dispute Punk's an extremely dangerous and self-contained robot, or rather a mere force of mass destruction. Whether he's valuable for his team on the battlefield is one thing, but it's often difficult to consider teamwork when he's having too much fun just crushing everything.",
+    "robot_energy": 110,
+    "robot_weapons": 20,
+    "robot_attack": 141,
+    "robot_defense": 114,
+    "robot_speed": 135,
+    "robot_weaknesses": [
+        "water",
+        "shield"
+    ],
+    "robot_resistances": [
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "screw-crusher"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "screw-crusher"
+    ],
+    "robot_quotes_start": "Put up your dukes, twerp! This'll be over quick...",
+    "robot_quotes_taunt": "You call yourself a robot? More like a tin can!",
+    "robot_quotes_victory": "Listen up, pleb! The only rule worth following is 'do whatever the heck you want!'",
+    "robot_quotes_defeat": "Next time I see you, you're dead!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

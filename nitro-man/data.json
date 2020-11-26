@@ -1,0 +1,56 @@
+{
+    "robot_token": "nitro-man",
+    "robot_number": "DWN-079",
+    "robot_name": "Nitro Man",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "nitro-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Motorcycle Stunt Robot",
+    "robot_description2": "A robot designed to be the ultimate stuntman, Nitro Man's mind was unfortunately twisted by the Roboenza virus. When he was under it's effects, Dr. Wily upgraded him with the Wheel Cutter, a blade that travels through the ground and slashes it's target in half. He also has a rather surprising speed when he's in his vehicle form, much like Turbo Man. He's also incredibly reckless, as that's a trait his job requires him to have. He'll perform any sort of stunt, no matter what the risk could be. His motto is to live life to the fullest, and to always go your maximum speed, no matter the situation. This is a rather dangerous outlook on life, but everyone, human and robot, have their own versions of having fun, don't they? He's also the president of a stunt club, with a solid 60 members. However, this number skyrocketed after he fought Mega Man, as he found himself with a bit of a following wherever he went. Nitro Man is a fast opponent, and will constantly fight you at his fullest, no matter the situation. Don't get cocky if you cause a bit of damage though; He's been in worse conditions than that! He's a stunt-robot, after all!",
+    "robot_energy": 93,
+    "robot_weapons": 10,
+    "robot_attack": 72,
+    "robot_defense": 105,
+    "robot_speed": 130,
+    "robot_weaknesses": [
+        "freeze",
+        "earth"
+    ],
+    "robot_resistances": [
+        "missile",
+        "impact"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "wheel-cutter"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "wheel-cutter"
+    ],
+    "robot_quotes_start": "Lights! Camera! Action!",
+    "robot_quotes_taunt": "This is gonna be my most epic stunt yet!",
+    "robot_quotes_victory": "That's a wrap!",
+    "robot_quotes_defeat": "Cut, cut, cut! Do NOT print that!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

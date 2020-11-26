@@ -1,0 +1,75 @@
+{
+    "robot_token": "astro-man",
+    "robot_number": "DWN-058",
+    "robot_name": "Astro Man",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "space-simulator",
+    "robot_support": "ring-ring",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "astro-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Astro Man (Bubblegum Alt)",
+            "summons": 100,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt2",
+            "name": "Astro Man (Golden Alt)",
+            "summons": 200,
+            "colour": "electric"
+        },
+        {
+            "token": "alt9",
+            "name": "Astro Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "space",
+    "robot_core2": "",
+    "robot_description": "Holographic Illusions Robot",
+    "robot_description2": "Originally designed by Dr. Wily back when he was making robots for commercial use, his blueprints were modified to be more fit for combat. Astro Man focuses on keeping his opponents away with illusions and the like. If the opponent gets too close, they'll wish they didn't, as Astro Man has the Astro Crush, which causes artificial energy Meteors to rain from the sky and attack the opponent. In case you didn't get the point, it causes meteors to attack the opponent! Sheesh! However, this attack takes up quite a bit of weapon energy, so Astro has to use it wisely. Astro Man sounds like a pretty strong combat robot, but his personality limits his use in battle. He's scared at the slightest spooks, and is a huge coward. On the bright side, he's good at hide-and-seek? In fact, he's actually the world champion. Some time ago, Astro Man was outfitted with Evil Energy and was placed in a planetarium in Norway, where he fought Mega Man in battle. After his loss, he went into hiding, only to be found and recruited by King. However, King felt the Astro Crush might give off the wrong impression, so he instead enhanced Astro's vision-making abilities. Despite being a scaredy-cat, Astro Man is still a powerful foe to face in battle. Just don't spook him with any loud noises....",
+    "robot_energy": 104,
+    "robot_weapons": 10,
+    "robot_attack": 84,
+    "robot_defense": 108,
+    "robot_speed": 104,
+    "robot_weaknesses": [
+        "missile",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "space",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "astro-crush"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "astro-crush"
+    ],
+    "robot_quotes_start": "Oh man, how did you find me?!",
+    "robot_quotes_taunt": "Can we at least settle this fairly? No?",
+    "robot_quotes_victory": "I've won but, oh, I'm just so nervous! I need my safe space!",
+    "robot_quotes_defeat": "Aah, I can't take this anymore! It's too embarrassing...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

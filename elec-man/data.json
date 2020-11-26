@@ -1,0 +1,88 @@
+{
+    "robot_token": "elec-man",
+    "robot_number": "DLN-008",
+    "robot_name": "Elec Man",
+    "robot_game": "MM1",
+    "robot_field": "electrical-tower",
+    "robot_field2": "",
+    "robot_support": "spine",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "elec-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Elec Man (Green Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Elec Man (Blue Alt)",
+            "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt3",
+            "name": "Elec Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cutter"
+        },
+        {
+            "token": "alt9",
+            "name": "Elec Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Electrical Stabilizer Robot",
+    "robot_description2": "When Elec Man first stepped foot into this world, he was easily the most powerful robot ever created, and considered by most as Dr. Light's greatest traditional Robot Master. While his slender appearance may not seem like it suggested anything particularly robust, it was his control of electricity that shocked and amazed scientists throughout the globe. Elec Man was put to work in controlling any and all flow in surrounding electrical plants, but nothing compares to the output of his Thunder Beam, a spurt of electrical energy that can pierce through rock. It's a lot of energy to pull off though, so unless the circumstance is dire, Elec Man tends to stick with the less-demanding Thunder Strike ability. Elec Man boasts a razor-sharp judgement and leadership skills, a responsible robot for any Mecha to look up to, but when not leading, Elec Man oftentimes tends to be pretty self-concerned and thinks a little too highly of himself. He was also one of the first robots to give Mega Man a run for his money, his electrical strikes being able to easily pierce Mega Man's meager defenses. Elec Man's electrical control is absolutely astounding and still researched today, and despite the increasing plethora of electrical robots, Elec Man's still as impressive today as he was when he was when first created.",
+    "robot_energy": 100,
+    "robot_weapons": 10,
+    "robot_attack": 141,
+    "robot_defense": 57,
+    "robot_speed": 102,
+    "robot_weaknesses": [
+        "cutter",
+        "earth"
+    ],
+    "robot_resistances": [
+        "freeze",
+        "time"
+    ],
+    "robot_affinities": [
+        "electric"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "thunder-strike"
+        },
+        {
+            "level": 2,
+            "token": "thunder-beam"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "thunder-strike",
+        "thunder-beam"
+    ],
+    "robot_quotes_start": "The enlightening look of lightning in the air-- It's set to start!",
+    "robot_quotes_taunt": "Someone of your low voltage could never hope to stop me!",
+    "robot_quotes_victory": "My electric communication, it's a power that tears through sheer imagination!",
+    "robot_quotes_defeat": "This pulse... It appears your heart cannot be shocked!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

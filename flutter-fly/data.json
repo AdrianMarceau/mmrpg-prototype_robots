@@ -1,0 +1,74 @@
+{
+    "robot_token": "flutter-fly",
+    "robot_number": "FLTR-001",
+    "robot_name": "Flutter Fly",
+    "robot_game": "MMRPGP",
+    "robot_field": "clock-citadel",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "flutter-fly",
+    "robot_image_size": 40,
+    "robot_image_editor": "elitep1",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Flutter Fly (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Flutter Fly (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "time",
+    "robot_core2": "",
+    "robot_description": "Temporal Pulse Mecha",
+    "robot_description2": "The Flutter Fly series was created alongside Time Man as part of a short-lived partnership between Light Labs and the Chronos Institute. Like Time Man himself, Dr. Wily stole most of the incomplete Flutter Flies and reprogrammed them for combat shortly after his first defeat.",
+    "robot_energy": 25,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 35,
+    "robot_speed": 90,
+    "robot_weaknesses": [
+        "flame",
+        "freeze",
+        "electric"
+    ],
+    "robot_resistances": [
+        "earth"
+    ],
+    "robot_affinities": [
+        "laser"
+    ],
+    "robot_immunities": [
+        "time",
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "flutter-pulse"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "flutter-pulse"
+    ],
+    "robot_quotes_start": "Fura!",
+    "robot_quotes_taunt": "\u2026Fu?",
+    "robot_quotes_victory": "Fufufufufu! Fura!",
+    "robot_quotes_defeat": "Fuuuurrraaaaaa\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

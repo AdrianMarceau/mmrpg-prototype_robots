@@ -1,0 +1,57 @@
+{
+    "robot_token": "mars",
+    "robot_number": "SRN-004",
+    "robot_name": "Mars",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "boss",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "missile",
+    "robot_core2": "flame",
+    "robot_description": "Mobile Armory Stardroid",
+    "robot_description2": "Mars was another robot leading the attack on Earth, tearing the robotic forces apart due to being a walking weapon, much like Napalm Man. He's heavily armored and has explosive weapons to the brim, from landmines to homing missiles. His signature weapon is the Photon Missile, a missile that takes a second to analyze all possible defensive strategies the enemy might take, before using this data to predict and strike its target dead-on. He's not exactly slow either, as the wheels on the bottom of his heels can allow him to reach quick speeds. However, he's easily the heaviest of the Stardroids, and can't exactly.....jump. He proved himself to be a match for Mega Man, but due to his flaws, he ended up losing the fight. He's big-hearted to his fellow Stardroids, always showing them kindness and assisting them when needed. With his foes, however, he prefers to play a survival game with them, seeing how long his target can manage to keep away from him. He also dislikes surrendering, and will promptly eliminate any robot who does so. Mars is quite literally a living weapon, being more decked up than any other robot seen before, so extreme caution must be taken when facing him.",
+    "robot_energy": 120,
+    "robot_weapons": 20,
+    "robot_attack": 227,
+    "robot_defense": 173,
+    "robot_speed": 180,
+    "robot_weaknesses": [
+        "water",
+        "earth"
+    ],
+    "robot_resistances": [
+        "explode"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "space"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "photon-missile"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "photon-missile"
+    ],
+    "robot_quotes_start": "Choose your weapon; our survival game begins now!",
+    "robot_quotes_taunt": "You call those attacks? I'll show you some REAL firepower!",
+    "robot_quotes_victory": "Blown to bits! Your weapons are peashooters compared to ours!",
+    "robot_quotes_defeat": "I won't surrender! I'd rather be scrapped!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

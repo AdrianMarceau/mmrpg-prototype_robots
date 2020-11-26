@@ -1,0 +1,134 @@
+{
+    "robot_token": "disco",
+    "robot_number": "SWN-002",
+    "robot_name": "Disco",
+    "robot_game": "MMRPGP",
+    "robot_field": "wily-castle",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "female",
+    "robot_image": "disco",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Disco (Bass Alt)",
+            "summons": 50,
+            "colour": "explode"
+        },
+        {
+            "token": "alt2",
+            "name": "Pretty Dress Disco",
+            "summons": 100,
+            "colour": "time"
+        },
+        {
+            "token": "alt3",
+            "name": "Pretty Dress Disco (Bass Alt)",
+            "summons": 150,
+            "colour": "explode"
+        },
+        {
+            "token": "alt4",
+            "name": "Power Suit Disco",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt5",
+            "name": "Power Suit Disco (Bass Alt)",
+            "summons": 250,
+            "colour": "explode"
+        }
+    ],
+    "robot_core": "",
+    "robot_core2": "",
+    "robot_description": "Loyal Apprentice Robot",
+    "robot_description2": "With his frustrations throughout the years, Dr. Wily could only ponder what it was about Dr. Light that allowed him to prevail each and every time: he created a parallel for both Mega Man and Rush in the form of Bass and Treble, yet they only served to be a thorn in his side. With each conclusion, Dr. Wily's mind was brought back to one scene; an infected Roll sacrificing her medicine for the sake of preserving Mega Man's well-being. He quickly realized he needed a robot who had that exact same sense of loyalty towards him, a parallel to Roll who can stand behind him for his world domination conquest-- A right-hand man...no, woman! Disco is an apprentice robot built by Dr. Wily to be his perfect analogue to Roll, for the sake of providing obedience and loyalty in ways that Bass never could. Opposite to the way Roll specializes in boost and support abilities, Disco specializes in break and assault abilities, lowering her targets' stats to dangerously low levels in short time and setting them up for a prompt defeat. Much like her brother robot's feelings toward Mega Man, Disco has a deeply rooted rivalry with Roll and will use any opportunity to flaunt her battle prowess in Roll's presence. It doesn't appear to bother her logic that she owes her entire conception to Roll, but believed superiority over their righteous counterparts seems to be a running theme with the Wily family, doesn't it?",
+    "robot_energy": 145,
+    "robot_weapons": 15,
+    "robot_attack": 70,
+    "robot_defense": 90,
+    "robot_speed": 95,
+    "robot_weaknesses": [
+        "cutter",
+        "swift"
+    ],
+    "robot_resistances": [
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        },
+        {
+            "level": 12,
+            "token": "disco-buster"
+        },
+        {
+            "level": 14,
+            "token": "energy-break"
+        },
+        {
+            "level": 16,
+            "token": "attack-break"
+        },
+        {
+            "level": 18,
+            "token": "defense-break"
+        },
+        {
+            "level": 20,
+            "token": "speed-break"
+        },
+        {
+            "level": 22,
+            "token": "disco-fever"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "disco-buster",
+        "disco-fever",
+        "attack-support",
+        "defense-support",
+        "speed-support",
+        "energy-support",
+        "attack-assault",
+        "defense-assault",
+        "speed-assault",
+        "energy-assault",
+        "attack-shuffle",
+        "defense-shuffle",
+        "speed-shuffle",
+        "energy-shuffle",
+        "repair-mode",
+        "experience-booster",
+        "recovery-booster",
+        "damage-booster",
+        "experience-breaker",
+        "recovery-breaker",
+        "damage-breaker",
+        "bass-buster",
+        "roll-buster",
+        "rhythm-buster",
+        "item-swap"
+    ],
+    "robot_quotes_start": "Battle?  Oh please, you're a joke!",
+    "robot_quotes_taunt": "Don't underestimate my ability to mess with you!",
+    "robot_quotes_victory": "Did you really think you stood a chance?",
+    "robot_quotes_defeat": "What?! You must have cheated\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

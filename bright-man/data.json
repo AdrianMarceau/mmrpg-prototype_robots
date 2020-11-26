@@ -1,0 +1,75 @@
+{
+    "robot_token": "bright-man",
+    "robot_number": "DCN-025",
+    "robot_name": "Bright Man",
+    "robot_game": "MM4",
+    "robot_field": "lighting-control",
+    "robot_field2": "",
+    "robot_support": "bulb-blaster",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "bright-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Bright Man (Green Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Bright Man (Purple Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt9",
+            "name": "Bright Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "time",
+    "robot_core2": "",
+    "robot_description": "Bright Thinking Robot",
+    "robot_description2": "Get the \"bright guy\" puns out of the way now-- although don't disregard it entirely! Bright Man was Dr. Cossack's prefatory work, with the prime purpose of aiding expeditions by always keeping their environment well-lighted and accounted for. However, as all robots typically must in a world ridden with mechanical dysfunction, Bright Man had to eventually be modified for use in combat, much to Dr. Cossack's chagrin. Yet, Bright Man's means of attack are nontraditional; instead of a physical object, Bright Man overrides his lighting to over ten million watts, causing any nearby robots' preemptive safety measures to override their systems and temporarily shut down their movement. To put things into perspective, ten million watts can temporarily sustain a small to mid-average warship cruiser (as one may imagine, Bright Man is an energy-conserving nightmare!) Even brighter than his flash, however, is his mind, as Bright Man has multiple credentials to his name! In fact, Dr. Cossack was able to arrange Bright Man a position at the nationally-acclaimed \"Stravinsky Science Academy\", although ultimately he was fired for keeping his students after class for a grueling hour to listen to his various anecdotes. Nonetheless, out of the classroom and in the battlefield, Bright Man tends to be somewhat of a pacifistic coward, but a coward that holds it above all else to help his allies! Just, maybe only if all the stronger robots don't show up that day...",
+    "robot_energy": 102,
+    "robot_weapons": 10,
+    "robot_attack": 101,
+    "robot_defense": 122,
+    "robot_speed": 75,
+    "robot_weaknesses": [
+        "water",
+        "space"
+    ],
+    "robot_resistances": [
+        "impact",
+        "time"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "bright-burst"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "bright-burst"
+    ],
+    "robot_quotes_start": "It's not an enlightened robot's job to fight, but I'll do what I can!",
+    "robot_quotes_taunt": "I'm not worried; success comes to me in a flash!",
+    "robot_quotes_victory": "Oh, lighten up, won't you?... Just a little light-bulb humor!",
+    "robot_quotes_defeat": "Wow, you outshined me! I better take notes....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

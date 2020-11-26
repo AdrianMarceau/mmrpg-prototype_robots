@@ -1,0 +1,71 @@
+{
+    "robot_token": "spine",
+    "robot_number": "SPNE-001",
+    "robot_name": "Spine",
+    "robot_game": "MM1",
+    "robot_field": "electrical-tower",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "spine",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Spine (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Spine (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Grounded Patrol Mecha",
+    "robot_description2": "The Spine series is a low-lying security robot that travels back and forth to obstruct intruders. Spines are highly resilient, and any attack that does not critically damage them will only knock their systems offline for several seconds.",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 65,
+    "robot_defense": 95,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "cutter",
+        "electric",
+        "flame",
+        "explode"
+    ],
+    "robot_resistances": [
+        "impact",
+        "missile",
+        "water",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "spine-slide"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "spine-slide"
+    ],
+    "robot_quotes_start": "Yo!",
+    "robot_quotes_taunt": "\u2026Ru?",
+    "robot_quotes_victory": "Yoyoyo! Yoru!",
+    "robot_quotes_defeat": "Yoooooruuuu\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

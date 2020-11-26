@@ -1,0 +1,84 @@
+{
+    "robot_token": "flash-man",
+    "robot_number": "DWN-014",
+    "robot_name": "Flash Man",
+    "robot_game": "MM2",
+    "robot_field": "photon-collider",
+    "robot_field2": "",
+    "robot_support": "crazy-cannon",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "flash-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Flash Man (Red Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Flash Man (Green Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Flash Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "time"
+        },
+        {
+            "token": "alt9",
+            "name": "Flash Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "time",
+    "robot_core2": "",
+    "robot_description": "Temporal Shift Robot",
+    "robot_description2": "Continuing off from his research where Time Man ended, Dr. Wily purposed Flash Man for combat with the gimmick of being able to completely stop time whenever needed. This short burst of temporal energy is referred to as the Flash Stopper, where Flash Man can mercilessly attack his adversaries while giving the appearance of phasing in and out of reality. Because he has to direct so much energy into his Flash Stopper though, his regular offensive capabilities are frankly unimpressive. Flash Man's been described with many saccharine adjectives such as \"contemptible\" and \"inconsiderate\", scoffing aside the considerations of others. Deep down though, Flash Man's actually quite nice and benevolent, a leader who cares deeply for the conditions of his subordinates. His aspirations are to be on the stage one day, an actor who loves having the spotlight on him whenever he performs. So far, he's only been given roles as an extra in films or plays --he did get an opportunity to star as a pitchman for a wig brand, but for whatever reason he turned the offer down in a furious rage. When he's bored, Flash Man loves using his time-stopping powers for his own devious motives, whether it be to play pranks on his fellow robots or to extend the amount of time he spends at his leisure. While it appears he's more interested on being on the stage rather than the battlefield, Flash Man's abilities are no act; it's the type of stuff Time Man wishes he could do.",
+    "robot_energy": 103,
+    "robot_weapons": 10,
+    "robot_attack": 70,
+    "robot_defense": 103,
+    "robot_speed": 124,
+    "robot_weaknesses": [
+        "explode",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "time"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "flash-pulse"
+        },
+        {
+            "level": 2,
+            "token": "flash-stopper"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "No robot can stand against time! It ends here, {target_robot}!",
+    "robot_quotes_taunt": "It's not that I don't have any hair, it's just... thinning a bit!",
+    "robot_quotes_victory": "Heh heh, I'll freeze this moment to feel victorious forever!",
+    "robot_quotes_defeat": "I've strut and fret my hour upon the stage...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

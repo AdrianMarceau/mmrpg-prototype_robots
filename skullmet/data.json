@@ -1,0 +1,70 @@
+{
+    "robot_token": "skullmet",
+    "robot_number": "SKMT-001",
+    "robot_name": "Skullmet",
+    "robot_game": "MM4",
+    "robot_field": "robosaur-boneyard",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "skullmet",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Skullmet (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Skullmet (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "shadow",
+    "robot_core2": "",
+    "robot_description": "Armored Skull Mecha",
+    "robot_description2": "The Skullmet series is an automated anti-infantry cannon designed for urban warfare. Their small size allows them to maneuver through crowded city streets, and their armored hides can revisit most conventional firearms. However, a shot through their lightly-armored photoreceptors can deal significant damage to their internal systems.",
+    "robot_energy": 40,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 85,
+    "robot_speed": 25,
+    "robot_weaknesses": [
+        "freeze",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "flame",
+        "impact",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "skull-shot"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "skull-shot"
+    ],
+    "robot_quotes_start": "Suka! Sukaruuuu!",
+    "robot_quotes_taunt": "Mettoooooooo!",
+    "robot_quotes_victory": "Mettomettometto!",
+    "robot_quotes_defeat": "Sukaru\u2026metto!.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

@@ -1,0 +1,69 @@
+{
+    "robot_token": "bombomb",
+    "robot_number": "BOMB-001",
+    "robot_name": "Bombomb",
+    "robot_game": "MM1",
+    "robot_field": "orb-city",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "bombomb",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Bombomb (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Bombomb (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Explosive Demolishion Mecha",
+    "robot_description2": "The Bombomb line was originally produced for military usage, but due to an excess supply of ammunition, surplus commodities were sent to civil sectors to be used as demolition for antiquated buildings. With the advanced robotics and the creation of Robot Masters, however, the Bombombs quickly became relegated to relics of the past.",
+    "robot_energy": 10,
+    "robot_weapons": 5,
+    "robot_attack": 120,
+    "robot_defense": 30,
+    "robot_speed": 40,
+    "robot_weaknesses": [
+        "electric",
+        "explode"
+    ],
+    "robot_resistances": [
+        "impact",
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "bombomb-boom"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "bombomb-boom"
+    ],
+    "robot_quotes_start": "...",
+    "robot_quotes_taunt": "...",
+    "robot_quotes_victory": "..!",
+    "robot_quotes_defeat": "..?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

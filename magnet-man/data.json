@@ -1,0 +1,80 @@
+{
+    "robot_token": "magnet-man",
+    "robot_number": "DWN-018",
+    "robot_name": "Magnet Man",
+    "robot_game": "MM3",
+    "robot_field": "magnetic-generator",
+    "robot_field2": "",
+    "robot_support": "mag-fly",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "magnet-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "elitep1",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Magnet Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Magnet Man (Gold Alt)",
+            "summons": 200,
+            "colour": "electric"
+        },
+        {
+            "token": "alt3",
+            "name": "Magnet Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "flame"
+        },
+        {
+            "token": "alt9",
+            "name": "Magnet Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Electro Magnetism Robot",
+    "robot_description2": "A co-designed robot from the minds of Dr. Light and Dr. Wily, Magnet Man was designed from the start to be a master of magnetism. Of course, as with anything with Wily's name on it, he was promptly utilized in matters most nefarious. He can specifically launch the aptly-named \"Magnet Missiles\" to close and home in on any robot, guaranteeing utmost precision with the usage of ferromagnetic wavelengths! And, to further cement his distance-controlling tactics and strategies, Magnet Man's also capable of acting as a functioning magnetic generator, drawing in attracted adversaries to annihilate them in a brief barrage of close-combat firing. All in all, Magnet Man is an avant-garde aficionado when it comes to the turmoils of war, the utter epitome of a forward-thinking tactician and a remarkable leader. Yet, he is rather abrasive and without a commander like Dr. Wily to order him on, he does lack a sense of direction. Also, even though he's a robot, Magnet Man's been suffering from stiffness in his joints lately, so he's been scheduling weekly appointments with a proper chiropractor, specifically dealing in magnetic therapy and massages! Moving beyond Magnet Man's medical history, he's a phenomenal tactician with an admirable sense of seriousness!... But, it is awfully hard to take him seriously with the goofy magnet on his head, isn't it?",
+    "robot_energy": 100,
+    "robot_weapons": 10,
+    "robot_attack": 84,
+    "robot_defense": 129,
+    "robot_speed": 87,
+    "robot_weaknesses": [
+        "electric",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "missile"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "magnet-missile"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "magnet-missile"
+    ],
+    "robot_quotes_start": "I'm gonna push you around, then pull you back again!",
+    "robot_quotes_taunt": "Are you drawn to my magnetic personality?",
+    "robot_quotes_victory": "Admit it, you're attracted to me!",
+    "robot_quotes_defeat": "I have been feeling tense these days...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

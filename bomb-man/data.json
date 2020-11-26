@@ -1,0 +1,87 @@
+{
+    "robot_token": "bomb-man",
+    "robot_number": "DLN-006",
+    "robot_name": "Bomb Man",
+    "robot_game": "MM1",
+    "robot_field": "orb-city",
+    "robot_field2": "",
+    "robot_support": "bombomb",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "bomb-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Bomb Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Bomb Man (Purple Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt3",
+            "name": "Bomb Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "nature"
+        },
+        {
+            "token": "alt9",
+            "name": "Bomb Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Hyper Explosive Robot",
+    "robot_description2": "Dr. Light felt like Guts Man had a particularly dangerous job, so he went ahead and created Bomb Man to work in conjunction with him. His Hyper Bomb is an explosive with a special material that allows it to blow up much larger than a regular explosive, but the Hyper Bomb suffers from this in the aspect of its weight limiting how far it could be thrown. Bomb Man circumvents this however, by bouncing through the air and simply dropping his bombs, catching his opponents below off-guard with a devastating aerial attack. He also has the much larger Danger Bomb, but the risk with this technique stays true to its namesake; it's pretty dangerous. He loves going to firework events and showcases, being infatuated with the beautiful combustion that resemble his own work. Bomb Man's an avid bowling player too, playing and rolling the ball with exceptional ease. One time, after forgetting to bring his bowling ball, he quickly improvised and used his own bombs as a makeshift ball, sparking the now-popular sport, Bomb Bowling. This obsession with bombs isn't exactly the safest hobby one can have, but Bomb Man happens to find the most fun in the things that aren't always the most safe for him.",
+    "robot_energy": 94,
+    "robot_weapons": 10,
+    "robot_attack": 144,
+    "robot_defense": 76,
+    "robot_speed": 86,
+    "robot_weaknesses": [
+        "cutter",
+        "flame"
+    ],
+    "robot_resistances": [
+        "water"
+    ],
+    "robot_affinities": [
+        "explode"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "hyper-bomb"
+        },
+        {
+            "level": 2,
+            "token": "danger-bomb"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "hyper-bomb",
+        "danger-bomb"
+    ],
+    "robot_quotes_start": "Let's have a little fun with my explosives!",
+    "robot_quotes_taunt": "Watch it! Bomb's aren't toys, y'know!",
+    "robot_quotes_victory": "C'mon dude, the party ain't over yet!.... uhh, dude?",
+    "robot_quotes_defeat": "No way! You're supposed to blow up, not me!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

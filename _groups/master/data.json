@@ -1,0 +1,213 @@
+{
+    "MM00": {
+        "group_class": "master",
+        "group_token": "MM00",
+        "group_order": 0,
+        "group_child_tokens": [
+            "mega-man",
+            "bass",
+            "proto-man",
+            "roll",
+            "disco",
+            "rhythm"
+        ]
+    },
+    "MM01": {
+        "group_class": "master",
+        "group_token": "MM01",
+        "group_order": 1,
+        "group_child_tokens": [
+            "cut-man",
+            "guts-man",
+            "ice-man",
+            "bomb-man",
+            "fire-man",
+            "elec-man",
+            "time-man",
+            "oil-man"
+        ]
+    },
+    "MM02": {
+        "group_class": "master",
+        "group_token": "MM02",
+        "group_order": 2,
+        "group_child_tokens": [
+            "metal-man",
+            "air-man",
+            "bubble-man",
+            "quick-man",
+            "crash-man",
+            "flash-man",
+            "heat-man",
+            "wood-man"
+        ]
+    },
+    "MM03": {
+        "group_class": "master",
+        "group_token": "MM03",
+        "group_order": 3,
+        "group_child_tokens": [
+            "needle-man",
+            "magnet-man",
+            "gemini-man",
+            "hard-man",
+            "top-man",
+            "snake-man",
+            "spark-man",
+            "shadow-man"
+        ]
+    },
+    "MM04": {
+        "group_class": "master",
+        "group_token": "MM04",
+        "group_order": 4,
+        "group_child_tokens": [
+            "bright-man",
+            "toad-man",
+            "drill-man",
+            "pharaoh-man",
+            "ring-man",
+            "dust-man",
+            "dive-man",
+            "skull-man"
+        ]
+    },
+    "MM05": {
+        "group_class": "master",
+        "group_token": "MM05",
+        "group_order": 5,
+        "group_child_tokens": [
+            "gravity-man",
+            "wave-man",
+            "stone-man",
+            "gyro-man",
+            "star-man",
+            "charge-man",
+            "napalm-man",
+            "crystal-man"
+        ]
+    },
+    "MM06": {
+        "group_class": "master",
+        "group_token": "MM06",
+        "group_order": 6,
+        "group_child_tokens": [
+            "blizzard-man",
+            "centaur-man",
+            "flame-man",
+            "knight-man",
+            "plant-man",
+            "tomahawk-man",
+            "wind-man",
+            "yamato-man"
+        ]
+    },
+    "MM07": {
+        "group_class": "master",
+        "group_token": "MM07",
+        "group_order": 7,
+        "group_child_tokens": [
+            "freeze-man",
+            "junk-man",
+            "burst-man",
+            "cloud-man",
+            "spring-man",
+            "slash-man",
+            "shade-man",
+            "turbo-man"
+        ]
+    },
+    "MM08": {
+        "group_class": "master",
+        "group_token": "MM08",
+        "group_order": 8,
+        "group_child_tokens": [
+            "tengu-man",
+            "astro-man",
+            "sword-man",
+            "clown-man",
+            "search-man",
+            "frost-man",
+            "grenade-man",
+            "aqua-man"
+        ]
+    },
+    "MM085": {
+        "group_class": "master",
+        "group_token": "MM085",
+        "group_order": 9,
+        "group_child_tokens": [
+            "dynamo-man",
+            "cold-man",
+            "ground-man",
+            "pirate-man",
+            "burner-man",
+            "magic-man"
+        ]
+    },
+    "MM09": {
+        "group_class": "master",
+        "group_token": "MM09",
+        "group_order": 10,
+        "group_child_tokens": [
+            "concrete-man",
+            "tornado-man",
+            "splash-woman",
+            "plug-man",
+            "jewel-man",
+            "hornet-man",
+            "magma-man",
+            "galaxy-man"
+        ]
+    },
+    "MM10": {
+        "group_class": "master",
+        "group_token": "MM10",
+        "group_order": 11,
+        "group_child_tokens": [
+            "blade-man",
+            "pump-man",
+            "commando-man",
+            "chill-man",
+            "sheep-man",
+            "strike-man",
+            "nitro-man",
+            "solar-man"
+        ]
+    },
+    "MM11": {
+        "group_class": "master",
+        "group_token": "MM11",
+        "group_order": 12,
+        "group_child_tokens": [
+            "block-man",
+            "fuse-man",
+            "blast-man",
+            "acid-man",
+            "tundra-man",
+            "torch-man",
+            "impact-man",
+            "bounce-man"
+        ]
+    },
+    "Hidden": {
+        "group_class": "master",
+        "group_token": "Hidden",
+        "group_order": 13,
+        "group_child_tokens": [
+            "rock",
+            "fake-man",
+            "bond-man",
+            "shark-man",
+            "blossom-woman",
+            "desert-man",
+            "zephyr-woman",
+            "target-man",
+            "hallow-man",
+            "prism-man",
+            "portal-man",
+            "shield-man",
+            "laser-man"
+        ]
+    }
+}

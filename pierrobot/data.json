@@ -1,0 +1,68 @@
+{
+    "robot_token": "pierrobot",
+    "robot_number": "PIER-001",
+    "robot_name": "Pierrobot",
+    "robot_game": "MM2",
+    "robot_field": "industrial-facility",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "pierrobot",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Pierrobot (2nd Gen)",
+            "summons": 30
+        },
+        {
+            "token": "alt2",
+            "name": "Pierrobot (3rd Gen)",
+            "summons": 60
+        }
+    ],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Balancing Performer Mecha",
+    "robot_description2": "The Pierrobot series were originally performers for the Robot Circus before Dr. Wily forcibly recruited them into his robot army. In battle, a Pierrobot will rely on its acrobatic skills and the surrounding environment to gain an advantage over its foes.",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 35,
+    "robot_speed": 55,
+    "robot_weaknesses": [
+        "swift",
+        "nature"
+    ],
+    "robot_resistances": [
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "water"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "pierro-gear"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "pierro-gear"
+    ],
+    "robot_quotes_start": "Pierro! Ro!",
+    "robot_quotes_taunt": "\u2026Pi?",
+    "robot_quotes_victory": "Pipipipierrrrro!",
+    "robot_quotes_defeat": "Roooooooo\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

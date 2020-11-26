@@ -1,0 +1,82 @@
+{
+    "robot_token": "splash-woman",
+    "robot_number": "DLN-067",
+    "robot_name": "Splash Woman",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "waterfall-institute",
+    "robot_support": "snapper",
+    "robot_class": "master",
+    "robot_gender": "female",
+    "robot_image": "splash-woman",
+    "robot_image_size": 80,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "elitep1",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Splash Woman (Crab Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Splash Woman (Seaweed Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Splash Woman (Weapon Alt)",
+            "summons": 300,
+            "colour": "freeze"
+        },
+        {
+            "token": "alt9",
+            "name": "Splash Woman (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "water",
+    "robot_core2": "",
+    "robot_description": "Aquatic Rescue Robot",
+    "robot_description2": "Splash Woman had initially been a rescue robot created by Dr. Light that would assist swimmers and ships lost out at sea, but this all changed when her expiration date had come. Along with the rest of her Robot Master line, Splash Woman was tricked by Dr. Wily into getting reprogrammed and designed for combat. Her Laser Trident has originally been made for cutting through ship hulls, but Dr. Wily adapted the ability into a projectile, which she shoots from her trident. Splash Woman also leads a school of robotic fish into combat, which she activates by singing, which the fishes' audio sensors pick up on. Although her attacks deal heavy damage, she is frail to attacks, so she prefers to take her opponents out from afar. Despite her fighting skills, she went back to her rescue missions after Mega Man defeated Wily yet again. If she's not out at sea, she can often be found in a sea-side karaoke bar, practicing her singing. Now, if only Dr. Light would give her some normal legs so she could try visiting other karaoke bars....",
+    "robot_energy": 95,
+    "robot_weapons": 10,
+    "robot_attack": 126,
+    "robot_defense": 66,
+    "robot_speed": 113,
+    "robot_weaknesses": [
+        "nature",
+        "laser"
+    ],
+    "robot_resistances": [
+        "earth"
+    ],
+    "robot_affinities": [
+        "water"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "laser-trident"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "laser-trident"
+    ],
+    "robot_quotes_start": "Time to make a splash!",
+    "robot_quotes_taunt": "Is my beautiful voice distracting you?",
+    "robot_quotes_victory": "See? Legs are completely overrated!",
+    "robot_quotes_defeat": "Ouch! That is NO way to treat a lady!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

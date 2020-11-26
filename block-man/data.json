@@ -1,0 +1,75 @@
+{
+    "robot_token": "block-man",
+    "robot_number": "DWN-081",
+    "robot_name": "Block Man",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "mineral-quarry",
+    "robot_support": "drill-mole",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "block-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Block Man (Sandstone Alt)",
+            "summons": 100,
+            "colour": "swift"
+        },
+        {
+            "token": "alt2",
+            "name": "Block Man (Rhodonite Alt)",
+            "summons": 200,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt9",
+            "name": "Block Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Sturdy Construction Robot",
+    "robot_description2": "Due to Dr. Light's lengthy and glowing history in the area of construction-oriented robots, Block Man was a robot specially contracted by Nakaume Heavy Machinery to assist in their urban development programs, specifically in circumventing the arduous work of wall architecture. This intent is nowhere else more highlighted than in Block Man's Block Dropper, which generates weighty stone blocks to be plunged straight down from the air. Despite it seeming amateurish and simplistic in motion, this technique does genuinely require quite a bit of care and precision to avoid any accidental aching head injuries. And on that front, Block Man is, well... he's not spotless. Nevertheless, despite his short and stout physique, Block Man's filled to the brim with energy, even if this is primarily to serve his own ambition. See, it's his dream to one day create a vast system of structures inspired by temples and pyramids of old, preferably with his face adorned somewhere to let people know the craftsman. In that sense, he's admittedly rather vain and thick as a brick, and even with his cement attire, insults can crumble his temperament with ease. Still, he's close friends with fellow Nakaume robot Impact Man, and really, there's not a work of architecture out there that can weather the elements better than a strong friendship! Well, not literally that is; then Block Man's handiwork prevails.",
+    "robot_energy": 123,
+    "robot_weapons": 10,
+    "robot_attack": 97,
+    "robot_defense": 119,
+    "robot_speed": 61,
+    "robot_weaknesses": [
+        "explode",
+        "impact"
+    ],
+    "robot_resistances": [
+        "flame",
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "block-dropper"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "block-dropper"
+    ],
+    "robot_quotes_start": "Solid job gettin' here; shame I've gotta knock your block off now!",
+    "robot_quotes_taunt": "Don't you mock me... I'm not just another brick in the wall!",
+    "robot_quotes_victory": ".. Say, {target_robot}, you build a temple with my face on it and I'll forget this ever happened!",
+    "robot_quotes_defeat": "Hrrgh, it's just so mortifying... Nobody blocks Block Man!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

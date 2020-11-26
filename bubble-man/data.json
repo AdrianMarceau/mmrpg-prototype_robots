@@ -1,0 +1,84 @@
+{
+    "robot_token": "bubble-man",
+    "robot_number": "DWN-011",
+    "robot_name": "Bubble Man",
+    "robot_game": "MM2",
+    "robot_field": "waterfall-institute",
+    "robot_field2": "",
+    "robot_support": "snapper",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "bubble-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Bubble Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Bubble Man (Red Alt)",
+            "summons": 200,
+            "colour": "flame"
+        },
+        {
+            "token": "alt3",
+            "name": "Bubble Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cutter"
+        },
+        {
+            "token": "alt9",
+            "name": "Bubble Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "water",
+    "robot_core2": "",
+    "robot_description": "Underwater Combat Robot",
+    "robot_description2": "Bubble Man was the first Robot Master made for aquatic combat, completely able to glide naturally across the seas with ease. On land, it's a different story; he can basically only bounce around and make Dr. Wily erupt in laughter. Still, Bubble Man's gracefulness in water isn't any laughing matter, especially when he's using his Bubble Lead ability. While it may appear to be a harmless bubble, looks aren't everything; that bubble is actually made of pure lead and can completely wear away a robot's armor in a matter of seconds. He can also attack with a Bubble Spray, which is notable for being particularly conductive. Despite being the butt of about every joke in the robot community, Bubble Man's a affable individual who's interested in proving himself to the entire world. He's bad with budgets however, once spending away a large portion of Dr. Wily's Zenny for the sake of having the world's biggest bubble blower collection. Dr. Wily was not pleased. It's best to not make fun of him directly in front of his face, as while he may be a nice guy, his Bubble Lead's sent plenty of robots straight down to Davy Jones's locker.",
+    "robot_energy": 101,
+    "robot_weapons": 10,
+    "robot_attack": 79,
+    "robot_defense": 122,
+    "robot_speed": 98,
+    "robot_weaknesses": [
+        "cutter",
+        "electric"
+    ],
+    "robot_resistances": [
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "water"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "bubble-spray"
+        },
+        {
+            "level": 2,
+            "token": "bubble-lead"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Welcome to Davy Jones's Locker, with your guide, Bubble Man!",
+    "robot_quotes_taunt": "Gaahh! I'll make this place your watery grave!",
+    "robot_quotes_victory": "Haha! See that, {this_player}? I'm your strongest robot!",
+    "robot_quotes_defeat": "Welp, I'm sure the bubbles will work next time, {this_robot}....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

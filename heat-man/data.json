@@ -1,0 +1,90 @@
+{
+    "robot_token": "heat-man",
+    "robot_number": "DWN-015",
+    "robot_name": "Heat Man",
+    "robot_game": "MM2",
+    "robot_field": "atomic-furnace",
+    "robot_field2": "",
+    "robot_support": "telly",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "heat-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Heat Man (Blue Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Heat Man (Green Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Heat Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "flame"
+        },
+        {
+            "token": "alt4",
+            "name": "Heat Man (Zippo Alt)",
+            "summons": 400,
+            "colour": "none"
+        },
+        {
+            "token": "alt9",
+            "name": "Heat Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Armored Flame Robot",
+    "robot_description2": "Based off of Fire Man's capabilities yet inspired by Ice Man's design, Heat Man is another of Dr. Wily's combat robots. Combining both fierce flames with a fortified defensive armor, Heat Man's Atomic Fire is a flame that grows progressively stronger in succession, allowing Heat Man to take attacks head-on while dealing devastating damage. His armor's not without its flaws though, as oftentimes his lid will unintentionally close down on his own head. He's also able to enshroud himself in flames, where he can then launch himself to crash right into his targets. While Heat Man's a care-free individual and can carry out work at his own pace, he has difficulty dealing with deadlines. This leads to him quickly becoming unenthusiastic and nonchalant about his work, causing accidents that still do nothing to jolt his excitement for his occupation. Heat Man is known for his barbecuing expertise as well as being deathly afraid of ice cream, which is .... certainly a peculiar fear! With his intensive heat exceeding even that of Fire Man's, Heat Man's quite the improvement over his original counterpart. At least, mostly. His work just doesn't have the same heart and soul put into it, you know?",
+    "robot_energy": 92,
+    "robot_weapons": 10,
+    "robot_attack": 83,
+    "robot_defense": 148,
+    "robot_speed": 77,
+    "robot_weaknesses": [
+        "water",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "impact"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "flame"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "atomic-fire"
+        },
+        {
+            "level": 2,
+            "token": "atomic-crasher"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Wait a minute... I'll get ignited.",
+    "robot_quotes_taunt": "Watch out, I guess?",
+    "robot_quotes_victory": "I won? Oh... thank you?",
+    "robot_quotes_defeat": "I think I'll probably call in sick tomorrow...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

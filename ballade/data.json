@@ -1,0 +1,63 @@
+{
+    "robot_token": "ballade",
+    "robot_number": "MKN-003",
+    "robot_name": "Ballade",
+    "robot_game": "MMIV",
+    "robot_field": "final-destination",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "boss",
+    "robot_gender": "none",
+    "robot_image": "ballade",
+    "robot_image_size": 40,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "metalman",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Ballade (Alt)",
+            "summons": 100,
+            "colour": "none",
+            "generate_shadows": 1
+        }
+    ],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Elite Megaman Hunter",
+    "robot_description2": "Ballade is yet another installment for the Mega Man Killers, his conception based off the idea of \"Just overwhelm Mega Man with too, too much force!\" He's equipped with the Ballade Cracker, a very explosive and volatile bomb capable of clearing off crowds of robots. Ballade also has a second form that he only uses in desperate situations, boosting his abilities even more than before! Ballade takes competition to the max, fighting robots simply just to test his limits. He's also extremely cocky, and his mindset for fighting is rather simple. Ballade follows the chain of command much better than his fellow Mega Man Killer, Punk, although he still has a tendency to hurt his own teammates due to his incredibly volatile weaponry. Despite being a Mega Man Killer, Ballade's objective never outweighs his moral code; he'll never attack a defenseless opponent nor will he hold resentment to a stronger opponent. This was proved when Mega Man defeated him, thus Ballade completely sacrificed himself in one last final act of respect to save Mega Man's life and pay his debt. It's nice to imagine that not all of Wily's elite are cruel, heartless robots. Of course, reality isn't imagination, and chances are if he was ever brought back, the first thing Ballade would likely do is continue to fight just about any opponent he can.",
+    "robot_energy": 110,
+    "robot_weapons": 20,
+    "robot_attack": 145,
+    "robot_defense": 103,
+    "robot_speed": 142,
+    "robot_weaknesses": [
+        "earth",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "shadow"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "ballade-cracker"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "ballade-cracker"
+    ],
+    "robot_quotes_start": "I don't fight weaklings! Give me the challenge I crave!",
+    "robot_quotes_taunt": "There's potential in you yet... but you're still only second fiddle!",
+    "robot_quotes_victory": "I had my hopes... but it was all for nothing! Another disappointing foe!",
+    "robot_quotes_defeat": "I fall to a truly worthy adversary... You are number one, {target_robot}!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

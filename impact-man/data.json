@@ -1,0 +1,56 @@
+{
+    "robot_token": "impact-man",
+    "robot_number": "DWN-087",
+    "robot_name": "Impact Man",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "mountain-mines",
+    "robot_support": "picket-man",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "robot",
+    "robot_image_size": 40,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "impact",
+    "robot_core2": "",
+    "robot_description": "Almighty Piling Robot",
+    "robot_description2": "A hard-working Robot Master who always pushes through, it\u2019s Impact Man!... Or perhaps, it may be more appropriate to say \u201cImpact Men\u201d? Though he certainly gives off the appearance of a sturdy construction robot, Impact Man is actually comprised of three separate pile driver robots, collectively known as the Impact Brothers. The separating is certainly helpful when it comes to cover the most ground in piling endeavors, but for the most part, it\u2019s only when the three brothers work together in an unified effort that they can make great strides in their work. And great strides do they make; beyond his sturdy frame, one may notice Impact Man\u2019s signature piling equipment functioning as his ligaments, and utilizing his strong acceleration can he make a great impact on dense foundation walls. And due to his segmented design, he can handily morph his form to whatever the situation requires! As Impact Man, he is nothing short of diligent, a worker who never hesitates to completing the task in record time. As individual siblings however, the personalities\u2026 begin to vary: Kui-ichiro, the oldest, takes lead control, but the efficient youngest sibling, Kui-saburo, often substitutes in. On the other hand, the middle sibling, Kui-jiro, is awfully disorderly and thus can\u2019t be trusted to take the reins. But though the brothers may quarrel from time to time, ultimately they\u2019ll always defend each other from any slight and push through when the job\u2019s on the line! Surely an inspiring sentiment to his bystanders, but absolutely frightening to his enemies!",
+    "robot_energy": 102,
+    "robot_weapons": 10,
+    "robot_attack": 73,
+    "robot_defense": 116,
+    "robot_speed": 109,
+    "robot_weaknesses": [
+        "water",
+        "shield"
+    ],
+    "robot_resistances": [
+        "earth",
+        "missile"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "pile-driver"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "pile-driver"
+    ],
+    "robot_quotes_start": "The three Impact brothers combined together... We are Impact Man!",
+    "robot_quotes_taunt": "Brothers, are you thinking what I'm thinking? Impale! Impair! Implode!",
+    "robot_quotes_victory": "Once we work as one and just push through, nothing can stop us!",
+    "robot_quotes_defeat": "Kui-jiro... from now on, you're not allowed to take the reins.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

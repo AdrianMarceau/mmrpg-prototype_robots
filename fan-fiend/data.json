@@ -1,0 +1,69 @@
+{
+    "robot_token": "fan-fiend",
+    "robot_number": "FANF-001",
+    "robot_name": "Fan Fiend",
+    "robot_game": "MM2",
+    "robot_field": "sky-ridge",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "fan-fiend",
+    "robot_image_size": 40,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Fan Fiend (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Fan Fiend (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Gyrating Blades Mecha",
+    "robot_description2": "The Fan Fiend series use their powerful chest-mounted fans to clean city streets. Dr. Wily used the Fan Fiend as the basis for Air Man, and several served under the windy Robot Master during Wily\u2019s second bid for world domination.",
+    "robot_energy": 60,
+    "robot_weapons": 5,
+    "robot_attack": 40,
+    "robot_defense": 90,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "explode",
+        "nature"
+    ],
+    "robot_resistances": [
+        "wind",
+        "impact"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "power-fan"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "power-fan"
+    ],
+    "robot_quotes_start": "Buro? Buroooo!",
+    "robot_quotes_taunt": "Buro buro!",
+    "robot_quotes_victory": "Buuuurrooooo!",
+    "robot_quotes_defeat": "Bu\u2026ro\u2026",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

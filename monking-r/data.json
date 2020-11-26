@@ -1,0 +1,69 @@
+{
+    "robot_token": "monking-r",
+    "robot_number": "MNKR-001",
+    "robot_name": "Monking R",
+    "robot_game": "MM3",
+    "robot_field": "rocky-plateau",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "monking-r",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Monking R (2nd Gen)",
+            "summons": 30,
+            "colour": ""
+        },
+        {
+            "token": "alt2",
+            "name": "Monking R (3rd Gen)",
+            "summons": 60,
+            "colour": ""
+        }
+    ],
+    "robot_core": "impact",
+    "robot_core2": "",
+    "robot_description": "Returning Monkey Mecha",
+    "robot_description2": "The Monking R series was originally built to survey jungles, rainforests, and other thickly-wooded regions. Their hands and feet are equipped with adhesive palms and soles that allow them to attach themselves to trees while mapping terrain. Impressed by this ability, Drs. Light and Wily used several Monking Rs to monitor safety conditions in their mining facilities.",
+    "robot_energy": 65,
+    "robot_weapons": 5,
+    "robot_attack": 40,
+    "robot_defense": 40,
+    "robot_speed": 55,
+    "robot_weaknesses": [
+        "impact",
+        "swift"
+    ],
+    "robot_resistances": [
+        "nature",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "monkey-punch"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "monkey-punch"
+    ],
+    "robot_quotes_start": "Kaettekita!",
+    "robot_quotes_taunt": "Monkingu?",
+    "robot_quotes_victory": "Kita! Kita! Kita!",
+    "robot_quotes_defeat": "Mon\u2026kin\u2026gu.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

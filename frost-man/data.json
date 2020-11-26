@@ -1,0 +1,75 @@
+{
+    "robot_token": "frost-man",
+    "robot_number": "DWN-062",
+    "robot_name": "Frost Man",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "arctic-jungle",
+    "robot_support": "peng",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "frost-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Frost Man (Berry Alt)",
+            "summons": 100,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt2",
+            "name": "Frost Man (Citrus Alt)",
+            "summons": 200,
+            "colour": "energy"
+        },
+        {
+            "token": "alt9",
+            "name": "Frost Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "freeze",
+    "robot_core2": "",
+    "robot_description": "Frozen Brute Robot",
+    "robot_description2": "When you think of an Ice-core robot, you probably wouldn't imagine that this guy is one! Easily one of the largest Robot Masters out there, he was built from leftover parts of Clown Man, strangely enough. Wily boosted his incredible strength even further with the Evil Energy he found, and he used the Ice Wave, a traveling wave of frozen water, to provide a fight for Mega Man. Even without that, his physical strength is incredible, something he's very proud of in his life. Unfortunately, Wily set up too much power into his physical body, and forget all about his internal circuits. As a result, he's not the brightest popsicle out there, but he doesn't care too much about that, using strength to work out his situations. Of course, this doesn't work for all situations, so often times, one of his fellow Robot Masters have to guide him in the right direction. He also has poor oil circulation due to his wiring, and explosives bother him as well. He doesn't have too many hobbies, but he will enjoy an ice popsicle from time to time, his one true passion. Frost Man isn't the smartest robot out there, but he doesn't need to be; He lets his crushing do his thinking. Maybe that isn't the best way to solve your problems....",
+    "robot_energy": 110,
+    "robot_weapons": 10,
+    "robot_attack": 113,
+    "robot_defense": 109,
+    "robot_speed": 68,
+    "robot_weaknesses": [
+        "explode",
+        "flame"
+    ],
+    "robot_resistances": [
+        "freeze",
+        "water"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "frost-wave"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "frost-wave"
+    ],
+    "robot_quotes_start": "I'M GOING TO CRUSH YOU!",
+    "robot_quotes_taunt": "JUMP, JUMP! SLIDE, SLIDE!",
+    "robot_quotes_victory": "YUM, YUM, YUM! HAPPY POPSICKLES!",
+    "robot_quotes_defeat": "DAT HURT! FROST MAN ONLY PAWN... IN GAME OF LIFE!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

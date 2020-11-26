@@ -1,0 +1,56 @@
+{
+    "robot_token": "search-man",
+    "robot_number": "DWN-061",
+    "robot_name": "Search Man",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "search-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_alts": [],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Jungle Commando Robot",
+    "robot_description2": "While Dr. Wily was creating a combat robot to defend his Wily Tower, he had the idea two heads were better than one, so he implemented another head into his project at the time, Search Man. However, Dr. Wily had forgotten to add another personality, so the same one bounces between Search Man's two heads. Search Man was designed with an army motif in mind, which Search Man shows off in combat. He can shoot out Homing Snipers, which track down opponents accurately while still packing a punch. Search Man also can throw a spiked disc that hits opponents while floating and can plant a dummy which explodes after a few seconds. Despite his strong weapon, Search Man prefers a more tactical approach to combat, which can be seen in how he hides behind foliage to prepare his next attacks. This way of fighting carries over to Search Man's personality, as he is cowardly. Search Man doesn't interact well with others, as he usually has his heads focused on his current mission. He does seem to enjoy the company of Wood Man however, and he doesn't need to be the biggest socialite; his missiles do his talking.",
+    "robot_energy": 92,
+    "robot_weapons": 10,
+    "robot_attack": 120,
+    "robot_defense": 92,
+    "robot_speed": 96,
+    "robot_weaknesses": [
+        "flame",
+        "explode"
+    ],
+    "robot_resistances": [
+        "nature",
+        "earth"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "homing-sniper"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "homing-sniper"
+    ],
+    "robot_quotes_start": "Target, get set! Begin mission.",
+    "robot_quotes_taunt": "Take this! My surprise attack! ...Don't announce it, idiot!",
+    "robot_quotes_victory": "Wait, we really won? Yes, sir!",
+    "robot_quotes_defeat": "Retreat! Retreat!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}

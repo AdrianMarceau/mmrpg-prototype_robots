@@ -1,0 +1,75 @@
+{
+    "robot_token": "solar-man",
+    "robot_number": "DWN-080",
+    "robot_name": "Solar Man",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "spinning-greenhouse",
+    "robot_support": "spin-fiend",
+    "robot_class": "master",
+    "robot_gender": "male",
+    "robot_image": "solar-man",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Solar Man (Red-G Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Solar Man (Blue-D Alt)",
+            "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt9",
+            "name": "Solar Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Titanic Fireball Robot",
+    "robot_description2": "Designed to work in a sunlight research lab, Solar Man was modified to store solar energy within his body. However, when he was inflicted with Roboenza, he used his \"Solar Blaze\" attack for more nefarious purposes, using his stored energy to cause major damage. He focuses more on keeping his enemies away with fiery attacks, and isn't much of a close-range fighter, as he wasn't built with any close attacks of the sort. Solar Man is a bit of a health-nut, and dislikes cloudy days. Despite being a robot, he is mindful of what he eats and prefers eating grown products. He also developed a \"Solar Workout\" plan, and with some refinement that he learned from his time as a robot of evil, it became a bit of a trend across the country. The workout itself is fairly simple, although intense, and borrows inspiration from the sun itself. Solar Man works out quite often, and his attacks are no solar flare, so keep an eye on this guy! Don't stare at him too long when he's pumped for battle though, or you might hurt your eyes!",
+    "robot_energy": 100,
+    "robot_weapons": 10,
+    "robot_attack": 114,
+    "robot_defense": 104,
+    "robot_speed": 82,
+    "robot_weaknesses": [
+        "water",
+        "space"
+    ],
+    "robot_resistances": [
+        "flame",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "solar-blaze"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "solar-blaze"
+    ],
+    "robot_quotes_start": "Alright, alright... let's start with our warm-ups!",
+    "robot_quotes_taunt": "And one, and two, and one, and two...",
+    "robot_quotes_victory": "Whew! What a workout! I'm burning with a youthful fire!",
+    "robot_quotes_defeat": "No fair, it was cloudy out! I should have listened to Weather Man...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
