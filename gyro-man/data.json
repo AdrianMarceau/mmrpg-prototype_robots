@@ -63,7 +63,7 @@
         "gyro-attack"
     ],
     "robot_quotes_start": "I feel the need... the need for speed!",
-    "robot_quotes_taunt": "In life, you get either a propeller or an engine. And engine people are the absolute worst!",
+    "robot_quotes_taunt": "In the air, {this_robot} has no worries -- not even any jet engine-using cheaters!",
     "robot_quotes_victory": "Mission complete! {this_player}, you can be my wingman anytime!",
     "robot_quotes_defeat": "{this_robot} down, {this_robot} down! Mayday, mayday, mayday!",
     "robot_quotes_custom": [],
