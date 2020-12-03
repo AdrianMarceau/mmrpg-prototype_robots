@@ -17,11 +17,11 @@
     "robot_core2": "",
     "robot_description": "Flaming Geysers Mecha",
     "robot_description2": "The Nitron series is a military robot used to bombard targets into submission from low altitudes. While most Nitrons use a potent mixture of nitroglycerin (hence their name), rumor has it that Dr. Wily has installed cryogenic mines and electrostatic generators on his units.",
-    "robot_energy": 100,
+    "robot_energy": 40,
     "robot_weapons": 5,
-    "robot_attack": 100,
-    "robot_defense": 100,
-    "robot_speed": 100,
+    "robot_attack": 75,
+    "robot_defense": 30,
+    "robot_speed": 55,
     "robot_weaknesses": [
         "freeze",
         "electric"
