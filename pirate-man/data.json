@@ -4,15 +4,34 @@
     "robot_name": "Pirate Man",
     "robot_game": "RnF",
     "robot_field": "",
-    "robot_field2": "",
-    "robot_support": "",
+    "robot_field2": "submerged-armory",
+    "robot_support": "snapper",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "pirate-man",
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
-    "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_editor2": "rhythmbca",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Pirate Man (Commodore Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Pirate Man (Buccaneer Alt)",
+            "summons": 200,
+            "colour": "swift"
+        },
+        {
+            "token": "alt3",
+            "name": "Pirate Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "crystal"
+        }
+    ],
     "robot_core": "explode",
     "robot_core2": "",
     "robot_description": "Scurvy Sea-Dog Robot",
@@ -32,8 +51,8 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "water-subcore",
+    "robot_skill_name": "Seafaring",
     "robot_abilities_rewards": [
         {
             "level": 0,
@@ -50,7 +69,7 @@
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
-    "robot_flag_unlockable": 0,
-    "robot_flag_exclusive": 0,
+    "robot_flag_unlockable": 1,
+    "robot_flag_exclusive": 1,
     "robot_flag_published": 1
 }
