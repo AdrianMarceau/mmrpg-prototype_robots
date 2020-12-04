@@ -1,0 +1,54 @@
+{
+    "robot_token": "rockscotch",
+    "robot_number": "RKSC-001",
+    "robot_name": "Rockscotch",
+    "robot_game": "MMRPG",
+    "robot_field": "mineral-quarry",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "rockscotch",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Gravel Hurdling Mecha",
+    "robot_description2": "",
+    "robot_energy": 60,
+    "robot_weapons": 5,
+    "robot_attack": 80,
+    "robot_defense": 45,
+    "robot_speed": 15,
+    "robot_weaknesses": [
+        "explode",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "wind",
+        "impact"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "met-shot"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Rokku!",
+    "robot_quotes_taunt": "Roksuron! Rok!",
+    "robot_quotes_victory": "Suronrokku, rokku, rokku!",
+    "robot_quotes_defeat": "Suron...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 0
+}
