@@ -26,9 +26,7 @@
         "explode",
         "wind"
     ],
-    "robot_resistances": [
-        "water"
-    ],
+    "robot_resistances": [],
     "robot_affinities": [],
     "robot_immunities": [
         "earth"
