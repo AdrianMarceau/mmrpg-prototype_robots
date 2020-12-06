@@ -31,8 +31,8 @@
     "robot_immunities": [
         "flame"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "cutter-subcore",
+    "robot_skill_name": "Noble Sword",
     "robot_abilities_rewards": [
         {
             "level": 0,
