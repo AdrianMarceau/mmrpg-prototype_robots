@@ -51,8 +51,8 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "electric-subcore",
+    "robot_skill_name": "Luminescent",
     "robot_abilities_rewards": [
         {
             "level": 0,
