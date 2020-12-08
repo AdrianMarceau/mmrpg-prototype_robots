@@ -33,8 +33,8 @@
         "time"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "space-subcore",
+    "robot_skill_name": "Transpatial",
     "robot_abilities_rewards": [
         {
             "level": 0,
