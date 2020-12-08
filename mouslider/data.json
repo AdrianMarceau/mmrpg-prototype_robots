@@ -20,8 +20,8 @@
     "robot_energy": 25,
     "robot_weapons": 5,
     "robot_attack": 45,
-    "robot_defense": 55,
-    "robot_speed": 75,
+    "robot_defense": 35,
+    "robot_speed": 95,
     "robot_weaknesses": [
         "water",
         "earth",
