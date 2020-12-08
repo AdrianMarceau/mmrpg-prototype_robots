@@ -30,6 +30,12 @@
             "name": "Pirate Man (Weapon Alt)",
             "summons": 300,
             "colour": "crystal"
+        },
+        {
+            "token": "alt9",
+            "name": "Pirate Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
         }
     ],
     "robot_core": "explode",
