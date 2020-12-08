@@ -1,0 +1,54 @@
+{
+    "robot_token": "flipping-suzy",
+    "robot_number": "SUZY-001",
+    "robot_name": "Flipping Suzy",
+    "robot_game": "MM5",
+    "robot_field": "",
+    "robot_field2": "lighting-control",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "flipping-suzy",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Gravity Modulator Mecha",
+    "robot_description2": "",
+    "robot_energy": 35,
+    "robot_weapons": 5,
+    "robot_attack": 25,
+    "robot_defense": 85,
+    "robot_speed": 55,
+    "robot_weaknesses": [
+        "electric",
+        "space"
+    ],
+    "robot_resistances": [
+        "swift",
+        "laser"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "met-shot"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Suji!",
+    "robot_quotes_taunt": "Suji suji suji!",
+    "robot_quotes_victory": "Suji! G!",
+    "robot_quotes_defeat": "Suji...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 0
+}
