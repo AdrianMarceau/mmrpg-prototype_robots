@@ -1,0 +1,54 @@
+{
+    "robot_token": "pukapunter",
+    "robot_number": "PUKA-001",
+    "robot_name": "Pukapunter",
+    "robot_game": "MM5",
+    "robot_field": "",
+    "robot_field2": "reflection-chamber",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "pukapunter",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_alts": [],
+    "robot_core": "impact",
+    "robot_core2": "",
+    "robot_description": "Ball Balancing Mecha",
+    "robot_description2": "",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 65,
+    "robot_defense": 60,
+    "robot_speed": 45,
+    "robot_weaknesses": [
+        "earth",
+        "space"
+    ],
+    "robot_resistances": [
+        "wind",
+        "crystal"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "met-shot"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Puka-puka pukka!",
+    "robot_quotes_taunt": "Puka! Puka!",
+    "robot_quotes_victory": "Puk-KA! Pukka-pukka!",
+    "robot_quotes_defeat": "Pukka...?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 0,
+    "robot_flag_unlockable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 0
+}
