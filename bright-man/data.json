@@ -21,8 +21,14 @@
         },
         {
             "token": "alt2",
-            "name": "Bright Man (Purple Alt)",
+            "name": "Bright Man (Flash Man Alt)",
             "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt3",
+            "name": "Bright Man (Weapon Alt)",
+            "summons": 300,
             "colour": "time"
         },
         {
