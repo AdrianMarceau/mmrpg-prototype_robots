@@ -26,6 +26,12 @@
             "colour": "wind"
         },
         {
+            "token": "alt3",
+            "name": "Plant Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "crystal"
+        },
+        {
             "token": "alt9",
             "name": "Plant Man (Darkness Alt)",
             "summons": 900,
