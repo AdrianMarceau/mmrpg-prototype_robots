@@ -26,6 +26,12 @@
             "colour": "nature"
         },
         {
+            "token": "alt3",
+            "name": "Dust Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cutter"
+        },
+        {
             "token": "alt9",
             "name": "Dust Man (Darkness Alt)",
             "summons": 900,
