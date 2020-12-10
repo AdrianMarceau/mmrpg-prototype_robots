@@ -26,6 +26,12 @@
             "colour": "cutter"
         },
         {
+            "token": "alt3",
+            "name": "Dive Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "time"
+        },
+        {
             "token": "alt9",
             "name": "Dive Man (Darkness Alt)",
             "summons": 900,
