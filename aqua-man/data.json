@@ -26,6 +26,12 @@
             "colour": "energy"
         },
         {
+            "token": "alt3",
+            "name": "Aqua Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "time"
+        },
+        {
             "token": "alt9",
             "name": "Aqua Man (Darkness Alt)",
             "summons": 900,
