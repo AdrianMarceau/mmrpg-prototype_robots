@@ -26,6 +26,12 @@
             "colour": "electric"
         },
         {
+            "token": "alt3",
+            "name": "Pharaoh Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "none"
+        },
+        {
             "token": "alt9",
             "name": "Pharaoh Man (Darkness Alt)",
             "summons": 900,
@@ -65,7 +71,7 @@
     "robot_quotes_start": "So the sun god commands me to succeed. So it shall be done!",
     "robot_quotes_taunt": "You are only but a grain of sand in my wide kingdom of desert!",
     "robot_quotes_victory": "Kneel to me now, and the sun god may yet have mercy upon you.",
-    "robot_quotes_defeat": "The sun falls upon my empire no more...",
+    "robot_quotes_defeat": "The sun shines upon my kingdom no more...",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
