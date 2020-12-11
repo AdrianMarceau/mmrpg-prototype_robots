@@ -26,6 +26,12 @@
             "colour": "water"
         },
         {
+            "token": "alt3",
+            "name": "Gyro Man (Legacy Alt)",
+            "summons": 300,
+            "colour": "energy"
+        },
+        {
             "token": "alt9",
             "name": "Gyro Man (Darkness Alt)",
             "summons": 900,
