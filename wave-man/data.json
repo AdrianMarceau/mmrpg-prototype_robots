@@ -26,6 +26,12 @@
             "colour": "time"
         },
         {
+            "token": "alt3",
+            "name": "Wave Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "weapons"
+        },
+        {
             "token": "alt9",
             "name": "Wave Man (Darkness Alt)",
             "summons": 900,
