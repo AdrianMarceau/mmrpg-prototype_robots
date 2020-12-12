@@ -62,8 +62,8 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "break-submodule",
+    "robot_skill_name": "Heart Breaker",
     "robot_abilities_rewards": [
         {
             "level": 0,
