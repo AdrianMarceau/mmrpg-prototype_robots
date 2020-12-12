@@ -17,36 +17,31 @@
             "token": "alt",
             "name": "Rhythm (Proto Alt)",
             "summons": 50,
-            "colour": "flame",
-            "generate_shadows": 1
+            "colour": "flame"
         },
         {
             "token": "alt2",
             "name": "Cute Dress Rhythm",
             "summons": 100,
-            "colour": "nature",
-            "generate_shadows": 1
+            "colour": "nature"
         },
         {
             "token": "alt3",
             "name": "Cute Dress Rhythm (Proto Alt)",
             "summons": 150,
-            "colour": "flame",
-            "generate_shadows": 1
+            "colour": "flame"
         },
         {
             "token": "alt4",
             "name": "Mobile Suit Rhythm",
             "summons": 200,
-            "colour": "nature",
-            "generate_shadows": 1
+            "colour": "nature"
         },
         {
             "token": "alt5",
             "name": "Mobile Suit Rhythm (Proto Alt)",
             "summons": 250,
-            "colour": "flame",
-            "generate_shadows": 1
+            "colour": "flame"
         }
     ],
     "robot_core": "",
@@ -67,8 +62,8 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "reverse-submodule",
+    "robot_skill_name": "Code Contrarian",
     "robot_abilities_rewards": [
         {
             "level": 0,
