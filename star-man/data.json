@@ -26,6 +26,12 @@
             "colour": "freeze"
         },
         {
+            "token": "alt3",
+            "name": "Star Man (Legacy Alt)",
+            "summons": 300,
+            "colour": "explode"
+        },
+        {
             "token": "alt9",
             "name": "Star Man (Darkness Alt)",
             "summons": 900,
