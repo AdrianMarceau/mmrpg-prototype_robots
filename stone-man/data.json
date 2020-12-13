@@ -26,6 +26,12 @@
             "colour": "freeze"
         },
         {
+            "token": "alt3",
+            "name": "Stone Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "earth"
+        },
+        {
             "token": "alt9",
             "name": "Stone Man (Alt9)",
             "summons": 900,
