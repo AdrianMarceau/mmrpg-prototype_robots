@@ -26,10 +26,16 @@
             "colour": "electric"
         },
         {
+            "token": "alt3",
+            "name": "Blizzard Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "freeze"
+        },
+        {
             "token": "alt9",
             "name": "Blizzard Man (Darkness Alt)",
             "summons": 900,
-            "colour": "empty"
+            "colour": "none"
         }
     ],
     "robot_core": "freeze",
