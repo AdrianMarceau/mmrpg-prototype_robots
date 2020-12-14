@@ -26,6 +26,12 @@
             "colour": "nature"
         },
         {
+            "token": "alt3",
+            "name": "Charge Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "swift"
+        },
+        {
             "token": "alt9",
             "name": "Charge Man (Darkness Alt)",
             "summons": 900,
