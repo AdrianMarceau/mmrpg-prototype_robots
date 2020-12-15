@@ -35,7 +35,7 @@
             "token": "alt9",
             "name": "Blizzard Man (Darkness Alt)",
             "summons": 900,
-            "colour": "none"
+            "colour": "empty"
         }
     ],
     "robot_core": "freeze",
