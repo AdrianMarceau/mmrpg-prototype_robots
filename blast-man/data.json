@@ -33,14 +33,11 @@
         "explode"
     ],
     "robot_immunities": [],
-    "robot_skill": "field-boost-at-battle-start",
-    "robot_skill_name": "Pyrotechnician",
-    "robot_skill_description": "Increases the Explode-type field multiplier at the start of battle",
-    "robot_skill_description2": "The robot increases the Explode-type field multiplier by up to 50% upon entering battle in preparation for a dynamite performance.",
-    "robot_skill_parameters": {
-        "type": "explode",
-        "amount": 0.5
-    },
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
