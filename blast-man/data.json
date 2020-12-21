@@ -12,7 +12,38 @@
     "robot_image_size": 40,
     "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Blast Man (Demolition Alt)",
+            "summons": 100,
+            "colour": "explode"
+        },
+        {
+            "token": "alt2",
+            "name": "Blast Man (Arsenal Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt3",
+            "name": "Blast Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "none"
+        },
+        {
+            "token": "alt4",
+            "name": "Blast Man (NetNavi Alt)",
+            "summons": 400,
+            "colour": "missile"
+        },
+        {
+            "token": "alt9",
+            "name": "Blast Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "explode",
     "robot_core2": "",
     "robot_description": "Explosion Artist Robot",
