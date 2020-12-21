@@ -59,6 +59,9 @@
     "robot_immunities": [],
     "robot_skill": "water-subcore",
     "robot_skill_name": "Seafaring",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
@@ -76,6 +79,6 @@
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 1,
-    "robot_flag_exclusive": 1,
+    "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
