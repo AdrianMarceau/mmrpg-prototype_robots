@@ -26,6 +26,12 @@
             "colour": "crystal"
         },
         {
+            "token": "alt3",
+            "name": "Block Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "freeze"
+        },
+        {
             "token": "alt9",
             "name": "Block Man (Darkness Alt)",
             "summons": 900,
@@ -53,6 +59,9 @@
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
