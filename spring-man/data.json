@@ -16,7 +16,7 @@
     "robot_core": "impact",
     "robot_core2": "",
     "robot_description": "Bouncing Coil Robot",
-    "robot_description2": "As a man of science, Dr. Wily had always wanted to try to utilize the principles of physics and momentum to crush his blue-clad nemesis, and after tripping on a popular children\u2019s toy, spontaneously realized that springs were the ultimate weapon of physics! Built of over 2000 springs, Spring Man builds up potential energy in every movement he makes, and then unleashes it all as impactful kinetic energy when he sends his limbs out to devastate the opponent! He can also unleash the \u2018Wild Coil\u2019 ability from his buster, but as his arms already make the perfect ranged weapon, it\u2019s not often he\u2019ll bust that ability out. Unfortunately, his one-of-a-kind design means he\u2019s got a glaring weakness, as pushing his limits might cause his limbs to entangle and snag, leaving him a mess. And Tesla forbid if he were to fight near any stairs! All in all Spring Man\u2019s a carefree individual, the sort of fella to live vicariously through every step and bounce he takes. When he\u2019s particularly elated, he\u2019ll leap and jump as high as he can -- leading to him bumping his head on ceilings pretty often! But regardless, Spring Man\u2019s a joy to watch on any battlefield. Unless that battlefield happens to be on an incline. Then it\u2019s hilarious.",
+    "robot_description2": "As a man of science, Dr. Wily had always wanted to try to utilize the principles of Newtonian Mechanics to crush his blue-clad nemesis, and after tripping on a popular children\u2019s toy, he spontaneously realized that springs were the ultimate weapon of physics! Built out of over 2000 springs, Spring Man builds up potential energy with every move he makes, and then unleashes it all on his foes in a destructive showing of kinetic energy. Forget Hooke\u2019s Law, the only hooks Spring Man needs are the ones colliding with the heads of his enemies! He can also unleash the Wild Coil from his buster, but as his arms already make for the perfect ranged weapon, so it\u2019s not often he\u2019ll bust that ability out. Unfortunately, his one-of-a-kind design means he\u2019s got a glaring weakness, as pushing his limits might cause his limbs to entangle and snag, leaving him a mess. And Tesla forbid if he were to fight near any stairs! All in all Spring Man\u2019s a carefree individual, the sort of fella to live vicariously through every step and bounce he takes. When he\u2019s particularly elated, he\u2019ll leap and jump as high as he can -- leading to him bumping his head on ceilings pretty often! But regardless, Spring Man\u2019s a joy to watch on any battlefield. Unless that battlefield happens to be on an incline. Then it\u2019s hilarious.",
     "robot_energy": 90,
     "robot_weapons": 10,
     "robot_attack": 86,
@@ -35,6 +35,9 @@
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
