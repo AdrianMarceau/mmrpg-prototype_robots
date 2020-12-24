@@ -16,7 +16,7 @@
     "robot_core": "electric",
     "robot_core2": "",
     "robot_description": "Electrifying Entertainer Robot",
-    "robot_description2": "During his eighth plot of taking over the world, Wily stole an entertainment robot from an amusement park, and adapted it for combat using his newly found Evil Energy, becoming Clown Man. Dr. Wily had apparently meant for Clown Man to be much larger, as many of the spare parts went towards Frost Man. His already long arms and trapeze skills were enhanced with electrical properties, which Clown Man calls the Thunder Claw. He's able to send his arms out and swing himself along any outwards stretching object while creating an electrical field around him, damaging any who come hear them. Clown Man also can perform the Thunder Carnival, which is when Clown Man rolls in a ball around the room while sending off sparks of electricity. Due to his years of being laughed at while working at the amusement park, Clown Man has become insecure, going through bouts of happiness, sadness, and anger. Although normally a fair sport in combat, he'll take the time to insult you if you're doing poorly, his favorite seeming to be \u201cgeeky\u201d. Laugh at Clown Man all you want, but if he sees you in his dreams, what do you see in your nightmares? Clowns are spooky!",
+    "robot_description2": "You\u2019ve got to feel bad for the Mega City Horror Land amusement park. Haunted Houses are already a niche workspace, so any financial hardships they encounter hit pretty hard. That means it was bad enough when their vampire animatronic was stolen by the infamous Dr. Wily and turned into a combat robot, but for their replacement clown animatronic to suffer the same fate? It seems like Wily might have done it just out of spite anyways, because unlike Shade Man who was just given some combat abilities, Clown Man was originally going to require much more serious enhancements. Clown Man was supposed to be much bigger, possibly acting as an upgraded version of Mash, but Wily ultimately decided to use the hulking robot design for Frost Man instead. This was definitely the right call, as Clown Man\u2019s telescoping arms and light frame allow him to fly across the battlefield, pulling stunts that would make trapeze artists blush! Clown Man has an easy time latching to and swinging around metal objects thanks to the Thunder Claw, an extension of his arms that violently discharge electricity. He\u2019s not afraid to throw his weight around either, bringing a whole new meaning to assault and battery! Don\u2019t expect to hear too many jokes like that from Clown Man himself, however. The manic Robot Master is seldom taken seriously in his more routine activities, so he strives to be respected in combat. He\u2019ll even hurdle insults at you during the fight, and being called \u201cgeeky\u201d has never felt so demoralizing as it does when it comes from a clown. This desire for respect rarely seems to work on the battlefield, however, as even the slightest breeze can cause Clown Man to get tangled up like earphones in a pocket. Still, his electric attacks can devastate unassuming opponents, so try to knock him out as quickly as possible! Well, maybe don\u2019t knock him out cold; Clown Man\u2019s a sleep talker, and you don\u2019t want to hear how you\u2019re faring in his dreams.",
     "robot_energy": 97,
     "robot_weapons": 10,
     "robot_attack": 104,
@@ -34,6 +34,9 @@
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
