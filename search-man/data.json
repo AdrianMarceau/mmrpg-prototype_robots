@@ -16,7 +16,7 @@
     "robot_core": "missile",
     "robot_core2": "",
     "robot_description": "Jungle Commando Robot",
-    "robot_description2": "While Dr. Wily was creating a combat robot to defend his Wily Tower, he had the idea two heads were better than one, so he implemented another head into his project at the time, Search Man. However, Dr. Wily had forgotten to add another personality, so the same one bounces between Search Man's two heads. Search Man was designed with an army motif in mind, which Search Man shows off in combat. He can shoot out Homing Snipers, which track down opponents accurately while still packing a punch. Search Man also can throw a spiked disc that hits opponents while floating and can plant a dummy which explodes after a few seconds. Despite his strong weapon, Search Man prefers a more tactical approach to combat, which can be seen in how he hides behind foliage to prepare his next attacks. This way of fighting carries over to Search Man's personality, as he is cowardly. Search Man doesn't interact well with others, as he usually has his heads focused on his current mission. He does seem to enjoy the company of Wood Man however, and he doesn't need to be the biggest socialite; his missiles do his talking.",
+    "robot_description2": "Even in the technological golden era of 20XX, where robotics sensory and decision making algorithms have advanced far beyond the abilities of humans, one particular adage holds true; two heads are better than one. Wily thought giving two distinct personalities would enhance a combat robot\u2019s performance, as their different thought processes and doubled processing speeds would allow them to make the most effective decisions. It\u2019s too bad Wily forgot to actually program a second personality, essentially leaving Search Man a ventriloquist dressed in camo. Perhaps Wily can be forgiven for his absentmindedness, as he was busy experimenting with the extraterrestrial Evil Energy, which Search Man guarded access to by hiding out in the Congo. Here he defended his outpost with all the artillery of a one man army. Er, maybe a two man army\u2026 or would it be a one man and a half army? Either way, Search Man was a tricky opponent for Mega Man, taking potshots at the Blue Bomber with his Homing Sniper, a relentless seeking missile. Search Man has also historically used spiked discs and booby traps on the battlefield, but his most renowned tactic might be his propensity for hiding, which other war robots chastise him for. Maybe if they tried it themselves, they\u2019d see why Search Man manages to maintain such a jovial attitude, because all that time hiding out gives Search Man the opportunity to appreciate the simpler things in life. Unlike other war robots, Search Man gets to stop to smell the roses, staying optimistic in even the harshest battles. He can see the beauty in the world, and is fighting to preserve what he believes is right. Besides, he\u2019d rather be talking to squirrels than his enemies.",
     "robot_energy": 92,
     "robot_weapons": 10,
     "robot_attack": 120,
@@ -34,6 +34,9 @@
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
@@ -45,7 +48,7 @@
     ],
     "robot_quotes_start": "Target, get set! Begin mission.",
     "robot_quotes_taunt": "Take this! My surprise attack! ...Don't announce it, idiot!",
-    "robot_quotes_victory": "Wait, we really won? Yes, sir!",
+    "robot_quotes_victory": "Wait, I really won? Yes, sir!",
     "robot_quotes_defeat": "Retreat! Retreat!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
