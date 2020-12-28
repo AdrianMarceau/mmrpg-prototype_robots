@@ -16,19 +16,17 @@
         {
             "token": "alt",
             "name": "Bombomb (2nd Gen)",
-            "summons": 30,
-            "colour": ""
+            "summons": 30
         },
         {
             "token": "alt2",
             "name": "Bombomb (3rd Gen)",
-            "summons": 60,
-            "colour": ""
+            "summons": 60
         }
     ],
     "robot_core": "explode",
     "robot_core2": "",
-    "robot_description": "Explosive Demolishion Mecha",
+    "robot_description": "Explosive Demolition Mecha",
     "robot_description2": "The Bombomb line was originally produced for military usage, but due to an excess supply of ammunition, surplus commodities were sent to civil sectors to be used as demolition for antiquated buildings. With the advanced robotics and the creation of Robot Masters, however, the Bombombs quickly became relegated to relics of the past.",
     "robot_energy": 10,
     "robot_weapons": 5,
@@ -47,6 +45,9 @@
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
