@@ -99,7 +99,8 @@
         "group_token": "MM005",
         "group_order": 7,
         "group_child_tokens": [
-            "beak"
+            "beak",
+            "shield-attacker"
         ]
     }
 }
