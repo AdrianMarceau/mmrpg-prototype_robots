@@ -41,7 +41,7 @@
     "robot_core": "water",
     "robot_core2": "",
     "robot_description": "Water Spraying Robot",
-    "robot_description2": "While his blueprints intended for him to work in a waterworks bureau, Aqua Man was modified by Dr. Wily for combat, and his abilities were boosted further by the Evil Energy. He attacks with high-pressure streams of water, dealing heavy damage to his foes. However, his internal water tanks are vulnerable to heavy-hitting attacks, so he generally likes to stay away from the fray of battle. His main weapon is the Water Balloon, a large sphere of water that he flings at his target to do some major-hitting damage. Aqua Man is a flamboyant Robot Master, using rainbows to spell his name in great glory, and shown in his general conversation. He's also mischievous and immature, squeezing terrible puns in any situation he can. He doesn't react well to serious situations, and prefers to stay away from those types of conversation if at all possible. He's also a bit bulky in terms of design, but he really doesn't care too much about that. Aqua Man, despite how he seems, isn't exactly the opponent you want to underestimate! If you do, you'll be all washed up! Talk about a H2-Oh no!",
+    "robot_description2": "Aquatic robots tend to be the archetype Dr. Wily defaults to when he needs a final robot master to round out a set of new creations. Wily always tries to find some aspect that can make his robots unique though, so when looking at his past marine Robot Masters, he realized they were all designed to work while fully submerged. This inspired Wily to steal a waterworks robot and create Aqua Man, a Robot Master that brings the water with him, able to unleash aquatic onslaughts even in the most arid of battlefields. Aqua Man isn\u2019t conservative with his limited supplies of water either, creating giant geysers and firing the Water Balloon, a frankly wasteful flurry of watery projectiles. However, his most impressive technique might be the Water Cannon, a column of water Aqua Man can redirect during while the attack is still being fired. How on earth is this possible, you might be asking; perhaps the water is chilled to the point of nearly being solid, so Aqua Man is controlling nearly solid slush rather than water? That would make sense considering Dr. Wily used leftover parts from Frost Man in his modifications of Aqua Man. Then again, Frost Man himself was made with leftover parts from Clown Man, so did any of those find their way into Aqua Man? Maybe the joke telling circuit did, but it must have gotten fried at some point, cause Aqua Man\u2019s crass humor makes even Cut Man groan. Aqua Man makes for awful company in general, his childlike temperament and toilet jokes driving most robots mad. Imagine how excited poor Wave Man\u2019s must have been to discover Wily had created a robot that used to work in water treatment, only to be met with a robot making fart noises and leaving his lunch scraps everywhere. It was then Aqua Man\u2019s weakness to blunt force attacks was discovered. You might be able to crack his tanks with a hard-enough blow, meaning he\u2019ll lose all stored water he attacks with, but more importantly, you might get him to take a hint and shut up.",
     "robot_energy": 108,
     "robot_weapons": 10,
     "robot_attack": 85,
@@ -60,6 +60,9 @@
     ],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
