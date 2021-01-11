@@ -16,7 +16,7 @@
     "robot_core": "explode",
     "robot_core2": "",
     "robot_description": "Mad Bomber Robot",
-    "robot_description2": "Created by Dr. Wily to be an extremely powerful robot, his abilities were increased further by the Evil Energy Dr. Wily found. Soon after finishing the Eighth line, Wily sent Grenade Man to an ammunition factory in Chile to take control over the building, giving Wily a supply of back up weaponry. Taking the weapon motif to the extreme, Grenade Man was designed with a Pineapple Bomb in mind, striker lever and all. Grenade Man isn't exactly the most strategic fighter, but an effective one, due to his speed and explosives, which come in two varieties. The Flash Bomb doesn't cause much environmental damage, but the explosion lingers, making this his offensive weapon. The Crazy Destroyer, on the other hand, maximizes and destroys whatever it comes into contact with, but isn't too damaging. Although people commonly state he is masochistic, Grenade Man simply has a tough battle armor, so he likes proving to others he can take attacks without flinching. Just remember when near Grenade Man, if you hear ticking of any kind, it's best to get out of the way. Grenade Man is reckless in battle though, so use this flaw against him....",
+    "robot_description2": "Most Robot Masters are created before their special weapons are, as it tends to be easier to make a laser or a flamethrower than a sentient robot. An exception to this is Grenade Man, whose Flash Bombs were the first thing Dr. Wily developed. Wily invented the Flash Bomb while tinkering with some of his past robot masters, creating a new explosive with a much larger blast radius and a longer lasting detonation. However, this came at the price of greatly shortening the fuse of the bombs, meaning even his quickest Robot Masters who fired the Flash Bomb couldn\u2019t outrun the resulting explosion. Wily decided he would need to create an all new Robot Master with two special traits to wield this weapon, the first being an explosion resistant suit of armor, and the second being a reckless personality bordering on masochism. This meant not only would Grenade Man be capable of tanking his own explosions, but he wants to too! The Flash Bomb is not the only weapon Grenade Man wields, however. The Crazy Destroyer is a fury of highly terrain damaging mines Grenade Man spreads across the arena, leaving only rubble in their wake. You\u2019d think these two types of explosives would make Grenade Man a highly strategic fighter, commanding control of the battlefield. You would be wrong; Grenade Man doesn\u2019t have a strategic circuit in his body, only acting on instinct and impulse. He\u2019s more likely to crash himself into his opponents than he is to lay a trap. Heck, Mega Man wouldn\u2019t have discovered Grenade Man\u2019s takeover of an Argentinian artillery factory so quickly if the mad Robot Master wasn\u2019t making such a ruckus over testing their weapons on himself. Wily\u2019s robots have a history of displaying manic personalities, but Grenade Man might be the first one to be certifiably insane. Until someone makes Psychiatry Man to give a proper diagnosis, Grenade Man will just have to treat himself the only way he knows how: dynamite massages and napalm spas.",
     "robot_energy": 87,
     "robot_weapons": 10,
     "robot_attack": 130,
@@ -33,6 +33,9 @@
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
