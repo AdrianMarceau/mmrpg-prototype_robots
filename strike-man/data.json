@@ -24,15 +24,19 @@
     "robot_speed": 103,
     "robot_weaknesses": [
         "cutter",
-        "flame"
+        "shield"
     ],
     "robot_resistances": [
-        "electric"
+        "electric",
+        "swift"
     ],
     "robot_affinities": [],
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
