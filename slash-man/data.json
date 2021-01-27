@@ -70,6 +70,9 @@
     "robot_immunities": [],
     "robot_skill": "cutter-subcore",
     "robot_skill_name": "Savage Claws",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
