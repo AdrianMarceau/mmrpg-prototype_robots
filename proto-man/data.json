@@ -33,6 +33,9 @@
     "robot_immunities": [],
     "robot_skill": "charge-submodule",
     "robot_skill_name": "Hyper Charged",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
