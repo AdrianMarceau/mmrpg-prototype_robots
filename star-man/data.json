@@ -32,6 +32,12 @@
             "colour": "explode"
         },
         {
+            "token": "alt4",
+            "name": "Star Man (Game Gear Alt)",
+            "summons": 400,
+            "colour": "nature"
+        },
+        {
             "token": "alt9",
             "name": "Star Man (Darkness Alt)",
             "summons": 900,
