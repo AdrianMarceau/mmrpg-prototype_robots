@@ -5,7 +5,7 @@
     "robot_game": "MMIV",
     "robot_field": "final-destination",
     "robot_field2": "",
-    "robot_support": "",
+    "robot_support": "met",
     "robot_class": "boss",
     "robot_gender": "none",
     "robot_image": "ballade",
@@ -17,8 +17,7 @@
             "token": "alt",
             "name": "Ballade (Alt)",
             "summons": 100,
-            "colour": "none",
-            "generate_shadows": 1
+            "colour": "none"
         }
     ],
     "robot_core": "explode",
