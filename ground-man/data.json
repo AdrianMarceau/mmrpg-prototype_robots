@@ -32,11 +32,17 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "find-item-at-end-of-turn",
+    "robot_skill_name": "Item Excavator",
+    "robot_skill_description": "Allows the robot to find consumable items during battle",
+    "robot_skill_description2": "The robot intermittently excavates the ground below its feet looking for consumable items like pellets, capsules, and tanks.",
+    "robot_skill_parameters": {
+        "all": false,
+        "screws": true,
+        "pellets": true,
+        "capsules": true,
+        "tanks": true
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
