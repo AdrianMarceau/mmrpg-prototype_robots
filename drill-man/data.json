@@ -29,8 +29,7 @@
             "token": "alt9",
             "name": "Drill Man (Darkness Alt)",
             "summons": 900,
-            "colour": "empty",
-            "generate_shadows": 1
+            "colour": "empty"
         }
     ],
     "robot_core": "earth",
@@ -52,11 +51,13 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "find-item-at-end-of-turn",
+    "robot_skill_name": "Excavator",
+    "robot_skill_description": "Allows the robot to find treasures during battle",
+    "robot_skill_description2": "The robot occasionally digs underground at the end of the turn to find buried treasure.",
+    "robot_skill_parameters": {
+        "all": "true"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
