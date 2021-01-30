@@ -52,11 +52,14 @@
     "robot_affinities": [],
     "robot_immunities": [],
     "robot_skill": "find-item-at-end-of-turn",
-    "robot_skill_name": "Excavator",
-    "robot_skill_description": "Allows the robot to find treasures during battle",
-    "robot_skill_description2": "The robot occasionally digs underground at the end of the turn to find buried treasure.",
+    "robot_skill_name": "Gold Digger",
+    "robot_skill_description": "Allows the robot to find rare minerals during battle",
+    "robot_skill_description2": "The robot intermittently drills the ground below its feet looking for rare minerals like shards and cores.",
     "robot_skill_parameters": {
-        "all": "true"
+        "all": false,
+        "screws": true,
+        "shards": true,
+        "cores": true
     },
     "robot_abilities_rewards": [
         {
