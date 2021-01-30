@@ -41,7 +41,7 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "met-shot"
+            "token": "shield-attack"
         }
     ],
     "robot_abilities_compatible": [],
@@ -51,8 +51,9 @@
     "robot_quotes_defeat": "Shirudo...?",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
-    "robot_flag_complete": 0,
+    "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
-    "robot_flag_published": 0
+    "robot_flag_published": 1
 }
