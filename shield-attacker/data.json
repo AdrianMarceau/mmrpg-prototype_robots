@@ -44,7 +44,9 @@
             "token": "shield-attack"
         }
     ],
-    "robot_abilities_compatible": [],
+    "robot_abilities_compatible": [
+        "shield-attack"
+    ],
     "robot_quotes_start": "Shiru. Atak.",
     "robot_quotes_taunt": "Attaka! Shiru shiru!",
     "robot_quotes_victory": "Shirudo! Shirudo! Atakkattaka...",
