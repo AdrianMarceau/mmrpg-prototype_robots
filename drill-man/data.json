@@ -26,6 +26,12 @@
             "colour": "water"
         },
         {
+            "token": "alt3",
+            "name": "Drill Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cutter"
+        },
+        {
             "token": "alt9",
             "name": "Drill Man (Darkness Alt)",
             "summons": 900,
