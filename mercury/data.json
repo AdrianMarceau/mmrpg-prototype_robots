@@ -24,7 +24,7 @@
     "robot_speed": 177,
     "robot_weaknesses": [
         "shadow",
-        "impact"
+        "time"
     ],
     "robot_resistances": [
         "crystal"
