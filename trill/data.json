@@ -11,25 +11,25 @@
     "robot_image": "trill",
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
-    "robot_image_editor2": "",
+    "robot_image_editor2": "rhythmbca",
     "robot_image_alts": [
         {
             "token": "alt",
             "name": "Trill (Attack Alt)",
             "summons": 100,
-            "colour": ""
+            "colour": "attack"
         },
         {
             "token": "alt2",
             "name": "Trill (Defense Alt)",
             "summons": 200,
-            "colour": ""
+            "colour": "defense"
         },
         {
             "token": "alt3",
             "name": "Trill (Speed Alt)",
             "summons": 300,
-            "colour": ""
+            "colour": "speed"
         }
     ],
     "robot_core": "space",
@@ -56,6 +56,9 @@
     ],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 15,
@@ -75,14 +78,15 @@
         "trill-slasher",
         "trill-teranova"
     ],
-    "robot_quotes_start": "The master has tasked me with deleting your data.  Do not resist.",
-    "robot_quotes_taunt": "Resistance is futile, but I'll entertain your struggles just the same.",
-    "robot_quotes_victory": "Mission complete.  The master will be pleased with this victory.",
-    "robot_quotes_defeat": "Mission failure.  The master will not be pleased with this defeat.",
+    "robot_quotes_start": "The Master has tasked us with deleting your data.  Do not resist.",
+    "robot_quotes_taunt": "Resistance is futile, but we will entertain your struggles just the same.",
+    "robot_quotes_victory": "Mission complete.  The Master will be pleased with this victory.",
+    "robot_quotes_defeat": "Mission failure.  The Master will not be pleased with this defeat.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 0,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
