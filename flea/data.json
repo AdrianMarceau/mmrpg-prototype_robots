@@ -10,8 +10,8 @@
     "robot_gender": "none",
     "robot_image": "flea",
     "robot_image_size": 40,
-    "robot_image_editor": "adrianmarceau",
-    "robot_image_editor2": "",
+    "robot_image_editor": "brashbuster",
+    "robot_image_editor2": "adrianmarceau",
     "robot_image_alts": [
         {
             "token": "alt",
