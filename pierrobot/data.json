@@ -9,9 +9,9 @@
     "robot_class": "mecha",
     "robot_gender": "none",
     "robot_image": "pierrobot",
-    "robot_image_size": 40,
-    "robot_image_editor": "adrianmarceau",
-    "robot_image_editor2": "",
+    "robot_image_size": 80,
+    "robot_image_editor": "nintendopanda101",
+    "robot_image_editor2": "adrianmarceau",
     "robot_image_alts": [
         {
             "token": "alt",
