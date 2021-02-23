@@ -27,7 +27,7 @@
     "robot_core": "flame",
     "robot_core2": "",
     "robot_description": "Burning Spirit Mecha",
-    "robot_description2": "The Tackle Fire series, originally dubbed the Changkey, are living fireballs capable of generating temperatures up to 1500\u00b0C. A single Tackle Fire can melt through steel with ease.",
+    "robot_description2": "The Tackle Fire series, originally dubbed the Changkey, are living fireball robots capable of generating temperatures up to 1500\u00b0C. A single Tackle Fire can melt through steel with ease.",
     "robot_energy": 65,
     "robot_weapons": 5,
     "robot_attack": 110,
