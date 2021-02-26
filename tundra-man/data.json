@@ -12,7 +12,14 @@
     "robot_image_size": 40,
     "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt9",
+            "name": "Tundra Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "freeze",
     "robot_core2": "",
     "robot_description": "Subzero Skater Robot",
