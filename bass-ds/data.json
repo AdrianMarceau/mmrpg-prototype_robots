@@ -10,7 +10,7 @@
     "robot_gender": "male",
     "robot_image": "bass-ds",
     "robot_image_size": 40,
-    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "",
     "robot_image_alts": [],
     "robot_core": "shadow",
@@ -57,19 +57,19 @@
         },
         {
             "level": 0,
-            "token": "crash-bomber"
-        },
-        {
-            "level": 0,
-            "token": "atomic-fire"
-        },
-        {
-            "level": 0,
             "token": "quick-boomerang"
         },
         {
             "level": 0,
+            "token": "crash-bomber"
+        },
+        {
+            "level": 0,
             "token": "flash-stopper"
+        },
+        {
+            "level": 0,
+            "token": "atomic-fire"
         },
         {
             "level": 0,
