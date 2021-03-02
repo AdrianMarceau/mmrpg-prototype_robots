@@ -11,7 +11,7 @@
     "robot_image": "mega-man-ds",
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
-    "robot_image_editor2": "",
+    "robot_image_editor2": "rhythmbca",
     "robot_image_alts": [],
     "robot_core": "shadow",
     "robot_core2": "",
@@ -49,19 +49,19 @@
         },
         {
             "level": 0,
-            "token": "mega-ball"
-        },
-        {
-            "level": 0,
-            "token": "mega-slide"
-        },
-        {
-            "level": 0,
             "token": "rolling-cutter"
         },
         {
             "level": 0,
+            "token": "mega-ball"
+        },
+        {
+            "level": 0,
             "token": "super-throw"
+        },
+        {
+            "level": 0,
+            "token": "mega-slide"
         },
         {
             "level": 0,
