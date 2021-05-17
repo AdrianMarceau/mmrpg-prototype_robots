@@ -34,6 +34,9 @@
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
@@ -43,14 +46,15 @@
     "robot_abilities_compatible": [
         "blazing-torch"
     ],
-    "robot_quotes_start": "Here comes a new challenger... Now fall to the fist of flame! Torch-jutsu!",
-    "robot_quotes_taunt": "Torch-jutsu may not be enough... Do I resort to using the Hot-douken?!",
+    "robot_quotes_start": "Here comes a new challenger... Let's fight!",
+    "robot_quotes_taunt": "Fall to the fist of flame! TORCH-JUTSU!",
     "robot_quotes_victory": "You must defeat my flaming fist if you ever want to stand a chance.",
-    "robot_quotes_defeat": "I cannot resist these flames... The Satsui no Hotty is too strong!",
+    "robot_quotes_defeat": "The road to becoming a martial artist is long. To master these flames, my path lies in more training.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 0,
     "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 0,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
