@@ -35,6 +35,9 @@
     ],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
@@ -44,7 +47,7 @@
     "robot_abilities_compatible": [
         "bounce-ball"
     ],
-    "robot_quotes_start": "Boy oh boy, a new special playmate! Wanna bounce with me?",
+    "robot_quotes_start": "Boy oh boy, a new special playmate! Wanna bounce?",
     "robot_quotes_taunt": "Oops, Bounce Man always bounces back! Bounce me again, again!",
     "robot_quotes_victory": "Hehe, you were so, so fun! Catch you on the rebound!",
     "robot_quotes_defeat": "Aww, playtime's over...? I guess that's the way the ball bounces...",
@@ -52,6 +55,7 @@
     "robot_flag_hidden": 0,
     "robot_flag_complete": 0,
     "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 0,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
