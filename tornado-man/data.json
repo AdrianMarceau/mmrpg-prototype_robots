@@ -31,11 +31,14 @@
     "robot_immunities": [
         "wind"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "field-boost-at-battle-start",
+    "robot_skill_name": "Ventus Airus",
+    "robot_skill_description": "Increases the Wind-type field multiplier on battle start",
+    "robot_skill_description2": "The robot increases the Wind-type field multiplier upon entering battle utilizing their weather-manipulating capabilities.",
+    "robot_skill_parameters": {
+        "type": "wind",
+        "amount": 0.5
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
