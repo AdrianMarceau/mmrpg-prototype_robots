@@ -54,7 +54,7 @@
     ],
     "robot_quotes_start": "....Hmm. Is there a problem, {target_robot}...?",
     "robot_quotes_taunt": ".... Hmph!",
-    "robot_quotes_victory": "....{this_player}, I'll be leaving now. Farewell.",
+    "robot_quotes_victory": "I yearn only for my riches. To this end, I won't be stopped.",
     "robot_quotes_defeat": "Ugh. I hate sand.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
