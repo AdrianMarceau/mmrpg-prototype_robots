@@ -4,7 +4,7 @@
     "robot_name": "Knight Man",
     "robot_game": "MM6",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "rocky-plateau",
     "robot_support": "",
     "robot_class": "master",
     "robot_gender": "male",
@@ -40,11 +40,11 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "knight-crush"
+            "token": "knight-crusher"
         }
     ],
     "robot_abilities_compatible": [
-        "knight-crush"
+        "knight-crusher"
     ],
     "robot_quotes_start": "Taste my steel, thou gorbellied knave!",
     "robot_quotes_taunt": "I bite my thumb at thee, knave! Verily, I bite it!",
@@ -53,8 +53,8 @@
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
-    "robot_flag_unlockable": 0,
+    "robot_flag_unlockable": 1,
     "robot_flag_fightable": 1,
-    "robot_flag_exclusive": 0,
+    "robot_flag_exclusive": 1,
     "robot_flag_published": 1
 }
