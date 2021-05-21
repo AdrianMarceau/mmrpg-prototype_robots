@@ -46,10 +46,10 @@
     "robot_abilities_compatible": [
         "commando-bomb"
     ],
-    "robot_quotes_start": "Standing up your commander, cadet?! That smells like treason!",
-    "robot_quotes_taunt": "Fire! Fire everything we have! And then fire more!",
-    "robot_quotes_victory": "Alright, rebel with a cause, drop down and give me 20! STAT!",
-    "robot_quotes_defeat": "You may have won this battle, renegade, but I'll win the war...",
+    "robot_quotes_start": "You speak when spoken to, cadet! If that's a problem, then we settle it like men!",
+    "robot_quotes_taunt": "Fire! Fire everything we have! And then fire everything we don't have!",
+    "robot_quotes_victory": "Alright, you smarmy little maggot, drop down and give me 20! STAT!",
+    "robot_quotes_defeat": "To think someone like {target_robot} could raze my full metal jacket... I've trained you well!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
