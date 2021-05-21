@@ -72,10 +72,10 @@
     "robot_abilities_compatible": [
         "plant-barrier"
     ],
-    "robot_quotes_start": "Nature... So beautiful, isn't it? It'll be tough to stay focused...",
+    "robot_quotes_start": "Nature... So beautiful, isn't it? I wanna cry just looking at it all...",
     "robot_quotes_taunt": "Wake up and smell the roses! See the beauty of this world!",
-    "robot_quotes_victory": "Splendid! These violent delights have such violent ends!",
-    "robot_quotes_defeat": "Ah, I feel so dry, so wilted! I need water!",
+    "robot_quotes_victory": "These violent delights always have such violent ends! Why not just take up gardening instead?",
+    "robot_quotes_defeat": "So dry... so wilted... water... I need it...",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
