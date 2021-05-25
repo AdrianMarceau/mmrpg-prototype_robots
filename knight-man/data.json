@@ -12,7 +12,44 @@
     "robot_image_size": 80,
     "robot_image_editor": "metalman",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Knight Man (Templar Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Knight Man (Royal Guard Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt3",
+            "name": "Knight Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "water"
+        },
+        {
+            "token": "alt4",
+            "name": "Knight Man (Bronze Armor Alt)",
+            "summons": 400,
+            "colour": "nature"
+        },
+        {
+            "token": "alt5",
+            "name": "Knight Man (Golden Armor Alt)",
+            "summons": 500,
+            "colour": "missile"
+        },
+        {
+            "token": "alt9",
+            "name": "Knight Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "impact",
     "robot_core2": "",
     "robot_description": "Chivalrous Knight Robot",
