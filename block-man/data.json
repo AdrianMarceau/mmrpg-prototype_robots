@@ -49,11 +49,13 @@
     "robot_speed": 61,
     "robot_weaknesses": [
         "explode",
-        "impact"
+        "laser"
     ],
     "robot_resistances": [
         "flame",
-        "cutter"
+        "cutter",
+        "impact",
+        "space"
     ],
     "robot_affinities": [],
     "robot_immunities": [],
