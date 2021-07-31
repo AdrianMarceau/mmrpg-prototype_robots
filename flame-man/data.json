@@ -33,8 +33,8 @@
         "flame"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "earth-subcore",
+    "robot_skill_name": "Oil Baron",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
