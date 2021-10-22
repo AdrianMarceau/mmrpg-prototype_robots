@@ -124,10 +124,10 @@
         "rhythm-buster",
         "item-swap"
     ],
-    "robot_quotes_start": "Battle?  Oh please, you're a joke!",
-    "robot_quotes_taunt": "Don't underestimate my ability to mess with you!",
+    "robot_quotes_start": "Battle? Please, I bet you fight about as well as you look.",
+    "robot_quotes_taunt": "You're getting weaker... And here I thought that wasn't possible.",
     "robot_quotes_victory": "Did you really think you stood a chance?",
-    "robot_quotes_defeat": "What?! You must have cheated\u2026",
+    "robot_quotes_defeat": "I'm a creation of the great Lord Wily.... how could I lose?!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
