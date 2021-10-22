@@ -3,16 +3,47 @@
     "robot_number": "MXN-048",
     "robot_name": "Yamato Man",
     "robot_game": "MM6",
-    "robot_field": "",
+    "robot_field": "construction-site",
     "robot_field2": "",
-    "robot_support": "",
+    "robot_support": "picket-man",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "yamato-man",
     "robot_image_size": 80,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Yamato Man (Mikan Alt)",
+            "summons": 100,
+            "colour": "explode"
+        },
+        {
+            "token": "alt2",
+            "name": "Yamato Man (Midori Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Yamato Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt4",
+            "name": "Yamato Man (Hinomaru Alt)",
+            "summons": 400,
+            "colour": "type"
+        },
+        {
+            "token": "alt9",
+            "name": "Yamato Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "cutter",
     "robot_core2": "",
     "robot_description": "Honorable Samurai Robot",
@@ -32,11 +63,16 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "stat-boost-at-end-of-turn",
+    "robot_skill_name": "Blossoming Bushido",
+    "robot_skill_description": "Drastically boosts the robot's attack when in danger",
+    "robot_skill_description2": "The robot's attack stat is boosted by two stages when they're pushed to the brink in battle.",
+    "robot_skill_parameters": {
+        "stat": "attack",
+        "amount": 2,
+        "condition": "energy <= 30%",
+        "repeat": false
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
