@@ -24,14 +24,16 @@
     "robot_speed": 117,
     "robot_weaknesses": [
         "freeze",
-        "missile"
+        "earth"
     ],
     "robot_resistances": [
-        "shield",
+        "flame",
         "water"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "wind"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",
