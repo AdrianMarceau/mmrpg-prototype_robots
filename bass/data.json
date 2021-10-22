@@ -87,7 +87,7 @@
         "bass-baroque",
         "item-swap"
     ],
-    "robot_quotes_start": "You think you're worth the efforts of the strongest robot? Then prove it!",
+    "robot_quotes_start": "Challenging me, {target_robot}?! You better keep me entertained then!",
     "robot_quotes_taunt": "Justice, chaos, I couldn't care less! Being the strongest is all that matters!",
     "robot_quotes_victory": "Yes! Behold the power of the world's strongest robot!",
     "robot_quotes_defeat": "This is idiotic... There shouldn't be anyone stronger than me!",
