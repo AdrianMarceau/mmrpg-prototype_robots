@@ -74,7 +74,7 @@
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "Welcome to Davy Jones's Locker, with your guide, Bubble Man!",
+    "robot_quotes_start": "Welcome to Davy Jones's Locker, {target_robot}! Allow me to be your guide!",
     "robot_quotes_taunt": "Gaahh! I'll make this place your watery grave!",
     "robot_quotes_victory": "Haha! See that, {this_player}? I'm your strongest robot!",
     "robot_quotes_defeat": "Welp, I'm sure the bubbles will work next time, {this_robot}....",
