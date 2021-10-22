@@ -58,11 +58,16 @@
     "robot_immunities": [
         "impact"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "stat-boost-at-end-of-turn",
+    "robot_skill_name": "Sonic Velocity",
+    "robot_skill_description": "Drastically boosts the robot's speed when in danger",
+    "robot_skill_description2": "The robot's speed stat is boosted by three stages when they're pushed to the brink in battle.",
+    "robot_skill_parameters": {
+        "stat": "speed",
+        "amount": 3,
+        "condition": "energy <= 50%",
+        "repeat": false
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
@@ -76,8 +81,8 @@
     "robot_abilities_compatible": [],
     "robot_quotes_start": "Let's see if you can keep up with my speed!",
     "robot_quotes_taunt": "Geez, a robot like you couldn't even keep up with the ground!",
-    "robot_quotes_victory": "Seriously, what'd you expect?... I mean, I'm {this_robot}!",
-    "robot_quotes_defeat": "My pride... You've hurt me where I can be hurt the most!",
+    "robot_quotes_victory": "It's a shame you couldn't even get to see me completely humiliate you, {target_robot}!",
+    "robot_quotes_defeat": "This is embarrassing... I mean, seriously, I'm Quick Man!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
