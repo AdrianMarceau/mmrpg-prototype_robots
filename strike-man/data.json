@@ -46,8 +46,8 @@
     "robot_abilities_compatible": [
         "rebound-striker"
     ],
-    "robot_quotes_start": "{this_robot} enters the game, eyeing his opponent...",
-    "robot_quotes_taunt": "{this_robot} is obviously going for the no-hitter, but will it work?",
+    "robot_quotes_start": "{this_robot} enters the game, primed to take his team to the championship...",
+    "robot_quotes_taunt": "Look at him, {this_robot}'s going for a classic no-hitter... would you believe he's single, ladies?",
     "robot_quotes_victory": "Three strikes, he's out of here! {this_robot} has won the game!",
     "robot_quotes_defeat": "Ow! It seems {this_robot} will be out for the rest of the season!",
     "robot_quotes_custom": [],
