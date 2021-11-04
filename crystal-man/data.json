@@ -49,7 +49,7 @@
     "robot_speed": 96,
     "robot_weaknesses": [
         "cutter",
-        "swift"
+        "wind"
     ],
     "robot_resistances": [
         "water",
