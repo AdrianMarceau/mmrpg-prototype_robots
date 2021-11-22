@@ -26,6 +26,24 @@
             "colour": "electric"
         },
         {
+            "token": "alt3",
+            "name": "Astro Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "nature"
+        },
+        {
+            "token": "alt4",
+            "name": "Astro Man (Weapon Alt 2)",
+            "summons": 400,
+            "colour": "copy"
+        },
+        {
+            "token": "alt5",
+            "name": "Astro Man (Copy Vision Alt)",
+            "summons": 500,
+            "colour": "recovery"
+        },
+        {
             "token": "alt9",
             "name": "Astro Man (Darkness Alt)",
             "summons": 900,
