@@ -58,11 +58,14 @@
     "robot_immunities": [
         "freeze"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "field-boost-at-battle-start",
+    "robot_skill_name": "Cold Reception",
+    "robot_skill_description": "Increases the Freeze-type field multiplier on battle start",
+    "robot_skill_description2": "The robot increases the Freeze-type field multiplier upon entering battle in order to gather as much attention as possible.",
+    "robot_skill_parameters": {
+        "type": "freeze",
+        "amount": 0.5
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
