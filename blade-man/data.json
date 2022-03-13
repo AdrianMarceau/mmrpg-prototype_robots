@@ -3,7 +3,7 @@
     "robot_number": "DWN-073",
     "robot_name": "Blade Man",
     "robot_game": "MM10",
-    "robot_field": "",
+    "robot_field": "industrial-facility",
     "robot_field2": "",
     "robot_support": "",
     "robot_class": "master",
@@ -31,11 +31,16 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "stat-boost-at-end-of-turn",
+    "robot_skill_name": "For Honor",
+    "robot_skill_description": "Drastically boosts the robot's defense when in danger",
+    "robot_skill_description2": "The robot's defense stat is boosted by three stages when they're pushed to the brink in battle.",
+    "robot_skill_parameters": {
+        "stat": "defense",
+        "amount": 3,
+        "condition": "energy <= 40%",
+        "repeat": false
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
