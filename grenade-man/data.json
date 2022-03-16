@@ -3,8 +3,8 @@
     "robot_number": "DWN-063",
     "robot_name": "Grenade Man",
     "robot_game": "MM8",
-    "robot_field": "orb-city",
-    "robot_field2": "",
+    "robot_field": "",
+    "robot_field2": "orb-city",
     "robot_support": "",
     "robot_class": "master",
     "robot_gender": "male",
@@ -84,6 +84,6 @@
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 1,
     "robot_flag_fightable": 1,
-    "robot_flag_exclusive": 0,
+    "robot_flag_exclusive": 1,
     "robot_flag_published": 1
 }
