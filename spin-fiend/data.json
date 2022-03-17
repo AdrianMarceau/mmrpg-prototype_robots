@@ -27,7 +27,7 @@
     "robot_core": "swift",
     "robot_core2": "",
     "robot_description": "Top Dispensing Mecha",
-    "robot_description2": "Following his second defeat at the hands of Mega Man, Dr. Wily was left with dozens of destroyed Fan Fiends. Thusly, he used their components to create the Spin Fiend series, capable of firing top-shaped explosives from their chest cavities.",
+    "robot_description2": "Following his second defeat at the hands of Mega Man, Dr. Wily was left with dozens of destroyed Fan Fiends. As a result, he used their components to create the Spin Fiend series, capable of firing top-shaped projectiles from their chest cavities.",
     "robot_energy": 80,
     "robot_weapons": 5,
     "robot_attack": 45,
