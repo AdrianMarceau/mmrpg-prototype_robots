@@ -26,6 +26,12 @@
             "colour": "nature"
         },
         {
+            "token": "alt3",
+            "name": "Hornet Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "explode"
+        },
+        {
             "token": "alt9",
             "name": "Hornet Man (Darkness Alt)",
             "summons": 900,
