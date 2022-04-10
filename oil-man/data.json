@@ -32,6 +32,12 @@
             "colour": "impact"
         },
         {
+            "token": "alt4",
+            "name": "Oil Man (DOS Alt)",
+            "summons": 400,
+            "colour": "flame"
+        },
+        {
             "token": "alt9",
             "name": "Oil Man (Darkness Alt)",
             "summons": 900,
