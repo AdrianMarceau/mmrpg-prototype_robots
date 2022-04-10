@@ -26,6 +26,12 @@
             "colour": "nature"
         },
         {
+            "token": "alt3",
+            "name": "Fuse Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "none"
+        },
+        {
             "token": "alt9",
             "name": "Fuse Man (Darkness Alt)",
             "summons": 900,
