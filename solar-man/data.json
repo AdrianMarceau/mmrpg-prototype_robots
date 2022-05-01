@@ -26,6 +26,12 @@
             "colour": "water"
         },
         {
+            "token": "alt3",
+            "name": "Solar Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "flame"
+        },
+        {
             "token": "alt9",
             "name": "Solar Man (Darkness Alt)",
             "summons": 900,
