@@ -14,6 +14,24 @@
     "robot_image_editor2": "",
     "robot_image_alts": [
         {
+            "token": "alt",
+            "name": "Tundra Man (Glacial Alt)",
+            "summons": 100,
+            "colour": "weapons"
+        },
+        {
+            "token": "alt2",
+            "name": "Tundra Man (Pink Ice Alt)",
+            "summons": 200,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt3",
+            "name": "Tundra Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "freeze"
+        },
+        {
             "token": "alt9",
             "name": "Tundra Man (Darkness Alt)",
             "summons": 900,
