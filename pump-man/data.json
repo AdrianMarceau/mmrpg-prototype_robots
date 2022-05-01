@@ -26,6 +26,12 @@
             "colour": "nature"
         },
         {
+            "token": "alt3",
+            "name": "Pump Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "water"
+        },
+        {
             "token": "alt9",
             "name": "Pump Man (Darkness Alt)",
             "summons": 900,
@@ -43,7 +49,7 @@
     "robot_speed": 80,
     "robot_weaknesses": [
         "electric",
-        "freeze"
+        "missile"
     ],
     "robot_resistances": [
         "flame"
