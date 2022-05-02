@@ -12,7 +12,44 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "rockmanfc",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Search Man (Woodland Alt)",
+            "summons": 100,
+            "colour": "recovery"
+        },
+        {
+            "token": "alt2",
+            "name": "Search Man (Desert Alt)",
+            "summons": 200,
+            "colour": "level"
+        },
+        {
+            "token": "alt3",
+            "name": "Search Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "impact"
+        },
+        {
+            "token": "alt4",
+            "name": "Search Man (Urban Alt)",
+            "summons": 400,
+            "colour": "weapons"
+        },
+        {
+            "token": "alt5",
+            "name": "Search Man (Arctic Alt)",
+            "summons": 500,
+            "colour": "type"
+        },
+        {
+            "token": "alt9",
+            "name": "Search Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "missile",
     "robot_core2": "",
     "robot_description": "Jungle Commando Robot",
