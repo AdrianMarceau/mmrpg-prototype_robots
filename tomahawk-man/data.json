@@ -23,7 +23,7 @@
             "token": "alt2",
             "name": "Tomahawk Man (Hide Alt)",
             "summons": 200,
-            "colour": "impact"
+            "colour": "missile"
         },
         {
             "token": "alt3",
@@ -36,6 +36,12 @@
             "name": "Tomahawk Man (NetNavi Alt)",
             "summons": 400,
             "colour": "freeze"
+        },
+        {
+            "token": "alt9",
+            "name": "Tomahawk Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
         }
     ],
     "robot_core": "earth",
