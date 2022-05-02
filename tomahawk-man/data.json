@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "brashbuster",
     "robot_image_editor2": "maistir1234",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Tomahawk Man (Earthen Alt)",
+            "summons": 100,
+            "colour": "earth"
+        },
+        {
+            "token": "alt2",
+            "name": "Tomahawk Man (Hide Alt)",
+            "summons": 200,
+            "colour": "impact"
+        },
+        {
+            "token": "alt3",
+            "name": "Tomahawk Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "swift"
+        },
+        {
+            "token": "alt4",
+            "name": "Tomahawk Man (NetNavi Alt)",
+            "summons": 400,
+            "colour": "freeze"
+        }
+    ],
     "robot_core": "earth",
     "robot_core2": "",
     "robot_description": "Brave Warrior Robot",
