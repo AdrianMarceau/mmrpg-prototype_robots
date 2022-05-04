@@ -49,7 +49,7 @@
     "robot_speed": 109,
     "robot_weaknesses": [
         "cutter",
-        "electric"
+        "explode"
     ],
     "robot_resistances": [
         "nature",
