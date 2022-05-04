@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Commando Man (Desert Alt)",
+            "summons": 100,
+            "colour": "missile"
+        },
+        {
+            "token": "alt2",
+            "name": "Commando Man (Urban Alt)",
+            "summons": 200,
+            "colour": "light"
+        },
+        {
+            "token": "alt3",
+            "name": "Commando Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "wily"
+        },
+        {
+            "token": "alt9",
+            "name": "Commando Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "missile",
     "robot_core2": "",
     "robot_description": "Minesweeper Tank Robot",
