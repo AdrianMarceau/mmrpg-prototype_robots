@@ -42,11 +42,11 @@
     "robot_core2": "",
     "robot_description": "Disassembling Brick Robot",
     "robot_description2": "Dr. Wily has created Robot Masters faster than the speed of sound, capable of stopping time, and hotter than the surface of the sun, and for his most diabolical scheme yet, Wily will finally destroy Mega Man once and for all\u2026 by hitting him with a rock. Well, a lot of rocks to be precise. Stone Man is as imposing as he looks, destroying enemy robots with all the resilience of a brick wall. Using the Power Stone, Stone Man orbits large rocks around the battlefield, limiting his opponent\u2019s movement, leaving them open for strong physical blows. Stone Man\u2019s bricks are near impossible to scratch, let alone destroy, making them individually incredibly durable. Trying to hold them all together, however, is another story. This might seem like a weakness, but Stone Man uses this trait to his advantage, rolling with his opponent\u2019s punches by crumbling and reforming to brace attacks. Stone Man has grown quite accustomed to throwing his weight around, knowing he can get up again if he gets knocked down. It\u2019s this persistence that led Stone Man to form a strong friendship with Guts Man, having finally found someone he can pal around with without one of them accidentally destroying the other. Unfortunately, Guts Man does not share the enthusiasm Stone Man has for film, but they still find their common ground, hanging out in oil bars. Until they get kicked out for roughhousing, anyways.",
-    "robot_energy": 103,
+    "robot_energy": 98,
     "robot_weapons": 10,
-    "robot_attack": 110,
-    "robot_defense": 127,
-    "robot_speed": 60,
+    "robot_attack": 130,
+    "robot_defense": 110,
+    "robot_speed": 62,
     "robot_weaknesses": [
         "explode",
         "freeze"
