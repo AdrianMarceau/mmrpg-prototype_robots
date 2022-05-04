@@ -48,11 +48,11 @@
     "robot_core2": "",
     "robot_description": "Slick Sliding Robot",
     "robot_description2": "Oil Man was made to solve the impending energy crisis that Dr. Light feared would occur with the new robotic way of the future, but eventually, Light decided to use solar energy and decided to hold off on Oil Man's creation. The main developmental issue was his confusing algorithm system that Dr. Light thought would make him too \u201cpowered up\u201d compared to other robots, so he thought he\u2019d hold off on the project. Some time not far after, Dr. Wily stole him and completed him, although not without some flaws and compromises. It was too late for Dr. Wily to convert his energy source to solar nor did he really care, so Wily just figured Oil Man could stick with the oil energy source and he could just power himself. Oil Man utilizes the Oil Shooter, a buster attachment that allows him to create oil quickly to splat nearby enemies. This goes great with the Oil Slider on which he slides at high speeds to damage enemies head-on. Oil Man works at an oil refinery, where he pays constant attention to the oil production. He was never really obligated to work there, but Oil Man simply loves being a part of the process. He's got a very loose personality and prefers to do things at the last minute, much to the dismay of Time Man who he often accompanies himself with. Oil Man also has business connections with Flame Man, seeing as Flame Man's one of the few other robots who willingly power themselves with oil. He doesn't tend to get close to him however; he's well aware of what happens when oil and fire happen to cross paths.",
-    "robot_energy": 105,
+    "robot_energy": 95,
     "robot_weapons": 10,
-    "robot_attack": 79,
+    "robot_attack": 86,
     "robot_defense": 92,
-    "robot_speed": 124,
+    "robot_speed": 127,
     "robot_weaknesses": [
         "flame",
         "freeze"
