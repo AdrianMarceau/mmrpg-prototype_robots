@@ -52,11 +52,12 @@
         "missile"
     ],
     "robot_resistances": [
-        "water",
         "earth"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "water"
+    ],
     "robot_skill": "water-subcore",
     "robot_skill_name": "Seafaring",
     "robot_skill_description": "",
