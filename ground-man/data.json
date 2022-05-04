@@ -19,9 +19,9 @@
     "robot_description2": "Ground Man was created by the same company that employed Drill Man, and he was set to work in mining precious materials in caves. He did this quickly with the Spread Drill, a mining drill that could cover ground fast. However, he was enraged by the fact that he couldn't keep any of his precious treasures, when a robot by the name of King invited Ground Man to join his army and to preserve the treasures he finds under his control. Ground Man quickly accepted, and ended up fighting against Mega Man and Bass. Ground Man is a deep thinker, but he never speaks his mind and prefers to keep to himself most of the time. He's also a collector of priceless treasures, hence why he enlisted himself in King's army. Ground Man also never gives up on his drilling, unless he's ordered to by a higher figure. After King was defeated, Ground Man returned to his old job, working harder with the new skills he found in King's army. He's earned the respect of his coworkers and superiors with his new proficiency, and is now allowed a treasure collection of his own, though it still can't leave company grounds...",
     "robot_energy": 103,
     "robot_weapons": 10,
-    "robot_attack": 111,
+    "robot_attack": 80,
     "robot_defense": 106,
-    "robot_speed": 80,
+    "robot_speed": 111,
     "robot_weaknesses": [
         "explode",
         "crystal"
