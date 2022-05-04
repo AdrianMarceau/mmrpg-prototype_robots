@@ -11,7 +11,7 @@
     "robot_image": "top-man",
     "robot_image_size": 40,
     "robot_image_editor": "brashbuster",
-    "robot_image_editor2": "elitep1",
+    "robot_image_editor2": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -49,7 +49,7 @@
     "robot_speed": 116,
     "robot_weaknesses": [
         "impact",
-        "explode"
+        "swift"
     ],
     "robot_resistances": [
         "time",
