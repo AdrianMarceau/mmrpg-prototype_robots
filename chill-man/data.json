@@ -12,7 +12,32 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Chill Man (Grape Alt)",
+            "summons": 100,
+            "colour": "time"
+        },
+        {
+            "token": "alt2",
+            "name": "Chill Man (Lemon Alt)",
+            "summons": 200,
+            "colour": "missile"
+        },
+        {
+            "token": "alt3",
+            "name": "Chill Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "shield"
+        },
+        {
+            "token": "alt9",
+            "name": "Chill Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "freeze",
     "robot_core2": "",
     "robot_description": "Glacial Study Robot",
