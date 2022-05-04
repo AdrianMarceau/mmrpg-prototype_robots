@@ -49,9 +49,11 @@
     "robot_speed": 98,
     "robot_weaknesses": [
         "impact",
-        "flame"
+        "wind"
     ],
-    "robot_resistances": [],
+    "robot_resistances": [
+        "time"
+    ],
     "robot_affinities": [],
     "robot_immunities": [
         "electric"
