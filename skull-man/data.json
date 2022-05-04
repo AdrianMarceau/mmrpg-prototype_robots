@@ -52,12 +52,12 @@
         "explode"
     ],
     "robot_resistances": [
-        "space",
-        "time",
-        "shadow"
+        "space"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "flame"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",
