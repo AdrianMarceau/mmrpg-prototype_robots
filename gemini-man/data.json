@@ -49,7 +49,7 @@
     "robot_speed": 125,
     "robot_weaknesses": [
         "nature",
-        "flame"
+        "missile"
     ],
     "robot_resistances": [
         "freeze",
