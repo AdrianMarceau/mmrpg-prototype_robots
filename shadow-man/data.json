@@ -11,7 +11,7 @@
     "robot_image": "shadow-man",
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
-    "robot_image_editor2": "elitep1",
+    "robot_image_editor2": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -47,8 +47,7 @@
             "token": "alt9",
             "name": "Shadow Man (Darkness Alt)",
             "summons": 900,
-            "colour": "empty",
-            "generate_shadows": 1
+            "colour": "empty"
         }
     ],
     "robot_core": "shadow",
