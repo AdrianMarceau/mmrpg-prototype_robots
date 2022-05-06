@@ -4,15 +4,40 @@
     "robot_name": "Sword Man",
     "robot_game": "MM8",
     "robot_field": "",
-    "robot_field2": "",
-    "robot_support": "",
+    "robot_field2": "steel-mill",
+    "robot_support": "pyre-fly",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "sword-man",
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "rockmanfc",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Sword Man (Cutlass Alt)",
+            "summons": 100,
+            "colour": "weapons"
+        },
+        {
+            "token": "alt2",
+            "name": "Sword Man (Kusanagi Alt)",
+            "summons": 200,
+            "colour": "recovery"
+        },
+        {
+            "token": "alt3",
+            "name": "Sword Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "flame"
+        },
+        {
+            "token": "alt9",
+            "name": "Sword Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "flame",
     "robot_core2": "",
     "robot_description": "Noble Swordsman Robot",
@@ -52,8 +77,8 @@
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
-    "robot_flag_unlockable": 0,
+    "robot_flag_unlockable": 1,
     "robot_flag_fightable": 1,
-    "robot_flag_exclusive": 0,
+    "robot_flag_exclusive": 1,
     "robot_flag_published": 1
 }
