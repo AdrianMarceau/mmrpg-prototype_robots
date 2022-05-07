@@ -11,8 +11,33 @@
     "robot_image": "centaur-man",
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
-    "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_editor2": "rhythmbca",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Centaur Man (Cypriot Alt)",
+            "summons": 100,
+            "colour": "explode"
+        },
+        {
+            "token": "alt2",
+            "name": "Centaur Man (Lamian Alt)",
+            "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt3",
+            "name": "Centaur Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "level"
+        },
+        {
+            "token": "alt9",
+            "name": "Centaur Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "time",
     "robot_core2": "",
     "robot_description": "Teleporting Half-Horse Robot",
