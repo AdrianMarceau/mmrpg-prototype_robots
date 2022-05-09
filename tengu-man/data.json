@@ -11,8 +11,33 @@
     "robot_image": "tengu-man",
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
-    "robot_image_editor2": "rockmanfc",
-    "robot_image_alts": [],
+    "robot_image_editor2": "brashbuster",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Tengu Man (Gale Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Tengu Man (Sandstorm Alt)",
+            "summons": 200,
+            "colour": "swift"
+        },
+        {
+            "token": "alt3",
+            "name": "Tengu Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "time"
+        },
+        {
+            "token": "alt9",
+            "name": "Tengu Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "wind",
     "robot_core2": "",
     "robot_description": "Jet-Powered Flight Robot",
