@@ -12,7 +12,38 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Burner Man (Pink Flame Alt)",
+            "summons": 100,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt2",
+            "name": "Burner Man (Blue Flame Alt)",
+            "summons": 200,
+            "colour": "weapons"
+        },
+        {
+            "token": "alt3",
+            "name": "Burner Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "flame"
+        },
+        {
+            "token": "alt4",
+            "name": "Burner Man (Weapon Alt 2)",
+            "summons": 400,
+            "colour": "recovery"
+        },
+        {
+            "token": "alt9",
+            "name": "Burner Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "flame",
     "robot_core2": "",
     "robot_description": "Rainforest Destruction Robot",
