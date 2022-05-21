@@ -12,7 +12,38 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Cold Man (Cola Alt)",
+            "summons": 100,
+            "colour": "swift"
+        },
+        {
+            "token": "alt2",
+            "name": "Cold Man (Grape Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt3",
+            "name": "Cold Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "freeze"
+        },
+        {
+            "token": "alt4",
+            "name": "Cold Man (Weapon Alt 2)",
+            "summons": 400,
+            "colour": "shield"
+        },
+        {
+            "token": "alt9",
+            "name": "Cold Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "freeze",
     "robot_core2": "",
     "robot_description": "Deep Freeze Robot",
