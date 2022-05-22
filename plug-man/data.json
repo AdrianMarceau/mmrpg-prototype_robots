@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Plug Man (Garden Alt)",
+            "summons": 100,
+            "colour": "recovery"
+        },
+        {
+            "token": "alt2",
+            "name": "Plug Man (Heavy Duty Alt)",
+            "summons": 200,
+            "colour": "swift"
+        },
+        {
+            "token": "alt3",
+            "name": "Plug Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt9",
+            "name": "Plug Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "electric",
     "robot_core2": "",
     "robot_description": "Electronic Maintenance Robot",
