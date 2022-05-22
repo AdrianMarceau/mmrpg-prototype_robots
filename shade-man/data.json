@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "chaosfantazy",
     "robot_image_editor2": "rockmanfc",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Shade Man (Nocturne Alt)",
+            "summons": 100,
+            "colour": "shadow"
+        },
+        {
+            "token": "alt2",
+            "name": "Shade Man (Midnight Alt)",
+            "summons": 200,
+            "colour": "defense"
+        },
+        {
+            "token": "alt3",
+            "name": "Shade Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cossack"
+        },
+        {
+            "token": "alt9",
+            "name": "Shade Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "shadow",
     "robot_core2": "",
     "robot_description": "Oil-Sucking Vampire Robot",
