@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "milansaponja",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Concrete Man (Conduit Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Concrete Man (Cobalt Alt)",
+            "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt3",
+            "name": "Concrete Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cutter"
+        },
+        {
+            "token": "alt9",
+            "name": "Concrete Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "earth",
     "robot_core2": "",
     "robot_description": "Dam Construction Robot",
