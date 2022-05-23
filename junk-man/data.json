@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "rockmanfc",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Junk Man (Rusty Alt)",
+            "summons": 100,
+            "colour": "missile"
+        },
+        {
+            "token": "alt2",
+            "name": "Junk Man (Mossy Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Junk Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "light"
+        },
+        {
+            "token": "alt9",
+            "name": "Junk Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "earth",
     "robot_core2": "",
     "robot_description": "Waste Collection Robot",
