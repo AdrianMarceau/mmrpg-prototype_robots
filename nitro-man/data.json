@@ -12,7 +12,32 @@
     "robot_image_size": 40,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Nitro Man (Azure Alt)",
+            "summons": 100,
+            "colour": "light"
+        },
+        {
+            "token": "alt2",
+            "name": "Nitro Man (Violet Alt)",
+            "summons": 200,
+            "colour": "time"
+        },
+        {
+            "token": "alt3",
+            "name": "Nitro Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cutter"
+        },
+        {
+            "token": "alt9",
+            "name": "Nitro Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "swift",
     "robot_core2": "",
     "robot_description": "Motorcycle Stunt Robot",
