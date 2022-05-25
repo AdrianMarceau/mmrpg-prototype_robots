@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Strike Man (Tennis Alt)",
+            "summons": 100,
+            "colour": "level"
+        },
+        {
+            "token": "alt2",
+            "name": "Strike Man (Basketball Alt)",
+            "summons": 200,
+            "colour": "swift"
+        },
+        {
+            "token": "alt3",
+            "name": "Strike Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cossack"
+        },
+        {
+            "token": "alt9",
+            "name": "Strike Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "impact",
     "robot_core2": "",
     "robot_description": "Baseball Pitching Robot",
