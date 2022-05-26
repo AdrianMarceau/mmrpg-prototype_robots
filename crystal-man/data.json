@@ -15,13 +15,13 @@
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Crystal Man (Pink Alt)",
+            "name": "Crystal Man (Rhodonite Alt)",
             "summons": 100,
             "colour": "crystal"
         },
         {
             "token": "alt2",
-            "name": "Crystal Man (Purple Alt)",
+            "name": "Crystal Man (Amethyst Alt)",
             "summons": 200,
             "colour": "time"
         },
