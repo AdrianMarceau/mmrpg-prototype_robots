@@ -11,7 +11,7 @@
     "robot_image": "needle-man",
     "robot_image_size": 80,
     "robot_image_editor": "elitep1",
-    "robot_image_editor2": "",
+    "robot_image_editor2": "rhythmbca",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -21,7 +21,7 @@
         },
         {
             "token": "alt2",
-            "name": "Needle Man (Emerald Alt)",
+            "name": "Needle Man (Evergreen Alt)",
             "summons": 200,
             "colour": "nature"
         },
@@ -30,6 +30,12 @@
             "name": "Needle Man (Weapon Alt)",
             "summons": 300,
             "colour": "explode"
+        },
+        {
+            "token": "alt4",
+            "name": "Needle Man (Classic Alt)",
+            "summons": 400,
+            "colour": "light"
         },
         {
             "token": "alt9",
