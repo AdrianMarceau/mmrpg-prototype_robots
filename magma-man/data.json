@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "chaosfantazy",
     "robot_image_editor2": "elitep1",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Magma Man (Kilauea Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Magma Man (Ijen Alt)",
+            "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt3",
+            "name": "Magma Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "flame"
+        },
+        {
+            "token": "alt9",
+            "name": "Magma Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "flame",
     "robot_core2": "",
     "robot_description": "Geothermal Power Robot",
