@@ -12,7 +12,38 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "rockmanfc",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Ground Man (Demolition Alt)",
+            "summons": 100,
+            "colour": "explode"
+        },
+        {
+            "token": "alt2",
+            "name": "Ground Man (Buildron Alt)",
+            "summons": 200,
+            "colour": "energy"
+        },
+        {
+            "token": "alt3",
+            "name": "Ground Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "swift"
+        },
+        {
+            "token": "alt4",
+            "name": "Ground Man (Weapon Alt 2)",
+            "summons": 400,
+            "colour": "laser"
+        },
+        {
+            "token": "alt9",
+            "name": "Ground Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "earth",
     "robot_core2": "",
     "robot_description": "Underground Drilling Robot",
