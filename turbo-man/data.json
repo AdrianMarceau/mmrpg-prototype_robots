@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "milansaponja",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Turbo Man (Petty Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Turbo Man (BRG Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Turbo Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "flame"
+        },
+        {
+            "token": "alt9",
+            "name": "Turbo Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "swift",
     "robot_core2": "",
     "robot_description": "Transforming Auto Robot",
