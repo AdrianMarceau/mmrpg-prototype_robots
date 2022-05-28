@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "rockmanfc",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Clown Man (Bozo Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Clown Man (Sewer Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Clown Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "swift"
+        },
+        {
+            "token": "alt9",
+            "name": "Clown Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "electric",
     "robot_core2": "",
     "robot_description": "Electrifying Entertainer Robot",
