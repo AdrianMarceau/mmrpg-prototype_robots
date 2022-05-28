@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "rockmanfc",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Burst Man (Algae Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Burst Man (C.Puncher Alt)",
+            "summons": 200,
+            "colour": "flame"
+        },
+        {
+            "token": "alt3",
+            "name": "Burst Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "explode"
+        },
+        {
+            "token": "alt9",
+            "name": "Burst Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "explode",
     "robot_core2": "",
     "robot_description": "Liquid Fireworks Robot",
