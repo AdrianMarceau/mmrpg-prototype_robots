@@ -67,9 +67,7 @@
             "token": "storm-bolt"
         }
     ],
-    "robot_abilities_compatible": [
-        "thunder-bolt"
-    ],
+    "robot_abilities_compatible": [],
     "robot_quotes_start": "{target_robot}.... Couldn't we fight tomorrow instead?",
     "robot_quotes_taunt": "This weather's so boring! Where's the lightning?! The squalls?!",
     "robot_quotes_victory": "Look at me, I'm on cloud nine! And a real cloud!",
