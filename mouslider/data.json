@@ -15,13 +15,13 @@
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Mouslider (Alt)",
+            "name": "Mouslider (2nd Gen)",
             "summons": 100,
             "colour": "none"
         },
         {
             "token": "alt2",
-            "name": "Mouslider (Alt2)",
+            "name": "Mouslider (3rd Gen)",
             "summons": 200,
             "colour": "none"
         }
