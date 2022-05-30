@@ -12,11 +12,24 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Pukapunter (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Pukapunter (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "impact",
     "robot_core2": "",
     "robot_description": "Ball Balancing Mecha",
-    "robot_description2": "",
+    "robot_description2": "Pukapunter's head is continually propelled and kept afloat through the usage of a miniature thermodynamic vent installed within its main body. Having to balance its own head makes for a constant juggling act though, and in its sheer determination, it often ends up running and bumping into its own allies.",
     "robot_energy": 30,
     "robot_weapons": 5,
     "robot_attack": 65,
@@ -40,7 +53,7 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "met-shot"
+            "token": "jump-shot"
         }
     ],
     "robot_abilities_compatible": [],
@@ -52,7 +65,7 @@
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
