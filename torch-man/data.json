@@ -8,11 +8,36 @@
     "robot_support": "tackle-fire",
     "robot_class": "master",
     "robot_gender": "male",
-    "robot_image": "robot",
-    "robot_image_size": 40,
-    "robot_image_editor": "",
-    "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image": "torch-man",
+    "robot_image_size": 80,
+    "robot_image_editor": "rhythmbca",
+    "robot_image_editor2": "milansaponja",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Torch Man (Judo Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Torch Man (Aikido Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Torch Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "cutter"
+        },
+        {
+            "token": "alt9",
+            "name": "Torch Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "flame",
     "robot_core2": "",
     "robot_description": "Heated Shotokan Robot",
@@ -52,9 +77,9 @@
     "robot_quotes_defeat": "If I'm to ever master these flames, my path lies in more training.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
-    "robot_flag_complete": 0,
+    "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
