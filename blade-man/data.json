@@ -12,11 +12,48 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Blade Man (Tempered Alt)",
+            "summons": 100,
+            "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Blade Man (Kusanagi Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Blade Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "wily"
+        },
+        {
+            "token": "alt4",
+            "name": "Blade Man (DOS Alt)",
+            "summons": 400,
+            "colour": "none"
+        },
+        {
+            "token": "alt5",
+            "name": "Blade Man (One True Blade Alt)",
+            "summons": 500,
+            "colour": "missile"
+        },
+        {
+            "token": "alt9",
+            "name": "Blade Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "cutter",
     "robot_core2": "",
     "robot_description": "Sword Sparring Robot",
-    "robot_description2": "Blade Man was never a robot designed for chaos, he was instead made to guide people through an ancient castle, lost long to history. His creator had an obsession for swords, and created a robot after his own heart. However, when Blade Man caught ill of Roboenza, he was upgraded with the Triple Blade, where he slices his opponents with three miniature blades. He's also extremely agile and can hook on to walls, allowing him to traverse easily and defeat the opponent quickly. He has a rather encyclopedic knowledge about all types of close-ranged weapons and swords, and can talk on the subject for long periods of time. He also enjoys fencing and considers himself a gentleman's sword, being the finest choice for anyone skilled in swordsmanship. He also happens to dislike all types of long-ranged weapons, including weapons like the Mega Busters, considering them foolhardy. While Blade Man retired from battle after the Roboenza event, he's still a fine weapon, and he'll always bring a sword to a gun-fight. Just don't expect him to lose!",
+    "robot_description2": "For many years, Blade Man served dutifully as the cutting-edge guide and guardian at a historic castle site. The current lord of the castle, by all accounts a reported fanatic of all things swordsmanship-related, had Blade Man built in order to elegantly fuse the practices of the past with the many refinements afforded by the future. This luxurious background gave Blade Man the opportunity to truly fall in love with the sharp art of armaments, delivering him his purpose and drive in life. Unfortunately, during the Roboenza epidemic, Blade Man became one of the earliest documented cases, and in his sickened frenzy overtook and ravaged the castle he was meant to safeguard. Despite not necessarily being designed for combat, as a robot whose hands could carve a turkey in two, it wasn\u2019t particularly hard for him to adapt; Blade Man used his acute appendages to rapidly cover ground all over the castle. Of course, he was also quite knowledgeable in sword-fighting and in performance impalement arts, which was terrifying when paired with his signature Triple Blade ability, a volley of piercing miniature blades. Blade Man was eventually quelled, cured, and allowed to return to work, though not without a lot of legal contention from the World Robot Union, who contested the safety of Blade Man\u2019s design in a workplace setting. He was only somewhat dubiously cleared after the castle lord argued that Blade Man\u2019s mania was technically historically significant to the castle, and he needed to be maintained as an important figure to the site. This was a joy for Blade Man anyway, as he could return to lecturing tourists and sightseers once again to his heart\u2019s content; Blade Man\u2019s known to be a bit of a nerd when it comes to swords, and his passionate ramblings have confused and lost many jetlagged travelers. Just don\u2019t get him started when it comes to new-era technology weapons like the busters \u2013 he\u2019ll tell you all about how a proper gentleman would never use those! When it comes time to fight, don\u2019t think he\u2019s dumb in bringing a sword to a gunfight; otherwise, you\u2019ll be the one picking up the pieces!",
     "robot_energy": 102,
     "robot_weapons": 10,
     "robot_attack": 127,
