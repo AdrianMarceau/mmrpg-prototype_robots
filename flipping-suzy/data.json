@@ -12,11 +12,24 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Flipping Suzy (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Flipping Suzy (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "electric",
     "robot_core2": "",
     "robot_description": "Gravity Modulator Mecha",
-    "robot_description2": "",
+    "robot_description2": "This 'Suzy-G' model is a high-tech variant of the classic Adhering Suzy mecha, preinstalled with a functional (and pricey) gravity apparatus. Despite this, however, its gravity capabilities are still quite lacking.",
     "robot_energy": 35,
     "robot_weapons": 5,
     "robot_attack": 25,
@@ -40,7 +53,7 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "met-shot"
+            "token": "quantum-gravity"
         }
     ],
     "robot_abilities_compatible": [],
