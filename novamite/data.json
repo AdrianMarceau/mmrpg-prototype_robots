@@ -12,11 +12,24 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Novamite (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Novamite (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "space",
     "robot_core2": "",
     "robot_description": "Asteroid Removal Mecha",
-    "robot_description2": "",
+    "robot_description2": "The Novamite was an early design of Dr. Light's that had trouble securing funding, and even then was ultimately ever produced in small quantities for both interstellar and aquatic purposes. This variant excels in clearing out asteroids and space debris for space travel, but given they're unable to handle their own discharges, it's no wonder funding was so hard to come by...",
     "robot_energy": 35,
     "robot_weapons": 5,
     "robot_attack": 70,
@@ -43,7 +56,7 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "met-shot"
+            "token": "big-bang"
         }
     ],
     "robot_abilities_compatible": [],
