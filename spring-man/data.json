@@ -12,7 +12,32 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "rockmanfc",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Spring Man (Sprang Alt)",
+            "summons": 100,
+            "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Spring Man (Sprung Alt)",
+            "summons": 200,
+            "colour": "water"
+        },
+        {
+            "token": "alt3",
+            "name": "Spring Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "time"
+        },
+        {
+            "token": "alt9",
+            "name": "Spring Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "impact",
     "robot_core2": "",
     "robot_description": "Bouncing Coil Robot",
