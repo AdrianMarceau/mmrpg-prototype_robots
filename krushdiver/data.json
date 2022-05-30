@@ -12,11 +12,24 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Krushdiver (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Krushdiver (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "cutter",
     "robot_core2": "",
     "robot_description": "Nose Diving Mecha",
-    "robot_description2": "",
+    "robot_description2": "One could probably try to decipher a functional application for this mecha, but quite frankly, the Kouker Q is really only interested in trying to give a certain unsuspecting blue bomber a splitting headache. It can often be found hovering around high altitudes, where it'll then stall its engines to plunge down and take its foe down with it.",
     "robot_energy": 20,
     "robot_weapons": 5,
     "robot_attack": 80,
@@ -42,7 +55,7 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "met-shot"
+            "token": "nose-dive"
         }
     ],
     "robot_abilities_compatible": [],
