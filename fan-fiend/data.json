@@ -16,20 +16,18 @@
         {
             "token": "alt",
             "name": "Fan Fiend (2nd Gen)",
-            "summons": 30,
-            "colour": ""
+            "summons": 30
         },
         {
             "token": "alt2",
             "name": "Fan Fiend (3rd Gen)",
-            "summons": 60,
-            "colour": ""
+            "summons": 60
         }
     ],
     "robot_core": "wind",
     "robot_core2": "",
     "robot_description": "Gyrating Blades Mecha",
-    "robot_description2": "The Fan Fiend series use their powerful chest-mounted fans to clean city streets. Dr. Wily used the Fan Fiend as the basis for Air Man, and several served under the windy Robot Master during Wily\u2019s second bid for world domination.",
+    "robot_description2": "The Fan Fiend series use their powerful chest-mounted fans to clean city streets. Dr. Wily used the Fan Fiend as the basis for Air Man, and several served under the windy Robot Master during Wily\u2019s own bid for world domination.",
     "robot_energy": 60,
     "robot_weapons": 5,
     "robot_attack": 40,
