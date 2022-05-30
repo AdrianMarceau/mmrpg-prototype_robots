@@ -64,7 +64,7 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "thunder-bolt"
+            "token": "storm-bolt"
         }
     ],
     "robot_abilities_compatible": [
@@ -79,6 +79,6 @@
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 1,
     "robot_flag_fightable": 1,
-    "robot_flag_exclusive": 0,
+    "robot_flag_exclusive": 1,
     "robot_flag_published": 1
 }
