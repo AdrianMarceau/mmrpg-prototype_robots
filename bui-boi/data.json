@@ -16,7 +16,7 @@
     "robot_core": "water",
     "robot_core2": "",
     "robot_description": "Ocean Buoy Mecha",
-    "robot_description2": "",
+    "robot_description2": "Though many may mistake this mecha as a simple ocean buoy, the Bui Boi mecha actually utilizes sophisticated radar technology to keep an eye on any invading enemy threats. Its offensive capabilities aren't really much to speak of, but it'll nevertheless do its best to get you to crash and wipe out!",
     "robot_energy": 55,
     "robot_weapons": 5,
     "robot_attack": 30,
@@ -41,7 +41,7 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "met-shot"
+            "token": "wave-wipeout"
         }
     ],
     "robot_abilities_compatible": [],
