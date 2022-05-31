@@ -49,7 +49,7 @@
     "robot_speed": 94,
     "robot_weaknesses": [
         "shadow",
-        "crystal"
+        "electric"
     ],
     "robot_resistances": [
         "water",
