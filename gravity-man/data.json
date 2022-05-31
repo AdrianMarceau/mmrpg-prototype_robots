@@ -55,7 +55,9 @@
         "wind"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "electric"
+    ],
     "robot_skill": "reverse-submodule",
     "robot_skill_name": "Topsy-Turvy",
     "robot_skill_description": "",
