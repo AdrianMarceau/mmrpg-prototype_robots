@@ -15,7 +15,7 @@
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Oil Man (Black Alt)",
+            "name": "Oil Man (Masked Alt)",
             "summons": 100,
             "colour": "shadow"
         },
@@ -36,6 +36,12 @@
             "name": "Oil Man (DOS Alt)",
             "summons": 400,
             "colour": "flame"
+        },
+        {
+            "token": "alt5",
+            "name": "Oil Man (Flynn Alt)",
+            "summons": 500,
+            "colour": "light"
         },
         {
             "token": "alt9",
