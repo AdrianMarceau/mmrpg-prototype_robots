@@ -72,10 +72,10 @@
     "robot_abilities_compatible": [
         "wind-storm"
     ],
-    "robot_quotes_start": "It's almost time for the seasonal harvest... so I'll finish this battle in one strike!",
-    "robot_quotes_taunt": "HI-YAAAAA!... I picked that one up from this old Kung Fu movie.",
-    "robot_quotes_victory": "A good battle is only one of the many exquisite spices of life!",
-    "robot_quotes_defeat": "Aww man, the crops are going to be ruined!",
+    "robot_quotes_start": "Get ready, {target_robot} -- I'll take my victory with only one strike!",
+    "robot_quotes_taunt": "The wind can move both calmly and fiercely... my Kung Fu will be the same!",
+    "robot_quotes_victory": "A well-earned victory tastes great... but the food I make tastes even sweeter!",
+    "robot_quotes_defeat": "When a dish goes poorly, blame not the ingredients, but the chef...",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
