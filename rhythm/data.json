@@ -15,7 +15,7 @@
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Rhythm (Proto Alt)",
+            "name": "Rhythm (Blues Alt)",
             "summons": 50,
             "colour": "flame"
         },
@@ -27,7 +27,7 @@
         },
         {
             "token": "alt3",
-            "name": "Cute Dress Rhythm (Proto Alt)",
+            "name": "Cute Dress Rhythm (Blues Alt)",
             "summons": 150,
             "colour": "flame"
         },
@@ -39,7 +39,7 @@
         },
         {
             "token": "alt5",
-            "name": "Mobile Suit Rhythm (Proto Alt)",
+            "name": "Mobile Suit Rhythm (Blues Alt)",
             "summons": 250,
             "colour": "flame"
         }
