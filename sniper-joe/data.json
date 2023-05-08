@@ -23,7 +23,7 @@
     "robot_core": "shield",
     "robot_core2": "",
     "robot_description": "Shield Sniper Mecha",
-    "robot_description2": "One of the few humanoid-based Mechas, the Sniper Joe was a mass-produced military model designed by the genius minds of Drs. Light and Wily, based heavily on the schematics of the prior Proto Man. More inventive in its programming than any other Mecha, the Sniper Joe is advanced enough to enact adaptable strategy routines, wield shields and firepower, or command vehicles. Despite there being thousands of this model, they are indeed all named 'Joe.' The shield that Sniper Joe brings into battle has the ability to block nearly all damage, but it can be easily knocked off with a charged buster shot or any weapon with high-impact or explosive properties.",
+    "robot_description2": "One of the few humanoid-based Mechas, the Sniper Joe was a mass-produced military model designed by the genius minds of Drs. Light and Wily, based heavily on the schematics of the prior Proto Man.  The large shields that Sniper Joe bring into battle protect them from nearly all damage, but they can be reliably knocked-off with a sufficiently charged buster shot or a weapon of either the Explode or Impact variety.  More inventive in its programming than any other Mecha, the Sniper Joe is advanced enough to enact adaptable strategy routines, wield shields and firepower, or command vehicles. Despite there being thousands of this model, they are indeed all named 'Joe.'",
     "robot_energy": 50,
     "robot_weapons": 5,
     "robot_attack": 40,
