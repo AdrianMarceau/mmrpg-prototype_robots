@@ -16,13 +16,13 @@ $functions = array(
 
         // Check if the auto-shield has already been summoned
         $this_attachment_token = $this_robot->robot_token.'_auto-shield';
-        $is_summoned = isset($this_robot->robot_attachments[$this_attachment_token]) ? true : false;
+        $is_shielded = isset($this_robot->robot_attachments[$this_attachment_token]) ? true : false;
                 
-        if (!$is_summoned
+        if (!$is_shielded
            && $this_battle->counters['battle_turn'] === 0){
         
             // Define this ability's attachment token
-            $this_effect_multiplier = 1 - (99 / 100);
+            $this_effect_multiplier = 1 - (99.99 / 100);
             $this_attachment_info = array(
                 'class' => 'ability',
                 'ability_token' => 'ability',
@@ -81,15 +81,15 @@ $functions = array(
 
         // Check if this ability is already summoned
         $this_attachment_token = $this_robot->robot_token.'_auto-shield';
-        $is_summoned = isset($this_robot->robot_attachments[$this_attachment_token]) ? true : false;
+        $is_shielded = isset($this_robot->robot_attachments[$this_attachment_token]) ? true : false;
         
         // Otherwise if already summoned, see if we should remove it
-        if ($is_summoned){
+        if ($is_shielded){
         
             // Check if the shield has been broken by an ability
             $shields_down = false;
             $shield_breakers_regex = '/^([a-z0-9]+)-buster$/i';
-            $shield_breakers_extra = array('charge-kick');
+            $shield_breakers_extra = array('mega-slide', 'bass-baroque', 'proto-strike', 'charge-kick');
             $shield_breakers_types = array('explode', 'impact');
             if (!empty($this_robot->history)){
                 $damaged_by_abilities = array();
@@ -128,6 +128,11 @@ $functions = array(
                 // Update the current robot into their alt outfit
                 $this_robot->robot_image = $this_robot->robot_base_image.'_alt';
                 $this_robot->update_session();
+
+                // Generate an event to show nothing happened
+                $event_header = $this_robot->robot_name.'&#39;s Shield';
+                $event_body = array_pop($backup_attachment_info['attachment_destroy']['success']);
+                $this_battle->events_create($this_robot, $this_robot, $event_header, $event_body);
                 
                 // Call the global stat boost function with customized options                
                 rpg_ability::ability_function_stat_break($this_robot, 'defense', 1, false, array(
@@ -135,11 +140,6 @@ $functions = array(
                     'failure_frame' => 9,
                     'extra_text' => false
                     ));
-
-                // Generate an event to show nothing happened
-                $event_header = $this_robot->robot_name.'&#39;s Shield';
-                $event_body = array_pop($backup_attachment_info['attachment_destroy']['success']);
-                $this_battle->events_create($this_robot, $this_robot, $event_header, $event_body);
                                                 
             }
             
