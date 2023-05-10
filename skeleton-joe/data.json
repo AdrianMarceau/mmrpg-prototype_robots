@@ -16,7 +16,7 @@
     "robot_core": "shadow",
     "robot_core2": "",
     "robot_description": "Bone Boomerang Mecha",
-    "robot_description2": "Dr. Wily's own personal take on the mass-produced Sniper Joe (if it wasn't obvious), the Skeleton Joe is relatively composed of very few parts, and thus excelled in being widely produced and distributed for tactical defenses. After being struck, the Skeleton Joe will dismantle and reassemble with frustrating ease, so they must be completely destroyed to be removed. It's also worth noting that the Skeleton Joes will remove segments of their own body to throw at their opposition.",
+    "robot_description2": "Dr. Wily's own personal take on the mass-produced Sniper Joe (if it wasn't obvious), the Skeleton Joe is relatively composed of very few parts, and thus excelled in being widely produced and distributed for tactical defenses. After being struck, the Skeleton Joe will dismantle and reassemble with frustrating ease, so they must be completely destroyed in one hit to be removed.  It's also worth noting that the Skeleton Joes will remove segments of their own body to throw at their opposition.",
     "robot_energy": 50,
     "robot_weapons": 5,
     "robot_attack": 60,
@@ -36,21 +36,25 @@
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "buster-shot"
+            "token": "bone-cannon"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "",
-    "robot_quotes_taunt": "",
-    "robot_quotes_victory": "",
-    "robot_quotes_defeat": "",
+    "robot_quotes_start": "Fu!",
+    "robot_quotes_taunt": "...",
+    "robot_quotes_victory": "...",
+    "robot_quotes_defeat": "Fu...",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
