@@ -16,8 +16,8 @@
         {
             "token": "alt",
             "name": "Sniper Joe (No Shield)",
-            "summons": 100,
-            "colour": "none"
+            "colour": "none",
+            "summons": 0
         }
     ],
     "robot_core": "shield",
