@@ -12,7 +12,14 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Crystal Joe (No Shard)",
+            "colour": "none",
+            "summons": 0
+        }
+    ],
     "robot_core": "crystal",
     "robot_core2": "",
     "robot_description": "Diamond Shard Mecha",
@@ -39,17 +46,22 @@
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
-    "robot_abilities_rewards": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "crystal-frag"
+        }
+    ],
     "robot_abilities_compatible": [],
     "robot_quotes_start": "Hmm...",
     "robot_quotes_taunt": "Hmph!",
     "robot_quotes_victory": "Yup.",
-    "robot_quotes_defeat": "No...",
+    "robot_quotes_defeat": "Hnnnggg!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
