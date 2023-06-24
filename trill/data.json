@@ -56,11 +56,13 @@
     ],
     "robot_skill": "field-boost-at-end-of-turn",
     "robot_skill_name": "Cosmic Support",
-    "robot_skill_description": "Increases the Space-type field multiplier at the end of each turn",
-    "robot_skill_description2": "The robot increases the Space-type field multiplier at the end of each turn in preparation for their destiny.",
+    "robot_skill_description": "Increases the Space-type field multiplier at the end of each turn when benched",
+    "robot_skill_description2": "The robot increases the Space-type field multiplier at the end of each turn but only when in the benched position.",
     "robot_skill_parameters": {
         "type": "space",
-        "amount": 0.1
+        "amount": 0.1,
+        "condition": "robot-position = bench",
+        "repeat": true
     },
     "robot_abilities_rewards": [
         {
