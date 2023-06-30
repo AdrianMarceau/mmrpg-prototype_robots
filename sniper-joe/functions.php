@@ -89,7 +89,7 @@ $functions = array(
             // Check if the shield has been broken by an ability
             $shields_down = false;
             $shield_breakers_regex = '/^([a-z0-9]+)-buster$/i';
-            $shield_breakers_extra = array('mega-slide', 'bass-baroque', 'proto-strike', 'charge-kick');
+            $shield_breakers_extra = array('mega-slide', 'mega-ball', 'bass-baroque', 'proto-strike', 'charge-kick');
             $shield_breakers_types = array('explode', 'impact');
             if (!empty($this_robot->history)){
                 $damaged_by_abilities = array();
