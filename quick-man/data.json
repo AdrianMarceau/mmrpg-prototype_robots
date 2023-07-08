@@ -15,13 +15,13 @@
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Quick Man (Blue Alt)",
+            "name": "Quick Man (Blue Blur Alt)",
             "summons": 100,
             "colour": "water"
         },
         {
             "token": "alt2",
-            "name": "Quick Man (Green Alt)",
+            "name": "Quick Man (Emerald Speedster Alt)",
             "summons": 200,
             "colour": "nature"
         },
@@ -30,6 +30,18 @@
             "name": "Quick Man (Weapon Alt)",
             "summons": 300,
             "colour": "crystal"
+        },
+        {
+            "token": "alt4",
+            "name": "Quick Man (Classic Alt)",
+            "summons": 400,
+            "colour": "laser"
+        },
+        {
+            "token": "alt5",
+            "name": "Quick Man (Reverse-Quick Alt)",
+            "summons": 500,
+            "colour": "electric"
         },
         {
             "token": "alt9",
