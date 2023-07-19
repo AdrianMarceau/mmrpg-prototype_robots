@@ -49,22 +49,21 @@ $functions = array(
             'speed' => '_alt3'
             );
 
-        // Collect the robot's stats and rank them so we know which alt to use
-        $ranked_stats = array(
-            'energy' => $this_robot->robot_energy,
+        // Gather the robot's stats
+        $best_stat = 'energy';
+        $other_stats = array(
             'attack' => $this_robot->robot_attack,
             'defense' => $this_robot->robot_defense,
             'speed' => $this_robot->robot_speed
             );
-        asort($ranked_stats);
-        $ranked_stats = array_reverse($ranked_stats, true);
-        $max_value = reset($ranked_stats);
-        $best_stats = array();
-        foreach($ranked_stats as $stat => $value){
-            if ($value == $max_value){ $best_stats[] = $stat; }
-            else { break; }
-        }
-                $best_stat = $best_stats[array_rand($best_stats)];
+
+        // Calculate the maximum value among the stats
+        $max_value = max($other_stats);
+
+        // Manually count how many times the max value occurs. If it only occurs once, it's a definitive highest stat
+        $max_value_count = 0;
+        foreach ($other_stats as $stat_value){ if ($stat_value === $max_value){ $max_value_count++; } }
+        if ($max_value_count === 1) { $best_stat = array_search($max_value, $other_stats); }
         $best_stat_alt_token = $stats_to_alts[$best_stat];
 
         // Define the new image given the best stat and update if necessary
@@ -80,6 +79,7 @@ $functions = array(
                     );
                 $this_robot->set_frame('summon');
                 $this_battle->events_create(false, false, '', '', $event_options);
+                $this_battle->queue_sound_effect('beeping-sound');
                 $this_robot->set_frame('defend');
                 $this_robot->set_image($required_image);
                 $this_battle->events_create(false, false, '', '', $event_options);
@@ -94,6 +94,9 @@ $functions = array(
 
     }
 );
+$functions['robot_function_onbattlestart'] = function($objects) use ($functions){
+    return $functions['robot_function_onstatchange']($objects, true);
+};
 $functions['robot_function_onendofturn'] = function($objects) use ($functions){
     return $functions['robot_function_onstatchange']($objects, true);
 };
