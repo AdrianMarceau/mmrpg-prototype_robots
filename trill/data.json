@@ -15,19 +15,19 @@
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Trill (Attack Alt)",
+            "name": "Trill (Attack Style)",
             "summons": 100,
             "colour": "attack"
         },
         {
             "token": "alt2",
-            "name": "Trill (Defense Alt)",
+            "name": "Trill (Defense Style)",
             "summons": 200,
             "colour": "defense"
         },
         {
             "token": "alt3",
-            "name": "Trill (Speed Alt)",
+            "name": "Trill (Speed Style)",
             "summons": 300,
             "colour": "speed"
         }
