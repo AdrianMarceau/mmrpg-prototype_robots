@@ -132,7 +132,7 @@ $functions = array(
                 // Generate an event to show nothing happened
                 $event_header = $this_robot->robot_name.'&#39;s Shield';
                 $event_body = array_pop($backup_attachment_info['attachment_destroy']['success']);
-                $this_battle->queue_sound_effect('shield-break-sound');
+                $this_battle->queue_sound_effect('shields-down');
                 $this_battle->events_create($this_robot, $this_robot, $event_header, $event_body);
                 
                 // Call the global stat boost function with customized options                
