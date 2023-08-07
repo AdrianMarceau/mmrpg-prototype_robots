@@ -12,7 +12,26 @@
     "robot_image_size": 40,
     "robot_image_editor": "",
     "robot_image_editor2": "rhythmbca",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Slur (Emboldened Alt)",
+            "summons": 1000,
+            "colour": "shield"
+        },
+        {
+            "token": "alt2",
+            "name": "Slur (Crestfallen Alt)",
+            "summons": 2000,
+            "colour": "wind"
+        },
+        {
+            "token": "alt3",
+            "name": "Slur (Final Weapon Alt)",
+            "summons": 3000,
+            "colour": "speed"
+        }
+    ],
     "robot_core": "space",
     "robot_core2": "",
     "robot_description": "Galactic Judge Robot",
