@@ -1,9 +1,9 @@
 {
     "robot_token": "duo-2",
-    "robot_number": "EXN-002\u03c9",
-    "robot_name": "Duo \u03c9",
+    "robot_number": "EXN-002b",
+    "robot_name": "-",
     "robot_game": "MM8",
-    "robot_field": "field",
+    "robot_field": "",
     "robot_field2": "",
     "robot_support": "",
     "robot_class": "boss",
@@ -33,6 +33,9 @@
     ],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
@@ -50,29 +53,7 @@
     "robot_abilities_compatible": [
         "energy-fist",
         "comet-attack",
-        "meteor-knuckle",
-        "buster-shot",
-        "attack-boost",
-        "attack-break",
-        "attack-swap",
-        "attack-mode",
-        "defense-boost",
-        "defense-break",
-        "defense-swap",
-        "defense-mode",
-        "speed-boost",
-        "speed-break",
-        "speed-swap",
-        "speed-mode",
-        "energy-boost",
-        "energy-break",
-        "energy-swap",
-        "energy-mode",
-        "field-support",
-        "mecha-support",
-        "light-buster",
-        "wily-buster",
-        "cossack-buster"
+        "meteor-knuckle"
     ],
     "robot_quotes_start": "Everyone has evil about them! Allow me to reveal yours.",
     "robot_quotes_taunt": "Feel your inner evil taking over! You want to kill, you love to hate!",
@@ -82,6 +63,7 @@
     "robot_flag_hidden": 1,
     "robot_flag_complete": 0,
     "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 0,
     "robot_flag_exclusive": 0,
-    "robot_flag_published": 1
+    "robot_flag_published": 0
 }
