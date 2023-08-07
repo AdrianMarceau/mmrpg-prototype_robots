@@ -1,7 +1,7 @@
 {
     "robot_token": "solo",
     "robot_number": "EXN-001",
-    "robot_name": "Solo",
+    "robot_name": "---",
     "robot_game": "MMRPGPR",
     "robot_field": "",
     "robot_field2": "",
@@ -33,6 +33,9 @@
     ],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
@@ -52,6 +55,7 @@
     "robot_flag_hidden": 1,
     "robot_flag_complete": 0,
     "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 0,
     "robot_flag_exclusive": 0,
-    "robot_flag_published": 1
+    "robot_flag_published": 0
 }
