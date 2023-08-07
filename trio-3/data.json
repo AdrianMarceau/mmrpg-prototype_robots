@@ -1,9 +1,9 @@
 {
     "robot_token": "trio-3",
-    "robot_number": "EXN-003\u03a8",
-    "robot_name": "Trio \u03a8",
+    "robot_number": "EXN-003c",
+    "robot_name": "---",
     "robot_game": "MMRPGPR",
-    "robot_field": "field",
+    "robot_field": "",
     "robot_field2": "",
     "robot_support": "",
     "robot_class": "boss",
@@ -34,6 +34,9 @@
     ],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
@@ -43,29 +46,7 @@
     "robot_abilities_compatible": [
         "energy-fist",
         "comet-attack",
-        "meteor-knuckle",
-        "buster-shot",
-        "attack-boost",
-        "attack-break",
-        "attack-swap",
-        "attack-mode",
-        "defense-boost",
-        "defense-break",
-        "defense-swap",
-        "defense-mode",
-        "speed-boost",
-        "speed-break",
-        "speed-swap",
-        "speed-mode",
-        "energy-boost",
-        "energy-break",
-        "energy-swap",
-        "energy-mode",
-        "field-support",
-        "mecha-support",
-        "light-buster",
-        "wily-buster",
-        "cossack-buster"
+        "meteor-knuckle"
     ],
     "robot_quotes_start": "Show me what you are capable of, {target_robot}!",
     "robot_quotes_taunt": "Can you keep hope even now?",
@@ -75,6 +56,7 @@
     "robot_flag_hidden": 1,
     "robot_flag_complete": 0,
     "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 0,
     "robot_flag_exclusive": 0,
-    "robot_flag_published": 1
+    "robot_flag_published": 0
 }
