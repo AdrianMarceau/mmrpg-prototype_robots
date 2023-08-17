@@ -11,7 +11,7 @@
     "robot_image": "slur",
     "robot_image_size": 40,
     "robot_image_editor": "rhythmbca",
-    "robot_image_editor2": "neovalo",
+    "robot_image_editor2": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -21,15 +21,15 @@
         },
         {
             "token": "alt2",
-            "name": "Slur (Crestfallen Alt)",
+            "name": "Slur (Final Weapon Alt)",
             "summons": 2000,
-            "colour": "earth"
+            "colour": "nature"
         },
         {
             "token": "alt3",
-            "name": "Slur (Final Weapon Alt)",
+            "name": "Slur (Crestfallen Alt)",
             "summons": 3000,
-            "colour": "speed"
+            "colour": "explode"
         }
     ],
     "robot_core": "space",
