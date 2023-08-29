@@ -4,6 +4,9 @@
         "group_token": "MM00",
         "group_order": 0,
         "group_child_tokens": [
+            "rush",
+            "tango",
+            "beat",
             "met"
         ]
     },
