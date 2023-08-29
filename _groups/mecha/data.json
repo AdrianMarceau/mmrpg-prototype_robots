@@ -4,9 +4,6 @@
         "group_token": "MM00",
         "group_order": 0,
         "group_child_tokens": [
-            "rush",
-            "tango",
-            "beat",
             "met"
         ]
     },
@@ -104,6 +101,16 @@
         "group_child_tokens": [
             "beak",
             "shield-attacker"
+        ]
+    },
+    "MMRPG2": {
+        "group_class": "mecha",
+        "group_token": "MMRPG2",
+        "group_order": 8,
+        "group_child_tokens": [
+            "rush",
+            "tango",
+            "beat"
         ]
     }
 }
