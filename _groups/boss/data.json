@@ -1,10 +1,11 @@
 {
-    "Doc Robot": {
+    "Elemental Guardians": {
         "group_class": "boss",
-        "group_token": "Doc Robot",
+        "group_token": "Elemental Guardians",
         "group_order": 0,
         "group_child_tokens": [
-            "doc-robot"
+            "doc-robot",
+            "ra-sigma"
         ]
     },
     "Dark Souls": {
@@ -91,12 +92,7 @@
             "cache",
             "planet-man",
             "cosmo-man",
-            "trio",
-            "trio-2",
-            "trio-3",
-            "duo",
-            "duo-2",
-            "solo"
+            "duo"
         ]
     }
 }
