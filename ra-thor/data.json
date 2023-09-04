@@ -8,11 +8,18 @@
     "robot_support": "shield-attacker",
     "robot_class": "boss",
     "robot_gender": "none",
-    "robot_image": "ra-sigma",
+    "robot_image": "ra-thor",
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
-    "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_editor2": "adrianmarceau",
+    "robot_image_alts": [
+        {
+            "token": "alt9",
+            "name": "Ra Thor (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "space",
     "robot_core2": "",
     "robot_description": "Reanimated Lunar Artifact",
