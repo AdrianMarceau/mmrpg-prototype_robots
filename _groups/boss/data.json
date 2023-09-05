@@ -4,8 +4,7 @@
         "group_token": "Elemental Guardians",
         "group_order": 0,
         "group_child_tokens": [
-            "doc-robot",
-            "ra-sigma"
+            "doc-robot"
         ]
     },
     "Dark Souls": {
@@ -18,10 +17,18 @@
             "proto-man-ds"
         ]
     },
+    "King": {
+        "group_class": "boss",
+        "group_token": "King",
+        "group_order": 2,
+        "group_child_tokens": [
+            "king"
+        ]
+    },
     "Mega Man Killers": {
         "group_class": "boss",
         "group_token": "Mega Man Killers",
-        "group_order": 2,
+        "group_order": 3,
         "group_child_tokens": [
             "enker",
             "punk",
@@ -32,7 +39,7 @@
     "Dark Men": {
         "group_class": "boss",
         "group_token": "Dark Men",
-        "group_order": 3,
+        "group_order": 4,
         "group_child_tokens": [
             "dark-man",
             "dark-man-2",
@@ -40,28 +47,37 @@
             "dark-man-4"
         ]
     },
-    "King": {
+    "Ra Moon": {
         "group_class": "boss",
-        "group_token": "King",
-        "group_order": 4,
+        "group_token": "Ra Moon",
+        "group_order": 5,
         "group_child_tokens": [
-            "king"
+            "ra-thor"
         ]
     },
     "Genesis Unit": {
         "group_class": "boss",
         "group_token": "Genesis Unit",
-        "group_order": 5,
+        "group_order": 6,
         "group_child_tokens": [
             "buster-rod-g",
             "mega-water-s",
             "hyper-storm-h"
         ]
     },
+    "Star Lords ": {
+        "group_class": "boss",
+        "group_token": "Star Lords ",
+        "group_order": 7,
+        "group_child_tokens": [
+            "trill",
+            "slur"
+        ]
+    },
     "Stardroids": {
         "group_class": "boss",
         "group_token": "Stardroids",
-        "group_order": 6,
+        "group_order": 8,
         "group_child_tokens": [
             "terra",
             "mercury",
@@ -75,19 +91,10 @@
             "sunstar"
         ]
     },
-    "Star Lords ": {
-        "group_class": "boss",
-        "group_token": "Star Lords ",
-        "group_order": 7,
-        "group_child_tokens": [
-            "trill",
-            "slur"
-        ]
-    },
     "Hidden": {
         "group_class": "boss",
         "group_token": "Hidden",
-        "group_order": 8,
+        "group_order": 9,
         "group_child_tokens": [
             "cache",
             "planet-man",
