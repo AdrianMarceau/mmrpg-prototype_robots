@@ -5,7 +5,7 @@
     "robot_game": "SuperA",
     "robot_field": "",
     "robot_field2": "prototype-subspace",
-    "robot_support": "shield-attacker",
+    "robot_support": "ring-ring",
     "robot_class": "boss",
     "robot_gender": "none",
     "robot_image": "ra-thor",
@@ -23,7 +23,7 @@
     "robot_core": "space",
     "robot_core2": "",
     "robot_description": "Reanimated Lunar Artifact",
-    "robot_description2": "Ra Thor was originally built by Dr. Wily using advanced technology he discovered in the Temple of the Moon, an ancient structure that housed an alien supercomputer known as Ra Moon. However, Ra Sigma appears to have been reanimated by someone other than our usual suspect. The \"Sigma\" power that has resurrected this robot is curiously non-celestial, but it would be unwise to discount our antagonists' involvement in its genesis. The circumstances of Ra Sigma's birth notwithstanding, it cannot be a coincidence that it bears a striking resemblance to the exhumed robot masters it fights alongside. Cold, uncaring, and unrelenting in its attacks, Ra Sigma is not a force to be underestimated in battle. Despite its empty core, its powers are decidedly elemental in nature. With the ability to manipulate and absorb nearby core shields with ease, Ra Sigma is a formidable opponent.",
+    "robot_description2": "Ra Thor was originally built by Dr. Wily using advanced alien technology he discovered in a place called the Temple of the Moon, however this instance of Ra Thor has a more ambiguous progenitor.  The \"Sigma\" power that has reanimated this robot is curiously non-celestial, but it would still be unwise to discount our antagonists' involvement in Ra Thor's re-genesis. The circumstances of Ra Sigma's birth notwithstanding, it cannot be a coincidence that it bears a striking resemblance to the exhumed robot masters it fights alongside. Cold, uncaring, and unrelenting in its attacks, Ra Sigma is not a force to be underestimated in battle. Despite its empty core, its powers are decidedly elemental in nature. With the ability to manipulate and absorb nearby core shields with ease, Ra Thor in any form is a formidable opponent.",
     "robot_energy": 160,
     "robot_weapons": 60,
     "robot_attack": 170,
@@ -40,19 +40,15 @@
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
-            "level": 0,
-            "token": "buster-shot"
-        },
-        {
-            "level": 1,
+            "level": 2,
             "token": "barrier-drive-s"
         },
         {
-            "level": 2,
+            "level": 3,
             "token": "lunar-memory-a"
         },
         {
-            "level": 3,
+            "level": 4,
             "token": "shield-eater-r"
         }
     ],
