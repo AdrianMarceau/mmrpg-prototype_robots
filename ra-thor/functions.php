@@ -23,7 +23,7 @@ $functions = array(
             };
 
         // If we don't have a Ra Mini-Moon but we do have Lunar Memory A, we should use the ability to summon one
-        $possible_ability_token = 'lunar-memory-a';
+        $possible_ability_token = 'lunar-memory';
         $static_attachment_key = $this_robot->get_static_attachment_key();
         $this_attachment_info = rpg_ability::get_static_attachment($possible_ability_token, 'lunar-memory', $static_attachment_key);
         $this_attachment_token = $this_attachment_info['attachment_token'];
@@ -36,7 +36,7 @@ $functions = array(
             }
 
         // If we need healing and we have Shield Eater R, we should use the ability to absorb shields for healing
-        $possible_ability_token = 'shield-eater-r';
+        $possible_ability_token = 'shield-eater';
         if ($this_robot->robot_energy < $this_robot->robot_base_energy
             && $this_robot->has_ability($possible_ability_token)
             && $has_weapon_energy($possible_ability_token)
@@ -45,7 +45,7 @@ $functions = array(
             }
 
         // Otherwise, if we have the option to attack with our signature move, we should
-        $possible_ability_token = 'barrier-drive-s';
+        $possible_ability_token = 'barrier-drive';
         if ($this_robot->has_ability($possible_ability_token)
             && $has_weapon_energy($possible_ability_token)
             ){
@@ -70,11 +70,11 @@ $functions = array(
         extract($objects);
 
         // Generate crystal blockade at battle start if signature ability equipped
-        if ($this_robot->has_ability('lunar-memory-a')){
+        if ($this_robot->has_ability('lunar-memory')){
 
             // Define this ability's attachment token and info
             $static_attachment_key = $this_robot->get_static_attachment_key();
-            $this_attachment_info = rpg_ability::get_static_attachment('lunar-memory-a', 'lunar-memory', $static_attachment_key);
+            $this_attachment_info = rpg_ability::get_static_attachment('lunar-memory', 'lunar-memory', $static_attachment_key);
             $this_attachment_token = $this_attachment_info['attachment_token'];
 
             // Check if the attachment exists yet, and if not add it now

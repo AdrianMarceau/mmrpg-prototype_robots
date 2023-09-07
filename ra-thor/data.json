@@ -41,15 +41,15 @@
     "robot_abilities_rewards": [
         {
             "level": 2,
-            "token": "barrier-drive-s"
+            "token": "barrier-drive"
         },
         {
             "level": 3,
-            "token": "lunar-memory-a"
+            "token": "lunar-memory"
         },
         {
             "level": 4,
-            "token": "shield-eater-r"
+            "token": "shield-eater"
         }
     ],
     "robot_abilities_compatible": [],
