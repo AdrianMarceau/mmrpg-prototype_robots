@@ -36,6 +36,12 @@
             "name": "Napalm Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Napalm Man (Asteroid Alt)",
+            "summons": 1000,
+            "colour": "none"
         }
     ],
     "robot_core": "explode",
