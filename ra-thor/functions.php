@@ -25,7 +25,7 @@ $functions = array(
         // If we don't have a Ra Mini-Moon but we do have Lunar Memory A, we should use the ability to summon one
         $possible_ability_token = 'lunar-memory';
         $static_attachment_key = $this_robot->get_static_attachment_key();
-        $this_attachment_info = rpg_ability::get_static_attachment($possible_ability_token, 'lunar-memory', $static_attachment_key);
+        $this_attachment_info = rpg_ability::get_static_attachment($possible_ability_token, $possible_ability_token, $static_attachment_key);
         $this_attachment_token = $this_attachment_info['attachment_token'];
         $attachment_already_exists = $this_battle->has_attachment($static_attachment_key, $this_attachment_token);
         if (!$attachment_already_exists
@@ -77,11 +77,16 @@ $functions = array(
             $this_attachment_info = rpg_ability::get_static_attachment('lunar-memory', 'lunar-memory', $static_attachment_key);
             $this_attachment_token = $this_attachment_info['attachment_token'];
 
+            // If this robot already has a super block in place, make sure we adjust the position a bit
+            if ($this_battle->has_attachment($static_attachment_key, 'ability_super-arm_super-block_'.$static_attachment_key)){
+                $this_attachment_info['ability_frame_offset']['x'] += 12;
+            }
+
             // Check if the attachment exists yet, and if not add it now
             $attachment_already_exists = $this_battle->has_attachment($static_attachment_key, $this_attachment_token);
             if (!$attachment_already_exists){
                 //$this_battle->events_create(false, false, 'debug', 'onbattlestart');
-                $this_robot->set_attachment($this_attachment_token, $this_attachment_info);
+                $this_battle->set_attachment($static_attachment_key, $this_attachment_token, $this_attachment_info);
                 if ($this_robot->robot_position === 'active'){
                       $this_robot->set_frame('summon');
                     $this_battle->events_create(false, false, '', '',
