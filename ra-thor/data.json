@@ -29,10 +29,16 @@
     "robot_attack": 170,
     "robot_defense": 90,
     "robot_speed": 180,
-    "robot_weaknesses": [],
+    "robot_weaknesses": [
+        "shield"
+    ],
     "robot_resistances": [],
-    "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_affinities": [
+        "laser"
+    ],
+    "robot_immunities": [
+        "space"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",

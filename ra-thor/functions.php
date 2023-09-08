@@ -69,7 +69,50 @@ $functions = array(
         // Extract all objects into the current scope
         extract($objects);
 
-        // Generate crystal blockade at battle start if signature ability equipped
+        // Generate moon blockade at battle start if signature ability equipped
+        if ($this_robot->has_ability('lunar-memory')){
+
+            // Define this ability's attachment token and info
+            $static_attachment_key = $this_robot->get_static_attachment_key();
+            $this_attachment_info = rpg_ability::get_static_attachment('lunar-memory', 'lunar-memory', $static_attachment_key);
+            $this_attachment_token = $this_attachment_info['attachment_token'];
+
+            // If this robot already has a super block in place, make sure we adjust the position a bit
+            if ($this_battle->has_attachment($static_attachment_key, 'ability_super-arm_super-block_'.$static_attachment_key)){
+                $this_attachment_info['ability_frame_offset']['x'] += 12;
+            }
+
+            // Check if the attachment exists yet, and if not add it now
+            $attachment_already_exists = $this_battle->has_attachment($static_attachment_key, $this_attachment_token);
+            if (!$attachment_already_exists){
+                //$this_battle->events_create(false, false, 'debug', 'onbattlestart');
+                $this_battle->set_attachment($static_attachment_key, $this_attachment_token, $this_attachment_info);
+                if ($this_robot->robot_position === 'active'){
+                      $this_robot->set_frame('summon');
+                    $this_battle->events_create(false, false, '', '',
+                        array(
+                            'event_flag_camera_action' => true,
+                            'event_flag_camera_side' => $this_robot->player->player_side,
+                            'event_flag_camera_focus' => $this_robot->robot_position,
+                            'event_flag_camera_depth' => $this_robot->robot_key
+                            )
+                      );
+                    $this_robot->reset_frame();
+                }
+            }
+
+        }
+
+        // Return true on success
+        return true;
+
+    },
+    'robot_function_onendofturn' => function($objects){
+
+        // Extract all objects into the current scope
+        extract($objects);
+
+        // Generate moon blockade at battle start if signature ability equipped
         if ($this_robot->has_ability('lunar-memory')){
 
             // Define this ability's attachment token and info
