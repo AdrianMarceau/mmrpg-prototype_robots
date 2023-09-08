@@ -48,6 +48,12 @@
             "name": "Slash Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Slash Man (Asteroid Alt)",
+            "summons": 1000,
+            "colour": "none"
         }
     ],
     "robot_core": "nature",

@@ -42,6 +42,12 @@
             "name": "Yamato Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Yamato Man (Asteroid Alt)",
+            "summons": 1000,
+            "colour": "empty"
         }
     ],
     "robot_core": "cutter",

@@ -72,10 +72,10 @@
     "robot_abilities_compatible": [
         "bright-burst"
     ],
-    "robot_quotes_start": "It's not an enlightened robot's job to fight, but I'll do what I can!",
-    "robot_quotes_taunt": "I'm not worried; success comes to me in a flash!",
-    "robot_quotes_victory": "Oh, lighten up, won't you?... Just a little light-bulb humor!",
-    "robot_quotes_defeat": "Wow, you outshined me! I better take notes....",
+    "robot_quotes_start": "C-come on, {target_robot}... Surely two enlightened robots shouldn't fight?",
+    "robot_quotes_taunt": "Aha! Eureka! I've got you all figured out now!",
+    "robot_quotes_victory": "Oh, lighten up, won't you? You can't outsmart a genius!",
+    "robot_quotes_defeat": "I have not failed! I just.. tested a way not to win, is all!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,

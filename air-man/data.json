@@ -75,7 +75,7 @@
     ],
     "robot_abilities_compatible": [],
     "robot_quotes_start": "{target_robot}? What wind blows you here?",
-    "robot_quotes_taunt": "I've hardly begun! I'll ramp up my winds and blow you away!",
+    "robot_quotes_taunt": "Is that all you can manage? Now I'll blow you away!",
     "robot_quotes_victory": "Poor {target_robot}.... You should've known you can't beat me.",
     "robot_quotes_defeat": "Ahw.. Ahw, mya propelleh brokuh! Noooou!",
     "robot_quotes_custom": [],

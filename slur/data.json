@@ -45,12 +45,10 @@
     "robot_resistances": [
         "space",
         "freeze",
-        "flame"
+        "flame",
+        "water"
     ],
-    "robot_affinities": [
-        "water",
-        "electric"
-    ],
+    "robot_affinities": [],
     "robot_immunities": [
         "copy"
     ],

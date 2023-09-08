@@ -36,6 +36,12 @@
             "name": "Stone Man (Alt9)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Stone Man (Asteroid Alt)",
+            "summons": 1000,
+            "colour": "none"
         }
     ],
     "robot_core": "earth",

@@ -42,6 +42,12 @@
             "name": "Cold Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Cold Man (Asteroid Alt)",
+            "summons": 1000,
+            "colour": "none"
         }
     ],
     "robot_core": "freeze",
