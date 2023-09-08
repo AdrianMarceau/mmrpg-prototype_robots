@@ -72,8 +72,8 @@
     "robot_abilities_compatible": [
         "water-balloon"
     ],
-    "robot_quotes_start": "I'm {this_robot}, but you can feel free to call me Handsome Guy!",
-    "robot_quotes_taunt": "PFFFT... Hee hee, {target_robot}, was that you just now?",
+    "robot_quotes_start": "I'm Aqua Man, but feel free to call me handsome!",
+    "robot_quotes_taunt": "PFFFT... Hee hee, {target_robot}, did you fart just now?",
     "robot_quotes_victory": "You know, {this_player}, if we're done here... I say we call it lunchtime!",
     "robot_quotes_defeat": "Aye aye aye! This is all way too serious for me!",
     "robot_quotes_custom": [],
