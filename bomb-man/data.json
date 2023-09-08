@@ -77,7 +77,7 @@
         "hyper-bomb",
         "danger-bomb"
     ],
-    "robot_quotes_start": "Let's have a little fun with my explosives!",
+    "robot_quotes_start": "Yo, {target_robot}! Let's have a little fun with my explosives!",
     "robot_quotes_taunt": "Watch it! Bomb's aren't toys, y'know!",
     "robot_quotes_victory": "C'mon dude, the party ain't over yet!.... uhh, dude?",
     "robot_quotes_defeat": "No way! You're supposed to blow up, not me!",
