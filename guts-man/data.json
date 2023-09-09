@@ -81,10 +81,10 @@
         "super-throw",
         "super-arm"
     ],
-    "robot_quotes_start": "Hey, hey! Wimps like you don't belong on a foreman's turf!",
-    "robot_quotes_taunt": "It's time to break through! Maximum power!!!",
+    "robot_quotes_start": "Hey, {target_robot}! A wimp like you doesn't belong on a foreman's turf!",
+    "robot_quotes_taunt": "There you go, kid! Now you're starting to show some real guts!",
     "robot_quotes_victory": "My shift's about over, {this_player}... So let's start Karaoke Hour!",
-    "robot_quotes_defeat": "You got real guts, kid! I won't forget this!",
+    "robot_quotes_defeat": "Good stuff, kid.. winning a fight ain't always about doing what's in the blueprints!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
