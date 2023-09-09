@@ -68,9 +68,9 @@
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "{target_robot}.... Couldn't we fight tomorrow instead?",
-    "robot_quotes_taunt": "This weather's so boring! Where's the lightning?! The squalls?!",
-    "robot_quotes_victory": "Look at me, I'm on cloud nine! And a real cloud!",
+    "robot_quotes_start": "{target_robot}.... mind if we take a rain check on this fight?",
+    "robot_quotes_taunt": "The weather's getting reaaal boring... let's get some lightning in the mix!",
+    "robot_quotes_victory": "There's only room for one lethargic couch potato in these skies, fool!",
     "robot_quotes_defeat": "Mmmh... this floor's so comfy....",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
