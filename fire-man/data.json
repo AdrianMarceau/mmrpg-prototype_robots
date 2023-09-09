@@ -78,9 +78,9 @@
         "fire-chaser"
     ],
     "robot_quotes_start": "I reckon you cool yourself down, pardner, or I'll fire you!",
-    "robot_quotes_taunt": "The path of the righteous is lighted with flames of justice!",
+    "robot_quotes_taunt": "Evildoers beware! My righteous flame can't ever be extinguished!",
     "robot_quotes_victory": "Evil! Remember my name, for I am {this_robot}!",
-    "robot_quotes_defeat": "The fire... It's been smothered by chills of injustice...!",
+    "robot_quotes_defeat": "My light ain't strong enough alone... to burn through this freezing injustice!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
