@@ -71,9 +71,9 @@
     "robot_abilities_compatible": [
         "thunder-claw"
     ],
-    "robot_quotes_start": "Don\u2019t expect any funny business! I\u2019m serious!",
-    "robot_quotes_taunt": "Wimp, my Thunder Carnival act is no laughing matter!",
-    "robot_quotes_victory": "Geeky, your performance was hilarious! Hilariously bad!",
+    "robot_quotes_start": "Don\u2019t expect any funny business!... Come on, I'm being serious!",
+    "robot_quotes_taunt": "Hehe, you're gonna lose anyway! Gaze upon my thunder carnival act!",
+    "robot_quotes_victory": "Yo geeky, your performance was hilarious! Hilariously BAD!",
     "robot_quotes_defeat": "Ouch! See you in my dreams!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
