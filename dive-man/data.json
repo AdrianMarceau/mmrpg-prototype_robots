@@ -75,10 +75,10 @@
     "robot_abilities_compatible": [
         "dive-torpedo"
     ],
-    "robot_quotes_start": "{target_robot}? Well, a target is a target...",
+    "robot_quotes_start": "{target_robot}?... Well, a target's a target, no matter the orders.",
     "robot_quotes_taunt": "Don't bother running, my torpedos are inescapable!",
     "robot_quotes_victory": "Sea or land, it doesn't make a difference; I always get my targets!",
-    "robot_quotes_defeat": "Yuck. I feel seasick. Bleah.",
+    "robot_quotes_defeat": "Yuck. I feel seasick... blech!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
