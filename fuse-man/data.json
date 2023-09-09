@@ -73,10 +73,10 @@
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "I couldn't refuse this challenge even if I wanted to... Prepare to diode!",
-    "robot_quotes_taunt": "Fine, let's amp this up! High voltage!",
+    "robot_quotes_start": "I can't just refuse a good challenge... Prepare to die-ode!",
+    "robot_quotes_taunt": "Let's amp this up! High voltage!",
     "robot_quotes_victory": "When you're as lightning-efficient as me, you never get to have a day off...",
-    "robot_quotes_defeat": "Gah, m-my electrons are scrambled... S-Short circuit!!!",
+    "robot_quotes_defeat": "M-my electrons are s-scrambled... Short circuit!!!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
