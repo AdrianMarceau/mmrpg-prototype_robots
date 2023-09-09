@@ -72,10 +72,10 @@
     "robot_abilities_compatible": [
         "hard-knuckle"
     ],
-    "robot_quotes_start": "Let's fight fair and honestly, okay?",
-    "robot_quotes_taunt": "Don't raise your hopes-- Nothing can penetrate my ceratanium defenses!",
+    "robot_quotes_start": "Let's have ourselves a far and honest fight.",
+    "robot_quotes_taunt": "Think harder -- Nothing can penetrate my ceratanium defenses!",
     "robot_quotes_victory": "Understand that nothing's better than an honest loss... besides an honest win, that is.",
-    "robot_quotes_defeat": "Please forgive me, {this_player} --I'll try harder next time!",
+    "robot_quotes_defeat": "Ohh.. what a bother. I'm sorry, {this_player}...",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
