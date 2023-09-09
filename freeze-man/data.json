@@ -71,9 +71,9 @@
         "freeze-cracker"
     ],
     "robot_quotes_start": "Now that I'm in battle, expect a flawless victory, {this_player}!",
-    "robot_quotes_taunt": "What's the matter, {target_robot}? Cold feet?",
+    "robot_quotes_taunt": "Check it out, {target_robot}! I'm gonna hit you with the ol' razzle dazzle!",
     "robot_quotes_victory": "Ooh, ooh, finally! Check out my super-awesome victory pose!",
-    "robot_quotes_defeat": "I don't think I have a super-awesome pose for losing...",
+    "robot_quotes_defeat": "Ohh.. I never rehearsed a cool losing pose, did I?",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
