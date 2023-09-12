@@ -111,6 +111,15 @@
             "rush",
             "tango",
             "beat",
+            "reggae"
+        ]
+    },
+    "MMRPG3": {
+        "group_class": "mecha",
+        "group_token": "MMRPG3",
+        "group_order": 9,
+        "group_child_tokens": [
+            "heal-bot",
             "trille-bot"
         ]
     }
