@@ -12,7 +12,14 @@
     "robot_image_size": 80,
     "robot_image_editor": "splendidland",
     "robot_image_editor2": "milansaponja",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "King (Pawn Alt)",
+            "summons": 100,
+            "colour": "time"
+        }
+    ],
     "robot_core": "shield",
     "robot_core2": "",
     "robot_description": "Rebel Leader Robot",
