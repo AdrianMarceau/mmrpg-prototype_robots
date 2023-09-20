@@ -17,7 +17,7 @@
             "token": "alt",
             "name": "King (Pawn Alt)",
             "summons": 100,
-            "colour": "time"
+            "colour": "speed"
         }
     ],
     "robot_core": "shield",
