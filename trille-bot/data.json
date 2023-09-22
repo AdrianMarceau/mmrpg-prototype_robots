@@ -12,7 +12,44 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "adrianmarceau",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Trille-Bot (Attack Alt)",
+            "summons": 100,
+            "colour": "attack"
+        },
+        {
+            "token": "alt2",
+            "name": "Trille-Bot (Defense Alt)",
+            "summons": 200,
+            "colour": "defense"
+        },
+        {
+            "token": "alt3",
+            "name": "Trille-Bot (Speed Alt)",
+            "summons": 300,
+            "colour": "speed"
+        },
+        {
+            "token": "alt4",
+            "name": "Trille-Bot (Emboldened Alt)",
+            "summons": 400,
+            "colour": "wind"
+        },
+        {
+            "token": "alt5",
+            "name": "Trille-Bot (Final Weapon Alt)",
+            "summons": 500,
+            "colour": "nature"
+        },
+        {
+            "token": "alt6",
+            "name": "Trille-Bot (Crestfallen Alt)",
+            "summons": 600,
+            "colour": "explode"
+        }
+    ],
     "robot_core": "space",
     "robot_core2": "",
     "robot_description": "Enslaved Energy Sentry",
