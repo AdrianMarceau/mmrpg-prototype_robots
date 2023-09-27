@@ -74,7 +74,7 @@
         "tornado-blow"
     ],
     "robot_quotes_start": "Time for you to face the eye of the storm!",
-    "robot_quotes_taunt": "I've weathered hurricanes, and I can weather you, {target_robot}!",
+    "robot_quotes_taunt": "I've stopped hurricanes, {target_robot}... who says I can't stop you?",
     "robot_quotes_victory": "I control the wind, the weather-- and I'll control my own fate.",
     "robot_quotes_defeat": "All I was was dust in the wind...",
     "robot_quotes_custom": [],
