@@ -78,10 +78,10 @@
     "robot_abilities_compatible": [
         "needle-cannon"
     ],
-    "robot_quotes_start": "Don't bother with small talk-- you'll be a pincushion soon enough!",
-    "robot_quotes_taunt": "Fear the eye of the needle!... No, that just sounds lame...",
-    "robot_quotes_victory": "You see that, pinhead? Flawless work, as always.",
-    "robot_quotes_defeat": "Ohhh sure, great, thanks for busting my face in! No, I mean it!",
+    "robot_quotes_start": "Bring it, {target_robot}! I'll make this place your grave!",
+    "robot_quotes_taunt": "Grrr... I'll make you into a pincushion!",
+    "robot_quotes_victory": "Awww, could 'widdle {target_robot} not handle my flawless work?",
+    "robot_quotes_defeat": "Ohhh, by all means, you did so great.. No, uhuh, seriously, I mean it.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
