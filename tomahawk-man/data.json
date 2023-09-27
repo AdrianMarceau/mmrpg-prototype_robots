@@ -80,7 +80,7 @@
     "robot_quotes_start": "My will is unbreakable! Prepare yourself!",
     "robot_quotes_taunt": "Your courage is admirable. It is a shame we must meet here, on the battlefield\u2026",
     "robot_quotes_victory": "The spirits of my fallen brethren will sleep soundly tonight....",
-    "robot_quotes_defeat": "Was my destiny\u2026 all a lie?",
+    "robot_quotes_defeat": "Your soul is strong, and brave, {target_robot}. I will fight no more.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
