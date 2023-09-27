@@ -72,10 +72,10 @@
     "robot_abilities_compatible": [
         "skull-barrier"
     ],
-    "robot_quotes_start": "Now {target_robot}! Let's get ready to rumble!",
+    "robot_quotes_start": "Now, {target_robot}! Let's get ready to rumble!",
     "robot_quotes_taunt": "Fight me! FIGHT ME! Battles like these are what I live for!",
     "robot_quotes_victory": "Mwahahaha! Your execution was my pleasure!",
-    "robot_quotes_defeat": "Gah! This horrible feeling of loss... it's too overwhelming!",
+    "robot_quotes_defeat": "I can't deal with these feelings... Why can't I just punch my stupid emotions?!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
