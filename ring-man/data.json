@@ -70,8 +70,8 @@
     "robot_abilities_compatible": [
         "ring-boomerang"
     ],
-    "robot_quotes_start": "Expect no mercy, {target_robot}! I'm here to disable you!",
-    "robot_quotes_taunt": "I've waited a long time for this moment, {target_robot}!",
+    "robot_quotes_start": "Expect no mercy, {target_robot}! I'm here to stop you!",
+    "robot_quotes_taunt": "Right into my hands, {target_robot}.. this is the moment I've been waiting for!",
     "robot_quotes_victory": "Success! I thank the stars for this victory!",
     "robot_quotes_defeat": "I'm sorry, {this_player}... I'm just not as strong as everyone else...",
     "robot_quotes_custom": [],
