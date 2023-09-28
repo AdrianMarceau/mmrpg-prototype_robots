@@ -126,7 +126,7 @@
     ],
     "robot_quotes_start": "With you as my operator, {this_player}... no parameters will stop us!",
     "robot_quotes_taunt": "I've run the numbers, and we win every time!",
-    "robot_quotes_victory": "Yippee, I did it! My calculations were right on!",
+    "robot_quotes_victory": "Yay, I did it! My calculations were right on!",
     "robot_quotes_defeat": "This variable wasn't accounted for at all... don't tell me it's a bug!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
