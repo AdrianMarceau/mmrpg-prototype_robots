@@ -108,10 +108,9 @@
         "group_token": "MMRPG2",
         "group_order": 8,
         "group_child_tokens": [
-            "rush",
-            "tango",
-            "beat",
-            "reggae"
+            "heal-bot",
+            "heel-bot",
+            "trille-bot"
         ]
     },
     "MMRPG3": {
@@ -119,9 +118,10 @@
         "group_token": "MMRPG3",
         "group_order": 9,
         "group_child_tokens": [
-            "heal-bot",
-            "heel-bot",
-            "trille-bot"
+            "rush",
+            "tango",
+            "beat",
+            "reggae"
         ]
     }
 }
