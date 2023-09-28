@@ -73,27 +73,27 @@
             "token": "buster-shot"
         },
         {
-            "level": 12,
+            "level": 22,
             "token": "disco-buster"
         },
         {
-            "level": 14,
+            "level": 24,
             "token": "energy-break"
         },
         {
-            "level": 16,
+            "level": 26,
             "token": "attack-break"
         },
         {
-            "level": 18,
+            "level": 28,
             "token": "defense-break"
         },
         {
-            "level": 20,
+            "level": 30,
             "token": "speed-break"
         },
         {
-            "level": 22,
+            "level": 32,
             "token": "disco-fever"
         }
     ],
