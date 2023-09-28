@@ -45,10 +45,10 @@
     "robot_abilities_compatible": [
         "hyper-storm"
     ],
-    "robot_quotes_start": "Fighting's not my thing, but if I've gotta pull my weight....",
-    "robot_quotes_taunt": "Some bacon would be amazing right now... What?",
-    "robot_quotes_victory": "Next time, let your friends handle the fighting. That's what I do!",
-    "robot_quotes_defeat": "Augh! You've went and conned me!",
+    "robot_quotes_start": "Guess if I gotta pull my weight... I'll start by crushing you, {target_robot}!",
+    "robot_quotes_taunt": "Poor {target_robot}, leave the fighting for your friends.. that's what I do!",
+    "robot_quotes_victory": "Man, if I had some onigiri right now... donuts... chicken.. or, ooh, bacon!",
+    "robot_quotes_defeat": "Huh? You made me look like I'm, like, stupid or somethin'...",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,

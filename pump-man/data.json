@@ -72,8 +72,8 @@
     "robot_abilities_compatible": [
         "water-shield"
     ],
-    "robot_quotes_start": "Gah! This stage is filthy! And you... Don't even come near me!",
-    "robot_quotes_taunt": "I'll make you suffer! Suffer as much as the cleaning guy around here...",
+    "robot_quotes_start": "We'll fight, {target_robot}.. but first, please, take some hand sanitizer.",
+    "robot_quotes_taunt": "Gah! This stage is filthy! Nobody touch me!",
     "robot_quotes_victory": "There we go! Nice and clean, and lemon-scented!",
     "robot_quotes_defeat": "Germs... Germs everywhere...",
     "robot_quotes_custom": [],

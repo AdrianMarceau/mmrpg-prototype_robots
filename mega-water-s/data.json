@@ -45,10 +45,10 @@
     "robot_abilities_compatible": [
         "mega-water"
     ],
-    "robot_quotes_start": "I have arrived here to defeat your socks off!",
-    "robot_quotes_taunt": "You give me trouble! Shall I give punishment to you?",
-    "robot_quotes_victory": "You have been spoiled! No mercy for you!",
-    "robot_quotes_defeat": "I knew I could not find success in this land.....",
+    "robot_quotes_start": "E-eh, excuse me, {target_robot}... but I will be killing you now, yes.",
+    "robot_quotes_taunt": "You have good reputation, {target_robot}... but all just talk, my friend!",
+    "robot_quotes_victory": "You could best Buster Rod G, yes... but against me? It's impossible, yes!",
+    "robot_quotes_defeat": "Yes, yes, I see... there is no way I can ever win! Run, run!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,

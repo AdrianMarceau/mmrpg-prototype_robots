@@ -42,15 +42,15 @@
             "token": "buster-shot"
         },
         {
-            "level": 10,
+            "level": 20,
             "token": "bass-buster"
         },
         {
-            "level": 15,
+            "level": 35,
             "token": "bass-crush"
         },
         {
-            "level": 20,
+            "level": 50,
             "token": "bass-baroque"
         }
     ],

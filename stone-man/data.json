@@ -77,10 +77,10 @@
     "robot_abilities_compatible": [
         "power-stone"
     ],
-    "robot_quotes_start": "Bring it! Once I get started, I can weather any attack you throw!",
-    "robot_quotes_taunt": "Man, this reminds me of this part in a movie where....",
+    "robot_quotes_start": "You can't break my body, {target_robot}, and you DEFINITELY can't break my will!",
+    "robot_quotes_taunt": "Y'know, this reminds me of this part in a movie where.. oh, sorry, fight first.",
     "robot_quotes_victory": "Real strength ain't just power! It's about picking up the pieces when everything falls apart!",
-    "robot_quotes_defeat": "Uhhh, usually I'm supposed to form back together... Uh oh.",
+    "robot_quotes_defeat": "Uhhh, by now I'm supposed to form back together... uh oh.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,

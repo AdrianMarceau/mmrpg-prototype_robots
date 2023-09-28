@@ -83,7 +83,7 @@
     ],
     "robot_quotes_start": "May the sharpest mind win!",
     "robot_quotes_taunt": "I'm no ordinary ol' robot... I'm a cut above the rest!",
-    "robot_quotes_victory": "What can I say? {this_robot}'s still cutting-edge, HAH!",
+    "robot_quotes_victory": "What can I say? Old {this_robot}'s still cutting-edge, HAH!",
     "robot_quotes_defeat": "W-well, I guess I wasn't sharp enough!... heheh, not funny?",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,

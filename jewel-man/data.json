@@ -76,7 +76,7 @@
     "robot_abilities_compatible": [
         "jewel-satellite"
     ],
-    "robot_quotes_start": "A fight? Apologies, but I don't really battle ugly people.",
+    "robot_quotes_start": "A fight? Apologies, but I don't really fight ugly people.",
     "robot_quotes_taunt": "{target_robot}, you're so... droll. Don't you know diamonds are forever?",
     "robot_quotes_victory": "My actions, and my words, shine like jewels... Yours? Like dirt, probably.",
     "robot_quotes_defeat": "Eee! My jewels! Have you no shred of mercy, {target_robot}?! No shame?!",

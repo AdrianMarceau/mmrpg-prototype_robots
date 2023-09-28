@@ -16,14 +16,12 @@
         {
             "token": "alt",
             "name": "Skullmet (2nd Gen)",
-            "summons": 30,
-            "colour": ""
+            "summons": 30
         },
         {
             "token": "alt2",
             "name": "Skullmet (3rd Gen)",
-            "summons": 60,
-            "colour": ""
+            "summons": 60
         }
     ],
     "robot_core": "shadow",
