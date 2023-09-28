@@ -42,15 +42,15 @@
             "token": "buster-shot"
         },
         {
-            "level": 20,
+            "level": 40,
             "token": "proto-buster"
         },
         {
-            "level": 26,
+            "level": 50,
             "token": "proto-shield"
         },
         {
-            "level": 32,
+            "level": 60,
             "token": "proto-strike"
         }
     ],
