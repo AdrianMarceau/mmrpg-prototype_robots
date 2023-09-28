@@ -73,27 +73,27 @@
             "token": "buster-shot"
         },
         {
-            "level": 22,
+            "level": 42,
             "token": "rhythm-buster"
         },
         {
-            "level": 24,
+            "level": 44,
             "token": "energy-swap"
         },
         {
-            "level": 26,
+            "level": 46,
             "token": "attack-swap"
         },
         {
-            "level": 28,
+            "level": 48,
             "token": "defense-swap"
         },
         {
-            "level": 30,
+            "level": 50,
             "token": "speed-swap"
         },
         {
-            "level": 32,
+            "level": 52,
             "token": "rhythm-satellite"
         }
     ],
