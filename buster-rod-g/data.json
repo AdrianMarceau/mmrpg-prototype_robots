@@ -43,7 +43,9 @@
         }
     ],
     "robot_abilities_compatible": [
-        "buster-rod"
+        "buster-rod",
+        "barrier-drive",
+        "shield-eater"
     ],
     "robot_quotes_start": "My blood's pumping... {target_robot}, I can tell this'll be a good fight!",
     "robot_quotes_taunt": "The road to enlightenment requires a strong soul.. and many, many bananas.",
