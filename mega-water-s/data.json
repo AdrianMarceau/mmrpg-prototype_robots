@@ -43,7 +43,9 @@
         }
     ],
     "robot_abilities_compatible": [
-        "mega-water"
+        "mega-water",
+        "barrier-drive",
+        "shield-eater"
     ],
     "robot_quotes_start": "E-eh, excuse me, {target_robot}... but I will be killing you now, yes.",
     "robot_quotes_taunt": "You have good reputation, {target_robot}... but all just talk, my friend!",

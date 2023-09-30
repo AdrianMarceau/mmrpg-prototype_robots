@@ -43,7 +43,9 @@
         }
     ],
     "robot_abilities_compatible": [
-        "hyper-storm"
+        "hyper-storm",
+        "barrier-drive",
+        "shield-eater"
     ],
     "robot_quotes_start": "Guess if I gotta pull my weight... I'll start by crushing you, {target_robot}!",
     "robot_quotes_taunt": "Poor {target_robot}, leave the fighting for your friends.. that's what I do!",
