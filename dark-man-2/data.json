@@ -22,7 +22,10 @@
     "robot_attack": 95,
     "robot_defense": 115,
     "robot_speed": 95,
-    "robot_weaknesses": [],
+    "robot_weaknesses": [
+        "explode",
+        "crystal"
+    ],
     "robot_resistances": [],
     "robot_affinities": [],
     "robot_immunities": [],
