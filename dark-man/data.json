@@ -22,7 +22,10 @@
     "robot_attack": 115,
     "robot_defense": 95,
     "robot_speed": 95,
-    "robot_weaknesses": [],
+    "robot_weaknesses": [
+        "water",
+        "freeze"
+    ],
     "robot_resistances": [],
     "robot_affinities": [],
     "robot_immunities": [],
