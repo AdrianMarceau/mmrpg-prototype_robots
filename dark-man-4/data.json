@@ -23,7 +23,10 @@
     "robot_defense": 95,
     "robot_speed": 95,
     "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_resistances": [
+        "earth",
+        "space"
+    ],
     "robot_affinities": [],
     "robot_immunities": [],
     "robot_skill": "",
