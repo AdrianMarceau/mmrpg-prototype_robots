@@ -56,10 +56,10 @@
         "meteor-knuckle",
         "item-swap"
     ],
-    "robot_quotes_start": "As long as I'm standing, there's still justice left to be served!",
+    "robot_quotes_start": "Greetings, everyone -- Allow me to lend my strength.",
     "robot_quotes_taunt": "I fear no evil....",
-    "robot_quotes_victory": "Justice will overpower the odds, no matter the opponent!",
-    "robot_quotes_defeat": "Despite my loss...Justice will find a way to prevail...",
+    "robot_quotes_victory": "Have faith in justice, and we may still be able to save your planet yet.",
+    "robot_quotes_defeat": "Such power.. such evil..",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 1,
     "robot_flag_complete": 1,
