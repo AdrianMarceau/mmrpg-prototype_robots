@@ -60,7 +60,9 @@
     "robot_resistances": [
         "impact"
     ],
-    "robot_affinities": [],
+    "robot_affinities": [
+        "crystal"
+    ],
     "robot_immunities": [],
     "robot_skill": "guard-submodule",
     "robot_skill_name": "Unwavering",
