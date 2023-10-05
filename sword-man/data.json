@@ -60,7 +60,7 @@
     "robot_resistances": [],
     "robot_affinities": [],
     "robot_immunities": [
-        "flame"
+        "cutter"
     ],
     "robot_skill": "cutter-subcore",
     "robot_skill_name": "Noble Sword",
