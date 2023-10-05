@@ -54,10 +54,10 @@
     "robot_resistances": [
         "earth"
     ],
-    "robot_affinities": [
+    "robot_affinities": [],
+    "robot_immunities": [
         "flame"
     ],
-    "robot_immunities": [],
     "robot_skill": "earth-subcore",
     "robot_skill_name": "Oil Baron",
     "robot_skill_description": "",
