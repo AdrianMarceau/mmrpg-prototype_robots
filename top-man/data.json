@@ -52,11 +52,12 @@
         "swift"
     ],
     "robot_resistances": [
-        "time",
-        "laser"
+        "time"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "laser"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",
