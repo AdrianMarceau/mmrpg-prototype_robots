@@ -52,11 +52,12 @@
         "shield"
     ],
     "robot_resistances": [
-        "explode",
         "cutter"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "shield"
+    ],
     "robot_skill": "xtreme-submodule",
     "robot_skill_name": "Extremist",
     "robot_skill_description": "",
