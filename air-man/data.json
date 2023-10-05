@@ -54,10 +54,10 @@
     "robot_resistances": [
         "water"
     ],
-    "robot_affinities": [
-        "wind"
+    "robot_affinities": [],
+    "robot_immunities": [
+        "cutter"
     ],
-    "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",
