@@ -64,7 +64,7 @@
         "explode"
     ],
     "robot_resistances": [
-        "swift"
+        "laser"
     ],
     "robot_affinities": [],
     "robot_immunities": [
