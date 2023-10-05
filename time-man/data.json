@@ -52,9 +52,11 @@
         "nature"
     ],
     "robot_resistances": [],
-    "robot_affinities": [],
-    "robot_immunities": [
+    "robot_affinities": [
         "time"
+    ],
+    "robot_immunities": [
+        "swift"
     ],
     "robot_skill": "",
     "robot_skill_name": "",
