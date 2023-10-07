@@ -49,9 +49,11 @@
     "robot_speed": 93,
     "robot_weaknesses": [
         "crystal",
+        "shield"
+    ],
+    "robot_resistances": [
         "earth"
     ],
-    "robot_resistances": [],
     "robot_affinities": [
         "electric"
     ],
