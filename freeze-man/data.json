@@ -48,7 +48,7 @@
     "robot_defense": 103,
     "robot_speed": 110,
     "robot_weaknesses": [
-        "earth",
+        "shield",
         "flame"
     ],
     "robot_resistances": [],
