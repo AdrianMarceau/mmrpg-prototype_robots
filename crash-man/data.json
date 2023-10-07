@@ -49,10 +49,10 @@
     "robot_speed": 99,
     "robot_weaknesses": [
         "wind",
-        "shield"
+        "cutter"
     ],
     "robot_resistances": [
-        "cutter"
+        "nature"
     ],
     "robot_affinities": [],
     "robot_immunities": [
