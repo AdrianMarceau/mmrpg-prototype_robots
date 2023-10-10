@@ -28,16 +28,20 @@
     ],
     "robot_resistances": [],
     "robot_affinities": [
-        "flame"
-    ],
-    "robot_immunities": [
         "space"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_immunities": [
+        "flame"
+    ],
+    "robot_skill": "stat-boost-at-end-of-turn",
+    "robot_skill_name": "Chronal Accelerator",
+    "robot_skill_description": "Boosts the robot's stats on Time-type fields",
+    "robot_skill_description2": "The robot's stats are boosted by one stage at the end of each turn when the Time-type field multiplier is high.",
+    "robot_skill_parameters": {
+        "stat": "all",
+        "amount": 1,
+        "condition": "field-multiplier-time > 1"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
