@@ -66,13 +66,18 @@
     "robot_resistances": [],
     "robot_affinities": [],
     "robot_immunities": [
-        "shadow"
+        "space"
     ],
-    "robot_skill": "",
+    "robot_skill": "stat-boost-at-end-of-turn",
     "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill_description": "Drastically boosts the robot's attack on Shadow-type fields",
+    "robot_skill_description2": "The robot's attack stat is extraordinarily boosted by three stages when the Flame-type field multiplier is incredibly high.",
+    "robot_skill_parameters": {
+        "stat": "attack",
+        "amount": 3,
+        "condition": "field-multiplier-shadow > 2",
+        "repeat": false
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
