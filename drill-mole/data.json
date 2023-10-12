@@ -46,11 +46,16 @@
     "robot_immunities": [
         "earth"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "find-item-at-end-of-turn",
+    "robot_skill_name": "Shard Detector",
+    "robot_skill_description": "Allows the robot to dig up elemental shards during battle",
+    "robot_skill_description2": "The robot intermittently drills the ground below its feet looking for elemental shards hidden below.",
+    "robot_skill_parameters": {
+        "all": false,
+        "screws": false,
+        "shards": true,
+        "cores": false
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
