@@ -34,7 +34,7 @@ $functions = array(
                 // Normal Slur (first appearance is in Dr. Light's campaign)
                 if ($context['player'] === 'dr-light'){
                     $start_quote = 'The human they call Hikari? Your hubris will be your demise.';
-                    $taunt_quote = 'You remind me of a Creator. It will be shame to extingish you.';
+                    $taunt_quote = 'You remind me of a Creator. It will be a shame to extingish you.';
                     $victory_quote = 'Can you see me, Master? I have finally completed my mission!';
                     $defeat_quote = 'Savour your temporary victory... I will return even more powerful...!';
                 }
@@ -43,7 +43,7 @@ $functions = array(
                     $start_quote = 'I sense an Evil in your heart. My master will be pleased at your erasure!';
                     $taunt_quote = 'Stupid Earth creatures! You are only delaying the inevitable!';
                     $victory_quote = 'The Earth should thank me for saving it from your tragic future!';
-                    $defeat_quote = 'It doesn\'t end like this... I still haven\'t found my master...';
+                    $defeat_quote = 'It doesn\'t end like this... I still haven\'t found Master Duo...';
                 }
                 // Final Weapon Slur (third appearance is in Dr. Cossack's campaign)
                 elseif ($context['player'] === 'dr-cossack'){
@@ -57,20 +57,20 @@ $functions = array(
                 else { $start_quote = 'This pitiful group of robots dares to challenge me?  Very well...'; }
                 $taunt_quote = 'Stop resisting! You\'re even more pathetic without your operator!';
                 $victory_quote = 'Can\'t you see what I\'m doing here? I\'m saving you from yourselves!';
-                $defeat_quote = 'Master... please... I need your power! Where you are...?';
+                $defeat_quote = 'Master... please... I need your power! Where are you...?';
             }
         } else {
             // Crestfallen Slur (final appearance is only in Dr. Cossack's campaign)
             if ($human_player_is_visible){
                 $start_quote = 'No! I refuse to let it end this way!';
-                $taunt_quote = 'Master, why have not come for me? Are you even out there?'; //'Master! Have you have finally come for me?!';
-                $victory_quote = 'Master, I have completed my task! Are you still out there?'; //'Master, forgive me for what have I done....';
-                $defeat_quote = 'Master, forgive me for I have failed you...';
+                $taunt_quote = 'Master, why have you not come for me? Are you even out there?'; //'Master! Have you have finally come for me?!';
+                $victory_quote = 'Master, I have completed my task! Are you still out there?'; //'Master, forgive me for what I have done....';
+                $defeat_quote = 'Master, forgive me, for I have failed you...';
             } else {
                 if ($human_player_robots_count === 1){ $start_quote = 'No! I refuse to be beaten by a Earth robot!'; }
                 else { $start_quote = 'No! I refuse to be beaten by a group of Earth robots!'; }
-                $taunt_quote = 'Master, why have not come for me? Are you even out there?'; //'Master! Have you have finally come for me?!';
-                $victory_quote = 'Master, I have completed my task! Are you still out there?'; //'Master, forgive me for what have I done....';
+                $taunt_quote = 'Master, why have you not come for me? Are you even out there?'; //'Master! Have you have finally come for me?!';
+                $victory_quote = 'Master, I have completed my task! Are you still out there?'; //'Master, forgive me for what I have done....';
                 $defeat_quote = 'Master, forgive me for I have failed you...';
             }
         }
