@@ -105,6 +105,5 @@ $functions['rpg-ability_stat-boost_after'] = function($objects) use ($functions)
 };
 $functions['rpg-ability_stat-break_after'] = function($objects) use ($functions){
     return $functions['robot_function_onstatchange']($objects, false);
-
 };
 ?>
