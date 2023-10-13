@@ -29,11 +29,12 @@
     ],
     "robot_resistances": [
         "swift",
-        "crystal",
         "laser"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "time"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",
