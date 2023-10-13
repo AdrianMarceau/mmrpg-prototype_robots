@@ -16,14 +16,12 @@
         {
             "token": "alt",
             "name": "Beetle (2nd Gen)",
-            "summons": 30,
-            "colour": ""
+            "summons": 30
         },
         {
             "token": "alt2",
             "name": "Beetle (3rd Gen)",
-            "summons": 60,
-            "colour": ""
+            "summons": 60
         }
     ],
     "robot_core": "earth",
@@ -42,11 +40,12 @@
     "robot_resistances": [
         "earth",
         "wind",
-        "impact",
-        "explode"
+        "impact"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "explode"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",
