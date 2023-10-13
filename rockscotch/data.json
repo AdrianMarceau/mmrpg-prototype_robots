@@ -27,11 +27,12 @@
         "crystal"
     ],
     "robot_resistances": [
-        "wind",
         "impact"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "wind"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",
