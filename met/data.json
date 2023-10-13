@@ -29,11 +29,12 @@
     "robot_resistances": [
         "water",
         "flame",
-        "electric",
         "nature"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "electric"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",
