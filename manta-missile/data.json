@@ -39,10 +39,11 @@
         "shadow"
     ],
     "robot_resistances": [
-        "missile",
         "earth"
     ],
-    "robot_affinities": [],
+    "robot_affinities": [
+        "missile"
+    ],
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",
