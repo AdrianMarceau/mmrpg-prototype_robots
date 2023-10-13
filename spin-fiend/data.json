@@ -39,11 +39,12 @@
         "crystal"
     ],
     "robot_resistances": [
-        "swift",
-        "electric"
+        "swift"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "electric"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",
