@@ -62,11 +62,14 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "stat-boost-on-knockout",
+    "robot_skill_name": "Moxie Blade",
+    "robot_skill_description": "Boosts the robot's attack upon disabling a target",
+    "robot_skill_description2": "The robot's mettle automatically boosts their attack stat any time they successfully inflict a knockout in battle.",
+    "robot_skill_parameters": {
+        "stat": "attack",
+        "amount": 1
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
