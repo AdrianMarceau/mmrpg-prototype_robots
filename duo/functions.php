@@ -108,7 +108,7 @@ $functions = array(
                     break;
                 }
                 case 'pluto': {
-                    $this_robot->set_quote('battle_start', 'Heel, fowl beast! Earth will never be yours, Pluto! I promise you that as a Star Marshal!');
+                    $this_robot->set_quote('battle_start', 'Heel, foul beast! Earth will never be yours, Pluto! I promise you that as a Star Marshal!');
                     break;
                 }
                 case 'sunstar': {

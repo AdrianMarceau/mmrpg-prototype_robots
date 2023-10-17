@@ -16,14 +16,12 @@
         {
             "token": "alt",
             "name": "Picket Man (2nd Gen)",
-            "summons": 30,
-            "colour": ""
+            "summons": 30
         },
         {
             "token": "alt2",
             "name": "Picket Man (3rd Gen)",
-            "summons": 60,
-            "colour": ""
+            "summons": 60
         }
     ],
     "robot_core": "cutter",
@@ -41,12 +39,13 @@
     ],
     "robot_resistances": [
         "water",
-        "flame",
         "electric",
         "nature"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "flame"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",

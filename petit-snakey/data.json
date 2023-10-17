@@ -16,14 +16,12 @@
         {
             "token": "alt",
             "name": "Petit Snakey (2nd Gen)",
-            "summons": 30,
-            "colour": ""
+            "summons": 30
         },
         {
             "token": "alt2",
             "name": "Petit Snakey (3rd Gen)",
-            "summons": 60,
-            "colour": ""
+            "summons": 60
         }
     ],
     "robot_core": "nature",
@@ -40,13 +38,14 @@
         "cutter"
     ],
     "robot_resistances": [
-        "swift",
         "nature"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_immunities": [
+        "swift"
+    ],
+    "robot_skill": "target-submodule",
+    "robot_skill_name": "Long Neck",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],

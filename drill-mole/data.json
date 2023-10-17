@@ -39,12 +39,12 @@
     ],
     "robot_resistances": [
         "wind",
-        "crystal",
+        "earth",
         "cutter"
     ],
     "robot_affinities": [],
     "robot_immunities": [
-        "earth"
+        "crystal"
     ],
     "robot_skill": "find-item-at-end-of-turn",
     "robot_skill_name": "Shard Detector",

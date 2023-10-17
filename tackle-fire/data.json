@@ -39,12 +39,13 @@
         "freeze",
         "earth"
     ],
-    "robot_resistances": [],
+    "robot_resistances": [
+        "impact"
+    ],
     "robot_affinities": [
         "flame"
     ],
     "robot_immunities": [
-        "impact",
         "cutter"
     ],
     "robot_skill": "",

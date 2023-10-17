@@ -16,14 +16,12 @@
         {
             "token": "alt",
             "name": "Pyre Fly (2nd Gen)",
-            "summons": 30,
-            "colour": ""
+            "summons": 30
         },
         {
             "token": "alt2",
             "name": "Pyre Fly (3rd Gen)",
-            "summons": 60,
-            "colour": ""
+            "summons": 60
         }
     ],
     "robot_core": "flame",
@@ -40,10 +38,11 @@
         "cutter"
     ],
     "robot_resistances": [
-        "shadow",
         "flame"
     ],
-    "robot_affinities": [],
+    "robot_affinities": [
+        "shadow"
+    ],
     "robot_immunities": [],
     "robot_skill": "",
     "robot_skill_name": "",

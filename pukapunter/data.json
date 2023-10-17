@@ -40,11 +40,12 @@
         "space"
     ],
     "robot_resistances": [
-        "wind",
-        "crystal"
+        "wind"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "crystal"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",

@@ -38,11 +38,12 @@
         "explode"
     ],
     "robot_resistances": [
-        "impact",
-        "cutter"
+        "impact"
     ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "cutter"
+    ],
     "robot_skill": "",
     "robot_skill_name": "",
     "robot_skill_description": "",
