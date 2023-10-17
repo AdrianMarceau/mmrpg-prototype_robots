@@ -58,8 +58,8 @@
         "explode"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "disarmament-submodule",
+    "robot_skill_name": "Boom Blocker",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],

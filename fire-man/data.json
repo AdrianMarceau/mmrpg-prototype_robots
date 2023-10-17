@@ -58,11 +58,13 @@
         "flame"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "tenacity-submodule",
+    "robot_skill_name": "Resolute Flame",
+    "robot_skill_description": "The robot can inflict Flame type damage without resistance",
+    "robot_skill_description2": "The robot ignores resistances and negative multipliers when dealing Flame-type damage to targets.",
+    "robot_skill_parameters": {
+        "type": "flame"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,

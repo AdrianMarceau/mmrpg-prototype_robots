@@ -64,11 +64,13 @@
     "robot_immunities": [
         "impact"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "checkvalve-submodule",
+    "robot_skill_name": "Perpetual Point",
+    "robot_skill_description": "Protects the robot's attack stat from being reduced",
+    "robot_skill_description2": "The robot's attack stat can only be raised and any attempts to reduce it will have no effect.",
+    "robot_skill_parameters": {
+        "stat": "attack"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
