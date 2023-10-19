@@ -57,11 +57,15 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "stat-boost-on-core-nearby",
+    "robot_skill_name": "Unrivaled Edge",
+    "robot_skill_description": "The robot's attack is boosted when around other Cutter cores",
+    "robot_skill_description2": "The robot's attack stat is boosted two stages by the presence of other Cutter cores on the field.",
+    "robot_skill_parameters": {
+        "type": "cutter",
+        "stat": "attack",
+        "amount": 2
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
