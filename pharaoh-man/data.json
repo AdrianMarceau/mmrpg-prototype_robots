@@ -58,12 +58,12 @@
     "robot_affinities": [],
     "robot_immunities": [],
     "robot_skill": "stat-boost-on-robots-nearby",
-    "robot_skill_name": "Archaic Chivalry",
-    "robot_skill_description": "The robot boosts its attack stat in the presence of dames and maidens",
-    "robot_skill_description2": "The robot boosts its attack stat by two stages when in the presence of dames and maidens.",
+    "robot_skill_name": "Protect Girls",
+    "robot_skill_description": "The robot boosts its defense stat in the presence of girls",
+    "robot_skill_description2": "The robot's defense stat is boosted two stages for each girl bot noticed on the field.",
     "robot_skill_parameters": {
         "robots": "roll,disco,rhythm,splash-woman,slur",
-        "stat": "attack",
+        "stat": "defense",
         "amount": 2
     },
     "robot_abilities_rewards": [
