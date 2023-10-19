@@ -57,11 +57,13 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "guard-submodule",
+    "robot_skill": "checkvalve-submodule",
     "robot_skill_name": "One-Track Mind",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill_description": "Protects the robot's speed stat from being reduced",
+    "robot_skill_description2": "The robot's speed stat can only be raised and any attempts to reduce it will have no effect.",
+    "robot_skill_parameters": {
+        "stat": "speed"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
