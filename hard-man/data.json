@@ -58,11 +58,13 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "checkvalve-submodule",
+    "robot_skill_name": "Ironclad Exterior",
+    "robot_skill_description": "Protects the robot's defense stat from being reduced",
+    "robot_skill_description2": "The robot's defense stat cannot be lowered and any attempts to reduce it will have no effect.",
+    "robot_skill_parameters": {
+        "stat": "defense"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
