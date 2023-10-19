@@ -57,11 +57,15 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "stat-boost-on-cores-nearby",
+    "robot_skill_name": "Need for Speed",
+    "robot_skill_description": "The robot's attack is boosted when around other Swift cores",
+    "robot_skill_description2": "The robot's speed stat is boosted two stages for each additional Swift-core robot on the field.",
+    "robot_skill_parameters": {
+        "cores": "swift",
+        "stat": "speed",
+        "amount": 2
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
