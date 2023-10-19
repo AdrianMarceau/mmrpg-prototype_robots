@@ -72,7 +72,7 @@
     "robot_skill": "checkvalve-submodule",
     "robot_skill_name": "Slickstride",
     "robot_skill_description": "Protects the robot's speed stat from being reduced",
-    "robot_skill_description2": "The robot's speed stat can only be raised and any attempts to reduce it will have no effect.",
+    "robot_skill_description2": "The robot's speed stat cannot be lowered and any attempts to reduce it will have no effect.",
     "robot_skill_parameters": {
         "stat": "speed"
     },
