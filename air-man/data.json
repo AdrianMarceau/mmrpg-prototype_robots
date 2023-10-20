@@ -60,8 +60,8 @@
     ],
     "robot_skill": "antiguard-submodule",
     "robot_skill_name": "Powerful Breeze",
-    "robot_skill_description": "The robot blows away protective barriers at the end of each turn",
-    "robot_skill_description2": "The robot uses its giant fan to blow away any protective barriers on the opponent at the end of each turn.",
+    "robot_skill_description": "The robot blows away opposing core shields at the start of each turn",
+    "robot_skill_description2": "The robot uses its giant fan to blow away opposing core shields at the start of each turn and delay regeneration.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
