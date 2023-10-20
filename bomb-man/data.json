@@ -60,8 +60,8 @@
     "robot_immunities": [],
     "robot_skill": "disarmament-submodule",
     "robot_skill_name": "Boom Blocker",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill_description": "The robot disables hazardous explosives at the end of the turn",
+    "robot_skill_description2": "The robot employs expert knowledge of munitions to disarm any nearby explosives at the end of each turn.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
