@@ -64,10 +64,10 @@
         "explode"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "drowsing-submodule",
+    "robot_skill_name": "Apathetic",
+    "robot_skill_description": "The robot recovers lost health by resting at the end of a turn",
+    "robot_skill_description2": "The robot recovers lost health by taking siestas at the end of any turn it can but loses speed in the process.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
