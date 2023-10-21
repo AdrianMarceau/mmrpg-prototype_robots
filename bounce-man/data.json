@@ -58,10 +58,10 @@
     "robot_immunities": [
         "electric"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "bulwark-submodule",
+    "robot_skill_name": "Absolute Unit",
+    "robot_skill_description": "The robot uses its massive body to protect benched allies",
+    "robot_skill_description2": "The robot uses its massive body to protect benched allies from being targeted by the opponent's abilities.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
