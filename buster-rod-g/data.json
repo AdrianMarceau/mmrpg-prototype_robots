@@ -31,11 +31,13 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "tenacity-submodule",
+    "robot_skill_name": "Monkey Sutra",
+    "robot_skill_description": "The robot can inflict Swift type damage without resistance",
+    "robot_skill_description2": "The robot use ancient techniques to bypass resistances and negative multipliers when dealing Swift-type damage.",
+    "robot_skill_parameters": {
+        "type": "swift"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
