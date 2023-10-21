@@ -31,10 +31,10 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "overkill-submodule",
+    "robot_skill_name": "Cold Blooded",
+    "robot_skill_description": "The robot does extra damage when the target has a weakness",
+    "robot_skill_description2": "The robot relishes in the targets weaknesses by doing even more damage when it knows it has an advantage.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
