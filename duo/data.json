@@ -23,8 +23,7 @@
     "robot_defense": 230,
     "robot_speed": 230,
     "robot_weaknesses": [
-        "freeze",
-        "flame"
+        "freeze"
     ],
     "robot_resistances": [],
     "robot_affinities": [],
