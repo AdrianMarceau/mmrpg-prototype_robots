@@ -58,10 +58,10 @@
     "robot_immunities": [
         "flame"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "overkill-submodule",
+    "robot_skill_name": "Merciless",
+    "robot_skill_description": "The robot does extra damage when the target has a weakness",
+    "robot_skill_description2": "The robot exploits the targets weaknesses by doing even more damage when it knows it has an advantage.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
