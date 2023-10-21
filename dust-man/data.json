@@ -56,10 +56,10 @@
         "wind"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "recycler-submodule",
+    "robot_skill_name": "Recycling Machine",
+    "robot_skill_description": "The robot is able to repurpose consumed items at the end of the turn",
+    "robot_skill_description2": "The robot's ingenuity allows it repurpose already-used consumable items into new forms at the end of each turn.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
