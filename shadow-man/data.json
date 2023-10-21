@@ -69,13 +69,13 @@
         "space"
     ],
     "robot_skill": "stat-boost-at-end-of-turn",
-    "robot_skill_name": "",
-    "robot_skill_description": "Drastically boosts the robot's attack on Shadow-type fields",
-    "robot_skill_description2": "The robot's attack stat is extraordinarily boosted by three stages when the Flame-type field multiplier is incredibly high.",
+    "robot_skill_name": "Astral Defector",
+    "robot_skill_description": "Drastically boosts the robot's attack on Space-type fields",
+    "robot_skill_description2": "The robot's attack stat is extraordinarily boosted by three stages when the Space-type field multiplier is high.",
     "robot_skill_parameters": {
         "stat": "attack",
         "amount": 3,
-        "condition": "field-multiplier-shadow > 2",
+        "condition": "field-multiplier-space > 1.5",
         "repeat": false
     },
     "robot_abilities_rewards": [
