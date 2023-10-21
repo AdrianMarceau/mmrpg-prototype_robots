@@ -57,10 +57,10 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "medic-submodule",
+    "robot_skill_name": "Natural Healer",
+    "robot_skill_description": "The robot heals wounded allies from the bench at the end of each turn",
+    "robot_skill_description2": "The robot uses its natural healing abilities from the bench to restore health to wounded allies after each turn.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
