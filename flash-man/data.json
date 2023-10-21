@@ -58,10 +58,10 @@
     "robot_immunities": [
         "time"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "anti-speed-submodule",
+    "robot_skill_name": "Time Police",
+    "robot_skill_description": "The robot nullifies speed stat changes at the end of each turn",
+    "robot_skill_description2": "The robot maintains the normal flow of time by nullifying any speed stat changes at the end of each turn.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
