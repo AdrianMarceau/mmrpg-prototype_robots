@@ -87,7 +87,7 @@
         "bass-baroque",
         "item-swap"
     ],
-    "robot_quotes_start": "Shut up, {target_robot}! Get the heck out of my way, or be destroyed!",
+    "robot_quotes_start": "Shut up, {target_robot}! Get out of my way or be destroyed!",
     "robot_quotes_taunt": "Who can worry about justice or chaos... when power is all that matters!",
     "robot_quotes_victory": "Ha ha ha! Behold the power of the world's strongest robot!",
     "robot_quotes_defeat": "... Curse you! I can... I can still fight!",
