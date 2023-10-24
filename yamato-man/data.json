@@ -47,7 +47,7 @@
             "token": "alt10",
             "name": "Yamato Man (Asteroid Alt)",
             "summons": 1000,
-            "colour": "empty"
+            "colour": "none"
         }
     ],
     "robot_core": "cutter",

@@ -11,7 +11,7 @@
     "robot_image": "slur",
     "robot_image_size": 40,
     "robot_image_editor": "rhythmbca",
-    "robot_image_editor2": "",
+    "robot_image_editor2": "neovalo",
     "robot_image_alts": [
         {
             "token": "alt",

@@ -10,9 +10,34 @@
     "robot_gender": "male",
     "robot_image": "impact-man",
     "robot_image_size": 80,
-    "robot_image_editor": "rhythmbca",
-    "robot_image_editor2": "",
-    "robot_image_alts": [],
+    "robot_image_editor": "neovalo",
+    "robot_image_editor2": "rhythmbca",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Impact Man (Blue Collar Alt)",
+            "summons": 100,
+            "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Impact Man (Constructicon Alt)",
+            "summons": 200,
+            "colour": "nature"
+        },
+        {
+            "token": "alt3",
+            "name": "Impact Man (Weapon Alt)",
+            "summons": 300,
+            "colour": "explode"
+        },
+        {
+            "token": "alt9",
+            "name": "Impact Man (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "impact",
     "robot_core2": "",
     "robot_description": "Almighty Piling Robot",
@@ -52,7 +77,7 @@
     "robot_quotes_defeat": "Kui-jiro... from now on, you're not allowed to take the reins.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
-    "robot_flag_complete": 0,
+    "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
     "robot_flag_fightable": 0,
     "robot_flag_exclusive": 0,
