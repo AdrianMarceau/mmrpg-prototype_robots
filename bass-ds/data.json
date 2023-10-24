@@ -33,11 +33,15 @@
         "impact",
         "space"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "stat-boost-on-robots-nearby",
+    "robot_skill_name": "Imposter Syndrome",
+    "robot_skill_description": "The robot boosts its attack to the max in the presence of its rival",
+    "robot_skill_description2": "The robot boosts its own attack stat to the max when in the presence of its greatest rival.",
+    "robot_skill_parameters": {
+        "robots": "bass",
+        "stat": "attack",
+        "amount": 5
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
