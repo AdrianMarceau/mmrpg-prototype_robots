@@ -4,14 +4,15 @@
     "robot_name": "Napalm Man",
     "robot_game": "MM5",
     "robot_field": "",
-    "robot_field2": "",
-    "robot_support": "",
+    "robot_field2": "pipe-station",
+    "robot_support": "killer-bullet",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "napalm-man",
     "robot_image_size": 80,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -62,8 +63,8 @@
     "robot_immunities": [
         "explode"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "armorer-submodule",
+    "robot_skill_name": "Infinite Ammo",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
@@ -83,7 +84,7 @@
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
-    "robot_flag_unlockable": 0,
+    "robot_flag_unlockable": 1,
     "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
