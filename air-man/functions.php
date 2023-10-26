@@ -8,6 +8,56 @@ $functions = array(
         // Return true on success
         return true;
 
+    },
+    'robot_function_onload' => function($objects){
+
+        // Extract all objects into the current scope
+        extract($objects);
+
+        // Collect the context variable for the battle for reference
+        $context = $this_battle->values['context']; // player, chapter, phase, etc.
+
+        // Return true on success
+        return true;
+
+    },
+    'robot_function_ontargetchange' => function($objects){
+
+        // Extract all objects into the current scope
+        extract($objects);
+
+        // Update this robot's taunt quote based on the robot being faced
+        $target_robot_info = rpg_robot::get_index_info($target_robot->robot_token);
+
+        // Otherwise if this is ANY OTHER TIME we can define our quotes based on specific characters
+        if (true) {
+            switch ($target_robot->robot_token){
+                case 'bass': {
+                    $this_robot->set_quote('battle_victory', 'Insolent, stupid, disrespectful, foolish little boy.');
+                    break;
+                }
+                case 'wood-man': {
+                    $this_robot->set_quote('battle_victory', 'This is proof I surpass my own weaknesses! This makes me truly undefeatable!');
+                    break;
+                }
+                case 'needle-man': {
+                    $this_robot->set_quote('battle_victory', 'You were clearly built well, but Air Man doesn\'t accept imitators!');
+                    break;
+                }
+                case 'roll': {
+                    $this_robot->set_quote('battle_victory', 'Now, how does that song go?.. I\'ll be there when the wind blows?');
+                    break;
+                }
+            }
+        }
+
+        // Return true on success
+        return true;
+
     }
 );
+$functions['robot_function_onturnstart'] = function($objects) use ($functions){
+    //error_log('onturnstart for robot w/ target '.$objects['target_robot']->robot_string);
+    return $functions['robot_function_ontargetchange']($objects, true);
+};
 ?>
