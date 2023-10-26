@@ -12,6 +12,7 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -66,10 +67,15 @@
         {
             "level": 0,
             "token": "spark-shock"
+        },
+        {
+            "level": 2,
+            "token": "spark-life"
         }
     ],
     "robot_abilities_compatible": [
-        "spark-shock"
+        "spark-shock",
+        "spark-life"
     ],
     "robot_quotes_start": "I feel a spark between us...let's be friends?",
     "robot_quotes_taunt": "Don't do anything crazy, {target_robot}! We don't want to spark a war...",
