@@ -12,6 +12,7 @@
     "robot_image_size": 80,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -81,6 +82,6 @@
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 1,
     "robot_flag_fightable": 1,
-    "robot_flag_exclusive": 1,
+    "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
