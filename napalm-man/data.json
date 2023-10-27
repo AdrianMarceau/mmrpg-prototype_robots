@@ -18,13 +18,13 @@
             "token": "alt",
             "name": "Napalm Man (Orange Alt)",
             "summons": 100,
-            "colour": "none"
+            "colour": "explode"
         },
         {
             "token": "alt2",
             "name": "Napalm Man (Green Alt)",
             "summons": 200,
-            "colour": "none"
+            "colour": "nature"
         },
         {
             "token": "alt3",
