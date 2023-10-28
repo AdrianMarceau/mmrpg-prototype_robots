@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -54,6 +55,12 @@
             "name": "Hooded Dress Roll (Mega Alt)",
             "summons": 350,
             "colour": "water"
+        },
+        {
+            "token": "alt8",
+            "name": "Dream Armor Roll",
+            "summons": 800,
+            "colour": "laser"
         }
     ],
     "robot_core": "",
