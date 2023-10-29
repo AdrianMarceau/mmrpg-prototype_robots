@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "milansaponja",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -62,7 +63,7 @@
     "robot_skill_description": "The robot's stats are boosted when it senses prey nearby",
     "robot_skill_description2": "All of the robot's stats are boosted by one stage when it senses potential prey on the field.",
     "robot_skill_parameters": {
-        "robots": "toad-man,shade-man,hornet-man,sheep-man",
+        "robots": "toad-man,shade-man,hornet-man,sheep-man,buster-rod-g,hyper-storm-h,mega-water-s",
         "stat": "all",
         "amount": 1
     },
