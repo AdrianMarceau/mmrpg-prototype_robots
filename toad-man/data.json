@@ -72,7 +72,7 @@
     "robot_skill": "stat-boost-on-robots-nearby",
     "robot_skill_name": "Green Farmer",
     "robot_skill_description": "The robot's stats are boosted to protect nearby plants",
-    "robot_skill_description2": "The robot's roots compel it to protect nearby flora by boosting its own stats when one is on the field.",
+    "robot_skill_description2": "The robot's roots compel it to protect nearby flora by boosting its own stats when plants are on the field.",
     "robot_skill_parameters": {
         "robots": "wood-man,plant-man,petal-anne",
         "stat": "all",
