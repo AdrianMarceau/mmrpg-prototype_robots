@@ -12,6 +12,7 @@
     "robot_image_size": 80,
     "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "elitep1",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -58,8 +59,8 @@
         "water"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "laser-subcore",
+    "robot_skill_name": "Beaming",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
