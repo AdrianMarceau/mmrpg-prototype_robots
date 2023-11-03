@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "shadow",
     "robot_core2": "",
@@ -34,10 +35,10 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "custom-skill",
+    "robot_skill_name": "Joe Bones",
+    "robot_skill_description": "Fully restores life energy at the end of the turn",
+    "robot_skill_description2": "The robot puts itself back together at the end of each turn to restore depleted energy.  Only OHKOs can stop it.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
