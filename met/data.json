@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "",
     "robot_core2": "",
@@ -35,11 +36,16 @@
     "robot_immunities": [
         "electric"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "stat-boost-on-robots-nearby",
+    "robot_skill_name": "Strength in Numbers",
+    "robot_skill_description": "The active robot's stats are boosted around other hardhats",
+    "robot_skill_description2": "The active robot's stats are boosted by one stage when it notices another hardhat on the field.",
+    "robot_skill_parameters": {
+        "robots": "met,picket-man,guts-man,concrete-man",
+        "stat": "all",
+        "amount": 1,
+        "position": "active"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
