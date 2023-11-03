@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "shadow",
     "robot_core2": "",
@@ -22,12 +23,19 @@
     "robot_attack": 50,
     "robot_defense": 50,
     "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_weaknesses": [
+        "shield",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "space"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_immunities": [
+        "shadow"
+    ],
+    "robot_skill": "saboteur-submodule",
+    "robot_skill_name": "Heal Block",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
