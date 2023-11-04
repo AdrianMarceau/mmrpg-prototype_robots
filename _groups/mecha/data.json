@@ -118,6 +118,14 @@
         "group_token": "MMRPG3",
         "group_order": 9,
         "group_child_tokens": [
+            "dark-frag"
+        ]
+    },
+    "MMRPG4": {
+        "group_class": "mecha",
+        "group_token": "MMRPG4",
+        "group_order": 10,
+        "group_child_tokens": [
             "rush",
             "tango",
             "beat",
