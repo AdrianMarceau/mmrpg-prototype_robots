@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "chaosfantazy",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -58,11 +59,13 @@
     "robot_immunities": [
         "electric"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "drowsing-submodule",
+    "robot_skill_name": "Woolgathering",
+    "robot_skill_description": "The robot recovers lost health by daydreaming at the end of a turn",
+    "robot_skill_description2": "The robot recovers lost health by daydreaming at the end of any turn it can but loses attack in the process.",
+    "robot_skill_parameters": {
+        "stat": "attack"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
