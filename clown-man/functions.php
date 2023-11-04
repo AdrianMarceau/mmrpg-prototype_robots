@@ -8,6 +8,48 @@ $functions = array(
         // Return true on success
         return true;
 
+    },
+    'robot_function_onload' => function($objects){
+
+        // Extract all objects into the current scope
+        extract($objects);
+
+        // Collect the context variable for the battle for reference
+        $context = $this_battle->values['context']; // player, chapter, phase, etc.
+
+        // Return true on success
+        return true;
+
+    },
+    'robot_function_ontargetchange' => function($objects){
+
+        // Extract all objects into the current scope
+        extract($objects);
+
+        // Update this robot's taunt quote based on the robot being faced
+        $target_robot_info = rpg_robot::get_index_info($target_robot->robot_token);
+
+        // Otherwise if this is ANY OTHER TIME we can define our quotes based on specific characters
+        if (true) {
+            switch ($target_robot->robot_token){
+                case 'cut-man': {
+                    $this_robot->set_quote('battle_victory', 'Puns? Even I wouldn\'t stoop so low! Get outta here, scissor-face!');
+                    break;
+                }
+                case 'magic-man': {
+                    $this_robot->set_quote('battle_victory', 'I never understood the appeal of magic for entertainment! I mean, how\’s it entertaining without any jokes?');
+                    break;
+                }
+            }
+        }
+
+        // Return true on success
+        return true;
+
     }
 );
+$functions['robot_function_onturnstart'] = function($objects) use ($functions){
+    //error_log('onturnstart for robot w/ target '.$objects['target_robot']->robot_string);
+    return $functions['robot_function_ontargetchange']($objects, true);
+};
 ?>
