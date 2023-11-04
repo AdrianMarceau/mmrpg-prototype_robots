@@ -12,6 +12,7 @@
     "robot_image_size": 80,
     "robot_image_editor": "metalman",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -58,11 +59,13 @@
     "robot_immunities": [
         "water"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "tenacity-submodule",
+    "robot_skill_name": "Wrathful Water",
+    "robot_skill_description": "The robot can inflict Water type damage without resistance",
+    "robot_skill_description2": "The robot ignores resistances and negative multipliers when dealing Water-type damage to targets.",
+    "robot_skill_parameters": {
+        "type": "water"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
