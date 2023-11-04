@@ -61,6 +61,12 @@
             "name": "Dream Armor Roll",
             "summons": 800,
             "colour": "laser"
+        },
+        {
+            "token": "alt9",
+            "name": "Roll (Darkness Alt)",
+            "summons": 900,
+            "colour": "empty"
         }
     ],
     "robot_core": "",
