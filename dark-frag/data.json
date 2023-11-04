@@ -1,0 +1,61 @@
+{
+    "robot_token": "dark-frag",
+    "robot_number": "RPG-000",
+    "robot_name": "Dark Frag",
+    "robot_game": "MMRPG",
+    "robot_field": "prototype-subspace",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "dark-frag",
+    "robot_image_size": 40,
+    "robot_image_editor": "adrianmarceau",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "empty",
+    "robot_core2": "",
+    "robot_description": "Fragmented Crystalline Entity",
+    "robot_description2": "The Dark Frags appeared in the Prototype suddenly and without warning, eerily floating in one day from some off-screen location and then settling into predetermined positions.  No one knows where they came from or why they're here, and all they do is float in place.  Not much else is known about these floating masses of dark energy other than their terrifying ability to absorb all elements.  Thusly, it seems only Neutral-type moves will have any effect on them. Curiously, the crystalline structures supporting their bases suggest that they might have been separated from some larger whole, but no traces of such an object can be found anywhere in the Prototype.",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 40,
+    "robot_defense": 50,
+    "robot_speed": 60,
+    "robot_weaknesses": [],
+    "robot_resistances": [],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "elemental-subshield",
+    "robot_skill_name": "Absolute Darkness",
+    "robot_skill_description": "Protects its body from elemental damage",
+    "robot_skill_description2": "Its body completely protects it from elemental attack damage.",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "dark-boost"
+        },
+        {
+            "level": 0,
+            "token": "dark-break"
+        },
+        {
+            "level": 0,
+            "token": "dark-drain"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": 1110011,
+    "robot_quotes_taunt": 1101111,
+    "robot_quotes_victory": 1101111,
+    "robot_quotes_defeat": 1101110,
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
