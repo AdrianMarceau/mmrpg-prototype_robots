@@ -12,18 +12,17 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
             "name": "Snapper (2nd Gen)",
-            "summons": 30,
-            "colour": ""
+            "summons": 30
         },
         {
             "token": "alt2",
             "name": "Snapper (3rd Gen)",
-            "summons": 60,
-            "colour": ""
+            "summons": 60
         }
     ],
     "robot_core": "water",
@@ -49,8 +48,8 @@
         "water"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "spreader-submodule",
+    "robot_skill_name": "Crafty Crab",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
