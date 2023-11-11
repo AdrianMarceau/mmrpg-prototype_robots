@@ -12,18 +12,17 @@
     "robot_image_size": 40,
     "robot_image_editor": "brashbuster",
     "robot_image_editor2": "adrianmarceau",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
             "name": "Bulb Blaster (2nd Gen)",
-            "summons": 30,
-            "colour": ""
+            "summons": 30
         },
         {
             "token": "alt2",
             "name": "Bulb Blaster (3rd Gen)",
-            "summons": 60,
-            "colour": ""
+            "summons": 60
         }
     ],
     "robot_core": "electric",
@@ -47,8 +46,8 @@
     "robot_immunities": [
         "earth"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "boost-submodule",
+    "robot_skill_name": "Radiant Aid",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
