@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -44,11 +45,14 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "field-boost-at-end-of-turn",
+    "robot_skill_name": "Woodland Warden",
+    "robot_skill_description": "Boosts the Nature-type field multiplier every turn",
+    "robot_skill_description2": "The robot boosts the Nature-type field multiplier at the end of each turn in an effort to restore balance.",
+    "robot_skill_parameters": {
+        "type": "nature",
+        "amount": 0.1
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
