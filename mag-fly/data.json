@@ -51,7 +51,10 @@
     "robot_skill_description": "The robot might attract screws at the end of the turn",
     "robot_skill_description2": "The robot's magnetic body has a chance of attracting small to large screws at the end of each turn.",
     "robot_skill_parameters": {
-        "screws": true
+        "all": false,
+        "screws": true,
+        "shards": false,
+        "cores": false
     },
     "robot_abilities_rewards": [
         {
