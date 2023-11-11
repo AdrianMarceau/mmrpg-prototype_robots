@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "brashbuster",
     "robot_image_editor2": "adrianmarceau",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -44,8 +45,8 @@
     "robot_immunities": [
         "impact"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "speed-assist-submodule",
+    "robot_skill_name": "Antsy Aphid",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
