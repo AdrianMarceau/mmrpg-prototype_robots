@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -47,10 +48,10 @@
     "robot_immunities": [
         "shadow"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "nightmare-submodule",
+    "robot_skill_name": "Squeak Scare",
+    "robot_skill_description": "Afflicts the active target with a Swift weakness when face-to-face",
+    "robot_skill_description2": "The robot afflicts the active target with a weakness to Swift-type moves when standing face-to-face.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
