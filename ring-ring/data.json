@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -45,10 +46,10 @@
     "robot_immunities": [
         "laser"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "disarmament-submodule",
+    "robot_skill_name": "Peaceful Planetoid",
+    "robot_skill_description": "The robot disables hazardous explosives at the end of the turn",
+    "robot_skill_description2": "The robot disarms nearby explosives at the end of each turn in an effort to keep things peaceful.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
