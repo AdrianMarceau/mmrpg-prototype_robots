@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -45,8 +46,8 @@
     "robot_immunities": [
         "swift"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "armorer-submodule",
+    "robot_skill_name": "Quick Charge",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
