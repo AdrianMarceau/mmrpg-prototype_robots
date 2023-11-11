@@ -12,18 +12,17 @@
     "robot_image_size": 40,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "adrianmarceau",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
             "name": "Flutter Fly (2nd Gen)",
-            "summons": 30,
-            "colour": ""
+            "summons": 30
         },
         {
             "token": "alt2",
             "name": "Flutter Fly (3rd Gen)",
-            "summons": 60,
-            "colour": ""
+            "summons": 60
         }
     ],
     "robot_core": "time",
@@ -50,8 +49,8 @@
         "time",
         "space"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "anti-speed-submodule",
+    "robot_skill_name": "Time Keeper",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
