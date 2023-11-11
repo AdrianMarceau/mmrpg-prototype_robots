@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "brashbuster",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "freeze",
     "robot_core2": "",
@@ -31,11 +32,14 @@
         "freeze"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "field-boost-at-battle-start",
+    "robot_skill_name": "Freeze Booster",
+    "robot_skill_description": "Boosts the Freeze-type field multiplier every turn",
+    "robot_skill_description2": "The robot triggers chemical reactions within to boost the Freeze-type field multiplier at the end of each turn.",
+    "robot_skill_parameters": {
+        "type": "freeze",
+        "amount": 0.1
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
