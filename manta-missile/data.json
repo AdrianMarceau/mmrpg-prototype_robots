@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -45,11 +46,15 @@
         "missile"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "stat-boost-at-end-of-turn",
+    "robot_skill_name": "Natatory",
+    "robot_skill_description": "Boosts the robot's attack on Water-type fields",
+    "robot_skill_description2": "The robot's attack stat is boosted by one stage at the end of each turn when the Water-type field multiplier is high.",
+    "robot_skill_parameters": {
+        "stat": "attack",
+        "amount": 1,
+        "condition": "field-multiplier-water > 1"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
