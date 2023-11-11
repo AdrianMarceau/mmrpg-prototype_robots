@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "brashbuster",
     "robot_image_editor2": "adrianmarceau",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -44,10 +45,10 @@
         "water"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
+    "robot_skill": "sanitation-submodule",
+    "robot_skill_name": "Stream Cleaner",
+    "robot_skill_description": "The robot neutralizes hazardous material at the end of the turn",
+    "robot_skill_description2": "The robot cleans up hazardous materials at the end of each turn in an effort to curb water pollution.",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
