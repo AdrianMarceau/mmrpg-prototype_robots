@@ -12,6 +12,7 @@
     "robot_image_size": 80,
     "robot_image_editor": "brashbuster",
     "robot_image_editor2": "adrianmarceau",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -45,7 +46,7 @@
         "swift"
     ],
     "robot_skill": "target-submodule",
-    "robot_skill_name": "Long Neck",
+    "robot_skill_name": "Scaled Sniper",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
