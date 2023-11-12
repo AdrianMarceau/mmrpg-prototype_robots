@@ -49,7 +49,7 @@
     "robot_skill": "stat-boost-on-cores-nearby",
     "robot_skill_name": "Inferiority Complex",
     "robot_skill_description": "Boosts all stats when Wind core robots are on the field",
-    "robot_skill_description2": "The robot has negative feelings about it's creation, causing it to boost its own stats when around Wind cores.",
+    "robot_skill_description2": "The robot has negative feelings about its creation, causing it to boost its own stats when around Wind cores.",
     "robot_skill_parameters": {
         "cores": "wind",
         "stat": "all",
