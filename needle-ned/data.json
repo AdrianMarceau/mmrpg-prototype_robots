@@ -46,13 +46,11 @@
     "robot_immunities": [
         "impact"
     ],
-    "robot_skill": "tenacity-submodule",
-    "robot_skill_name": "Piercing Needles",
-    "robot_skill_description": "The robot deals Cutter type damage without resistance",
-    "robot_skill_description2": "The robot's needles can pierce through anything, dealing Cutter type damage without regard to any resistances.",
-    "robot_skill_parameters": {
-        "type": "cutter"
-    },
+    "robot_skill": "speed-assist-submodule",
+    "robot_skill_name": "Accelerating Acupuncture",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
