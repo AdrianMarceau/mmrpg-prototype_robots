@@ -51,7 +51,7 @@
     "robot_skill_description2": "The robot boosts the Nature-type field multiplier at the end of each turn in an effort to restore balance.",
     "robot_skill_parameters": {
         "type": "nature",
-        "amount": 0.1
+        "amount": 0.2
     },
     "robot_abilities_rewards": [
         {
