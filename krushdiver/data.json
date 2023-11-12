@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -48,11 +49,13 @@
     "robot_immunities": [
         "wind"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "tenacity-submodule",
+    "robot_skill_name": "Spiteful Skewer",
+    "robot_skill_description": "The robot deals Cutter type damage without resistance",
+    "robot_skill_description2": "The robot's giant spikes can pierce through anything, dealing Cutter type damage without regard to resistances.",
+    "robot_skill_parameters": {
+        "type": "cutter"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
