@@ -32,6 +32,7 @@ $functions = array(
             // Change this robot's list of abilities to only overdrives
             $types = rpg_type::get_index();
             foreach ($types AS $type){
+                if ($type['type_token'] === 'copy'){ continue; }
                 if ($type['type_class'] !== 'normal'){ continue; }
                 $new_abilities[] = $type['type_token'].'-overdrive';
             }
