@@ -1,0 +1,61 @@
+{
+    "robot_token": "big-eye",
+    "robot_number": "BGEY-01",
+    "robot_name": "Big Eye",
+    "robot_game": "MM1",
+    "robot_field": "",
+    "robot_field2": "wily-castle",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "big-eye",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "impact",
+    "robot_core2": "",
+    "robot_description": "Big Stompy Mecha",
+    "robot_description2": "",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 50,
+    "robot_speed": 50,
+    "robot_weaknesses": [
+        "impact",
+        "explode"
+    ],
+    "robot_resistances": [
+        "cutter",
+        "flame"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "missile"
+    ],
+    "robot_skill": "",
+    "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "",
+    "robot_quotes_taunt": "",
+    "robot_quotes_victory": "",
+    "robot_quotes_defeat": "",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 0,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
