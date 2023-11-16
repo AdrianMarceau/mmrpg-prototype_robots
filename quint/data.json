@@ -34,8 +34,8 @@
         "time"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "weapon-subsaver",
+    "robot_skill_name": "Weapons Expert",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
