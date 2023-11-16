@@ -33,6 +33,12 @@
             "colour": "missile"
         },
         {
+            "token": "alt4",
+            "name": "Pharaoh Man (Ruby Spears Alt)",
+            "summons": 400,
+            "colour": "nature"
+        },
+        {
             "token": "alt9",
             "name": "Pharaoh Man (Darkness Alt)",
             "summons": 900,
