@@ -19,7 +19,7 @@ $functions = array(
         $trigger_second_form = false;
         //error_log('$this_robot->robot_energy = '.print_r($this_robot->robot_energy, true));
         //error_log('$this_robot->robot_base_energy = '.print_r($this_robot->robot_base_energy, true));
-        if ($this_robot->robot_energy <= ($this_robot->robot_base_energy / 2)
+        if ($this_robot->robot_energy <= ($this_robot->robot_base_energy / 3)
             && $this_robot->robot_image === $this_robot->robot_token){
             $trigger_second_form = true;
         }
@@ -34,9 +34,36 @@ $functions = array(
             $this_robot->set_base_image($new_robot_image);
             //error_log('transforming '.$this_robot->robot_string.' into '.$this_robot->robot_token);
 
+            // Display a message showing this robot's skill is in effect
+            $this_robot->set_frame('taunt');
+            $this_battle->events_create($this_robot, false, '', '',
+                array(
+                    'event_flag_camera_action' => true,
+                    'event_flag_camera_side' => $this_robot->player->player_side,
+                    'event_flag_camera_focus' => $this_robot->robot_position,
+                    'event_flag_camera_depth' => $this_robot->robot_key,
+                    'event_flag_camera_offset' => 0
+                    )
+                );
+            $this_robot->set_frame('victory');
+            $this_battle->queue_sound_effect('boss-teleport-in');
+            $this_battle->events_create($this_robot, false, $this_robot->robot_name.'\'s Second Form',
+                $this_robot->print_name().'\'s second form was activated!<br />'.
+                ucfirst($this_robot->get_pronoun('subject')).'\'s overclocking all of '.$this_robot->get_pronoun('possessive2').' stats!',
+                array(
+                    'event_flag_camera_action' => true,
+                    'event_flag_camera_side' => $this_robot->player->player_side,
+                    'event_flag_camera_focus' => $this_robot->robot_position,
+                    'event_flag_camera_depth' => $this_robot->robot_key,
+                    'event_flag_camera_offset' => 1
+                    )
+                );
+            $this_robot->reset_frame();
+
             // Restore the robot's energy to max and double its base energy
-            $double_stats = array('energy', 'attack', 'defense', 'speed');
-            foreach ($double_stats AS $stat_key => $stat_token){
+            $double_stats = array('energy' => 'summon', 'attack' => 'shoot', 'defense' => 'defend', 'speed' => 'slide');
+            foreach ($double_stats AS $stat_token => $stat_frame){
+                //error_log('-----');
                 //error_log('double '.$this_robot->robot_string.' '.$stat_token.' stats');
                 $stat_prop_name = 'robot_'.$stat_token;
                 $stat_prop_base_name = 'robot_base_'.$stat_token;
@@ -48,13 +75,24 @@ $functions = array(
                 //error_log('$stat_prop_backup_name = '.print_r($stat_prop_backup_name, true));
                 //error_log('$func_name = '.print_r($func_name, true));
                 //error_log('$base_func_name = '.print_r($base_func_name, true));
-                $new_stat_value = $this_robot->$stat_prop_base_name * 2;
+                $new_stat_value = ceil($this_robot->$stat_prop_base_name * 1.5);
                 //error_log('$this_robot->'.$stat_prop_base_name.' = '.print_r($this_robot->$stat_prop_base_name, true));
                 //error_log('$new_stat_value = '.print_r($new_stat_value, true));
                 $this_robot->set_value($stat_prop_backup_name, $new_stat_value);
-                $this_robot->$func_name($new_stat_value);
                 $this_robot->$base_func_name($new_stat_value);
+                $this_robot->$func_name($new_stat_value);
                 //error_log('$this_robot->'.$stat_prop_name.' = '.print_r($this_robot->$stat_prop_name, true));
+                $this_robot->set_frame($stat_frame);
+                $this_battle->events_create($this_robot, false, '', '',
+                    array(
+                        'event_flag_camera_action' => true,
+                        'event_flag_camera_side' => $this_robot->player->player_side,
+                        'event_flag_camera_focus' => $this_robot->robot_position,
+                        'event_flag_camera_depth' => $this_robot->robot_key,
+                        'event_flag_camera_offset' => 2
+                        )
+                    );
+                $this_robot->reset_frame();
             }
 
         }
