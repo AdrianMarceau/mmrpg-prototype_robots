@@ -52,7 +52,7 @@
     "robot_skill": "drowsing-submodule",
     "robot_skill_name": "Futile Persistence",
     "robot_skill_description": "The robot recovers lost health by lowering its defense after each turn",
-    "robot_skill_description2": "The robot hangs for dear life by restoring it own life energy between turns but it does so by sacrificing defense.",
+    "robot_skill_description2": "The robot perseveres by restoring it own life energy between turns but does so by sacrificing its defense.",
     "robot_skill_parameters": {
         "stat": "defense"
     },
