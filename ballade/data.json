@@ -12,10 +12,11 @@
     "robot_image_size": 40,
     "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "metalman",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Ballade (Alt)",
+            "name": "Ballade (Second Form)",
             "summons": 100,
             "colour": "none"
         }
