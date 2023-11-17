@@ -3,15 +3,16 @@
     "robot_number": "PCR-00Z",
     "robot_name": "Cache",
     "robot_game": "MMRPGPR",
-    "robot_field": "field",
+    "robot_field": "",
     "robot_field2": "",
     "robot_support": "",
     "robot_class": "boss",
-    "robot_gender": "none",
+    "robot_gender": "other",
     "robot_image": "boss",
     "robot_image_size": 40,
     "robot_image_editor": "",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "copy",
     "robot_core2": "",
@@ -35,6 +36,9 @@
     ],
     "robot_skill": "",
     "robot_skill_name": "",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
@@ -47,17 +51,11 @@
         {
             "level": 0,
             "token": "copy-soul"
-        },
-        {
-            "level": 0,
-            "token": "copy-vision"
         }
     ],
     "robot_abilities_compatible": [
-        "buster-shot",
         "copy-shot",
-        "copy-soul",
-        "copy-vision"
+        "copy-soul"
     ],
     "robot_quotes_start": "",
     "robot_quotes_taunt": "",
@@ -67,6 +65,7 @@
     "robot_flag_hidden": 1,
     "robot_flag_complete": 0,
     "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 0,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
