@@ -94,20 +94,49 @@
             "pukapunter"
         ]
     },
+    "MM06": {
+        "group_class": "mecha",
+        "group_token": "MM06",
+        "group_order": 7,
+        "group_child_tokens": [
+            "curlinger",
+            "kabuton"
+        ]
+    },
+    "MM09": {
+        "group_class": "mecha",
+        "group_token": "MM09",
+        "group_order": 8,
+        "group_child_tokens": [
+            "octone",
+            "diaymon",
+            "adamski"
+        ]
+    },
+    "MM11": {
+        "group_class": "mecha",
+        "group_token": "MM11",
+        "group_order": 9,
+        "group_child_tokens": [
+            "pipetto",
+            "shimobey"
+        ]
+    },
     "MM005": {
         "group_class": "mecha",
         "group_token": "MM005",
-        "group_order": 7,
+        "group_order": 10,
         "group_child_tokens": [
             "beak",
             "shield-attacker",
-            "big-eye"
+            "big-eye",
+            "tamp"
         ]
     },
     "MMRPG2": {
         "group_class": "mecha",
         "group_token": "MMRPG2",
-        "group_order": 8,
+        "group_order": 11,
         "group_child_tokens": [
             "heal-bot",
             "heel-bot",
@@ -117,7 +146,7 @@
     "MMRPG3": {
         "group_class": "mecha",
         "group_token": "MMRPG3",
-        "group_order": 9,
+        "group_order": 12,
         "group_child_tokens": [
             "dark-frag"
         ]
@@ -125,7 +154,7 @@
     "MMRPG4": {
         "group_class": "mecha",
         "group_token": "MMRPG4",
-        "group_order": 10,
+        "group_order": 13,
         "group_child_tokens": [
             "rush",
             "tango",
