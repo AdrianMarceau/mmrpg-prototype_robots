@@ -1,6 +1,6 @@
 {
     "robot_token": "tamp",
-    "robot_number": "TAMP-000",
+    "robot_number": "TAMP-001",
     "robot_name": "Tamp",
     "robot_game": "MMV",
     "robot_field": "",
@@ -20,13 +20,22 @@
     "robot_description2": "The Tamp are a remarkably heavy mecha given that were created to help with the transport of oversized space equipment, but their teleportation capabilities make their weight a non-issue all things considered.  When Dr. Wily reprogrammed them, he gave the Tamp orders to crush any Mega Man than encounter by warping above his head and then crashing down.  Oddly enough, despite being mass-produced only one Tamp has actually been spotted in wild.",
     "robot_energy": 50,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 55,
+    "robot_defense": 70,
+    "robot_speed": 25,
+    "robot_weaknesses": [
+        "shadow",
+        "time",
+        "space"
+    ],
+    "robot_resistances": [
+        "explode",
+        "missile"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "impact"
+    ],
     "robot_skill": "transport-submodule",
     "robot_skill_name": "Teleport Travel",
     "robot_skill_description": "",
