@@ -16,21 +16,21 @@
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Splash Woman (Crab Alt)",
+            "name": "Splash Woman (Coral Alt)",
             "summons": 100,
-            "colour": "flame"
+            "colour": "crystal"
         },
         {
             "token": "alt2",
-            "name": "Splash Woman (Seaweed Alt)",
+            "name": "Splash Woman (Seafoam Alt)",
             "summons": 200,
-            "colour": "nature"
+            "colour": "energy"
         },
         {
             "token": "alt3",
             "name": "Splash Woman (Weapon Alt)",
             "summons": 300,
-            "colour": "freeze"
+            "colour": "weapons"
         },
         {
             "token": "alt9",
