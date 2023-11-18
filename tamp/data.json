@@ -17,7 +17,7 @@
     "robot_core": "space",
     "robot_core2": "",
     "robot_description": "Temporary Text Mecha",
-    "robot_description2": "",
+    "robot_description2": "The Tamp are a remarkably heavy mecha given that were created to help with the transport of oversized space equipment, but their teleportation capabilities make their weight a non-issue all things considered.  When Dr. Wily reprogrammed them, he gave the Tamp orders to crush any Mega Man than encounter by warping above his head and then crashing down.  Oddly enough, despite being mass-produced only one Tamp has actually been spotted in wild.",
     "robot_energy": 50,
     "robot_weapons": 5,
     "robot_attack": 50,
@@ -27,27 +27,27 @@
     "robot_resistances": [],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "transport-submodule",
+    "robot_skill_name": "Teleport Travel",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "buster-shot"
+            "token": "tamp-stamp"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "...",
-    "robot_quotes_taunt": "...",
-    "robot_quotes_victory": "...",
-    "robot_quotes_defeat": "...",
+    "robot_quotes_start": "Tan-tan-tan-pu!",
+    "robot_quotes_taunt": "Tan-tan!",
+    "robot_quotes_victory": "Ta-ta-ta-taaaan!",
+    "robot_quotes_defeat": "Pu-pu-pu...",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
