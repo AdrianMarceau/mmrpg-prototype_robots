@@ -12,6 +12,7 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "copy",
     "robot_core2": "",
@@ -39,6 +40,10 @@
         {
             "level": 0,
             "token": "copy-soul"
+        },
+        {
+            "level": 0,
+            "token": "copy-style"
         }
     ],
     "robot_abilities_compatible": [
