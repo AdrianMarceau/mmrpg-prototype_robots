@@ -27,11 +27,11 @@ $functions = array(
         extract($objects);
 
         // Update this robot's taunt quote based on the robot being faced
-        $target_robot_info = rpg_robot::get_index_info($target_robot->robot_token);
+        //$target_robot_info = rpg_robot::get_index_info($target_robot->robot_token);
 
-        // Otherwise if this is ANY OTHER TIME we can define our quotes based on specific characters
+        // Define our quotes based on specific characters
         if (true) {
-            switch ($target_robot->robot_token){
+            switch ($target_robot->robot_pseudo_token){
                 case 'proto-man': {
                     $this_robot->set_quote('battle_victory', 'Hehehe.. I\’d divine your future, but your fate is obvious.');
                     break;
@@ -44,6 +44,10 @@ $functions = array(
                     $this_robot->set_quote('battle_victory', 'If you weren\’t so fixated on your stupid sentai poses, you would\’ve made such a great apprentice.');
                     break;
                 }
+                case 'terra': {
+                    $this_robot->set_quote('battle_start', 'I see your future, Terra. The stars are not in your favor.');
+                    break;
+                }
             }
         }
 
@@ -52,6 +56,10 @@ $functions = array(
 
     }
 );
+$functions['robot_function_onbattlesetup'] = function($objects) use ($functions){
+    //error_log('onturnstart for robot w/ target '.$objects['target_robot']->robot_string);
+    return $functions['robot_function_ontargetchange']($objects, true);
+};
 $functions['robot_function_onturnstart'] = function($objects) use ($functions){
     //error_log('onturnstart for robot w/ target '.$objects['target_robot']->robot_string);
     return $functions['robot_function_ontargetchange']($objects, true);
