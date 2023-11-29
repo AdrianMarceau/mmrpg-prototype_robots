@@ -71,10 +71,15 @@
         {
             "level": 0,
             "token": "search-snake"
+        },
+        {
+            "level": 2,
+            "token": "snake-bite"
         }
     ],
     "robot_abilities_compatible": [
-        "search-snake"
+        "search-snake",
+        "snake-bite"
     ],
     "robot_quotes_start": "The hunt beginsss.... It'sss foolisssh to try running!",
     "robot_quotes_taunt": "Come out, come out, wherever you are...",
