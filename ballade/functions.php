@@ -19,7 +19,8 @@ $functions = array(
         $trigger_second_form = false;
         //error_log('$this_robot->robot_energy = '.print_r($this_robot->robot_energy, true));
         //error_log('$this_robot->robot_base_energy = '.print_r($this_robot->robot_base_energy, true));
-        if ($this_robot->robot_energy <= ($this_robot->robot_base_energy / 3)
+        if (!empty($this_robot->robot_energy)
+            && $this_robot->robot_energy <= ($this_robot->robot_base_energy / 3)
             && $this_robot->robot_image === $this_robot->robot_token){
             $trigger_second_form = true;
         }
@@ -61,7 +62,7 @@ $functions = array(
             $this_robot->reset_frame();
 
             // Restore the robot's energy to max and double its base energy
-            $double_stats = array('energy' => 'summon', 'attack' => 'shoot', 'defense' => 'defend', 'speed' => 'slide');
+            $double_stats = array('attack' => 'shoot', 'defense' => 'defend', 'speed' => 'slide', 'energy' => 'summon');
             foreach ($double_stats AS $stat_token => $stat_frame){
                 //error_log('-----');
                 //error_log('double '.$this_robot->robot_string.' '.$stat_token.' stats');
@@ -75,12 +76,16 @@ $functions = array(
                 //error_log('$stat_prop_backup_name = '.print_r($stat_prop_backup_name, true));
                 //error_log('$func_name = '.print_r($func_name, true));
                 //error_log('$base_func_name = '.print_r($base_func_name, true));
+                $new_base_stat_value = ceil($this_robot->$stat_prop_base_name * 1.5);
                 $new_stat_value = ceil($this_robot->$stat_prop_base_name * 1.5);
+                //if ($stat_token === 'energy'){ $new_stat_value = ceil($new_stat_value / 2) + 1; }
                 //error_log('$this_robot->'.$stat_prop_base_name.' = '.print_r($this_robot->$stat_prop_base_name, true));
                 //error_log('$new_stat_value = '.print_r($new_stat_value, true));
-                $this_robot->set_value($stat_prop_backup_name, $new_stat_value);
-                $this_robot->$base_func_name($new_stat_value);
+                $this_robot->set_value($stat_prop_backup_name, $new_base_stat_value);
+                $this_robot->$base_func_name($new_base_stat_value);
                 $this_robot->$func_name($new_stat_value);
+                //error_log('$this_robot->'.$base_func_name.'('.$new_base_stat_value.');');
+                //error_log('$this_robot->'.$func_name.'('.$new_stat_value.');');
                 //error_log('$this_robot->'.$stat_prop_name.' = '.print_r($this_robot->$stat_prop_name, true));
                 $this_robot->set_frame($stat_frame);
                 $this_battle->events_create($this_robot, false, '', '',
@@ -94,6 +99,21 @@ $functions = array(
                     );
                 $this_robot->reset_frame();
             }
+
+            // Display a message showing this robot's skill is in effect
+            $this_robot->set_frame('taunt');
+            $this_battle->events_create($this_robot, false, $this_robot->robot_name.'\'s Second Form',
+                $this_robot->print_name().' seems much stronger than before!<br />'.
+                ucfirst($this_robot->get_pronoun('subject')).'\'s ready for a round two!',
+                array(
+                    'event_flag_camera_action' => true,
+                    'event_flag_camera_side' => $this_robot->player->player_side,
+                    'event_flag_camera_focus' => $this_robot->robot_position,
+                    'event_flag_camera_depth' => $this_robot->robot_key,
+                    'event_flag_camera_offset' => 1
+                    )
+                );
+            $this_robot->reset_frame();
 
         }
 
