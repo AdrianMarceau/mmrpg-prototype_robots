@@ -15,6 +15,9 @@ $functions = array(
         // Extract all objects into the current scope
         extract($objects);
 
+        // If this robot is not itself, we cannot do the form change
+        if ($this_robot->robot_token !== $this_robot->robot_pseudo_token){ return false; }
+
         // Check to make sure the robot's second form can activate
         $trigger_second_form = false;
         //error_log('$this_robot->robot_energy = '.print_r($this_robot->robot_energy, true));
