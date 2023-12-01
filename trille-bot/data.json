@@ -1,10 +1,10 @@
 {
     "robot_token": "trille-bot",
-    "robot_number": "EXN-00X",
+    "robot_number": "TLBT-00X",
     "robot_name": "Trille-Bot",
     "robot_game": "MMRPGP",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "prototype-subspace",
     "robot_support": "",
     "robot_class": "mecha",
     "robot_gender": "none",
