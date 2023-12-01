@@ -41,6 +41,9 @@ $functions = array(
         // Extract all objects into the current scope
         extract($objects);
 
+        // If this robot's base image is already an alt, this will not trigger
+        if (strstr($this_robot->robot_base_image, '_')){ return false; }
+
         // Define the list of stats and their associated alt images
         $stats_to_alts = array(
             'energy' => '',
