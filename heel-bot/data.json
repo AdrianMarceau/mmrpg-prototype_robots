@@ -1,9 +1,9 @@
 {
     "robot_token": "heel-bot",
-    "robot_number": "RPG-000",
+    "robot_number": "HLBT-00B",
     "robot_name": "Heel-Bot",
     "robot_game": "MMRPGP",
-    "robot_field": "",
+    "robot_field": "wily-castle",
     "robot_field2": "",
     "robot_support": "",
     "robot_class": "mecha",
