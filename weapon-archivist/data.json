@@ -16,8 +16,8 @@
     "robot_image_alts": [],
     "robot_core": "copy",
     "robot_core2": "",
-    "robot_description": "",
-    "robot_description2": "",
+    "robot_description": "Multifaceted Battle Block",
+    "robot_description2": "Weapon Archivists hail from the aptly-named Weapons Archive, a facility built by Dr. Wily and integrated into one of his legendary castles during the crescendo of the Wily Wars.  Put simply, the Weapons Archive is a room with all the Special Weapon data from all the Robot Masters that the doctor had encountered up until that point in history.  The Weapon Archivists, acting as multifaceted battle blocks and protectors of the facility, would fly toward any intruders and attack them with the weapon of one Robot Master.  In their original configuration, the Weapon Archivists fought in teams of three and remained within the room itself, but here in Prototype they appear to have multiplied and spread to locations far beyond their origin domain.  Fortunately, whenever a Weapon Archivist takes on the powers of a robot master it also takes on their weaknesses, allowing would-be victims to fight back and maybe even knock some cores out of them.",
     "robot_energy": 50,
     "robot_weapons": 5,
     "robot_attack": 50,
@@ -34,15 +34,19 @@
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
-            "level": 0,
-            "token": "buster-shot"
+            "level": 1,
+            "token": "core-laser"
+        },
+        {
+            "level": 2,
+            "token": "core-shield"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "",
-    "robot_quotes_taunt": "",
-    "robot_quotes_victory": "",
-    "robot_quotes_defeat": "",
+    "robot_quotes_start": "\u00b7\u00b7 \u2212\u00b7 \u2212 \u00b7\u2212\u00b7 \u00b7\u00b7\u2212 \u2212\u00b7\u00b7 \u00b7 \u00b7\u2212\u00b7  \u2212\u00b7\u00b7 \u00b7 \u2212 \u00b7 \u2212\u00b7\u2212\u00b7 \u2212 \u00b7 \u2212\u00b7\u00b7",
+    "robot_quotes_taunt": "\u00b7 \u00b7\u2212\u00b7\u00b7 \u00b7\u00b7 \u2212\u2212 \u00b7\u00b7 \u2212\u00b7 \u00b7\u2212 \u2212 \u00b7\u00b7 \u2212\u00b7 \u2212\u2212\u00b7  \u2212 \u00b7\u2212 \u00b7\u2212\u00b7 \u2212\u2212\u00b7 \u00b7 \u2212",
+    "robot_quotes_victory": "\u00b7\u2212 \u00b7\u2212\u00b7\u00b7 \u00b7\u2212\u00b7\u00b7  \u00b7\u00b7\u00b7\u00b7 \u00b7\u2212 \u00b7\u00b7 \u00b7\u2212\u00b7\u00b7  \u00b7\u2212\u00b7\u00b7 \u2212\u2212\u2212 \u00b7\u2212\u00b7 \u2212\u00b7\u00b7  \u00b7\u2212\u2212 \u00b7\u00b7 \u00b7\u2212\u00b7\u00b7 \u2212\u00b7\u2212\u2212",
+    "robot_quotes_defeat": "\u00b7\u00b7\u00b7 \u2212\u00b7\u2212\u2212 \u00b7\u00b7\u00b7 \u2212 \u00b7 \u2212\u2212  \u00b7\u00b7\u2212\u00b7 \u00b7\u2212 \u00b7\u00b7 \u00b7\u2212\u00b7\u00b7 \u00b7\u00b7\u2212 \u00b7\u2212\u00b7 \u00b7",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
