@@ -10,7 +10,7 @@ $functions = array(
 
     },
     'rpg-ability_trigger-damage_after' => function($objects){
-        error_log('rpg-ability_trigger-damage_after() for '.$objects['this_robot']->robot_string);
+        //error_log('rpg-ability_trigger-damage_after() for '.$objects['this_robot']->robot_string);
 
         // Extract all objects into the current scope
         extract($objects);
@@ -33,13 +33,21 @@ $functions = array(
         $target_player = $target_robot->player;
         if ($target_player->player_side !== 'left'){ return false; }
 
-        error_log('i guess we can drop some cores eh?');
+        // Check to see which kind of core we should be dropping
+        $item_reward_token = $this_robot->robot_core.'-core';
+
+        // Check to see how many cores we should be dropping in this way
+        $inflicted_damage_percent = ceil(($this_ability->ability_results['this_amount'] / $this_robot->robot_base_energy) * 100);
+        $item_quantity_dropped = floor($inflicted_damage_percent / 20);
+        if (empty($item_quantity_dropped)){ $item_quantity_dropped = 1; }
+        //error_log('$this_robot->robot_base_energy: '.$this_robot->robot_base_energy);
+        //error_log('$this_ability->ability_results[\'this_amount\']: '.$this_ability->ability_results['this_amount']);
+        //error_log('$inflicted_damage_percent: '.$inflicted_damage_percent);
+        //error_log('$item_quantity_dropped: '.$item_quantity_dropped);
 
         // Trigger the actual item drop function on for the player
         $this_robot->set_frame('defend');
         $item_reward_key = 0;
-        $item_reward_token = $this_robot->robot_core.'-core';
-        $item_quantity_dropped = 1;
         rpg_player::trigger_item_drop($this_battle, $target_player, $target_robot, $this_robot, $item_reward_key, $item_reward_token, $item_quantity_dropped);
         $this_robot->reset_frame();
 
