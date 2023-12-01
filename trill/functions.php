@@ -68,7 +68,7 @@ $functions = array(
 
         // Define the new image given the best stat and update if necessary
         $current_image = $this_robot->robot_image;
-        $required_image = $this_robot->robot_token.$best_stat_alt_token;
+        $required_image = $this_robot->robot_pseudo_token.$best_stat_alt_token;
         if ($current_image !== $required_image){
             if ($show_event){
                 $event_options = array(
