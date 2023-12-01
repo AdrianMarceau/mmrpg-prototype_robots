@@ -1,5 +1,5 @@
 {
-    "robot_token": "weapons-archive",
+    "robot_token": "weapon-archivist",
     "robot_number": "RPG-000",
     "robot_name": "Weapon Archivist",
     "robot_game": "MM10",
@@ -8,7 +8,7 @@
     "robot_support": "",
     "robot_class": "mecha",
     "robot_gender": "none",
-    "robot_image": "weapons-archive",
+    "robot_image": "weapon-archivist",
     "robot_image_size": 40,
     "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "",
