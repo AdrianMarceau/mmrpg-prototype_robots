@@ -16,13 +16,13 @@
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Snake Man (Amber Alt)",
+            "name": "Snake Man (Copperhead Alt)",
             "summons": 100,
-            "colour": "electric"
+            "colour": "explode"
         },
         {
             "token": "alt2",
-            "name": "Snake Man (Crimson Alt)",
+            "name": "Snake Man (Scarlet Alt)",
             "summons": 200,
             "colour": "flame"
         },

@@ -33,6 +33,12 @@
             "colour": "energy"
         },
         {
+            "token": "alt4",
+            "name": "Gyro Man (Network Alt)",
+            "summons": 400,
+            "colour": "electric"
+        },
+        {
             "token": "alt9",
             "name": "Gyro Man (Darkness Alt)",
             "summons": 900,
