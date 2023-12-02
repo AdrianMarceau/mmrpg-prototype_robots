@@ -39,6 +39,12 @@
             "colour": "type"
         },
         {
+            "token": "alt5",
+            "name": "Yamato Man (Network Alt)",
+            "summons": 500,
+            "colour": "light"
+        },
+        {
             "token": "alt9",
             "name": "Yamato Man (Darkness Alt)",
             "summons": 900,
