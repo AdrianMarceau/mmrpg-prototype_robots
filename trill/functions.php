@@ -109,4 +109,8 @@ $functions['rpg-ability_stat-boost_after'] = function($objects) use ($functions)
 $functions['rpg-ability_stat-break_after'] = function($objects) use ($functions){
     return $functions['robot_function_onstatchange']($objects, false);
 };
+$functions['rpg-ability_persona-change_after'] = function($objects) use ($functions){
+    //error_log('rpg-ability_persona-change_after() for '.$objects['this_robot']->robot_string);
+    return $functions['robot_function_onstatchange']($objects, true);
+};
 ?>
