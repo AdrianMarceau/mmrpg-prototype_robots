@@ -9,22 +9,21 @@ $functions = array(
         return true;
 
     },
-    'rpg-ability_trigger-damage_after' => function($objects){
-        //error_log('rpg-ability_trigger-damage_after() for '.$objects['this_robot']->robot_string);
+    'robot_function_check-form-change' => function($objects){
+        //error_log('robot_function_check-form-change() for '.$objects['this_robot']->robot_string);
 
         // Extract all objects into the current scope
         extract($objects);
 
-        // If this robot is not itself, we cannot do the form change
-        if ($this_robot->robot_token !== $this_robot->robot_pseudo_token){ return false; }
+        // If this robot's base image is already an alt, this will not trigger
+        if (strstr($this_robot->robot_base_image, '_')){ return false; }
 
         // Check to make sure the robot's second form can activate
         $trigger_second_form = false;
         //error_log('$this_robot->robot_energy = '.print_r($this_robot->robot_energy, true));
         //error_log('$this_robot->robot_base_energy = '.print_r($this_robot->robot_base_energy, true));
-        if (!empty($this_robot->robot_energy)
-            && $this_robot->robot_energy <= ($this_robot->robot_base_energy / 3)
-            && $this_robot->robot_image === $this_robot->robot_token){
+        if (!empty($this_robot->robot_energy) && $this_robot->robot_energy <= ($this_robot->robot_base_energy / 2)){
+            //error_log('$trigger_second_form!');
             $trigger_second_form = true;
         }
         //error_log('$trigger_second_form = '.($trigger_second_form ? 'true' : 'false'));
@@ -33,7 +32,7 @@ $functions = array(
         if ($trigger_second_form){
 
             // Set the robot's image to its second form
-            $new_robot_image = $this_robot->robot_token.'_alt';
+            $new_robot_image = $this_robot->robot_pseudo_token.'_alt';
             $this_robot->set_image($new_robot_image);
             $this_robot->set_base_image($new_robot_image);
             //error_log('transforming '.$this_robot->robot_string.' into '.$this_robot->robot_token);
@@ -126,4 +125,13 @@ $functions = array(
 
     },
 );
+$functions['rpg-ability_trigger-damage_after'] = function($objects) use ($functions){
+    return $functions['robot_function_check-form-change']($objects, true);
+};
+$functions['robot_function_onturnstart'] = function($objects) use ($functions){
+    return $functions['robot_function_check-form-change']($objects, true);
+};
+$functions['robot_function_onendofturn'] = function($objects) use ($functions){
+    return $functions['robot_function_check-form-change']($objects, true);
+};
 ?>
