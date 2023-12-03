@@ -1,6 +1,6 @@
 {
     "robot_token": "diaymon",
-    "robot_number": "RPG-000",
+    "robot_number": "DMND-001",
     "robot_name": "Diaymon",
     "robot_game": "MM9",
     "robot_field": "",
@@ -11,9 +11,64 @@
     "robot_image": "diaymon",
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
-    "robot_image_editor2": "",
+    "robot_image_editor2": "adrianmarceau",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Diaymon (Aquamarine Alt)",
+            "summons": 100,
+            "colour": "freeze"
+        },
+        {
+            "token": "alt2",
+            "name": "Diaymon (Tourmaline Alt)",
+            "summons": 200,
+            "colour": "laser"
+        },
+        {
+            "token": "alt3",
+            "name": "Diaymon (Emerald Alt)",
+            "summons": 300,
+            "colour": "nature"
+        },
+        {
+            "token": "alt4",
+            "name": "Diaymon (Citrine Alt)",
+            "summons": 400,
+            "colour": "electric"
+        },
+        {
+            "token": "alt5",
+            "name": "Diaymon (Garnet Alt)",
+            "summons": 500,
+            "colour": "flame"
+        },
+        {
+            "token": "alt6",
+            "name": "Diaymon (Sapphire Alt)",
+            "summons": 600,
+            "colour": "water"
+        },
+        {
+            "token": "alt7",
+            "name": "Diaymon (Amethyst Alt)",
+            "summons": 700,
+            "colour": "time"
+        },
+        {
+            "token": "alt8",
+            "name": "Diaymon (Diamond Alt)",
+            "summons": 800,
+            "colour": "shield"
+        },
+        {
+            "token": "alt9",
+            "name": "Diaymon (Bloodstone Alt)",
+            "summons": 900,
+            "colour": "empty"
+        }
+    ],
     "robot_core": "crystal",
     "robot_core2": "",
     "robot_description": "Beautiful Gemstone Mecha",
