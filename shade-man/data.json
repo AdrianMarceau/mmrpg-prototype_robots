@@ -5,7 +5,7 @@
     "robot_game": "MM7",
     "robot_field": "",
     "robot_field2": "septic-system",
-    "robot_support": "",
+    "robot_support": "batton",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "shade-man",
@@ -66,11 +66,16 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
+            "token": "noise-crush"
+        },
+        {
+            "level": 2,
             "token": "vamp-crush"
         }
     ],
     "robot_abilities_compatible": [
-        "noise-crush"
+        "noise-crush",
+        "vamp-crush"
     ],
     "robot_quotes_start": "My my, time for a well-deserved feast!",
     "robot_quotes_taunt": "Ah, but what is a robot? Just a miserable pile of bolts and oil!",
