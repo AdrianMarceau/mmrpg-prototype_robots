@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -46,15 +47,19 @@
     "robot_immunities": [
         "crystal"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "persist-submodule",
+    "robot_skill_name": "Bouncy Durability",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "jump-shot"
+            "token": "impact-shot"
+        },
+        {
+            "level": 0,
+            "token": "impact-buster"
         }
     ],
     "robot_abilities_compatible": [],
@@ -66,7 +71,7 @@
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }

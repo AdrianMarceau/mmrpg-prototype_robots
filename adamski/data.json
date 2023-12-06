@@ -1,10 +1,10 @@
 {
     "robot_token": "adamski",
-    "robot_number": "RPG-000",
+    "robot_number": "ADAM-001",
     "robot_name": "Adamski",
     "robot_game": "MM9",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "space-simulator",
     "robot_support": "",
     "robot_class": "mecha",
     "robot_gender": "none",
@@ -16,38 +16,51 @@
     "robot_image_alts": [],
     "robot_core": "space",
     "robot_core2": "",
-    "robot_description": "",
-    "robot_description2": "",
-    "robot_energy": 50,
+    "robot_description": "Orbiting UFO Mecha",
+    "robot_description2": "This lightweight and inexpensive mecha was developed by Light Laboratories as a planetary rover designed for interstellar travel and surface exploration. They're able to efficiently take in crust samples such as dust, rocks, and liquids, though you'll note that they utilize the same proprietary tech used in Dr. Wily's hovercraft - this means they're excruciating to listen to.",
+    "robot_energy": 30,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 80,
+    "robot_defense": 25,
+    "robot_speed": 65,
+    "robot_weaknesses": [
+        "wind",
+        "missile",
+        "laser"
+    ],
+    "robot_resistances": [
+        "impact",
+        "space"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_immunities": [
+        "earth"
+    ],
+    "robot_skill": "disentangle-submodule",
+    "robot_skill_name": "Terrain Excavation",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "buster-shot"
+            "token": "space-shot"
+        },
+        {
+            "level": 0,
+            "token": "space-buster"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "",
-    "robot_quotes_taunt": "",
-    "robot_quotes_victory": "",
-    "robot_quotes_defeat": "",
+    "robot_quotes_start": "Adamuski.",
+    "robot_quotes_taunt": "Adamuski. Adamuski.",
+    "robot_quotes_victory": "Adamuski. Adamuski. Adamuski.",
+    "robot_quotes_defeat": "Ad.....",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }

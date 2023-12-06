@@ -5,13 +5,14 @@
     "robot_game": "MM9",
     "robot_field": "",
     "robot_field2": "preserved-forest",
-    "robot_support": "batton",
+    "robot_support": "petal-anne",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "hornet-man",
     "robot_image_size": 80,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",

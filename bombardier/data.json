@@ -12,11 +12,12 @@
     "robot_image_size": 40,
     "robot_image_editor": "elitep1",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "explode",
     "robot_core2": "",
     "robot_description": "Aerial Bombardment Mecha",
-    "robot_description2": "",
+    "robot_description2": "Bombardier is a small-scale military combat bomber based upon the schematics of the Bombier mecha, carrying a payload of three air-to-ground torpedoes. What if it misses, you ask? It then hopes no one noticed, and hightails it out of the battlefield.",
     "robot_energy": 30,
     "robot_weapons": 5,
     "robot_attack": 100,
@@ -24,26 +25,28 @@
     "robot_speed": 50,
     "robot_weaknesses": [
         "flame",
-        "laser",
         "earth"
     ],
     "robot_resistances": [
-        "swift",
-        "laser"
+        "swift"
     ],
     "robot_affinities": [],
     "robot_immunities": [
         "time"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "overkill-submodule",
+    "robot_skill_name": "Complete Annihilation",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "met-shot"
+            "token": "explode-shot"
+        },
+        {
+            "level": 0,
+            "token": "explode-buster"
         }
     ],
     "robot_abilities_compatible": [],
@@ -55,7 +58,7 @@
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }

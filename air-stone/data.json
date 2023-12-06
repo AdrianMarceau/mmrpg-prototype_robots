@@ -4,7 +4,7 @@
     "robot_name": "Air Stone",
     "robot_game": "MM11",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "oil-wells",
     "robot_support": "",
     "robot_class": "mecha",
     "robot_gender": "none",
@@ -16,38 +16,53 @@
     "robot_image_alts": [],
     "robot_core": "earth",
     "robot_core2": "",
-    "robot_description": "",
-    "robot_description2": "",
-    "robot_energy": 50,
+    "robot_description": "Camouflaged Explosive Mecha",
+    "robot_description2": "Using high-tech optical camouflage, this security mecha lies in wait for intruders to trespass, where it'll then pop off a shower of rock-hard bullets! That being said, optical technology isn't all that perfect - if you can spot the cloaking technology, it'll be easy to avoid it at a distance.",
+    "robot_energy": 30,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 70,
+    "robot_defense": 30,
+    "robot_speed": 70,
+    "robot_weaknesses": [
+        "flame",
+        "electric",
+        "impact"
+    ],
+    "robot_resistances": [
+        "time",
+        "crystal"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_immunities": [
+        "explode"
+    ],
+    "robot_skill": "tenacity-submodule",
+    "robot_skill_name": "Rock Solid",
+    "robot_skill_description": "The robot deals Earth type damage without resistance",
+    "robot_skill_description2": "The robot seeks to catch the opponent by surprise, dealing Earth type damage without regard to any resistances.",
+    "robot_skill_parameters": {
+        "type": "earth"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "buster-shot"
+            "token": "earth-shot"
+        },
+        {
+            "level": 0,
+            "token": "earth-buster"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "",
-    "robot_quotes_taunt": "",
-    "robot_quotes_victory": "",
-    "robot_quotes_defeat": "",
+    "robot_quotes_start": "Ea suton!",
+    "robot_quotes_taunt": "Suton! Suton!",
+    "robot_quotes_victory": "Ea suton! Ea suton!",
+    "robot_quotes_defeat": "Bomu do Ringu....",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
