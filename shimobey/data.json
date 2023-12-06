@@ -1,10 +1,10 @@
 {
     "robot_token": "shimobey",
-    "robot_number": "RPG-000",
+    "robot_number": "SHMY-000",
     "robot_name": "Shimobey",
     "robot_game": "MM11",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "septic-system",
     "robot_support": "",
     "robot_class": "mecha",
     "robot_gender": "none",
@@ -16,38 +16,50 @@
     "robot_image_alts": [],
     "robot_core": "shadow",
     "robot_core2": "",
-    "robot_description": "",
-    "robot_description2": "",
-    "robot_energy": 50,
+    "robot_description": "Diminutive Mook Mecha",
+    "robot_description2": "An actor robot used in hero shows as the evil foot soldier. Dreaming of someday playing the hero, it always tries to look its best as the heroes beat it up.",
+    "robot_energy": 30,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 90,
+    "robot_defense": 20,
+    "robot_speed": 60,
+    "robot_weaknesses": [
+        "flame",
+        "explode"
+    ],
+    "robot_resistances": [
+        "shadow",
+        "electric"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_immunities": [
+        "shield"
+    ],
+    "robot_skill": "break-submodule",
+    "robot_skill_name": "Struggling Actor",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "buster-shot"
+            "token": "shadow-shot"
+        },
+        {
+            "level": 0,
+            "token": "shadow-buster"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "",
-    "robot_quotes_taunt": "",
-    "robot_quotes_victory": "",
-    "robot_quotes_defeat": "",
+    "robot_quotes_start": "Shi! Mobe!",
+    "robot_quotes_taunt": "Shimobe, shimobe!",
+    "robot_quotes_victory": "Mobe, shi, shi, mobe!",
+    "robot_quotes_defeat": "Shi! Shi!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
