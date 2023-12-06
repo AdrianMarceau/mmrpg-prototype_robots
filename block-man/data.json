@@ -5,7 +5,7 @@
     "robot_game": "MM11",
     "robot_field": "",
     "robot_field2": "mineral-quarry",
-    "robot_support": "drill-mole",
+    "robot_support": "air-stone",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "block-man",
