@@ -59,11 +59,13 @@
     "robot_immunities": [
         "water"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "wellspring-submodule",
+    "robot_skill_name": "Walking Reservoir",
+    "robot_skill_description": "Reduces the cost of its team's Water-type abilities to only one unit",
+    "robot_skill_description2": "The robot's reservoir body holds enough liquid to reduces the cost of its team's Water-type abilities to only one unit.",
+    "robot_skill_parameters": {
+        "type": "water"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
