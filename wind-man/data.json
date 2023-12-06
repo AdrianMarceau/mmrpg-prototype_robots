@@ -59,11 +59,13 @@
         "wind"
     ],
     "robot_immunities": [],
-    "robot_skill": "disentangle-submodule",
-    "robot_skill_name": "Hurricane Halo",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "wellspring-submodule",
+    "robot_skill_name": "Propeller Power",
+    "robot_skill_description": "Reduces the cost of its team's Wind-type abilities to only one unit",
+    "robot_skill_description2": "The robot's powerful body-mounted jet engines reduce the cost of its team's Wind-type abilities to only one unit.",
+    "robot_skill_parameters": {
+        "type": "wind"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
