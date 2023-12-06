@@ -69,7 +69,9 @@
     "robot_skill_name": "Bounteous Bloom",
     "robot_skill_description": "Reduces the cost of its team's Nature-type abilities to only one unit",
     "robot_skill_description2": "The robot's abundance of green energy reduces the cost of its team's Nature-type abilities to only one unit.",
-    "robot_skill_parameters": [],
+    "robot_skill_parameters": {
+        "type": "nature"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
