@@ -1,10 +1,10 @@
 {
     "robot_token": "pipetto",
-    "robot_number": "RPG-000",
+    "robot_number": "PITO-000",
     "robot_name": "Pipetto",
     "robot_game": "MM11",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "rainy-sewers",
     "robot_support": "",
     "robot_class": "mecha",
     "robot_gender": "none",
@@ -16,38 +16,53 @@
     "robot_image_alts": [],
     "robot_core": "water",
     "robot_core2": "",
-    "robot_description": "",
-    "robot_description2": "",
-    "robot_energy": 50,
+    "robot_description": "Chemical Mixing Mecha",
+    "robot_description2": "A chemical mixing robot that excels at precisely measuring out fluid. Each spurt of toxic chemicals it launches out is exactly 2000ml. Imperial-system Pipettos instead dish out attacks at about 67.63 ounces.",
+    "robot_energy": 70,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 35,
+    "robot_defense": 70,
+    "robot_speed": 25,
+    "robot_weaknesses": [
+        "swift",
+        "earth"
+    ],
+    "robot_resistances": [
+        "laser",
+        "shadow"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_immunities": [
+        "water"
+    ],
+    "robot_skill": "field-boost-at-end-of-turn",
+    "robot_skill_name": "Chemical Pool",
+    "robot_skill_description": "Boosts the Water-type field multiplier every turn",
+    "robot_skill_description2": "The robot boosts the Water-type field multiplier at the end of each turn.",
+    "robot_skill_parameters": {
+        "type": "water",
+        "amount": 0.1
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "buster-shot"
+            "token": "water-shot"
+        },
+        {
+            "level": 0,
+            "token": "water-buster"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "",
-    "robot_quotes_taunt": "",
-    "robot_quotes_victory": "",
-    "robot_quotes_defeat": "",
+    "robot_quotes_start": "Supoitton.",
+    "robot_quotes_taunt": "Poitton!",
+    "robot_quotes_victory": "Supoitton...",
+    "robot_quotes_defeat": "Poitton....",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
