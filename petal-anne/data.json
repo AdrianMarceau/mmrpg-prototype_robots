@@ -1,10 +1,10 @@
 {
     "robot_token": "petal-anne",
-    "robot_number": "RPG-000",
+    "robot_number": "PTAN-000",
     "robot_name": "Petal Anne",
     "robot_game": "MM9",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "preserved-forest",
     "robot_support": "",
     "robot_class": "mecha",
     "robot_gender": "none",
@@ -16,38 +16,51 @@
     "robot_image_alts": [],
     "robot_core": "nature",
     "robot_core2": "",
-    "robot_description": "",
-    "robot_description2": "",
-    "robot_energy": 50,
+    "robot_description": "Flower Clock Mecha",
+    "robot_description2": "A dancer with a name called Danger - that's Petal Anne, the happy, dancing little flower mecha. A popular theory within the agricultural scientific community these days is that sound stimulates plant growth - and so, designed by Dr. Pedro Astil, the petite Petal Anne spends all day singing and dancing for all its flower friends. Dr. Wily had its rhythmic motors lined to a spike-arm when he repurposed it, but without that - feel free to just dance with it!",
+    "robot_energy": 70,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 80,
+    "robot_defense": 30,
+    "robot_speed": 20,
+    "robot_weaknesses": [
+        "flame",
+        "earth",
+        "wind"
+    ],
+    "robot_resistances": [
+        "time",
+        "crystal"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_immunities": [
+        "shield"
+    ],
+    "robot_skill": "metronome-submodule",
+    "robot_skill_name": "Steady Tempo",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "buster-shot"
+            "token": "nature-shot"
+        },
+        {
+            "level": 0,
+            "token": "nature-buster"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "",
-    "robot_quotes_taunt": "",
-    "robot_quotes_victory": "",
-    "robot_quotes_defeat": "",
+    "robot_quotes_start": "Hanabira, bira, bira!",
+    "robot_quotes_taunt": "Bira! Bira!",
+    "robot_quotes_victory": "Hana, bira, hana, hana!~",
+    "robot_quotes_defeat": "Bi bi bi bi - haaaan.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
