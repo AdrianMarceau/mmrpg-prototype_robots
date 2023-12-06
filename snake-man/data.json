@@ -16,13 +16,13 @@
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Snake Man (Copperhead Alt)",
+            "name": "Snake Man (Amber Alt)",
             "summons": 100,
-            "colour": "explode"
+            "colour": "electric"
         },
         {
             "token": "alt2",
-            "name": "Snake Man (Scarlet Alt)",
+            "name": "Snake Man (Crimson Alt)",
             "summons": 200,
             "colour": "flame"
         },
@@ -63,7 +63,7 @@
     "robot_skill_description": "The robot's stats are boosted when it senses prey nearby",
     "robot_skill_description2": "All of the robot's stats are boosted by one stage when it senses potential prey on the field.",
     "robot_skill_parameters": {
-        "robots": "toad-man,shade-man,hornet-man,sheep-man,buster-rod-g,hyper-storm-h,mega-water-s",
+        "robots": "batton,monking-r,ribbitron,mouslider,toad-man,sheep-man,buster-rod-g,hyper-storm-h,mega-water-s",
         "stat": "all",
         "amount": 1
     },
