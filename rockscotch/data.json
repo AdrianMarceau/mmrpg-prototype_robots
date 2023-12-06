@@ -12,11 +12,12 @@
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "earth",
     "robot_core2": "",
     "robot_description": "Gravel Hurdling Mecha",
-    "robot_description2": "",
+    "robot_description2": "The Rockscotch are mechas that were created for the use of cut-and-cover tunnels, collecting gravel and minerals to be moved aside during construction. Despite the calm look in their eyes, they're quite hard-headed.",
     "robot_energy": 60,
     "robot_weapons": 5,
     "robot_attack": 80,
@@ -33,15 +34,19 @@
     "robot_immunities": [
         "wind"
     ],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "target-submodule",
+    "robot_skill_name": "Good Aim",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "met-shot"
+            "token": "earth-shot"
+        },
+        {
+            "level": 0,
+            "token": "earth-buster"
         }
     ],
     "robot_abilities_compatible": [],
@@ -53,7 +58,7 @@
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
