@@ -5,7 +5,7 @@
     "robot_game": "MM5",
     "robot_field": "",
     "robot_field2": "pipe-station",
-    "robot_support": "killer-bullet",
+    "robot_support": "bombardier",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "napalm-man",
