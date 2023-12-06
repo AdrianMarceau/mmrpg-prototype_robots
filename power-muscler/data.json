@@ -1,10 +1,10 @@
 {
     "robot_token": "power-muscler",
-    "robot_number": "RPG-000",
+    "robot_number": "PWMC-000",
     "robot_name": "Power Muscler",
     "robot_game": "MM5",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "magnetic-generator",
     "robot_support": "",
     "robot_class": "mecha",
     "robot_gender": "none",
@@ -16,38 +16,51 @@
     "robot_image_alts": [],
     "robot_core": "missile",
     "robot_core2": "",
-    "robot_description": "",
-    "robot_description2": "",
-    "robot_energy": 50,
+    "robot_description": "Muscle King Mecha",
+    "robot_description2": "Dr. Wily was a big fan of sh\u014dnen manga when he was young, so Power Muscler was actually inspired by the hero in some of his favorites. They were first used for the construction of Wily's fortresses, which he had started doubling up on at this point, but of course he repurposed them afterwards to destroy Mega Man.",
+    "robot_energy": 60,
     "robot_weapons": 5,
-    "robot_attack": 50,
+    "robot_attack": 75,
     "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_speed": 15,
+    "robot_weaknesses": [
+        "earth",
+        "water",
+        "swift"
+    ],
+    "robot_resistances": [
+        "cutter",
+        "impact"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_immunities": [
+        "shadow"
+    ],
+    "robot_skill": "nightmare-submodule",
+    "robot_skill_name": "Wrestling Maniac",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "buster-shot"
+            "token": "missile-shot"
+        },
+        {
+            "level": 0,
+            "token": "missile-buster"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "",
-    "robot_quotes_taunt": "",
-    "robot_quotes_victory": "",
-    "robot_quotes_defeat": "",
+    "robot_quotes_start": "PAWA MASSURA!",
+    "robot_quotes_taunt": "MASSURA! MASSURA!",
+    "robot_quotes_victory": "MASSURAAAAAA!!",
+    "robot_quotes_defeat": "Pawa..",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
