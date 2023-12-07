@@ -33,6 +33,12 @@
             "colour": "freeze"
         },
         {
+            "token": "alt4",
+            "name": "Ice Man (Marvelous Alt)",
+            "summons": 400,
+            "colour": "type"
+        },
+        {
             "token": "alt9",
             "name": "Ice Man (Darkness Alt)",
             "summons": 900,
