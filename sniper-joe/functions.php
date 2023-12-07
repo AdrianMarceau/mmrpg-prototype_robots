@@ -74,7 +74,8 @@ $functions = array(
         return true;
 
     },
-    'robot_function_ondamage' => function($objects){
+    'robot_function_check-shield' => function($objects){
+        //error_log('robot_function_check-shield() for '.$objects['this_robot']->robot_string);
 
         // Extract all objects into the current scope
         extract($objects);
@@ -92,28 +93,32 @@ $functions = array(
             $shield_breakers_extra = array('mega-slide', 'mega-ball', 'bass-baroque', 'proto-strike', 'charge-kick');
             $shield_breakers_types = array('explode', 'impact');
             if (!empty($this_robot->history)){
+                //error_log('Checking '.$this_robot->robot_string.'\'s history for shield breakers '.print_r($this_robot->history, true));
                 $damaged_by_abilities = array();
                 $damaged_by_types = array();
-                if (!empty($this_robot->history['triggered_damage_by'])){ 
-                    $damaged_by_abilities = $this_robot->history['triggered_damage_by'];
-                    foreach ($damaged_by_abilities AS $ability_token){
-                        if (preg_match($shield_breakers_regex, $ability_token)
-                        		|| in_array($ability_token, $shield_breakers_extra)){
-                        		$shields_down = true;
-                            break;
+                $relevant_history = array('triggered_damage', 'triggered_breaks');
+                foreach ($relevant_history AS $history_prefix){
+                    if (!empty($this_robot->history[$history_prefix.'_by'])){
+                        $damaged_by_abilities = $this_robot->history[$history_prefix.'_by'];
+                        foreach ($damaged_by_abilities AS $ability_token){
+                            if (preg_match($shield_breakers_regex, $ability_token)
+                                    || in_array($ability_token, $shield_breakers_extra)){
+                                    $shields_down = true;
+                                break;
+                            }
                         }
                     }
-                }
-                if (!empty($this_robot->history['triggered_damage_types'])){
-                    $damaged_by_types = $this_robot->history['triggered_damage_types'];
-                    foreach ($damaged_by_types AS $type_list){
-                        if (empty($type_list)){ continue; }				
-                        if (isset($type_list[0]) && in_array($type_list[0], $shield_breakers_types)){
-                        		$shields_down = true;
-                        } elseif (isset($type_list[1]) && in_array($type_list[1], $shield_breakers_types)){
-                        		$shields_down = true;
-                        }                   	
-                    }                    
+                    if (!empty($this_robot->history[$history_prefix.'_types'])){
+                        $damaged_by_types = $this_robot->history[$history_prefix.'_types'];
+                        foreach ($damaged_by_types AS $type_list){
+                            if (empty($type_list)){ continue; }
+                            if (isset($type_list[0]) && in_array($type_list[0], $shield_breakers_types)){
+                                    $shields_down = true;
+                            } elseif (isset($type_list[1]) && in_array($type_list[1], $shield_breakers_types)){
+                                    $shields_down = true;
+                            }
+                        }
+                    }
                 }
             }
             
@@ -151,4 +156,12 @@ $functions = array(
 
     }
 );
+$functions['robot_function_ondamage'] = function($objects) use ($functions){
+    //error_log('robot_function_ondamage() for '.$objects['this_robot']->robot_string);
+    return $functions['robot_function_check-shield']($objects, true);
+};
+$functions['rpg-ability_stat-break_after'] = function($objects) use ($functions){
+    //error_log('rpg-ability_stat-break_after() for '.$objects['this_robot']->robot_string);
+    return $functions['robot_function_check-shield']($objects, true);
+};
 ?>
