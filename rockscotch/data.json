@@ -34,11 +34,13 @@
     "robot_immunities": [
         "wind"
     ],
-    "robot_skill": "target-submodule",
-    "robot_skill_name": "Good Aim",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "wellspring-submodule",
+    "robot_skill_name": "Earthen Excavator",
+    "robot_skill_description": "Reduces the cost of its team's Earth-type abilities to only one unit",
+    "robot_skill_description2": "The robot's stockpile of piled rocks reduce the cost of its team's Earth-type abilities to only one unit.",
+    "robot_skill_parameters": {
+        "type": "earth"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
