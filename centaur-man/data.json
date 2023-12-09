@@ -75,6 +75,7 @@
         }
     ],
     "robot_abilities_compatible": [
+        "centaur-arrow",
         "centaur-flash"
     ],
     "robot_quotes_start": "Say, I've placed my bets on winning... I'll split the cash if you give up now!",
