@@ -30,7 +30,13 @@
             "token": "alt3",
             "name": "Wave Man (Weapon Alt)",
             "summons": 300,
-            "colour": "weapons"
+            "colour": "water"
+        },
+        {
+            "token": "alt4",
+            "name": "Wave Man (DOS Alt)",
+            "summons": 400,
+            "colour": "defense"
         },
         {
             "token": "alt9",
