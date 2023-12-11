@@ -16,10 +16,8 @@ $functions = array(
 
         // Check if the auto-shield has already been summoned
         $this_attachment_token = $this_robot->robot_token.'_auto-shield';
-        $is_shielded = isset($this_robot->robot_attachments[$this_attachment_token]) ? true : false;
-                
-        if (!$is_shielded
-           && $this_battle->counters['battle_turn'] === 0){
+        $is_shielded = $this_robot->has_attachment($this_attachment_token) ? true : false;
+        if (!$is_shielded && !$this_robot->get_flag('auto-shield-applied')){
         
             // Define this ability's attachment token
             $this_effect_multiplier = 1 - (99.99 / 100);
@@ -65,8 +63,8 @@ $functions = array(
                 );
 
             // Attach this auto attachment to the curent robot
-            $this_robot->robot_attachments[$this_attachment_token] = $this_attachment_info;
-            $this_robot->update_session();                       
+            $this_robot->set_attachment($this_attachment_token, $this_attachment_info);
+            $this_robot->set_flag('auto-shield-applied', true);
             
         }
 
@@ -79,12 +77,10 @@ $functions = array(
 
         // Extract all objects into the current scope
         extract($objects);
-
-        // Check if this ability is already summoned
-        $this_attachment_token = $this_robot->robot_token.'_auto-shield';
-        $is_shielded = isset($this_robot->robot_attachments[$this_attachment_token]) ? true : false;
         
         // Otherwise if already summoned, see if we should remove it
+        $this_attachment_token = $this_robot->robot_token.'_auto-shield';
+        $is_shielded = $this_robot->has_attachment($this_attachment_token) ? true : false;
         if ($is_shielded){
         
             // Check if the shield has been broken by an ability
@@ -149,6 +145,44 @@ $functions = array(
                                                 
             }
             
+        }
+
+        // Return true on success
+        return true;
+
+    },
+    'rpg-skill_disable-skill_before' => function($objects){
+
+        // Extract all objects into the current scope
+        extract($objects);
+
+        // We need to remove the attachment and convert this robot to their sheilds-down image
+        $this_attachment_token = $this_robot->robot_token.'_auto-shield';
+        $is_shielded = $this_robot->has_attachment($this_attachment_token) ? true : false;
+        if ($is_shielded){
+
+            // Unset the attachment from the current robot and save
+            $backup_attachment_info = $this_robot->get_attachment($this_attachment_token);
+            $this_robot->unset_attachment($this_attachment_token);
+
+            // Update the current robot into their alt outfit
+            $base_image_token = $this_robot->robot_token;
+            $alt_image_token = $this_robot->robot_token.'_alt';
+            $this_robot->set_image($alt_image_token);
+
+            // Generate an event to show nothing happened
+            $event_header = $this_robot->robot_name.'&#39;s Shield';
+            $event_body = array_pop($backup_attachment_info['attachment_destroy']['success']);
+            $this_battle->queue_sound_effect('shields-down');
+            $this_battle->events_create($this_robot, $this_robot, $event_header, $event_body);
+
+            // Call the global stat boost function with customized options
+            rpg_ability::ability_function_stat_break($this_robot, 'defense', 1, false, array(
+                'success_frame' => 9,
+                'failure_frame' => 9,
+                'extra_text' => false
+                ));
+
         }
 
         // Return true on success
