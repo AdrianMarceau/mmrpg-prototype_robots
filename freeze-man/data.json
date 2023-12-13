@@ -57,11 +57,14 @@
         "freeze"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "field-boost-at-battle-start",
+    "robot_skill_name": "Hot Take",
+    "robot_skill_description": "Decreases the Flame-type field multiplier on battle start",
+    "robot_skill_description2": "The robot decreases the Flame-type field multiplier upon entering battle by sucking all the hot air out of the room.",
+    "robot_skill_parameters": {
+        "type": "flame",
+        "amount": -0.5
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
