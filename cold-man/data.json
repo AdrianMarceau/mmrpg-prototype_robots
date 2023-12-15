@@ -4,14 +4,15 @@
     "robot_name": "Cold Man",
     "robot_game": "RnF",
     "robot_field": "",
-    "robot_field2": "",
-    "robot_support": "",
+    "robot_field2": "arctic-jungle",
+    "robot_support": "curlinger",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "cold-man",
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -91,7 +92,7 @@
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
-    "robot_flag_unlockable": 0,
+    "robot_flag_unlockable": 1,
     "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
