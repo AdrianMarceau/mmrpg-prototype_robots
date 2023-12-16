@@ -71,11 +71,15 @@
         "freeze"
     ],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "consumable-item-at-end-of-turn",
+    "robot_skill_name": "Frozen Canteen",
+    "robot_skill_description": "Gives energy and weapon tanks to allies in need at end-of-turn",
+    "robot_skill_description2": "The robot keeps its fridge-like body fully-stocked with energy and weapon tanks, intuitively doling them out to teammates-in-need while on the bench.",
+    "robot_skill_parameters": {
+        "energy": true,
+        "weapons": true,
+        "tanks": true
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
