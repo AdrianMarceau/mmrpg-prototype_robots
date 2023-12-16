@@ -79,7 +79,8 @@
         "all": false,
         "energy": true,
         "weapons": true,
-        "tanks": true
+        "tanks": true,
+        "frame": "shoot"
     },
     "robot_abilities_rewards": [
         {
