@@ -33,6 +33,12 @@
             "colour": "time"
         },
         {
+            "token": "alt4",
+            "name": "Aqua Man (Dubious Alt)",
+            "summons": 400,
+            "colour": "explode"
+        },
+        {
             "token": "alt9",
             "name": "Aqua Man (Darkness Alt)",
             "summons": 900,
