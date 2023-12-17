@@ -57,11 +57,19 @@
         "wind"
     ],
     "robot_immunities": [],
-    "robot_skill": "recycler-submodule",
-    "robot_skill_name": "Recycling Machine",
-    "robot_skill_description": "The robot is able to repurpose consumed items at the end of the turn",
-    "robot_skill_description2": "The robot's ingenuity allows it repurpose already-used consumable items into new forms at the end of each turn.",
-    "robot_skill_parameters": [],
+    "robot_skill": "inventory-submodule",
+    "robot_skill_name": "Duct Cleaning",
+    "robot_skill_description": "Gives a stat pellet or capsule to an ally-in-need at end-of-turn",
+    "robot_skill_description2": "The robot's head-mounted exhaust pipe is constantly getting clogged with stat-boosting pellets and capsules, forcing the robot to offload extras on its allies whenever they seem down on their luck.",
+    "robot_skill_parameters": {
+        "all": false,
+        "attack": true,
+        "defense": true,
+        "speed": true,
+        "pellets": true,
+        "capsules": true,
+        "frame": "throw"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
