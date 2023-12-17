@@ -58,11 +58,18 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "inventory-submodule",
+    "robot_skill_name": "Trash Therapy",
+    "robot_skill_description": "Gives a life or weapon energy consumable to an ally-in-need at end-of-turn",
+    "robot_skill_description2": "The robot's garbage-taste allows it to see what others don't see on the battlefield, and to salvage even junk into restorative pellets and capsules.  The robot likes to test these items out on wounded teammates.",
+    "robot_skill_parameters": {
+        "all": false,
+        "energy": true,
+        "weapons": true,
+        "pellets": true,
+        "capsules": true,
+        "frame": "taunt"
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
