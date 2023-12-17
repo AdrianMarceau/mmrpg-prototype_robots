@@ -33,6 +33,12 @@
             "colour": "cutter"
         },
         {
+            "token": "alt4",
+            "name": "Torch Man (DOS Alt)",
+            "summons": 400,
+            "colour": "flame"
+        },
+        {
             "token": "alt9",
             "name": "Torch Man (Darkness Alt)",
             "summons": 900,
