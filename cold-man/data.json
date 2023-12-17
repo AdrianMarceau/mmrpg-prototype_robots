@@ -73,8 +73,8 @@
     "robot_immunities": [],
     "robot_skill": "inventory-submodule",
     "robot_skill_name": "Frozen Canteen",
-    "robot_skill_description": "Gives energy and weapon tanks to allies in need at end-of-turn",
-    "robot_skill_description2": "The robot keeps its fridge-like body fully-stocked with weapon and energy tanks, heroically cracking one open for a friend-in-need at the end of any turn they feel it might be necessary to do so.",
+    "robot_skill_description": "Gives an energy or weapon tank to an ally-in-need at end-of-turn",
+    "robot_skill_description2": "The robot keeps its fridge-like body fully-stocked with weapon and energy tanks, heroically cracking one open at the end of the turn for a friend-in-need.",
     "robot_skill_parameters": {
         "all": false,
         "energy": true,
