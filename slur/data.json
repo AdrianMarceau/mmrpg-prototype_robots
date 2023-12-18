@@ -17,19 +17,19 @@
         {
             "token": "alt",
             "name": "Slur (Emboldened Alt)",
-            "summons": 1000,
+            "summons": 300,
             "colour": "wind"
         },
         {
             "token": "alt2",
             "name": "Slur (Final Weapon Alt)",
-            "summons": 2000,
+            "summons": 600,
             "colour": "nature"
         },
         {
             "token": "alt3",
             "name": "Slur (Crestfallen Alt)",
-            "summons": 3000,
+            "summons": 900,
             "colour": "explode"
         }
     ],
