@@ -35,18 +35,33 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "dark-boost"
+            "token": "omega-pulse"
         },
         {
-            "level": 0,
-            "token": "dark-break"
-        },
-        {
-            "level": 0,
-            "token": "dark-drain"
+            "level": 1,
+            "token": "omega-wave"
         }
     ],
-    "robot_abilities_compatible": [],
+    "robot_abilities_compatible": [
+        "cutter-overdrive",
+        "impact-overdrive",
+        "freeze-overdrive",
+        "explode-overdrive",
+        "flame-overdrive",
+        "electric-overdrive",
+        "time-overdrive",
+        "earth-overdrive",
+        "wind-overdrive",
+        "water-overdrive",
+        "swift-overdrive",
+        "nature-overdrive",
+        "missile-overdrive",
+        "crystal-overdrive",
+        "shadow-overdrive",
+        "space-overdrive",
+        "shield-overdrive",
+        "laser-overdrive"
+    ],
     "robot_quotes_start": 1110011,
     "robot_quotes_taunt": 1101111,
     "robot_quotes_victory": 1101111,
