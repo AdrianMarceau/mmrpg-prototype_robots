@@ -36,7 +36,7 @@
     "robot_core": "space",
     "robot_core2": "",
     "robot_description": "Galactic Judge Robot",
-    "robot_description2": "Limited data has been recorded about this alien robot. If encountered, take extreme caution; The extent of its powers are not yet known...",
+    "robot_description2": "Limited data has been recorded about this alien robot. If encountered, take extreme caution; The extent of their powers are not yet known...",
     "robot_energy": 260,
     "robot_weapons": 20,
     "robot_attack": 248,
@@ -73,9 +73,6 @@
         }
     ],
     "robot_abilities_compatible": [
-        "slur-aura",
-        "slur-twister",
-        "slur-supernova",
         "cutter-buster",
         "impact-buster",
         "freeze-buster",
