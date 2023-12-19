@@ -3,15 +3,16 @@
     "robot_number": "EXN-00X",
     "robot_name": "Trill",
     "robot_game": "MMRPGP",
-    "robot_field": "",
+    "robot_field": "final-destination-3",
     "robot_field2": "",
-    "robot_support": "",
+    "robot_support": "trille-bot",
     "robot_class": "boss",
     "robot_gender": "none",
     "robot_image": "trill",
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "rhythmbca",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -72,16 +73,27 @@
         {
             "level": 30,
             "token": "trill-slasher"
-        },
-        {
-            "level": 45,
-            "token": "trill-teranova"
         }
     ],
     "robot_abilities_compatible": [
-        "trill-aura",
-        "trill-slasher",
-        "trill-teranova"
+        "cutter-shot",
+        "impact-shot",
+        "freeze-shot",
+        "explode-shot",
+        "flame-shot",
+        "electric-shot",
+        "time-shot",
+        "earth-shot",
+        "wind-shot",
+        "water-shot",
+        "swift-shot",
+        "nature-shot",
+        "missile-shot",
+        "crystal-shot",
+        "shadow-shot",
+        "space-shot",
+        "shield-shot",
+        "laser-shot"
     ],
     "robot_quotes_start": "The Master has tasked us with deleting your data.  Do not resist.",
     "robot_quotes_taunt": "Resistance is futile, but we will entertain your struggles just the same.",
