@@ -64,7 +64,7 @@
     ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
+    "robot_skill": "disentangle-submodule",
     "robot_skill_name": "",
     "robot_skill_description": "",
     "robot_skill_description2": "",
