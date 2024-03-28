@@ -12,6 +12,7 @@
     "robot_image_size": 80,
     "robot_image_editor": "chaosfantazy",
     "robot_image_editor2": "elitep1",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -58,11 +59,14 @@
     "robot_immunities": [
         "flame"
     ],
-    "robot_skill": "",
+    "robot_skill": "field-boost-at-battle-start",
     "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill_description": "Decreases the Water-type field multiplier on battle start",
+    "robot_skill_description2": "The robot decreases the Water-type field multiplier upon entering battle by ------",
+    "robot_skill_parameters": {
+        "type": "water",
+        "amount": -0.5
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
