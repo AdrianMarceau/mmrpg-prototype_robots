@@ -1,0 +1,65 @@
+{
+    "robot_token": "colton",
+    "robot_number": "COLT-001",
+    "robot_name": "Colton",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "submerged-armory",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "colton",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Catchpenny Cowboy Mecha",
+    "robot_description2": "Quick on the draw, Colton's got six shots in the gun chamber for the next set of buckaroos unlucky enough to make their way to his town. Well, to be honest, the Coltons were really just made to fill out as cheap extras in Western movies - but they're real good method actors.",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 80,
+    "robot_defense": 55,
+    "robot_speed": 15,
+    "robot_weaknesses": [
+        "nature",
+        "earth",
+        "laser"
+    ],
+    "robot_resistances": [
+        "swift"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "shield"
+    ],
+    "robot_skill": "overkill-submodule",
+    "robot_skill_name": "Pistolero",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "missile-shot"
+        },
+        {
+            "level": 0,
+            "token": "missile-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Koruton!",
+    "robot_quotes_taunt": "Korut.. On!",
+    "robot_quotes_victory": ".... Koruton!",
+    "robot_quotes_defeat": "On? On?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
