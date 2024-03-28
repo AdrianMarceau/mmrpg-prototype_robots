@@ -100,13 +100,32 @@
         "group_order": 7,
         "group_child_tokens": [
             "curlinger",
-            "kabuton"
+            "kabuton",
+            "colton"
+        ]
+    },
+    "MM07": {
+        "group_class": "mecha",
+        "group_token": "MM07",
+        "group_order": 8,
+        "group_child_tokens": [
+            "parabeak",
+            "coiln",
+            "eggalodon"
+        ]
+    },
+    "MM08": {
+        "group_class": "mecha",
+        "group_token": "MM08",
+        "group_order": 9,
+        "group_child_tokens": [
+            "cline"
         ]
     },
     "MM09": {
         "group_class": "mecha",
         "group_token": "MM09",
-        "group_order": 8,
+        "group_order": 10,
         "group_child_tokens": [
             "octone",
             "diaymon",
@@ -114,10 +133,20 @@
             "adamski"
         ]
     },
+    "MM10": {
+        "group_class": "mecha",
+        "group_token": "MM10",
+        "group_order": 11,
+        "group_child_tokens": [
+            "frosty-throwman",
+            "pitchan",
+            "sola-rei"
+        ]
+    },
     "MM11": {
         "group_class": "mecha",
         "group_token": "MM11",
-        "group_order": 9,
+        "group_order": 12,
         "group_child_tokens": [
             "air-stone",
             "pipetto",
@@ -127,7 +156,7 @@
     "MMV": {
         "group_class": "mecha",
         "group_token": "MMV",
-        "group_order": 10,
+        "group_order": 13,
         "group_child_tokens": [
             "tamp",
             "biribaree"
@@ -136,7 +165,7 @@
     "MM00C": {
         "group_class": "mecha",
         "group_token": "MM00C",
-        "group_order": 11,
+        "group_order": 14,
         "group_child_tokens": [
             "beak",
             "shield-attacker"
@@ -145,8 +174,9 @@
     "MM00D": {
         "group_class": "mecha",
         "group_token": "MM00D",
-        "group_order": 12,
+        "group_order": 15,
         "group_child_tokens": [
+            "adhering-suzy",
             "big-eye",
             "power-muscler",
             "weapon-archivist"
@@ -155,7 +185,7 @@
     "MMRPG2": {
         "group_class": "mecha",
         "group_token": "MMRPG2",
-        "group_order": 13,
+        "group_order": 16,
         "group_child_tokens": [
             "heal-bot",
             "heel-bot",
@@ -165,7 +195,7 @@
     "MMRPG3": {
         "group_class": "mecha",
         "group_token": "MMRPG3",
-        "group_order": 14,
+        "group_order": 17,
         "group_child_tokens": [
             "dark-frag"
         ]
@@ -173,7 +203,7 @@
     "MMRPG4": {
         "group_class": "mecha",
         "group_token": "MMRPG4",
-        "group_order": 15,
+        "group_order": 18,
         "group_child_tokens": [
             "rush",
             "treble",
