@@ -37,6 +37,12 @@
             "name": "Bubble Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Bubble Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "nature"
         }
     ],
     "robot_core": "water",
