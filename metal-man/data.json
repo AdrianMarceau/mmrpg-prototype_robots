@@ -37,6 +37,12 @@
             "name": "Metal Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Metal Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "flame"
         }
     ],
     "robot_core": "cutter",
