@@ -49,6 +49,12 @@
             "name": "Oil Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Oil Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "space"
         }
     ],
     "robot_core": "earth",
