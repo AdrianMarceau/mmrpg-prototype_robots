@@ -43,6 +43,12 @@
             "name": "Ice Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Ice Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "freeze"
         }
     ],
     "robot_core": "freeze",
