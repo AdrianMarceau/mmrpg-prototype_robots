@@ -49,6 +49,12 @@
             "name": "Quick Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Quick Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "laser"
         }
     ],
     "robot_core": "swift",
