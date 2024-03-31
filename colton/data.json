@@ -59,7 +59,7 @@
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 1,
+    "robot_flag_fightable": 0,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
