@@ -60,9 +60,9 @@
         "flame"
     ],
     "robot_skill": "field-boost-at-battle-start",
-    "robot_skill_name": "",
+    "robot_skill_name": "Volcanic Activity",
     "robot_skill_description": "Decreases the Water-type field multiplier on battle start",
-    "robot_skill_description2": "The robot decreases the Water-type field multiplier upon entering battle by ------",
+    "robot_skill_description2": "As their volcanic powers begin to erupt, the robot decreases the Water-type field multiplier upon entering battle!",
     "robot_skill_parameters": {
         "type": "water",
         "amount": -0.5
