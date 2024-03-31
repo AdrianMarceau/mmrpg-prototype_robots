@@ -43,6 +43,12 @@
             "name": "Cut Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Cut Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "laser"
         }
     ],
     "robot_core": "cutter",
@@ -86,8 +92,8 @@
         "rising-cutter"
     ],
     "robot_quotes_start": "May the sharpest mind win!",
-    "robot_quotes_taunt": "I'm no ordinary ol' robot... I'm a cut above the rest!",
-    "robot_quotes_victory": "What can I say? Old {this_robot}'s still cutting-edge, HAH!",
+    "robot_quotes_taunt": "I ain't your ordinary Robot Master... I'm a cut above the rest!",
+    "robot_quotes_victory": "What can I say? Ol' {this_robot}'s still cutting-edge, HAH!",
     "robot_quotes_defeat": "W-well, I guess I wasn't sharp enough!... heheh, not funny?",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
