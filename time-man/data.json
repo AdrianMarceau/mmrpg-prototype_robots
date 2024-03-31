@@ -37,6 +37,12 @@
             "name": "Time Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Time Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "time"
         }
     ],
     "robot_core": "time",
