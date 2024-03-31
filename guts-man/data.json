@@ -43,6 +43,12 @@
             "name": "Guts Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Guts Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "electric"
         }
     ],
     "robot_core": "impact",
