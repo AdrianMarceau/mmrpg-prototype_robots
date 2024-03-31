@@ -67,7 +67,7 @@
     "robot_quotes_victory": 1101111,
     "robot_quotes_defeat": 1101110,
     "robot_quotes_custom": [],
-    "robot_flag_hidden": 0,
+    "robot_flag_hidden": 1,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
     "robot_flag_fightable": 1,
