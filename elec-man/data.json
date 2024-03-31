@@ -37,6 +37,12 @@
             "name": "Elec Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Elec Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "electric"
         }
     ],
     "robot_core": "electric",
