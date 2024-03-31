@@ -37,6 +37,12 @@
             "name": "Wood Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Wood Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "earth"
         }
     ],
     "robot_core": "nature",
