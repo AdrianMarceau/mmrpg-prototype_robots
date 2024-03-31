@@ -79,9 +79,9 @@
     "robot_abilities_compatible": [
         "junk-shield"
     ],
-    "robot_quotes_start": "People see junk as just waste... But I see it as a new beginning!",
-    "robot_quotes_taunt": "If you're looking for trash, try looking in a mirror sometime! Ghaahaa!",
-    "robot_quotes_victory": "...You're not using those parts anymore, right? Could I take them?",
+    "robot_quotes_start": "{target_robot}... Your parts will be useful!",
+    "robot_quotes_taunt": "Gaze upon my form, perfection incarnate - and I'm eco-friendly, too!",
+    "robot_quotes_victory": "Rest in peace, {target_robot}, and in pieces!",
     "robot_quotes_defeat": "Well, recycling's not too bad either. I guess.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
