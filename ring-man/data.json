@@ -37,6 +37,12 @@
             "name": "Ring Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Ring Man (Alt10)",
+            "summons": 1000,
+            "colour": "flame"
         }
     ],
     "robot_core": "space",
