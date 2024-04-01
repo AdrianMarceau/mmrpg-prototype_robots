@@ -43,6 +43,12 @@
             "name": "Tomahawk Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Tomahawk Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "water"
         }
     ],
     "robot_core": "earth",
