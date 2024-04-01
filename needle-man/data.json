@@ -43,6 +43,12 @@
             "name": "Needle Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Needle Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "water"
         }
     ],
     "robot_core": "cutter",
