@@ -11,7 +11,7 @@
     "robot_image": "spark-man",
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
-    "robot_image_editor2": "",
+    "robot_image_editor2": "elitep1",
     "robot_image_editor3": "",
     "robot_image_alts": [
         {
@@ -37,6 +37,12 @@
             "name": "Spark Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Spark Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "swift"
         }
     ],
     "robot_core": "electric",
