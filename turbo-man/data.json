@@ -37,6 +37,12 @@
             "name": "Turbo Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Turbo Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "water"
         }
     ],
     "robot_core": "swift",
