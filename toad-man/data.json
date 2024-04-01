@@ -12,7 +12,7 @@
     "robot_image_size": 80,
     "robot_image_editor": "metalman",
     "robot_image_editor2": "brashbuster",
-    "robot_image_editor3": "",
+    "robot_image_editor3": "Rhythm",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -49,6 +49,12 @@
             "name": "Toad Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Toad Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "nature"
         }
     ],
     "robot_core": "water",
