@@ -43,6 +43,12 @@
             "name": "Pharaoh Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Pharaoh Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "electric"
         }
     ],
     "robot_core": "flame",
