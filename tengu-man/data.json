@@ -12,6 +12,7 @@
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "brashbuster",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -36,6 +37,12 @@
             "name": "Tengu Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Tengu Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "flame"
         }
     ],
     "robot_core": "wind",
