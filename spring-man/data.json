@@ -37,6 +37,12 @@
             "name": "Spring Man (Darkness Alt)",
             "summons": 900,
             "colour": "empty"
+        },
+        {
+            "token": "alt10",
+            "name": "Spring Man (Prototype Alt)",
+            "summons": 1000,
+            "colour": "cutter"
         }
     ],
     "robot_core": "impact",
