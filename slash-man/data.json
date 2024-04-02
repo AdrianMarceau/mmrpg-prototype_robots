@@ -5,13 +5,14 @@
     "robot_game": "MM7",
     "robot_field": "",
     "robot_field2": "preserved-forest",
-    "robot_support": "petit-snakey",
+    "robot_support": "eggalodon",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "slash-man",
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "maistir1234",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
