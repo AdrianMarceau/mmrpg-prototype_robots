@@ -1,10 +1,10 @@
 {
     "robot_token": "eggalodon",
-    "robot_number": "RPG-000",
+    "robot_number": "EGDN-001",
     "robot_name": "Eggalodon",
     "robot_game": "MM7",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "serpent-column",
     "robot_support": "",
     "robot_class": "mecha",
     "robot_gender": "none",
@@ -16,38 +16,49 @@
     "robot_image_alts": [],
     "robot_core": "nature",
     "robot_core2": "",
-    "robot_description": "Fightable Mecha",
-    "robot_description2": "",
-    "robot_energy": 50,
+    "robot_description": "Hatching Parasaur Mecha",
+    "robot_description2": "This little newborn mecha hangs out in its shell, all snug and comfy before the battle begins. Once an enemy appears, it finally cracks out to start its biting and chasing! They're quite feisty, so don't feel bad about punting the little guys.",
+    "robot_energy": 85,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 15,
+    "robot_defense": 80,
+    "robot_speed": 20,
+    "robot_weaknesses": [
+        "flame",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "time"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_immunities": [
+        "crystal"
+    ],
+    "robot_skill": "persist-submodule",
+    "robot_skill_name": "Sturdy Shell",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "buster-shot"
+            "token": "nature-shot"
+        },
+        {
+            "level": 0,
+            "token": "nature-buster"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "...",
-    "robot_quotes_taunt": "...",
-    "robot_quotes_victory": "...",
-    "robot_quotes_defeat": "...",
+    "robot_quotes_start": "TAMA! TAMA!",
+    "robot_quotes_taunt": "Tamago!",
+    "robot_quotes_victory": "Godon! Gooodon!",
+    "robot_quotes_defeat": "...ta...",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
