@@ -1,0 +1,68 @@
+{
+    "robot_token": "oni-robo",
+    "robot_number": "ONIR-001",
+    "robot_name": "Oni Robo",
+    "robot_game": "RnF",
+    "robot_field": "",
+    "robot_field2": "robosaur-boneyard",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "oni-robo",
+    "robot_image_size": 80,
+    "robot_image_editor": "",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "shadow",
+    "robot_core2": "",
+    "robot_description": "Mischievous Imp Mecha",
+    "robot_description2": "Also known as the devious Typhoon Goro mecha, the Oni Robo revels in getting together in gangs to harass and bother innocent people. Knowledgable enough to work wind-powered machinery, the Oni Robo once had a bright future ahead of it, but it seems it settled for becoming a delinquent.",
+    "robot_energy": 40,
+    "robot_weapons": 5,
+    "robot_attack": 85,
+    "robot_defense": 50,
+    "robot_speed": 25,
+    "robot_weaknesses": [
+        "freeze",
+        "explode"
+    ],
+    "robot_resistances": [
+        "laser"
+    ],
+    "robot_affinities": [
+        "wind"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "stat-boost-on-cores-nearby",
+    "robot_skill_name": "Ogre Gang",
+    "robot_skill_description": "The robot's attack stat is boosted when other shadow-core robots are nearby",
+    "robot_skill_description2": "The robot's attack stat is fired up and ready for violence when others of its core-type are nearby.",
+    "robot_skill_parameters": {
+        "cores": "shadow",
+        "stat": "attack",
+        "amount": 2
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "shadow-shot"
+        },
+        {
+            "level": 0,
+            "token": "shadow-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Oniiiiiiiii! Heeheehee!",
+    "robot_quotes_taunt": "ONI!",
+    "robot_quotes_victory": "Oni, oni, oni, oni!",
+    "robot_quotes_defeat": "Oni!!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
