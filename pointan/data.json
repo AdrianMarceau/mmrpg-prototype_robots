@@ -1,0 +1,63 @@
+{
+    "robot_token": "pointan",
+    "robot_number": "POIT-001",
+    "robot_name": "Pointan",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "electrical-tower",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "pointan",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "laser",
+    "robot_core2": "",
+    "robot_description": "Digital Cursor Mecha",
+    "robot_description2": "Compiled from wireless and wired junk data, Pointan is a mouse cursor enemy that roams and hides out in the vast digital network. They often disguise themselves and hide out in people's PCs, so trust no cursor - not even your own.",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 20,
+    "robot_defense": 70,
+    "robot_speed": 60,
+    "robot_weaknesses": [
+        "cutter",
+        "flame"
+    ],
+    "robot_resistances": [
+        "electric",
+        "time"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "electric-subcore",
+    "robot_skill_name": "Wired Connection",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "laser-shot"
+        },
+        {
+            "level": 0,
+            "token": "laser-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "... Pointan?",
+    "robot_quotes_taunt": "Tan.",
+    "robot_quotes_victory": "Pointannn.",
+    "robot_quotes_defeat": "......",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
