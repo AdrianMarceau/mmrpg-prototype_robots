@@ -5,13 +5,14 @@
     "robot_game": "RnF",
     "robot_field": "",
     "robot_field2": "power-plant",
-    "robot_support": "bulb-blaster",
+    "robot_support": "plasma-plus",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "dynamo-man",
     "robot_image_size": 80,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
