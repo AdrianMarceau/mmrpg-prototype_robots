@@ -17,7 +17,7 @@
     "robot_core": "flame",
     "robot_core2": "",
     "robot_description": "Solar Flower Mecha",
-    "robot_description2": "Ingeniously, the mecha modeled after a sunflower, Sola Rei, contains the ability to slowly gather and charge solar energy into a highly potent beam of energy! Theoretically, given enough advancements in solar harvesting, if the Sola Rei was able to efficiently utilize 100% of the sun's energy, its beam could melt planets.",
+    "robot_description2": "Ingeniously, the mecha modeled after a sunflower, Sola Rei, contains the ability to slowly gather and charge solar energy into a highly potent beam of energy! Theoretically, given enough advancements in solar harvesting, if the Sola Rei was able to efficiently utilize 100% of the sun's energy, its beam could melt through planets.",
     "robot_energy": 70,
     "robot_weapons": 5,
     "robot_attack": 50,
