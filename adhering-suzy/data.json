@@ -17,7 +17,7 @@
     "robot_core": "impact",
     "robot_core2": "",
     "robot_description": "Octopus Battery Mecha",
-    "robot_description2": "This barrier mecha was designed to monitor and watch over dangerous locations. Though small, they're able to cover a lot of ground by moving surface to surface.",
+    "robot_description2": "This barrier mecha was designed to monitor and watch over dangerous locations. Though small, they're able to cover a lot of ground by moving surface to surface. As always, the weakness for enemies like this is their eye.",
     "robot_energy": 50,
     "robot_weapons": 5,
     "robot_attack": 20,
