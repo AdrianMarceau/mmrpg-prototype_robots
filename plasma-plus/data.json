@@ -1,0 +1,68 @@
+{
+    "robot_token": "plasma-plus",
+    "robot_number": "PLPL-001",
+    "robot_name": "Plasma Plus",
+    "robot_game": "RnF",
+    "robot_field": "",
+    "robot_field2": "power-plant",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "plasma-plus",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "electric",
+    "robot_core2": "",
+    "robot_description": "Galvanic Twin Mecha",
+    "robot_description2": "This mecha, or rather mechas, work in tandem to flow and converge an electrical pulse in between the both of them to both manage power production and to block off restricted areas or access-ways. If one is destroyed, the electrical current is completely lost, so it actually has to spend its energy rebuilding its twin.",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 90,
+    "robot_defense": 35,
+    "robot_speed": 25,
+    "robot_weaknesses": [
+        "earth",
+        "missile",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "crystal",
+        "shadow"
+    ],
+    "robot_affinities": [
+        "electric"
+    ],
+    "robot_immunities": [],
+    "robot_skill": "wellspring-submodule",
+    "robot_skill_name": "Circuit Synergy",
+    "robot_skill_description": "Reduces the cost of its team's Electric-type abilities to only one unit",
+    "robot_skill_description2": "The mecha's combined electrical current reduces the cost of its team's Electric-type abilities to only one unit.",
+    "robot_skill_parameters": {
+        "type": "electric"
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "electric-shot"
+        },
+        {
+            "level": 0,
+            "token": "electric-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Purazuma! Purasu!",
+    "robot_quotes_taunt": "Purasu.. Purazuma!",
+    "robot_quotes_victory": "Purasumainasu! Purazu!",
+    "robot_quotes_defeat": "Rasu..? Razuma....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
