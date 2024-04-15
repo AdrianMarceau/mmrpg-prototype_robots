@@ -101,7 +101,8 @@
         "group_child_tokens": [
             "curlinger",
             "kabuton",
-            "colton"
+            "colton",
+            "ben-k"
         ]
     },
     "MM07": {
@@ -119,7 +120,9 @@
         "group_token": "MM08",
         "group_order": 9,
         "group_child_tokens": [
-            "cline"
+            "cline",
+            "oni-robo",
+            "plasma-plus"
         ]
     },
     "MM09": {
@@ -139,6 +142,7 @@
         "group_order": 11,
         "group_child_tokens": [
             "frosty-throwman",
+            "pointan",
             "pitchan",
             "sola-rei"
         ]
