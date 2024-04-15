@@ -1,0 +1,66 @@
+{
+    "robot_token": "ben-k",
+    "robot_number": "BENK-000",
+    "robot_name": "Ben K",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "construction-site",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "ben-k",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Warrior Monk Mecha",
+    "robot_description2": "Modeled after the great Japanese warrior Saito Musashibo Benkei, it's often played the role of gate guards or sentries in many Japanese dramas and plays. The Ben K travels far and wide, collecting the weapons of the greatest warriors out there to add its own personal collection.",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 45,
+    "robot_defense": 95,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "earth",
+        "shield"
+    ],
+    "robot_resistances": [
+        "swift",
+        "missile"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "stat-boost-on-knockout",
+    "robot_skill_name": "Weapon Scavenger",
+    "robot_skill_description": "Boosts the robot's attack upon disabling a target",
+    "robot_skill_description2": "For every enemy this mecha beats, it automatically boosts their attack stat every time.",
+    "robot_skill_parameters": {
+        "stat": "attack",
+        "amount": 1
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "cutter-shot"
+        },
+        {
+            "level": 0,
+            "token": "cutter-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": ".... Ben K.",
+    "robot_quotes_taunt": "....... Ben K.",
+    "robot_quotes_victory": ".. Ben K.",
+    "robot_quotes_defeat": ".... K.",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
