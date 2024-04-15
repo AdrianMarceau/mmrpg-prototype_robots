@@ -5,7 +5,7 @@
     "robot_game": "MM10",
     "robot_field": "",
     "robot_field2": "power-plant",
-    "robot_support": "elec-n",
+    "robot_support": "pointan",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "sheep-man",
