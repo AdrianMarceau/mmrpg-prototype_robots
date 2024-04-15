@@ -17,7 +17,7 @@
     "robot_core": "wind",
     "robot_core2": "",
     "robot_description": "Segmented Dragon Mecha",
-    "robot_description2": "The Kurain is modeled after the dragons of Chinese mythology, set for fearsome battle in high altitudes above. Its tail segments are for intimidation, and in actuality, destroying these will only allow the Kurain to travel even faster.",
+    "robot_description2": "The Cline is modeled after the dragons of Chinese mythology, set for fearsome battle in high altitudes above. Its tail segments are for intimidation, and in actuality, destroying these will only allow the Cline to travel even faster.",
     "robot_energy": 40,
     "robot_weapons": 5,
     "robot_attack": 70,
