@@ -18,11 +18,11 @@
     "robot_core2": "",
     "robot_description": "Multifaceted Battle Block",
     "robot_description2": "Weapon Archivists hail from the aptly-named Weapons Archive, a facility built by Dr. Wily and integrated into one of his legendary castles during the crescendo of the Wily Wars.  Put simply, the Weapons Archive is a room with all the Special Weapon data from all the Robot Masters that the doctor had encountered up until that point in history.  The Weapon Archivists, acting as multifaceted battle blocks and protectors of the facility, would fly toward any intruders and attack them with the weapon of one Robot Master.  In their original configuration, the Weapon Archivists fought in teams of three and remained within the room itself, but here in Prototype they appear to have multiplied and spread to locations far beyond their origin domain.  Fortunately, whenever a Weapon Archivist takes on the powers of a robot master it also takes on their weaknesses, allowing would-be victims to fight back and maybe even knock some cores out of them.",
-    "robot_energy": 50,
+    "robot_energy": 70,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
+    "robot_attack": 20,
+    "robot_defense": 80,
+    "robot_speed": 30,
     "robot_weaknesses": [
         "shield",
         "laser"
