@@ -55,11 +55,11 @@
     "robot_core2": "",
     "robot_description": "Enslaved Energy Sentry",
     "robot_description2": "It is unclear as to whether these floating sentries are a modification of the original Heal-Bot design, an upgrade to the hijacked Heel-Bot line, or something new entirely.  What is known is that the Trille-Bot possess an incredible amount of alien energy brimming within their cores.  Trille-Bot rarely attack their target directly, instead opting to support their master from the bench with healing, stat boosts, and other assistive measures.  Despite lacking a visible mouth, these support mecha still manage to convey a tale of sadness through their eyes.",
-    "robot_energy": 100,
+    "robot_energy": 90,
     "robot_weapons": 10,
-    "robot_attack": 40,
-    "robot_defense": 40,
-    "robot_speed": 40,
+    "robot_attack": 30,
+    "robot_defense": 30,
+    "robot_speed": 50,
     "robot_weaknesses": [
         "flame",
         "freeze"
