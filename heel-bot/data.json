@@ -18,11 +18,11 @@
     "robot_core2": "",
     "robot_description": "Really Scary Mecha",
     "robot_description2": "These poor Heal-Bots seem to have been corrupted - so, most likely, Dr. Wily's handiwork. The Heel-Bots appear to feature all the same capabilities of their sibling Heal-Bots, though curiously their healing matrixes have been completely destabilized and fried. They're nowhere near as innocent, either; they can be seen loitering, leaving shopping carts in the  parking lot, and not using their turn signals when turning. In other words, absolute evil.",
-    "robot_energy": 75,
+    "robot_energy": 60,
     "robot_weapons": 5,
-    "robot_attack": 35,
-    "robot_defense": 30,
-    "robot_speed": 60,
+    "robot_attack": 40,
+    "robot_defense": 20,
+    "robot_speed": 80,
     "robot_weaknesses": [
         "shield",
         "crystal"
