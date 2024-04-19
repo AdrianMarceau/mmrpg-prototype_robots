@@ -18,10 +18,10 @@
     "robot_core2": "",
     "robot_description": "Happy Healing Mecha",
     "robot_description2": "These Heal-Bots were developed and meant to act as little helpful hackers around the Prototype, maintaining and upkeeping the servers of the Prototype. Unfortunately, due to the recent disturbances, they've become scattered and lost all throughout the digital world, and without their support, bugs have begun to form and pop up across the Prototype. They're very cheery creatures, though awfully familiar, right?",
-    "robot_energy": 75,
+    "robot_energy": 80,
     "robot_weapons": 5,
-    "robot_attack": 30,
-    "robot_defense": 35,
+    "robot_attack": 20,
+    "robot_defense": 40,
     "robot_speed": 60,
     "robot_weaknesses": [
         "laser",
