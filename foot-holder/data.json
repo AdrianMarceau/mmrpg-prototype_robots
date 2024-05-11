@@ -1,0 +1,65 @@
+{
+    "robot_token": "foot-holder",
+    "robot_number": "FTHD-000",
+    "robot_name": "Foot Holder",
+    "robot_game": "MM1",
+    "robot_field": "",
+    "robot_field2": "arctic-jungle",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "foot-holder",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Transportation Platform Mecha",
+    "robot_description2": "When Dr. Wily began his first go at world domination, he cherished the ingeniously-designed Foot Holders for their usefulness in transporting heavy cargo across vast distances and chasms. They were, in fact, so good at their jobs that they accidentally helped carry Mega Man across all of Wily's meticulously designed traps and lairs. They are now on Dr. Wily's list of officially-banned mechas.",
+    "robot_energy": 70,
+    "robot_weapons": 5,
+    "robot_attack": 25,
+    "robot_defense": 70,
+    "robot_speed": 35,
+    "robot_weaknesses": [
+        "time",
+        "shadow",
+        "missile"
+    ],
+    "robot_resistances": [
+        "explode",
+        "freeze",
+        "electric"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "transport-submodule",
+    "robot_skill_name": "Elevator Action",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "wind-shot"
+        },
+        {
+            "level": 0,
+            "token": "wind-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Futto-futto-futto-futto-futto.....",
+    "robot_quotes_taunt": "Futto-futto-horuda!",
+    "robot_quotes_victory": "Futto-futto-futto-futto-futto-futto-futto....",
+    "robot_quotes_defeat": "Horuda-ruda-ruda-ruda...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
