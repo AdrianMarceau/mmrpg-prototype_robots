@@ -1,0 +1,63 @@
+{
+    "robot_token": "gockroach-s",
+    "robot_number": "GKRC-001",
+    "robot_name": "Gockroach S",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "oil-wells",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "gockroach-s",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Primitive Cockroach Mecha",
+    "robot_description2": "These little insect mechas were based off of the coackroaches in Dr. Wily's prison cell, the only friends he had. He loved them so much he wanted to sell Gockroaches for people all around the world to enjoy. These mechas aren't that tough, but they like to pick up trash and scrap to make up large Gockroach nests.",
+    "robot_energy": 40,
+    "robot_weapons": 5,
+    "robot_attack": 70,
+    "robot_defense": 20,
+    "robot_speed": 70,
+    "robot_weaknesses": [
+        "electric",
+        "nature"
+    ],
+    "robot_resistances": [
+        "explode",
+        "laser"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "construction-submodule",
+    "robot_skill_name": "Nest Construction",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "earth-shot"
+        },
+        {
+            "level": 0,
+            "token": "earth-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Gokki... Gokki...",
+    "robot_quotes_taunt": "Esu rochi!",
+    "robot_quotes_victory": "Rochi, gokki, gokki.",
+    "robot_quotes_defeat": "Rochi...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
