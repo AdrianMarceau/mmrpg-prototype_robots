@@ -1,0 +1,63 @@
+{
+    "robot_token": "arc-weldy",
+    "robot_number": "ARWD-001",
+    "robot_name": "Arc Weldy",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "steel-mill",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "arc-weldy",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Contemplative Welding Mecha",
+    "robot_description2": "Due to a slightly cheaper CPU, Arc Weldy doesn't really care about defeating Mega Man, it just wants to weld all day. It's a nice enough little robot, but you can't help but wonder about that sad look in its eyes...",
+    "robot_energy": 60,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 60,
+    "robot_speed": 20,
+    "robot_weaknesses": [
+        "flame",
+        "water"
+    ],
+    "robot_resistances": [
+        "electric",
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "flame-subcore",
+    "robot_skill_name": "Forge Welding",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "cutter-shot"
+        },
+        {
+            "level": 0,
+            "token": "cutter-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Aku...",
+    "robot_quotes_taunt": "Handa...",
+    "robot_quotes_victory": "Aku.",
+    "robot_quotes_defeat": "Handa..?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
