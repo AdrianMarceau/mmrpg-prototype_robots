@@ -1,0 +1,67 @@
+{
+    "robot_token": "fooley",
+    "robot_number": "FLCL-001",
+    "robot_name": "Fooley",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "clock-citadel",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "fooley",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "time",
+    "robot_core2": "",
+    "robot_description": "Temporal Pendulum Mecha",
+    "robot_description2": "Fooley's a powerful mecha that belongs to the Stardroids' army. It looks unassuming, but with the power of its pendulum building up as it goes back and forth, it unleashes a mighty temporal field that completely slows down time not unlike Time Man's ability.",
+    "robot_energy": 40,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 70,
+    "robot_speed": 30,
+    "robot_weaknesses": [
+        "time",
+        "laser",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "space",
+        "explode"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "field-boost-at-end-of-turn",
+    "robot_skill_name": "Time Skimmer",
+    "robot_skill_description": "Boosts the Time-type field multiplier every turn",
+    "robot_skill_description2": "As its pendulum swings, the robot boosts the Time-type field multiplier at the end of each turn.",
+    "robot_skill_parameters": {
+        "type": "time",
+        "amount": 0.2
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "time-shot"
+        },
+        {
+            "level": 0,
+            "token": "time-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Furi?",
+    "robot_quotes_taunt": "Fuuuuuuuri!",
+    "robot_quotes_victory": "Furi? Kuri?",
+    "robot_quotes_defeat": "Fufufufuri!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
