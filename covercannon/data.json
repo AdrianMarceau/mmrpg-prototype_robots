@@ -1,0 +1,65 @@
+{
+    "robot_token": "covercannon",
+    "robot_number": "CVCN-001",
+    "robot_name": "Covercannon",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "submerged-armory",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "covercannon",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Mobile Cannon Mecha",
+    "robot_description2": "These Covercannons were present during the initial stages of the infamous Stardroid invasion of Earth. They hide firing artillery from afar, then jump out to surprise enemies coming in hot. They seem a lot like Mets - maybe they're cousins?",
+    "robot_energy": 40,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 80,
+    "robot_speed": 20,
+    "robot_weaknesses": [
+        "shield",
+        "time",
+        "earth"
+    ],
+    "robot_resistances": [
+        "shield"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "missile"
+    ],
+    "robot_skill": "defense-assist-submodule",
+    "robot_skill_name": "Helmet Head",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "missile-shot"
+        },
+        {
+            "level": 0,
+            "token": "missile-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Fukuhon!",
+    "robot_quotes_taunt": "Fukufukufuku!",
+    "robot_quotes_victory": "Ho ho ho!",
+    "robot_quotes_defeat": "Fuku....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
