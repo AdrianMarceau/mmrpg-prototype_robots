@@ -1,0 +1,65 @@
+{
+    "robot_token": "goriblue",
+    "robot_number": "GRIB-000",
+    "robot_name": "Goriblue",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "pipe-station",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "goriblue",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Hefty Gorilla Mecha",
+    "robot_description2": "Produced as a part of a series, the Gori-Threes were powerful gorilla-like mechas that specialized in throwing all sorts of different objects, from bombs, boulders, spikes, and yoga balls. Being so proud of his genius, Dr. Wily even developed a giant Gori-Three that was compatible with weaponized Evil Energy to guard his volcanic Wily Tower. This time, he knew with complete, utter 100% certainty Mega Man would be destroyed - unfortunately, he just forgot to account for any super robo-cops from outer space.",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 55,
+    "robot_defense": 85,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "impact",
+        "freeze",
+        "shield"
+    ],
+    "robot_resistances": [
+        "explode",
+        "cutter",
+        "crystal"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "impact-subcore",
+    "robot_skill_name": "Keen Kong",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "explode-shot"
+        },
+        {
+            "level": 0,
+            "token": "explode-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "GO!",
+    "robot_quotes_taunt": "GORI!",
+    "robot_quotes_victory": "BU, BU, RU!",
+    "robot_quotes_defeat": "SU.. RI..",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
