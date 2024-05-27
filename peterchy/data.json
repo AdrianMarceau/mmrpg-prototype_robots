@@ -1,0 +1,63 @@
+{
+    "robot_token": "peterchy",
+    "robot_number": "PRCY-001",
+    "robot_name": "Peterchy",
+    "robot_game": "MM3",
+    "robot_field": "",
+    "robot_field2": "spinning-greenhouse",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "peterchy",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Orbital Reconnaissance Mecha",
+    "robot_description2": "The Peterchy mechas served as useful reconnaissance tools for Dr. Wily to stay updated on Mega Man's progress. They're not really good for much else besides spying on people, though.",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 40,
+    "robot_defense": 85,
+    "robot_speed": 25,
+    "robot_weaknesses": [
+        "swift",
+        "time"
+    ],
+    "robot_resistances": [
+        "explode",
+        "missile"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "defense-assist-submodule",
+    "robot_skill_name": "Watchful Eye",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "swift-shot"
+        },
+        {
+            "level": 0,
+            "token": "swift-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Pet...",
+    "robot_quotes_taunt": "Pet.. pet...",
+    "robot_quotes_victory": "Pet... petaki...",
+    "robot_quotes_defeat": "PETA! TAKI!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
