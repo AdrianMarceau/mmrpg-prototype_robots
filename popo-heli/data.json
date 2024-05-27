@@ -1,0 +1,65 @@
+{
+    "robot_token": "popo-heli",
+    "robot_number": "POHL-001",
+    "robot_name": "Popo Heli",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "steel-mill",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "popo-heli",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Flying Flamethrower Mecha",
+    "robot_description2": "Popo Heli Mechas are pretty nimble enemies, swooping in to ambush a target before lighting them aflame with a miniature mobile flamethrower. They carry welding face-shields to protect them from their own output, but beyond that they're pretty frail all things considered.",
+    "robot_energy": 10,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 50,
+    "robot_speed": 80,
+    "robot_weaknesses": [
+        "water",
+        "laser",
+        "shield"
+    ],
+    "robot_resistances": [
+        "explode",
+        "swift",
+        "crystal"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "sanitation-submodule",
+    "robot_skill_name": "Flamethrower Removal",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "flame-shot"
+        },
+        {
+            "level": 0,
+            "token": "flame-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Heri heri!",
+    "robot_quotes_taunt": "Bobo, bobo, bobo!",
+    "robot_quotes_victory": "He-he-he-heri!",
+    "robot_quotes_defeat": "Bobobobobobobo....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
