@@ -122,6 +122,7 @@
         "group_order": 9,
         "group_child_tokens": [
             "cline",
+            "goriblue",
             "plasma-plus",
             "oni-robo",
             "romper"
@@ -135,6 +136,7 @@
             "octone",
             "diaymon",
             "petal-anne",
+            "popo-heli",
             "adamski"
         ]
     },
@@ -143,6 +145,7 @@
         "group_token": "MM10",
         "group_order": 11,
         "group_child_tokens": [
+            "merserker",
             "frosty-throwman",
             "pointan",
             "pitchan",
@@ -186,8 +189,17 @@
         "group_order": 15,
         "group_child_tokens": [
             "adhering-suzy",
-            "big-eye",
             "foot-holder",
+            "peterchy",
+            "upndown"
+        ]
+    },
+    "MM000E": {
+        "group_class": "mecha",
+        "group_token": "MM000E",
+        "group_order": 16,
+        "group_child_tokens": [
+            "big-eye",
             "power-muscler",
             "weapon-archivist"
         ]
@@ -195,7 +207,7 @@
     "MMRPG2": {
         "group_class": "mecha",
         "group_token": "MMRPG2",
-        "group_order": 16,
+        "group_order": 17,
         "group_child_tokens": [
             "heal-bot",
             "heel-bot",
@@ -205,7 +217,7 @@
     "MMRPG3": {
         "group_class": "mecha",
         "group_token": "MMRPG3",
-        "group_order": 17,
+        "group_order": 18,
         "group_child_tokens": [
             "dark-frag"
         ]
@@ -213,7 +225,7 @@
     "MMRPG4": {
         "group_class": "mecha",
         "group_token": "MMRPG4",
-        "group_order": 18,
+        "group_order": 19,
         "group_child_tokens": [
             "rush",
             "treble",
