@@ -1,0 +1,65 @@
+{
+    "robot_token": "upndown",
+    "robot_number": "UPDW-001",
+    "robot_name": "Up'n'Down",
+    "robot_game": "MM4",
+    "robot_field": "",
+    "robot_field2": "rusty-scrapheap",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "upndown",
+    "robot_image_size": 40,
+    "robot_image_editor": "bt1229",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Aerial Sprinkler Mecha",
+    "robot_description2": "These little mechabit Mechas were developed by Cossack Robot Laboratories as irrigation sprinklers, watering agricultural areas through the use of their industrial vents. Usually, they attack by jumping up from bottomless pits, but seeing as the Prototype doesn't really have much of those, they're pretty harmless.",
+    "robot_energy": 25,
+    "robot_weapons": 5,
+    "robot_attack": 65,
+    "robot_defense": 25,
+    "robot_speed": 85,
+    "robot_weaknesses": [
+        "time",
+        "shadow",
+        "nature"
+    ],
+    "robot_resistances": [
+        "laser",
+        "explode",
+        "crystal"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "water-subcore",
+    "robot_skill_name": "Irrigation Sprinkler",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "wind-shot"
+        },
+        {
+            "level": 0,
+            "token": "wind-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Appu, appu!",
+    "robot_quotes_taunt": "Daun, daun!",
+    "robot_quotes_victory": "Appu, daun, appu, daun!",
+    "robot_quotes_defeat": "Daun.. daun.. daun...!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
