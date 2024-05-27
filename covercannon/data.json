@@ -24,7 +24,7 @@
     "robot_defense": 80,
     "robot_speed": 20,
     "robot_weaknesses": [
-        "shield",
+        "nature",
         "time",
         "earth"
     ],
