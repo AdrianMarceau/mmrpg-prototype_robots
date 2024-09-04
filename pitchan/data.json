@@ -13,7 +13,20 @@
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Pitchan (Cubs Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Pitchan (Red Sock Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "impact",
     "robot_core2": "",
     "robot_description": "Automated Pitcher Mecha",
