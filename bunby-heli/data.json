@@ -1,0 +1,78 @@
+{
+    "robot_token": "bunby-heli",
+    "robot_number": "BNHL-000",
+    "robot_name": "Bunby Heli",
+    "robot_game": "MM1",
+    "robot_field": "",
+    "robot_field2": "sky-ridge",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "bunby-heli",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Bunby Heli (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Bunby Heli (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Aerial Drone Mecha",
+    "robot_description2": "They're commonly called Bunbys or Bladers, but you can call them annoying! They were designed for military use as reconnaissance drones, but they're brave little mechas, and when caught they'll swarm and swat at you until there isn't much left to look at.",
+    "robot_energy": 20,
+    "robot_weapons": 5,
+    "robot_attack": 80,
+    "robot_defense": 20,
+    "robot_speed": 80,
+    "robot_weaknesses": [
+        "freeze",
+        "missile",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "explode",
+        "cutter",
+        "shield"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "hyperscan-submodule",
+    "robot_skill_name": "Aerial Reconnaissance",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "wind-shot"
+        },
+        {
+            "level": 0,
+            "token": "wind-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Bunbi, bunbi!",
+    "robot_quotes_taunt": "Heri!",
+    "robot_quotes_victory": "Bunbi, bunbi, bunbi, he-he-he!",
+    "robot_quotes_defeat": "Bun?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
