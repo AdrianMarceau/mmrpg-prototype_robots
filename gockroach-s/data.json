@@ -13,7 +13,20 @@
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Gockroach S (Ooze Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Gockroach S (Nocturnal Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "earth",
     "robot_core2": "",
     "robot_description": "Primitive Cockroach Mecha",
