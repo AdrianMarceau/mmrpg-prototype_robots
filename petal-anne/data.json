@@ -13,7 +13,26 @@
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Petal Anne (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Petal Anne (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        },
+        {
+            "token": "alt3",
+            "name": "Petal Anne (4th Gen)",
+            "summons": 300,
+            "colour": "none"
+        }
+    ],
     "robot_core": "nature",
     "robot_core2": "",
     "robot_description": "Flower Clock Mecha",
