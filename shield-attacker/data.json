@@ -13,7 +13,20 @@
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Shield Attacker (GTR Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Shield Attacker (TRL Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "shield",
     "robot_core2": "",
     "robot_description": "Barrier Blitzing Mecha",
