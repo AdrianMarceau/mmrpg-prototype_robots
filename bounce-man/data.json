@@ -5,13 +5,14 @@
     "robot_game": "MM11",
     "robot_field": "",
     "robot_field2": "spinning-greenhouse",
-    "robot_support": "spin-fiend",
+    "robot_support": "tosanaizer-v",
     "robot_class": "master",
     "robot_gender": "male",
     "robot_image": "bounce-man",
     "robot_image_size": 80,
     "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
