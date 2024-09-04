@@ -1,0 +1,76 @@
+{
+    "robot_token": "tosanaizer-v",
+    "robot_number": "TSNV-000",
+    "robot_name": "Tosanaizer V",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "spinning-greenhouse",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "tosanaizer-v",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Tosanaizer V (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Tosanaizer V (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Pit Protection Mecha",
+    "robot_description2": "This robot is a member of the safety staff and security at Boing-Boing Park, meant to protect people from jumping across pits. Tosanaizer V comes equipped with both sponge and metal hand variants. With no bottomless pits in the Prototype, they've lost their purpose in life - what is life without really high death hazards?",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 40,
+    "robot_defense": 80,
+    "robot_speed": 50,
+    "robot_weaknesses": [
+        "time",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "shield",
+        "explode"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "bulwark-submodule",
+    "robot_skill_name": "They Shall Not Pass",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "swift-shot"
+        },
+        {
+            "level": 0,
+            "token": "swift-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "T\u014dsanai zo!",
+    "robot_quotes_taunt": "T\u014dsanai zo...",
+    "robot_quotes_victory": "T\u014dsanai zo! T\u014dsanai zo!",
+    "robot_quotes_defeat": "T\u014dsa sete itadakimasu...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
