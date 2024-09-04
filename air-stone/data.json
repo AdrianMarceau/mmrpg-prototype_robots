@@ -13,7 +13,20 @@
     "robot_image_editor": "sorenpesic",
     "robot_image_editor2": "",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Air Stone (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Air Stone (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "earth",
     "robot_core2": "",
     "robot_description": "Camouflaged Explosive Mecha",
@@ -37,7 +50,7 @@
         "explode"
     ],
     "robot_skill": "tenacity-submodule",
-    "robot_skill_name": "Rock Solid",
+    "robot_skill_name": "Stealth Rock",
     "robot_skill_description": "The robot deals Earth type damage without resistance",
     "robot_skill_description2": "The robot seeks to catch the opponent by surprise, dealing Earth type damage without regard to any resistances.",
     "robot_skill_parameters": {
