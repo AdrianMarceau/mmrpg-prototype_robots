@@ -13,7 +13,20 @@
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Adamski (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Adamski (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "space",
     "robot_core2": "",
     "robot_description": "Orbiting UFO Mecha",
