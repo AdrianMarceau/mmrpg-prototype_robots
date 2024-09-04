@@ -13,7 +13,32 @@
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "adrianmarceau",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Heal-Bot (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Heal-Bot (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        },
+        {
+            "token": "alt3",
+            "name": "Heal-Bot (Proto Gen)",
+            "summons": 300,
+            "colour": "none"
+        },
+        {
+            "token": "alt4",
+            "name": "Heal-Bot (Golden Gen)",
+            "summons": 400,
+            "colour": "none"
+        }
+    ],
     "robot_core": "",
     "robot_core2": "",
     "robot_description": "Happy Healing Mecha",
