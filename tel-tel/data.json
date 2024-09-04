@@ -1,0 +1,80 @@
+{
+    "robot_token": "tel-tel",
+    "robot_number": "TLTL-000",
+    "robot_name": "Tel Tel",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "arctic-jungle",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "tel-tel",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Tel Tel (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Tel Tel (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "freeze",
+    "robot_core2": "",
+    "robot_description": "Weather Doll Mecha",
+    "robot_description2": "Dr. Wily was inspired to create a mecha based on the teru teru b\u014dzu, a traditional Japanese cloth doll meant to bring out good weather - Wily took this literally! By absorbing moisture at high altitudes, it effectively seeds the clouds to make it rain! But if it takes in a cool breeze, it accidentally makes it snow instead...",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 20,
+    "robot_defense": 90,
+    "robot_speed": 40,
+    "robot_weaknesses": [
+        "nature",
+        "shadow",
+        "laser"
+    ],
+    "robot_resistances": [
+        "explode",
+        "electric"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "field-boost-at-end-of-turn",
+    "robot_skill_name": "Weather Forecast",
+    "robot_skill_description": "Boosts the Nature-type field multiplier every turn",
+    "robot_skill_description2": "The robot boosts the Water-type field multiplier at the end of each turn as it makes the weather rainy",
+    "robot_skill_parameters": {
+        "type": "water",
+        "amount": 0.2
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "freeze-shot"
+        },
+        {
+            "level": 0,
+            "token": "freeze-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Teru, teru, teru, teru, teru...",
+    "robot_quotes_taunt": "Teru teru, teru teru, teru, teru...",
+    "robot_quotes_victory": "T-T-Teru, t-teru...",
+    "robot_quotes_defeat": "Te.. ru.. te.. ru.. ru...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
