@@ -13,7 +13,20 @@
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Bui Boi (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Bui Boi (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "water",
     "robot_core2": "",
     "robot_description": "Ocean Buoy Mecha",
