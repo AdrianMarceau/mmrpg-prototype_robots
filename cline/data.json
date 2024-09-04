@@ -13,7 +13,20 @@
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Cline (G-Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Cline (P-Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "wind",
     "robot_core2": "",
     "robot_description": "Segmented Dragon Mecha",
