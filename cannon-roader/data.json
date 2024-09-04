@@ -1,0 +1,78 @@
+{
+    "robot_token": "cannon-roader",
+    "robot_number": "CNRD-000",
+    "robot_name": "Cannon Roader",
+    "robot_game": "MMV",
+    "robot_field": "",
+    "robot_field2": "underground-laboratory",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "cannon-roader",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Cannon Roader (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Cannon Roader (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Rocket Racing Mecha",
+    "robot_description2": "Partnering with the Stardroids brought Dr. Wily an near-infinite recorded history of intergalactic knowledge and teachings all to be used to his sinister disposal - with the power of all this knowledge, he was able to perfect his roader mechas by.... putting a rocket on them! This made them so much faster, but also a lot more clumsy...",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 105,
+    "robot_defense": 10,
+    "robot_speed": 55,
+    "robot_weaknesses": [
+        "crystal",
+        "nature",
+        "space"
+    ],
+    "robot_resistances": [
+        "explode",
+        "missile",
+        "laser"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "speed-assist-submodule",
+    "robot_skill_name": "Rocket Power",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "swift-shot"
+        },
+        {
+            "level": 0,
+            "token": "swift-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Ro, ro, rodaa!",
+    "robot_quotes_taunt": "Kyan!",
+    "robot_quotes_victory": "Kyanon! Roda! Roda! Kyaaa...",
+    "robot_quotes_defeat": "Kyaaaaaaa!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
