@@ -10,10 +10,23 @@
     "robot_gender": "none",
     "robot_image": "oni-robo",
     "robot_image_size": 80,
-    "robot_image_editor": "",
+    "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Oni Robo (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Oni Robo (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "shadow",
     "robot_core2": "",
     "robot_description": "Mischievous Imp Mecha",
