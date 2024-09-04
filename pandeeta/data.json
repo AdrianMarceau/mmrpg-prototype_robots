@@ -1,0 +1,80 @@
+{
+    "robot_token": "pandeeta",
+    "robot_number": "PDTA-000",
+    "robot_name": "Pandeeta",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "pandeeta",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Pandeeta (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Pandeeta (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "wind",
+    "robot_core2": "",
+    "robot_description": "Circus Panda Mecha",
+    "robot_description2": "Developed as an ethical (and cheap) alternative to the use of live animals in circuses, these mechas were bought in surplus for the First Annual Robot Tournament. Their groundbreaking artificial intelligence makes their thinking completely indistinguishable from real pandas -- for example, though their boosters grant them the ability to fly, they have no idea how - just like a real panda.",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 80,
+    "robot_defense": 60,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "wind",
+        "time",
+        "missile"
+    ],
+    "robot_resistances": [
+        "swift",
+        "explode",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "drowsing-submodule",
+    "robot_skill_name": "Panda Destress",
+    "robot_skill_description": "The robot recovers lost health by resting at the end of a turn",
+    "robot_skill_description2": "The robot recovers lost health by napping at the end of any turn it can, but loses speed in the process.",
+    "robot_skill_parameters": {
+        "stat": "speed"
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "wind-shot"
+        },
+        {
+            "level": 0,
+            "token": "wind-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Pan... pan... pan...",
+    "robot_quotes_taunt": "DITA!",
+    "robot_quotes_victory": "Panpan, dita, dita, dita, pan...",
+    "robot_quotes_defeat": "Pa--?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
