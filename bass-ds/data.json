@@ -12,11 +12,12 @@
     "robot_image_size": 40,
     "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "megaboyx",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "shadow",
     "robot_core2": "",
     "robot_description": "Dark Soul Robot",
-    "robot_description2": "",
+    "robot_description2": "Seriously - as far as trouble goes, one Bass is enough. As Slur's control of the Prototype continues to twist and contort its programming, this dark impostor appears to have been born within the abyss of corruption consuming the system. A wretched reflection, the dark soul robot has all the capabilities of its original, but magnified and enriched by Slur's dark power. Its only desire, its only drive, to wipe out and absorb the data of Bass, in some self-righteous crusade to set the world right by truly becoming the strongest robot. In the final stages of our quest, this dark soul will surely stand against the doctors - there's no other choice, than to fight.",
     "robot_energy": 130,
     "robot_weapons": 20,
     "robot_attack": 110,
@@ -61,19 +62,19 @@
         },
         {
             "level": 0,
-            "token": "quick-boomerang"
-        },
-        {
-            "level": 0,
             "token": "crash-bomber"
         },
         {
             "level": 0,
-            "token": "flash-stopper"
+            "token": "atomic-fire"
         },
         {
             "level": 0,
-            "token": "atomic-fire"
+            "token": "quick-boomerang"
+        },
+        {
+            "level": 0,
+            "token": "flash-stopper"
         },
         {
             "level": 0,
