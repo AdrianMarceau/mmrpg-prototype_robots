@@ -1,0 +1,81 @@
+{
+    "robot_token": "molier",
+    "robot_number": "MLER-001",
+    "robot_name": "Molier",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "mineral-quarry",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "molier",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Molier (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Molier (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "earth",
+    "robot_core2": "",
+    "robot_description": "Construction Tank Mecha",
+    "robot_description2": "An engineering robot made to drill holes for the construction of secret bases. Not particularly useful, unless you're the type of guy who enjoys scheming and building evil lairs in your spare time.",
+    "robot_energy": 40,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 40,
+    "robot_speed": 60,
+    "robot_weaknesses": [
+        "crystal",
+        "nature",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "cutter",
+        "flame",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "field-boost-at-end-of-turn",
+    "robot_skill_name": "Heaven-Piercing Drill",
+    "robot_skill_description": "Boosts the Earth-type field multiplier every turn",
+    "robot_skill_description2": "The robot boosts the Nature-type field multiplier at the end of each turn as it excavates.",
+    "robot_skill_parameters": {
+        "type": "earth",
+        "amount": 0.2
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "earth-shot"
+        },
+        {
+            "level": 0,
+            "token": "earth-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Mo-mo-mo-mo-mo...",
+    "robot_quotes_taunt": "MORRRYA!",
+    "robot_quotes_victory": "Mo-mo-mo-mo-mo-mo-mo...",
+    "robot_quotes_defeat": "Rrrrrrr....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
