@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -47,7 +48,7 @@
     "robot_core": "",
     "robot_core2": "",
     "robot_description": "Loyal Apprentice Robot",
-    "robot_description2": "With his frustrations throughout the years, Dr. Wily could only ponder what it was about Dr. Light that allowed him to prevail each and every time: he created a parallel for both Mega Man and Rush in the form of Bass and Treble, yet they only served to be a thorn in his side. With each conclusion, Dr. Wily's mind was brought back to one scene; an infected Roll sacrificing her medicine for the sake of preserving Mega Man's well-being. He quickly realized he needed a robot who had that exact same sense of loyalty towards him, a parallel to Roll who can stand behind him for his world domination conquest-- A right-hand man...no, woman! Disco is an apprentice robot built by Dr. Wily to be his perfect analogue to Roll, for the sake of providing obedience and loyalty in ways that Bass never could. Opposite to the way Roll specializes in boost and support abilities, Disco specializes in break and assault abilities, lowering her targets' stats to dangerously low levels in short time and setting them up for a prompt defeat. Much like her brother robot's feelings toward Mega Man, Disco has a deeply rooted rivalry with Roll and will use any opportunity to flaunt her battle prowess in Roll's presence. It doesn't appear to bother her logic that she owes her entire conception to Roll, but believed superiority over their righteous counterparts seems to be a running theme with the Wily family, doesn't it?",
+    "robot_description2": "With his frustrations throughout the years, Dr. Wily could only ponder what it was about Dr. Light that allowed him to prevail each and every time: he created a parallel for both Mega Man and Rush in the form of Bass and Treble, yet they only served to be a thorn in his side. With each conclusion, Dr. Wily's mind was brought back to one scene; an infected Roll sacrificing her medicine for the sake of preserving Mega Man's well-being. He quickly realized he needed a robot who had that exact same sense of loyalty towards him, a parallel to Roll who can stand behind him for his world domination conquest-- A right-hand man...no, woman! Disco is an apprentice robot built by Dr. Wily to be his perfect analogue to Roll, for the sake of providing obedience and loyalty in ways that Bass never could. Opposite to the way Roll specializes in boost and support abilities, Disco specializes in break and assault abilities, lowering her targets' stats to dangerously low levels in short time and setting them up for a prompt defeat. Much like her brother robot's feelings toward Mega Man, Disco has a deeply rooted rivalry with Roll and will use any opportunity to flaunt her battle prowess in Roll's presence. It doesn't appear to bother her logic that she owes her entire conception to Roll, but superiority complexes tend to run in the Wily family, huh?",
     "robot_energy": 145,
     "robot_weapons": 15,
     "robot_attack": 70,
