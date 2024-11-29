@@ -1,0 +1,83 @@
+{
+    "robot_token": "shelln",
+    "robot_number": "SHEL-001",
+    "robot_name": "Shell'n",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "rainy-sewers",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "shelln",
+    "robot_image_size": 40,
+    "robot_image_editor": "rockmanfc",
+    "robot_image_editor2": "milansaponja",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Shell'n (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Shell'n (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "water",
+    "robot_core2": "",
+    "robot_description": "Oyster Geek Mecha",
+    "robot_description2": "An oyster mecha built to add some extra pizzazz at theme and water parks. It's gifted with the power to blow bubbles, but cursed not to be able to pop them.",
+    "robot_energy": 75,
+    "robot_weapons": 5,
+    "robot_attack": 40,
+    "robot_defense": 75,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "wind",
+        "space",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "shield",
+        "electric",
+        "crystal"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "find-item-at-end-of-turn",
+    "robot_skill_name": "Pearl Filter",
+    "robot_skill_description": "Allows the robot to dig up elemental shards during battle",
+    "robot_skill_description2": "The robot intermittently coats irritants it finds to make shards",
+    "robot_skill_parameters": {
+        "all": false,
+        "screws": false,
+        "shards": true,
+        "cores": false
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "water-shot"
+        },
+        {
+            "level": 0,
+            "token": "water-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Shell, shell, shell~",
+    "robot_quotes_taunt": "Sherun!!",
+    "robot_quotes_victory": "Sher, shell, sher, shell~",
+    "robot_quotes_defeat": "....!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
