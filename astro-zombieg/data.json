@@ -1,0 +1,80 @@
+{
+    "robot_token": "astro-zombieg",
+    "robot_number": "AZMB-001",
+    "robot_name": "Astro Zombieg",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "robosaur-boneyard",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "astro-zombieg",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "rockmanfc",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Astro Zombieg (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Astro Zombieg (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "shadow",
+    "robot_core2": "",
+    "robot_description": "Undead Zombie Mecha",
+    "robot_description2": "These Astro Zombiegs make the perfect performers for any haunted houses on a budget. They fall apart pretty easily, but given that they're zombies, you can say it adds to the decor.",
+    "robot_energy": 20,
+    "robot_weapons": 5,
+    "robot_attack": 150,
+    "robot_defense": 20,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "time",
+        "earth",
+        "swift",
+        "space"
+    ],
+    "robot_resistances": [
+        "crystal",
+        "flame",
+        "freeze",
+        "nature"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "persist-submodule",
+    "robot_skill_name": "Living Dead",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "shadow-shot"
+        },
+        {
+            "level": 0,
+            "token": "shadow-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Aaaaa.... aaaaa.....",
+    "robot_quotes_taunt": "Asssuuuzoonnnnn.....",
+    "robot_quotes_victory": "Zonnn...biguu.....",
+    "robot_quotes_defeat": "Asu...zonnn.....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
