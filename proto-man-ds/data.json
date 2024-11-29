@@ -12,11 +12,12 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "shadow",
     "robot_core2": "",
     "robot_description": "Dark Soul Robot",
-    "robot_description2": "",
+    "robot_description2": "Proto Man's been framed enough times throughout the years, so don't buy anything this guy's selling. As Slur's control of the Prototype continues to twist and contort its programming, this dark impostor appears to have been born within the abyss of corruption consuming the system. A wretched reflection, the dark soul robot has all the capabilities of its original, but magnified and enriched by Slur's dark power. Its only desire, its only drive, to wipe out and absorb the data of Proto Man, in some self-righteous crusade to set the world right by becoming the perfect Proto Man. In the final stages of our quest, this dark soul will surely stand against the doctors - there's no other choice, than to fight.",
     "robot_energy": 120,
     "robot_weapons": 20,
     "robot_attack": 145,
@@ -57,10 +58,6 @@
         },
         {
             "level": 0,
-            "token": "drill-blitz"
-        },
-        {
-            "level": 0,
             "token": "ring-boomerang"
         },
         {
@@ -70,6 +67,10 @@
         {
             "level": 0,
             "token": "skull-barrier"
+        },
+        {
+            "level": 0,
+            "token": "drill-blitz"
         },
         {
             "level": 2,
