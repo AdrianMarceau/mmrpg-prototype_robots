@@ -1,0 +1,81 @@
+{
+    "robot_token": "dodonpa-cannon",
+    "robot_number": "DNPC-001",
+    "robot_name": "Dodonpa Cannon",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "magnetic-generator",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "dodonpa-cannon",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Dodonpa Cannon (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Dodonpa Cannon (Third Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Rumba Cannon Mecha",
+    "robot_description2": "These cannon units are standard military grade, with the capacity to launch artillery from a full 180\u00b0 range. Seemingly because of their style of movement, Wily took their sobriquet from dodompa music, which mixes traditional Japanese music with that of Cuban rumba.",
+    "robot_energy": 80,
+    "robot_weapons": 5,
+    "robot_attack": 40,
+    "robot_defense": 70,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "crystal",
+        "space",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "explode",
+        "cutter",
+        "electric"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "field-boost-at-battle-start",
+    "robot_skill_name": "",
+    "robot_skill_description": "Boosts the Missile-type field multiplier every turn",
+    "robot_skill_description2": "The robot boosts the Missile-type field multiplier at the end of each turn as it arms the battlefield.",
+    "robot_skill_parameters": {
+        "type": "missile",
+        "amount": 0.5
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "missile-shot"
+        },
+        {
+            "level": 0,
+            "token": "missile-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Ho!",
+    "robot_quotes_taunt": "Do-don, do-don.",
+    "robot_quotes_victory": "Ho-ho-ho!",
+    "robot_quotes_defeat": "......",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
