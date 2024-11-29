@@ -14,7 +14,8 @@
         "group_child_tokens": [
             "sniper-joe",
             "skeleton-joe",
-            "crystal-joe"
+            "crystal-joe",
+            "hammer-joe"
         ]
     },
     "MM01": {
@@ -100,6 +101,9 @@
         "group_order": 7,
         "group_child_tokens": [
             "curlinger",
+            "pelicanu",
+            "pooker",
+            "molier",
             "kabuton",
             "colton",
             "pandeeta",
@@ -111,11 +115,14 @@
         "group_token": "MM07",
         "group_order": 8,
         "group_child_tokens": [
+            "bomb-sleigh",
             "gockroach-s",
             "parabeak",
             "tel-tel",
             "coiln",
-            "eggalodon"
+            "eggalodon",
+            "astro-zombieg",
+            "trio-the-wheel"
         ]
     },
     "MM08": {
@@ -124,9 +131,11 @@
         "group_order": 9,
         "group_child_tokens": [
             "cline",
+            "dodonpa-cannon",
             "goriblue",
-            "plasma-plus",
+            "shelln",
             "oni-robo",
+            "plasma-plus",
             "romper"
         ]
     },
@@ -135,6 +144,8 @@
         "group_token": "MM09",
         "group_order": 10,
         "group_child_tokens": [
+            "spike-pusher",
+            "ballonboo",
             "octone",
             "diaymon",
             "petal-anne",
@@ -148,9 +159,11 @@
         "group_order": 11,
         "group_child_tokens": [
             "merserker",
+            "piper-n",
             "frosty-throwman",
             "pointan",
             "pitchan",
+            "robo-transport",
             "sola-rei"
         ]
     },
@@ -160,8 +173,10 @@
         "group_order": 12,
         "group_child_tokens": [
             "air-stone",
+            "electriri",
             "shimobey",
             "pipetto",
+            "tank-oven",
             "arc-weldy",
             "tosanaizer-v"
         ]
@@ -174,8 +189,9 @@
             "tamp",
             "covercannon",
             "biribaree",
-            "cannon-roader",
-            "fooley"
+            "fooley",
+            "handoo",
+            "cannon-roader"
         ]
     },
     "MM00C": {
@@ -196,6 +212,7 @@
             "bunby-heli",
             "foot-holder",
             "blocky",
+            "prop-top",
             "peterchy",
             "upndown"
         ]
