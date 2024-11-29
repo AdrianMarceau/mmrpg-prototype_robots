@@ -1,0 +1,82 @@
+{
+    "robot_token": "bomb-sleigh",
+    "robot_number": "BMSL-001",
+    "robot_name": "Bomb Sleigh",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "arctic-jungle",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "bomb-sleigh",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Bomb Sleigh (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Bomb Sleigh (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "explode",
+    "robot_core2": "",
+    "robot_description": "Sleigh Payload Mecha",
+    "robot_description2": "Being an evil scientist means having to spend your holidays alone, so it seems Dr. Wily really put his heart into his own 'Rosebud', a beautiful sleigh of his design. Of course, it comes with bombs. A great way to say both \"Merry Christmas, Mega Man!\" and \"I'll destroy you, Mega Man!\"",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 25,
+    "robot_defense": 45,
+    "robot_speed": 80,
+    "robot_weaknesses": [
+        "water",
+        "time",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "laser",
+        "freeze",
+        "explode"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "stat-boost-at-end-of-turn",
+    "robot_skill_name": "",
+    "robot_skill_description": "Boosts the robot's speed on Freeze-type fields",
+    "robot_skill_description2": "The robot's speed stat is boosted by one stage at the end of each turn when the Freeze-type field multiplier is high.",
+    "robot_skill_parameters": {
+        "stat": "speed",
+        "amount": 1,
+        "condition": "field-multiplier-freeze > 1"
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "explode-shot"
+        },
+        {
+            "level": 0,
+            "token": "explode-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Bomu - bomu - bomu!",
+    "robot_quotes_taunt": "Bom - bom - bom - bom!",
+    "robot_quotes_victory": "BOOOOOOOOMU!",
+    "robot_quotes_defeat": "!!!!!!!!!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
