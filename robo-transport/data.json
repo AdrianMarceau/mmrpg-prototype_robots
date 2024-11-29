@@ -1,0 +1,83 @@
+{
+    "robot_token": "robo-transport",
+    "robot_number": "TSPT-001",
+    "robot_name": "Robo-Transport",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "spinning-greenhouse",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "robo-transport",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Robo-Transport (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Robo-Transport (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Self-Driving Vehicle Mecha",
+    "robot_description2": "As a mecha device for the 'Robo-Haul' truck and trailer rental company, this self-driving Robo-Transport bus is one of many vehicles that make up the busy streets of 20XX. Its AI is smart enough to act accordingly to traffic laws, but either way it's prone to road rage.",
+    "robot_energy": 70,
+    "robot_weapons": 5,
+    "robot_attack": 20,
+    "robot_defense": 70,
+    "robot_speed": 40,
+    "robot_weaknesses": [
+        "freeze",
+        "time",
+        "impact"
+    ],
+    "robot_resistances": [
+        "electric",
+        "explode",
+        "swift"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "stat-boost-at-end-of-turn",
+    "robot_skill_name": "Road Rage",
+    "robot_skill_description": "Drastically boosts the robot's attack when in danger",
+    "robot_skill_description2": "The robot's attack stat is boosted by two stages when they're in dire straits.",
+    "robot_skill_parameters": {
+        "stat": "attack",
+        "amount": 2,
+        "condition": "energy <= 30%",
+        "repeat": false
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "swift-shot"
+        },
+        {
+            "level": 0,
+            "token": "swift-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "......",
+    "robot_quotes_taunt": "HONK!!",
+    "robot_quotes_victory": ".....",
+    "robot_quotes_defeat": ".....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
