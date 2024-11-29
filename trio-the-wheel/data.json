@@ -1,0 +1,78 @@
+{
+    "robot_token": "trio-the-wheel",
+    "robot_number": "TRWH-001",
+    "robot_name": "Trio The Wheel",
+    "robot_game": "MM7",
+    "robot_field": "",
+    "robot_field2": "spinning-greenhouse",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "trio-the-wheel",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Trio The Wheel (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Trio The Wheel (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Replacement Tire Mecha",
+    "robot_description2": "A handy mecha always willing to lend a spare tire or two at auto repair shops. This mecha makes for a great travel buddy on road trips.",
+    "robot_energy": 80,
+    "robot_weapons": 5,
+    "robot_attack": 30,
+    "robot_defense": 80,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "crystal",
+        "missile",
+        "space"
+    ],
+    "robot_resistances": [
+        "cutter",
+        "electric",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "armorer-submodule",
+    "robot_skill_name": "Spare Tire",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "swift-shot"
+        },
+        {
+            "level": 0,
+            "token": "swift-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Torio!",
+    "robot_quotes_taunt": "Za, za, za!",
+    "robot_quotes_victory": "Hoiru, hoiru, hoiru!",
+    "robot_quotes_defeat": "Za!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
