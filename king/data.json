@@ -12,19 +12,25 @@
     "robot_image_size": 80,
     "robot_image_editor": "splendidland",
     "robot_image_editor2": "milansaponja",
-    "robot_image_editor3": "",
+    "robot_image_editor3": "Mega Man 8-Bit Deathmatch",
     "robot_image_alts": [
         {
             "token": "alt",
             "name": "King (Pawn Alt)",
             "summons": 100,
             "colour": "speed"
+        },
+        {
+            "token": "alt2",
+            "name": "King (Rook Alt)",
+            "summons": 200,
+            "colour": "none"
         }
     ],
     "robot_core": "shield",
     "robot_core2": "",
     "robot_description": "Rebel Leader Robot",
-    "robot_description2": "Some time after the events of the Evil Energy disaster, a robot had shown up and claimed that he would now take the helm of the world, attempting to lead an independent robot nation. This robot was known as King, and he employed various Robot Masters of different backgrounds, including Wily's own Tengu Man and Astro Man, for his purpose. While he doesn't have any specific weaponry, he's been known for using an energy-absorbing shield and a lance in battle. His battle prowess is incredible, as he once defeated Proto Man in a single move, and kept Mega Man and Bass on their toes. Contrary to popular belief, King is not a tyrant; he was arguably misguided in his attempts to reform the world. King's efforts to change the world would also happen to be inspiring to a robot dozens of years after. He's a remarkable and passionate speaker, but his background simply rings of suspicion. This was all revealed when Mega Man and Bass, unaware the other was there, found out his true background at his castle, being a creation of Wily all along. After their battle, King sacrificed his life to save the two, an act that even impacted Bass in a way. However, soon afterwards, Mega Man received a letter with King's insignia, meaning King could still be out there. The question is: would he be friend or foe?",
+    "robot_description2": "Shortly after the Evil Energy incident, one robot made a declaration to the world - \"Henceforth, let no robot kneel before man, and be his pawn!\" This was King's promise, and his dream of an sovereign robot nation. From all across the globe, disenfranchised robots stood up to join and believe in his promise - including Wily's own Tengu and Astro Man. With his mighty shield, and his honest axe, the world feared to challenge him - even Proto Man was felled in a single strike. Eventually, it took the unprecedented partnership of both Mega Man and Bass to match him. From there, the reality behind his grandeur was exposed; Dr. Wily was behind him all along, serving as the puppetmaster of King's mighty aims. King then refused to concede to Wily's plans any longer, and seemingly sacrificed his life to spare Mega Man and Bass. In an era sure to be rife with even further discussion on robot intelligence, self-awareness, and rights, King's coup will certainly serve as a imperative part of mechanized history. As for King himself, while no one has seen him, the only evidence to his survival was a letter received by Mega Man with his insignia. The question is, then - is he still out there? And will he be friend or foe?",
     "robot_energy": 100,
     "robot_weapons": 20,
     "robot_attack": 200,
