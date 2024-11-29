@@ -1,0 +1,78 @@
+{
+    "robot_token": "tank-oven",
+    "robot_number": "TKOV-001",
+    "robot_name": "Tank Oven",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "preserved-forest",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "tank-oven",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Tank Oven (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Tank Oven (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "nature",
+    "robot_core2": "",
+    "robot_description": "Sherman Stew Mecha",
+    "robot_description2": "A camp cooking robot that specializes in hotpots. Wily got creative upgrading this mecha, so now it's a mobile tank that fires carrot missiles - the horror!!",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 50,
+    "robot_speed": 50,
+    "robot_weaknesses": [
+        "freeze",
+        "wind",
+        "swift"
+    ],
+    "robot_resistances": [
+        "flame",
+        "explode",
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "missile-subcore",
+    "robot_skill_name": "Veggie Arsenal",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "nature-shot"
+        },
+        {
+            "level": 0,
+            "token": "nature-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Tankuo!",
+    "robot_quotes_taunt": "Tankuo, tankuo!",
+    "robot_quotes_victory": "Bunnnnn...",
+    "robot_quotes_defeat": "Tank..?",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
