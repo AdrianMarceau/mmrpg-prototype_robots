@@ -1,0 +1,78 @@
+{
+    "robot_token": "pelicanu",
+    "robot_number": "PELI-001",
+    "robot_name": "Pelicanu",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "waterfall-institute",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "pelicanu",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Pelicanu (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Pelicanu (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "water",
+    "robot_core2": "",
+    "robot_description": "Meal Delivery Mecha",
+    "robot_description2": "This pelican robot served an especially important role in Dr. Wily's evil schemes - by picking up his fast food mobile orders. After it dropped one too many of his spicy enchiladas, though, Dr. Wily sent poor Pelicanu to the battlefield. It comes equipped with a fish friend - for the bird, the fish is his best friend, but for the fish, the bird is a prison.",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 30,
+    "robot_speed": 80,
+    "robot_weaknesses": [
+        "earth",
+        "shadow",
+        "wind"
+    ],
+    "robot_resistances": [
+        "freeze",
+        "explode",
+        "cutter"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "recycler-submodule",
+    "robot_skill_name": "Seafood Leftovers",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "water-shot"
+        },
+        {
+            "level": 0,
+            "token": "water-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Peri - Periii!",
+    "robot_quotes_taunt": "Kan, kan, kan, perrr!",
+    "robot_quotes_victory": "Kanuuuu!",
+    "robot_quotes_defeat": "......",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
