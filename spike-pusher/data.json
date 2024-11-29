@@ -1,0 +1,76 @@
+{
+    "robot_token": "spike-pusher",
+    "robot_number": "SPKP-001",
+    "robot_name": "Spike Pusher",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "industrial-facility",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "spike-pusher",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Spike Pusher (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "cutter",
+    "robot_core2": "",
+    "robot_description": "Spiked Sisyphus Mecha",
+    "robot_description2": "Iron golems that guard the entrance to the terrifying corridors of the mighty Wily Castle. They love gifting visitors with large, spiky, painful spiked balls, but they're completely terrified of regifts.",
+    "robot_energy": 70,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 70,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "wind",
+        "cutter",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "crystal",
+        "explode",
+        "shield"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "stat-boost-on-cores-nearby",
+    "robot_skill_name": "Spiky Squad",
+    "robot_skill_description": "The robot's attack raises when other Cutter-cores are nearby",
+    "robot_skill_description2": "The robot's attack capabilities are upgraded when it has other Cutter-cores to help carry its weight.",
+    "robot_skill_parameters": {
+        "cores": "cutter",
+        "stat": "attack",
+        "amount": 2
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "cutter-shot"
+        },
+        {
+            "level": 0,
+            "token": "cutter-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Supaiku!",
+    "robot_quotes_taunt": "Push, push, hazu!",
+    "robot_quotes_victory": "Supaiku, push!",
+    "robot_quotes_defeat": "Kuuuuu...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
