@@ -1,0 +1,80 @@
+{
+    "robot_token": "pooker",
+    "robot_number": "POOK-001",
+    "robot_name": "Pooker",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "egyptian-excavation",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "pooker",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Pooker (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Pooker (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "flame",
+    "robot_core2": "",
+    "robot_description": "Inflatable Mortar Mecha",
+    "robot_description2": "This cute little guy was a makeshift modification off old leftover oil pumps. A good hit will have them launch over and deploy an emergency inflatable floatation device - perfect for getting around hazardous conditions. Thank you, Pooker!",
+    "robot_energy": 65,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 65,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "time",
+        "shadow",
+        "impact",
+        "swift"
+    ],
+    "robot_resistances": [
+        "cutter",
+        "explode"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [
+        "flame"
+    ],
+    "robot_skill": "transport-submodule",
+    "robot_skill_name": "Pooker Express",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "flame-shot"
+        },
+        {
+            "level": 0,
+            "token": "flame-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Pukka!",
+    "robot_quotes_taunt": "Puk-puk!",
+    "robot_quotes_victory": "Puuuuuuuuukka!",
+    "robot_quotes_defeat": "Puk!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
