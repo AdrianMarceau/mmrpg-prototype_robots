@@ -11,12 +11,12 @@
     "robot_image": "crystal-joe",
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
-    "robot_image_editor2": "",
+    "robot_image_editor2": "milansaponja",
     "robot_image_editor3": "Qodgegs",
     "robot_image_alts": [
         {
             "token": "alt",
-            "name": "Crystal Joe (No Shard)",
+            "name": "Crystal Joe (Shard)",
             "colour": "none",
             "summons": 0
         }
