@@ -34,8 +34,8 @@
     "robot_energy": 20,
     "robot_weapons": 5,
     "robot_attack": 80,
-    "robot_defense": 20,
-    "robot_speed": 70,
+    "robot_defense": 25,
+    "robot_speed": 75,
     "robot_weaknesses": [
         "missile",
         "freeze",
