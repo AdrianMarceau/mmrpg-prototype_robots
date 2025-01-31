@@ -1,0 +1,65 @@
+{
+    "robot_token": "shururun",
+    "robot_number": "SHRN-001",
+    "robot_name": "Shururun",
+    "robot_game": "MM8",
+    "robot_field": "",
+    "robot_field2": "space-simulator",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "shururun",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [],
+    "robot_core": "space",
+    "robot_core2": "",
+    "robot_description": "Orbital Pop-Up Mecha",
+    "robot_description2": "A long time ago, a young, ugly boy innocently places his hand on a toy lever, slowly winding up his new toy box, and as he curiously twists - a jack in the box jumps up and makes the boy cry! From then on, that boy, Albert Wily, swore he would get his revenge on the world. Many years later, he creates Shururun in memory of that jack in the box, hoping to deliver the same fear he felt that day to all his enemies!!... but so far, it's only scared away Astro Man.",
+    "robot_energy": 20,
+    "robot_weapons": 5,
+    "robot_attack": 65,
+    "robot_defense": 25,
+    "robot_speed": 90,
+    "robot_weaknesses": [
+        "nature",
+        "missile",
+        "impact"
+    ],
+    "robot_resistances": [
+        "freeze",
+        "space",
+        "swift"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "metronome-submodule",
+    "robot_skill_name": "Pit Stop",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "space-shot"
+        },
+        {
+            "level": 0,
+            "token": "space-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Shu-ru-ru!",
+    "robot_quotes_taunt": "Rururun!",
+    "robot_quotes_victory": "Shu-ru-ru-shu!",
+    "robot_quotes_defeat": "Sssrrr...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
