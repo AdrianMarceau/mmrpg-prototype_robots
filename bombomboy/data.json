@@ -1,0 +1,78 @@
+{
+    "robot_token": "bombomboy",
+    "robot_number": "BOBB-001",
+    "robot_name": "Bombomboy",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "preserved-forest",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "bombomboy",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Bombomboy (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Bombomboy (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "nature",
+    "robot_core2": "",
+    "robot_description": "Photosynthetic Plantae Mecha",
+    "robot_description2": "This robot is dressed up as a common houseplant - useful for jungle environments, and sprucing up evil lairs with some fresh, vibrant greenery. Apparently, this mecha's related to Bombomb.. but it certainly blows up a lot less.",
+    "robot_energy": 90,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 50,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "earth",
+        "shadow",
+        "water"
+    ],
+    "robot_resistances": [
+        "explode",
+        "freeze",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "explode-subcore",
+    "robot_skill_name": "Bom Bomb Buddy",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "nature-shot"
+        },
+        {
+            "level": 0,
+            "token": "nature-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Bonbon, bonbon, bonbon!",
+    "robot_quotes_taunt": "Boi!",
+    "robot_quotes_victory": "Bon-bon-bon-boooon!",
+    "robot_quotes_defeat": "On-on-on-on...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
