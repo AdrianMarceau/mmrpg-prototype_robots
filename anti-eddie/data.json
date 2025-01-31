@@ -1,0 +1,82 @@
+{
+    "robot_token": "anti-eddie",
+    "robot_number": "ATED-001",
+    "robot_name": "Anti-Eddie",
+    "robot_game": "MM11",
+    "robot_field": "",
+    "robot_field2": "septic-system",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "anti-eddie",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Anti-Eddie (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Anti-Eddie (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "shadow",
+    "robot_core2": "",
+    "robot_description": "Impostor Inventory Mecha",
+    "robot_description2": "This sinister mockery of Mega Man's buddy Eddie gets its kicks by snatching up and stealing away items to hoard. It was designed to attack Mega Man, but for some reason always runs away instead. For his crimes, destroy him on sight!",
+    "robot_energy": 50,
+    "robot_weapons": 5,
+    "robot_attack": 40,
+    "robot_defense": 55,
+    "robot_speed": 55,
+    "robot_weaknesses": [
+        "swift",
+        "time"
+    ],
+    "robot_resistances": [
+        "flame",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "inventory-submodule",
+    "robot_skill_name": "Grand Theft Item",
+    "robot_skill_description": "Gives an energy or weapon tank to an ally-in-need at end-of-turn",
+    "robot_skill_description2": "The robot pulls out an item it's 'found' to offer up to a robot at the end of a turn, in exchange for its own protection.",
+    "robot_skill_parameters": {
+        "all": false,
+        "energy": true,
+        "weapons": true,
+        "tanks": true,
+        "frame": "summon"
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "shadow-shot"
+        },
+        {
+            "level": 0,
+            "token": "energy-boost"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Heheh!",
+    "robot_quotes_taunt": "Hmmph!",
+    "robot_quotes_victory": "Pffff!",
+    "robot_quotes_defeat": "Eeep!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
