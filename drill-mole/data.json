@@ -2,7 +2,7 @@
     "robot_token": "drill-mole",
     "robot_number": "MOLE-001",
     "robot_name": "Drill Mole",
-    "robot_game": "MM4",
+    "robot_game": "MM2",
     "robot_field": "mineral-quarry",
     "robot_field2": "",
     "robot_support": "",
@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
