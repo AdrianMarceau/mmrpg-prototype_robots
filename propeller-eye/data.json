@@ -1,0 +1,76 @@
+{
+    "robot_token": "propeller-eye",
+    "robot_number": "PRPE-001",
+    "robot_name": "Propeller Eye",
+    "robot_game": "MM6",
+    "robot_field": "",
+    "robot_field2": "robot-museum",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "propeller-eye",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Propeller Eye (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Propeller Eye (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "laser",
+    "robot_core2": "",
+    "robot_description": "Helicopter Camera Mecha",
+    "robot_description2": "An improved, more durable version of Pukapelly, its premium propeller grants it enough force to be able to smartly maneuver its dense shelling. Inside is a camera eye - so that Dr. Wily can snap a photo of the very instant he triumphs over Mega Man!",
+    "robot_energy": 40,
+    "robot_weapons": 5,
+    "robot_attack": 25,
+    "robot_defense": 75,
+    "robot_speed": 60,
+    "robot_weaknesses": [
+        "impact",
+        "water"
+    ],
+    "robot_resistances": [
+        "time",
+        "laser"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "target-submodule",
+    "robot_skill_name": "All-Seeing Eye",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "laser-shot"
+        },
+        {
+            "level": 0,
+            "token": "laser-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "AI-AI-AI-AI.",
+    "robot_quotes_taunt": "AI-AI-AI-AI.",
+    "robot_quotes_victory": "AI-AI-AI-AI.",
+    "robot_quotes_defeat": "ai.. aii...aiiii...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
