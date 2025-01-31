@@ -1,0 +1,78 @@
+{
+    "robot_token": "tatepakkan",
+    "robot_number": "TPKN-001",
+    "robot_name": "Tatepakkan",
+    "robot_game": "MM5",
+    "robot_field": "",
+    "robot_field2": "royal-palace",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "tatepakkan",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Tatepakkan (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Tatepakkan (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "shield",
+    "robot_core2": "",
+    "robot_description": "Shielded Cannon Mecha",
+    "robot_description2": "The Tatepakkan laughs on the battlefield, knowing it can rest snuggly behind its impervious shield. Then, the blood-curling thought slowly crosses its mind: 'wait, how am I supposed to fight back?'",
+    "robot_energy": 30,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 100,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "impact",
+        "swift"
+    ],
+    "robot_resistances": [
+        "crystal",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "checkvalve-submodule",
+    "robot_skill_name": "Pakkan Shield",
+    "robot_skill_description": "Protects the robot's defense stat from being reduced",
+    "robot_skill_description2": "The robot's defense stat can only be raised and any attempts to reduce it will have no effect.",
+    "robot_skill_parameters": {
+        "stat": "defense"
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "shield-shot"
+        },
+        {
+            "level": 0,
+            "token": "shield-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Ta, te, kan!",
+    "robot_quotes_taunt": "Pakkan!",
+    "robot_quotes_victory": "Ta, ta, ta, taaa!",
+    "robot_quotes_defeat": "Tepe...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
