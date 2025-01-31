@@ -1,0 +1,82 @@
+{
+    "robot_token": "antlin-g",
+    "robot_number": "ANTG-001",
+    "robot_name": "Antlin G",
+    "robot_game": "MM10",
+    "robot_field": "",
+    "robot_field2": "magnetic-generator",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "antlin-g",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Antlin G (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Antlin G (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Mined Antlion Mecha",
+    "robot_description2": "These militarized mechas are placed within militarized zones spread out across minefields; stepping near them causes them to activate with an explosion of hazardous projectiles. They were inspired in design by the larvae of the antlion insect, who aggressively dig pits to trap and devour their prey.",
+    "robot_energy": 70,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 70,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "missile",
+        "nature",
+        "crystal"
+    ],
+    "robot_resistances": [
+        "swift",
+        "time",
+        "wind"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "stat-boost-at-end-of-turn",
+    "robot_skill_name": "Doodlebug in the Dirt",
+    "robot_skill_description": "Boost the robot's defense on Earth-type fields",
+    "robot_skill_description2": "The robot's defense stat is boosted by one stage at the end of each turn when the Earth-type field multiplier is high.",
+    "robot_skill_parameters": {
+        "stat": "defense",
+        "amount": 1,
+        "condition": "field-multiplier-earth > 1"
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "missile-shot"
+        },
+        {
+            "level": 0,
+            "token": "missile-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Ari. Gok.",
+    "robot_quotes_taunt": "Ari. G.",
+    "robot_quotes_victory": "Gok, gok, gokku.",
+    "robot_quotes_defeat": "Ari-ari-ari-ari...",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
