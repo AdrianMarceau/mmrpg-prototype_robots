@@ -49,7 +49,7 @@
     "robot_affinities": [],
     "robot_immunities": [],
     "robot_skill": "field-boost-at-battle-start",
-    "robot_skill_name": "",
+    "robot_skill_name": "Dodonpa Support",
     "robot_skill_description": "Boosts the Missile-type field multiplier every turn",
     "robot_skill_description2": "The robot boosts the Missile-type field multiplier at the end of each turn as it arms the battlefield.",
     "robot_skill_parameters": {
