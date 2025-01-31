@@ -1,0 +1,81 @@
+{
+    "robot_token": "skater-boy",
+    "robot_number": "SKBY-001",
+    "robot_name": "Skater Boy",
+    "robot_game": "MM9",
+    "robot_field": "",
+    "robot_field2": "spinning-greenhouse",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "skater-boy",
+    "robot_image_size": 40,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Skater Boy (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Skater Boy (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Gnarly Skateboarding Mecha",
+    "robot_description2": "Built while Dr. Wily was going through a skateboarding kick, these mechas were meant to defend his fortress with their mighty kickflips... but when the Blue Bomber came knocking, it turned out they were all down tricking at the skate park. Suffice to say, skateboards are no longer allowed at Wily Castle.",
+    "robot_energy": 35,
+    "robot_weapons": 5,
+    "robot_attack": 60,
+    "robot_defense": 35,
+    "robot_speed": 70,
+    "robot_weaknesses": [
+        "missile",
+        "nature",
+        "shadow"
+    ],
+    "robot_resistances": [
+        "explode",
+        "cutter",
+        "laser"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "field-boost-at-battle-start",
+    "robot_skill_name": "Pro Skater",
+    "robot_skill_description": "Increases the Damage-type field multiplier on battle start",
+    "robot_skill_description2": "The robot increases the Damage-type field multiplier upon entering battle, making no mistakes as it prepares for a great performance.",
+    "robot_skill_parameters": {
+        "type": "damage",
+        "amount": 0.5
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "swift-shot"
+        },
+        {
+            "level": 0,
+            "token": "swift-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Purosuk\u0113t\u0101!",
+    "robot_quotes_taunt": "Kikkufurippu!",
+    "robot_quotes_victory": "Ori ori!",
+    "robot_quotes_defeat": "Hirufurippu!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
