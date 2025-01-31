@@ -1,0 +1,86 @@
+{
+    "robot_token": "gachappon",
+    "robot_number": "GCHA-001",
+    "robot_name": "Gachappon",
+    "robot_game": "MM4",
+    "robot_field": "",
+    "robot_field2": "submerged-armory",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "gachappon",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Gachappon (Alt)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Gachappon (Alt2)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "missile",
+    "robot_core2": "",
+    "robot_description": "Gashapon Vending Mecha",
+    "robot_description2": "Gachappon was used in department stores and shopping malls as a flashy gashapon vending machine, but it was only a matter of time before its powers of addictive capsule-dealing were used for evil. But whether it's dealing out collectibles or hazards, it's having fun all the same!",
+    "robot_energy": 90,
+    "robot_weapons": 5,
+    "robot_attack": 30,
+    "robot_defense": 70,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "earth",
+        "water",
+        "impact"
+    ],
+    "robot_resistances": [
+        "time",
+        "freeze",
+        "shield"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "inventory-submodule",
+    "robot_skill_name": "Gacha Festival",
+    "robot_skill_description": "Gives a stat pellet or capsule to an ally-in-need at end-of-turn",
+    "robot_skill_description2": "This robot provides a gachapon capsule containing stat-boosting pellets and capsules to its team - don't get addicted!",
+    "robot_skill_parameters": {
+        "all": false,
+        "attack": true,
+        "defense": true,
+        "speed": true,
+        "pellets": true,
+        "capsules": true,
+        "frame": "summon"
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "missile-shot"
+        },
+        {
+            "level": 0,
+            "token": "missile-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "Gacha, gacha!",
+    "robot_quotes_taunt": "Pon-pon-pon-ponnn!",
+    "robot_quotes_victory": "Gacha, gacha, gacha, cha!",
+    "robot_quotes_defeat": "Pon-n-n-n....",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
