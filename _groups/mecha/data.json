@@ -131,6 +131,7 @@
         "group_order": 9,
         "group_child_tokens": [
             "cline",
+            "shururun",
             "dodonpa-cannon",
             "goriblue",
             "shelln",
@@ -144,10 +145,10 @@
         "group_token": "MM09",
         "group_order": 10,
         "group_child_tokens": [
-            "spike-pusher",
+            "bombomboy",
             "ballonboo",
             "octone",
-            "kakinba-tank",
+            "skater-boy",
             "diaymon",
             "petal-anne",
             "popo-heli",
@@ -161,6 +162,7 @@
         "group_child_tokens": [
             "merserker",
             "piper-n",
+            "antlin-g",
             "frosty-throwman",
             "pointan",
             "pitchan",
@@ -179,7 +181,8 @@
             "pipetto",
             "tank-oven",
             "arc-weldy",
-            "tosanaizer-v"
+            "tosanaizer-v",
+            "anti-eddie"
         ]
     },
     "MMV": {
@@ -190,9 +193,11 @@
             "tamp",
             "covercannon",
             "biribaree",
+            "bikky-bomb",
             "fooley",
             "handoo",
-            "cannon-roader"
+            "cannon-roader",
+            "malmet"
         ]
     },
     "MM00C": {
@@ -215,7 +220,10 @@
             "blocky",
             "prop-top",
             "peterchy",
-            "upndown"
+            "mummira",
+            "upndown",
+            "tatepakkan",
+            "propeller-eye"
         ]
     },
     "MM000E": {
@@ -224,7 +232,12 @@
         "group_order": 16,
         "group_child_tokens": [
             "big-eye",
+            "giant-spring-head",
+            "gachappon",
             "power-muscler",
+            "vavaliant",
+            "kakinba-tank",
+            "spike-pusher",
             "weapon-archivist"
         ]
     },
