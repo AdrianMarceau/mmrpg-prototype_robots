@@ -1,0 +1,78 @@
+{
+    "robot_token": "giant-spring-head",
+    "robot_number": "SPNG-00G",
+    "robot_name": "Giant Spring Head",
+    "robot_game": "MM3",
+    "robot_field": "",
+    "robot_field2": "underground-laboratory",
+    "robot_support": "",
+    "robot_class": "mecha",
+    "robot_gender": "none",
+    "robot_image": "giant-spring-head",
+    "robot_image_size": 80,
+    "robot_image_editor": "milansaponja",
+    "robot_image_editor2": "",
+    "robot_image_editor3": "",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Giant Spring Head (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Giant Spring Head (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
+    "robot_core": "swift",
+    "robot_core2": "",
+    "robot_description": "Spring Smasher Mecha",
+    "robot_description2": "The bigger, the better, right? That was the idea when creating this mecha out of recycled Spring Head parts, so while it's not as fast as its little brother, it packs much more of a punch! As it pursues you, it'll launch guided missiles, so make sure to quickly shoot them down!",
+    "robot_energy": 70,
+    "robot_weapons": 5,
+    "robot_attack": 50,
+    "robot_defense": 70,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "crystal",
+        "space",
+        "time"
+    ],
+    "robot_resistances": [
+        "wind",
+        "cutter",
+        "freeze"
+    ],
+    "robot_affinities": [],
+    "robot_immunities": [],
+    "robot_skill": "missile-subcore",
+    "robot_skill_name": "Spring-Loaded",
+    "robot_skill_description": "",
+    "robot_skill_description2": "",
+    "robot_skill_parameters": [],
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "swift-shot"
+        },
+        {
+            "level": 0,
+            "token": "swift-buster"
+        }
+    ],
+    "robot_abilities_compatible": [],
+    "robot_quotes_start": "RINGA!",
+    "robot_quotes_taunt": "RING RING!",
+    "robot_quotes_victory": "SUPUUUUUUUUUURINGA!",
+    "robot_quotes_defeat": "SU... PU!",
+    "robot_quotes_custom": [],
+    "robot_flag_hidden": 0,
+    "robot_flag_complete": 1,
+    "robot_flag_unlockable": 0,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 0,
+    "robot_flag_published": 1
+}
