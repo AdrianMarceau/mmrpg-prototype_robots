@@ -13,7 +13,14 @@
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "rhythmbca",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Mega Man DS (Network Phantom)",
+            "summons": 100,
+            "colour": "none"
+        }
+    ],
     "robot_core": "shadow",
     "robot_core2": "",
     "robot_description": "Dark Soul Robot",
