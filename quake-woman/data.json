@@ -28,11 +28,11 @@
         "electric"
     ],
     "robot_resistances": [
-        "impact"
+        "earth"
     ],
     "robot_affinities": [],
     "robot_immunities": [
-        "earth"
+        "impact"
     ],
     "robot_skill": "construction-submodule",
     "robot_skill_name": "Stone Tempo",
