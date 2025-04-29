@@ -4,7 +4,7 @@
     "robot_name": "Mummira",
     "robot_game": "MM4",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "egyptian-excavation",
     "robot_support": "",
     "robot_class": "mecha",
     "robot_gender": "none",
@@ -13,22 +13,43 @@
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
     "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Mummira (2nd Generation)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Mummira (3rd Generation)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "shadow",
     "robot_core2": "",
-    "robot_description": "TEMPORARY TEXT MUMMY",
-    "robot_description2": "",
-    "robot_energy": 50,
+    "robot_description": "Mummy Mauler Mecha",
+    "robot_description2": "Recycled from cheap robot parts, Mummira's got you covered when it comes to testing out all sorts of historic booby traps and torture chambers. Over a thousand of them serve in Pharaoh Man's expedition team - they consider him a great boss.",
+    "robot_energy": 45,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 60,
+    "robot_defense": 70,
+    "robot_speed": 25,
+    "robot_weaknesses": [
+        "shadow",
+        "missile",
+        "water"
+    ],
+    "robot_resistances": [
+        "time",
+        "swift",
+        "crystal"
+    ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "sanitation-submodule",
+    "robot_skill_name": "Tomb Raider",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
