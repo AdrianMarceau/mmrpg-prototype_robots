@@ -39,7 +39,7 @@
     "robot_quotes_victory": "tweet",
     "robot_quotes_defeat": "I used to be on Twitter",
     "robot_quotes_custom": [],
-    "robot_flag_hidden": 0,
+    "robot_flag_hidden": 1,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
     "robot_flag_fightable": 0,
