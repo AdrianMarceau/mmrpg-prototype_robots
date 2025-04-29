@@ -23,10 +23,17 @@
     "robot_attack": 100,
     "robot_defense": 100,
     "robot_speed": 100,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_weaknesses": [
+        "freeze",
+        "wind"
+    ],
+    "robot_resistances": [
+        "impact"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
+    "robot_immunities": [
+        "earth"
+    ],
     "robot_skill": "disentangle-submodule",
     "robot_skill_name": "Hover Matron",
     "robot_skill_description": "",
