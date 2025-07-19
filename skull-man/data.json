@@ -22,7 +22,7 @@
         },
         {
             "token": "alt2",
-            "name": "Skull Man (Red Alt)",
+            "name": "Skull Man (Shmidt Alt)",
             "summons": 200,
             "colour": "swift"
         },
@@ -31,6 +31,12 @@
             "name": "Skull Man (Weapon Alt)",
             "summons": 300,
             "colour": "freeze"
+        },
+        {
+            "token": "alt5",
+            "name": "Skull Man (Evil Energy Alt)",
+            "summons": 500,
+            "colour": "time"
         },
         {
             "token": "alt9",
