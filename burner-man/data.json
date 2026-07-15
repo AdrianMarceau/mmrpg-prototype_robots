@@ -62,7 +62,7 @@
         "nature"
     ],
     "robot_affinities": [
-        "flame"
+        "wind"
     ],
     "robot_immunities": [],
     "robot_skill": "stat-boost-at-end-of-turn",
