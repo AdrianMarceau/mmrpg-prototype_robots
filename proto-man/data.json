@@ -12,6 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "rhythmbca",
     "robot_image_editor2": "megaboyx",
+    "robot_image_editor3": "",
     "robot_image_alts": [],
     "robot_core": "copy",
     "robot_core2": "",
@@ -42,11 +43,11 @@
             "token": "buster-shot"
         },
         {
-            "level": 40,
+            "level": 2,
             "token": "proto-buster"
         },
         {
-            "level": 50,
+            "level": 40,
             "token": "proto-shield"
         },
         {
