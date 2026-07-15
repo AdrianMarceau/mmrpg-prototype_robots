@@ -134,6 +134,7 @@
             "shururun",
             "dodonpa-cannon",
             "goriblue",
+            "penpen-ev",
             "shelln",
             "oni-robo",
             "plasma-plus",
@@ -206,7 +207,9 @@
         "group_order": 14,
         "group_child_tokens": [
             "beak",
-            "shield-attacker"
+            "shield-attacker",
+            "shield-attacker-gtr",
+            "shield-attacker-trl"
         ]
     },
     "MM00D": {
