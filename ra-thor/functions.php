@@ -16,6 +16,7 @@ $functions = array(
 
         // Define a quick function for returning if a given we have the necessary weapon energy for an ability
         $this_robot_info = $this_robot->export_array();
+        $num_player_robots = $this_player->counters['robots_total'];
         $has_weapon_energy = function($ability_token) use ($this_battle, $this_player, $this_robot, $this_robot_info){
             $temp_ability_info = rpg_ability::get_index_info($ability_token);
             $temp_required_energy = rpg_robot::calculate_weapon_energy_static($this_robot_info, $temp_ability_info);
@@ -40,6 +41,7 @@ $functions = array(
         if ($this_robot->robot_energy < $this_robot->robot_base_energy
             && $this_robot->has_ability($possible_ability_token)
             && $has_weapon_energy($possible_ability_token)
+            && mt_rand(0, 10) >= 20
             ){
             return $possible_ability_token;
             }
@@ -48,6 +50,7 @@ $functions = array(
         $possible_ability_token = 'barrier-drive';
         if ($this_robot->has_ability($possible_ability_token)
             && $has_weapon_energy($possible_ability_token)
+            && mt_rand(0, 10) >= 30
             ){
             return $possible_ability_token;
             }
@@ -56,6 +59,7 @@ $functions = array(
         $possible_ability_token = 'buster-charge';
         if ($this_robot->has_ability($possible_ability_token)
             && $this_robot->robot_weapons < ($this_robot->robot_base_weapons / 3)
+            && mt_rand(0, 10) >= 40
             ){
             return $possible_ability_token;
             }
