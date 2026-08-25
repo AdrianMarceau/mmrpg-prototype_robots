@@ -12,7 +12,7 @@
     "robot_image_size": 40,
     "robot_image_editor": "adrianmarceau",
     "robot_image_editor2": "milansaponja",
-    "robot_image_editor3": "Makako",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
@@ -51,6 +51,10 @@
         {
             "level": 0,
             "token": "snipe-shot"
+        },
+        {
+            "level": 1,
+            "token": "shield-attack"
         }
     ],
     "robot_abilities_compatible": [],
