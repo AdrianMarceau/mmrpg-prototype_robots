@@ -54,11 +54,7 @@
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "cutter-shot"
-        },
-        {
-            "level": 0,
-            "token": "cutter-buster"
+            "token": "knight-crusher"
         }
     ],
     "robot_abilities_compatible": [],
