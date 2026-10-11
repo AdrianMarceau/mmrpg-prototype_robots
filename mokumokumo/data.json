@@ -1,53 +1,77 @@
 {
     "robot_token": "mokumokumo",
-    "robot_number": "RPG-000",
+    "robot_number": "KUMO-001",
     "robot_name": "Mokumokumo",
-    "robot_game": "MMRPG",
+    "robot_game": "RnF",
     "robot_field": "",
-    "robot_field2": "arctic-jungle",
+    "robot_field2": "glacier-cradle",
     "robot_support": "",
     "robot_class": "mecha",
-    "robot_gender": "other",
+    "robot_gender": "none",
     "robot_image": "mokumokumo",
     "robot_image_size": 40,
     "robot_image_editor": "milansaponja",
     "robot_image_editor2": "",
-    "robot_image_editor3": "",
-    "robot_image_alts": [],
+    "robot_image_editor3": "Mega Man Maker Team",
+    "robot_image_alts": [
+        {
+            "token": "alt",
+            "name": "Mokumokumo (2nd Gen)",
+            "summons": 100,
+            "colour": "none"
+        },
+        {
+            "token": "alt2",
+            "name": "Mokumokumo (3rd Gen)",
+            "summons": 200,
+            "colour": "none"
+        }
+    ],
     "robot_core": "freeze",
     "robot_core2": "",
-    "robot_description": "",
-    "robot_description2": "",
-    "robot_energy": 50,
+    "robot_description": "Billowing Cloud Mecha",
+    "robot_description2": "Mokumokumo produces a thick hazy fog that obscures its form, while also slowing down anyone around it! Enjoying to nap in ice-cold freezers, their favorite place to catch some Zs is actually within Cold Man's own central refrigeration unit!",
+    "robot_energy": 100,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 20,
+    "robot_defense": 70,
+    "robot_speed": 10,
+    "robot_weaknesses": [
+        "swift",
+        "laser",
+        "flame"
+    ],
+    "robot_resistances": [
+        "freeze",
+        "wind"
+    ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_skill": "anti-speed-submodule",
+    "robot_skill_name": "Cloud Clog",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
     "robot_abilities_rewards": [
         {
             "level": 0,
-            "token": "buster-shot"
+            "token": "freeze-shot"
+        },
+        {
+            "level": 0,
+            "token": "freeze-buster"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "",
-    "robot_quotes_taunt": "",
-    "robot_quotes_victory": "",
-    "robot_quotes_defeat": "",
+    "robot_quotes_start": "Kumo-kumo-kumo-kumo...",
+    "robot_quotes_taunt": "Mo-kumo-kumo-kumo...",
+    "robot_quotes_victory": "Mo-kumooo-kumooo-kumoooooo...",
+    "robot_quotes_defeat": "Mmmmmkuuu!!",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
