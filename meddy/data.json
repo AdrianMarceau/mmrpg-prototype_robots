@@ -1,11 +1,11 @@
 {
     "robot_token": "meddy",
-    "robot_number": "RPG-000",
+    "robot_number": "EXE-076",
     "robot_name": "Meddy",
     "robot_game": "MMRPGP",
     "robot_field": "",
-    "robot_field2": "",
-    "robot_support": "",
+    "robot_field2": "sparkling-grotto",
+    "robot_support": "heal-bot",
     "robot_class": "master",
     "robot_gender": "female",
     "robot_image": "meddy",
@@ -16,19 +16,26 @@
     "robot_image_alts": [],
     "robot_core": "",
     "robot_core2": "",
-    "robot_description": "",
+    "robot_description": "Medical Healing Robot",
     "robot_description2": "",
-    "robot_energy": 100,
-    "robot_weapons": 10,
-    "robot_attack": 100,
-    "robot_defense": 100,
-    "robot_speed": 100,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_energy": 150,
+    "robot_weapons": 15,
+    "robot_attack": 60,
+    "robot_defense": 110,
+    "robot_speed": 80,
+    "robot_weaknesses": [
+        "flame",
+        "cutter"
+    ],
+    "robot_resistances": [
+        "space"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_immunities": [
+        "shadow"
+    ],
+    "robot_skill": "medic-submodule",
+    "robot_skill_name": "Field Medic",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
@@ -36,6 +43,14 @@
         {
             "level": 0,
             "token": "buster-shot"
+        },
+        {
+            "level": 1,
+            "token": "energy-boost"
+        },
+        {
+            "level": 2,
+            "token": "energy-support"
         }
     ],
     "robot_abilities_compatible": [],
@@ -46,8 +61,8 @@
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
-    "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_unlockable": 1,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
