@@ -56,48 +56,48 @@
             "token": "buster-shot"
         },
         {
-            "level": 0,
+            "level": 1,
             "token": "mega-buster"
         },
         {
-            "level": 0,
-            "token": "rolling-cutter"
-        },
-        {
-            "level": 0,
-            "token": "super-throw"
-        },
-        {
-            "level": 0,
-            "token": "ice-breath"
-        },
-        {
-            "level": 0,
-            "token": "hyper-bomb"
-        },
-        {
-            "level": 0,
-            "token": "fire-storm"
-        },
-        {
-            "level": 0,
-            "token": "thunder-strike"
-        },
-        {
-            "level": 0,
-            "token": "time-arrow"
-        },
-        {
-            "level": 0,
-            "token": "oil-shooter"
-        },
-        {
-            "level": 0,
+            "level": 2,
             "token": "mega-ball"
         },
         {
-            "level": 0,
+            "level": 3,
             "token": "mega-slide"
+        },
+        {
+            "level": 4,
+            "token": "rolling-cutter"
+        },
+        {
+            "level": 5,
+            "token": "super-throw"
+        },
+        {
+            "level": 6,
+            "token": "ice-breath"
+        },
+        {
+            "level": 7,
+            "token": "hyper-bomb"
+        },
+        {
+            "level": 8,
+            "token": "fire-storm"
+        },
+        {
+            "level": 9,
+            "token": "thunder-strike"
+        },
+        {
+            "level": 10,
+            "token": "time-arrow"
+        },
+        {
+            "level": 11,
+            "token": "oil-shooter"
         }
     ],
     "robot_abilities_compatible": [
@@ -113,7 +113,6 @@
         "defense-shuffle",
         "speed-shuffle",
         "energy-shuffle",
-        "repair-mode",
         "experience-booster",
         "recovery-booster",
         "damage-booster",
