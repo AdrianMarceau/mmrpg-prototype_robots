@@ -137,7 +137,6 @@
             "penpen-ev",
             "shelln",
             "oni-robo",
-            "mokumokumo",
             "plasma-plus",
             "romper"
         ]
@@ -272,8 +271,15 @@
             "treble",
             "tango",
             "beat",
-            "reggae",
             "eddie"
+        ]
+    },
+    "MMRPG\/Pseudo": {
+        "group_class": "mecha",
+        "group_token": "MMRPG\/Pseudo",
+        "group_order": 20,
+        "group_child_tokens": [
+            "reggae"
         ]
     }
 }
