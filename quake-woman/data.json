@@ -4,7 +4,7 @@
     "robot_name": "Quake Woman",
     "robot_game": "MMARCHIE",
     "robot_field": "",
-    "robot_field2": "",
+    "robot_field2": "secluded-summit",
     "robot_support": "molier",
     "robot_class": "master",
     "robot_gender": "female",
@@ -18,11 +18,11 @@
     "robot_core2": "",
     "robot_description": "Geological Surveillance Robot",
     "robot_description2": "",
-    "robot_energy": 100,
+    "robot_energy": 115,
     "robot_weapons": 10,
-    "robot_attack": 100,
-    "robot_defense": 100,
-    "robot_speed": 100,
+    "robot_attack": 110,
+    "robot_defense": 85,
+    "robot_speed": 90,
     "robot_weaknesses": [
         "explode",
         "electric"
@@ -53,8 +53,8 @@
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
-    "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
-    "robot_flag_exclusive": 0,
+    "robot_flag_unlockable": 1,
+    "robot_flag_fightable": 1,
+    "robot_flag_exclusive": 1,
     "robot_flag_published": 1
 }
