@@ -190,35 +190,31 @@
             "bounce-man"
         ]
     },
-    "MMRPG\/Hidden1": {
+    "MMRPG\/ArchieComic": {
         "group_class": "master",
-        "group_token": "MMRPG\/Hidden1",
+        "group_token": "MMRPG\/ArchieComic",
         "group_order": 13,
         "group_child_tokens": [
             "quake-woman",
             "vesper-woman"
         ]
     },
-    "MMRPG\/Hidden2": {
+    "MMRPG\/BattleNetwork": {
         "group_class": "master",
-        "group_token": "MMRPG\/Hidden2",
+        "group_token": "MMRPG\/BattleNetwork",
         "group_order": 14,
         "group_child_tokens": [
-            "bond-man",
-            "fake-man"
+            "meddy"
         ]
     },
-    "MMRPG\/Pseudo": {
+    "MMRPG\/Hidden": {
         "group_class": "master",
-        "group_token": "MMRPG\/Pseudo",
+        "group_token": "MMRPG\/Hidden",
         "group_order": 15,
         "group_child_tokens": [
-            "rock",
-            "auto",
-            "plum",
-            "fan",
-            "meddy",
-            "piano"
+            "piano",
+            "fake-man",
+            "bond-man"
         ]
     },
     "MMRPG\/Cache": {
@@ -236,6 +232,17 @@
             "portal-man",
             "shield-man",
             "laser-man"
+        ]
+    },
+    "MMRPG\/Pseudo": {
+        "group_class": "master",
+        "group_token": "MMRPG\/Pseudo",
+        "group_order": 17,
+        "group_child_tokens": [
+            "rock",
+            "auto",
+            "plum",
+            "fan"
         ]
     }
 }
