@@ -1,6 +1,6 @@
 {
     "robot_token": "rush",
-    "robot_number": "RPG-000",
+    "robot_number": "DLM-001",
     "robot_name": "Rush",
     "robot_game": "MM3",
     "robot_field": "",
@@ -16,24 +16,47 @@
     "robot_image_alts": [],
     "robot_core": "",
     "robot_core2": "",
-    "robot_description": "funny doogy mecha",
-    "robot_description2": "good boy",
+    "robot_description": "Funny Doogy Mecha",
+    "robot_description2": "He's a good boy.",
     "robot_energy": 50,
     "robot_weapons": 5,
     "robot_attack": 50,
     "robot_defense": 50,
     "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_weaknesses": [
+        "impact",
+        "flame"
+    ],
+    "robot_resistances": [
+        "nature"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
-    "robot_abilities_rewards": [],
-    "robot_abilities_compatible": [],
+    "robot_immunities": [
+        "shadow"
+    ],
+    "robot_skill": "find-item-at-end-of-turn",
+    "robot_skill_name": "Rush Search",
+    "robot_skill_description": "The mecha digs up items at the end of every turn looking for tasty bones",
+    "robot_skill_description2": "The mecha digs at the ground at the end of each turn looking for tasty bones but finding random items instead.",
+    "robot_skill_parameters": {
+        "all": true
+    },
+    "robot_abilities_rewards": [
+        {
+            "level": 0,
+            "token": "buster-shot"
+        }
+    ],
+    "robot_abilities_compatible": [
+        "mega-slide",
+        "quick-strike",
+        "charge-kick",
+        "slash-claw",
+        "swift-shot",
+        "swift-buster",
+        "swift-overdrive",
+        "spark-life"
+    ],
     "robot_quotes_start": "Bark! Bark bark!",
     "robot_quotes_taunt": "Grrrrrr....",
     "robot_quotes_victory": "aWOOOOOO! Arf arf!",
@@ -42,7 +65,7 @@
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
