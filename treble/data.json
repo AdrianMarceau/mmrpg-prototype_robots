@@ -1,6 +1,6 @@
 {
     "robot_token": "treble",
-    "robot_number": "RPG-000",
+    "robot_number": "DWM-001",
     "robot_name": "Treble",
     "robot_game": "MM7",
     "robot_field": "",
@@ -16,19 +16,26 @@
     "robot_image_alts": [],
     "robot_core": "",
     "robot_core2": "",
-    "robot_description": "",
+    "robot_description": "Loyal Wolf Mecha",
     "robot_description2": "",
-    "robot_energy": 50,
+    "robot_energy": 45,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 60,
+    "robot_defense": 40,
+    "robot_speed": 55,
+    "robot_weaknesses": [
+        "electric",
+        "freeze"
+    ],
+    "robot_resistances": [
+        "space"
+    ],
     "robot_affinities": [],
-    "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
+    "robot_immunities": [
+        "shadow"
+    ],
+    "robot_skill": "break-submodule",
+    "robot_skill_name": "Vicious Fangs",
     "robot_skill_description": "",
     "robot_skill_description2": "",
     "robot_skill_parameters": [],
@@ -38,7 +45,16 @@
             "token": "buster-shot"
         }
     ],
-    "robot_abilities_compatible": [],
+    "robot_abilities_compatible": [
+        "noise-crush",
+        "vamp-crush",
+        "charge-kick",
+        "slash-claw",
+        "shadow-shot",
+        "shadow-buster",
+        "shadow-overdrive",
+        "skull-sacrifice"
+    ],
     "robot_quotes_start": "",
     "robot_quotes_taunt": "",
     "robot_quotes_victory": "",
