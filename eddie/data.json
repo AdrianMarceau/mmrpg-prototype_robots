@@ -1,6 +1,6 @@
 {
     "robot_token": "eddie",
-    "robot_number": "RPG-000",
+    "robot_number": "DLM-002",
     "robot_name": "Eddie",
     "robot_game": "MM4",
     "robot_field": "",
@@ -16,38 +16,75 @@
     "robot_image_alts": [],
     "robot_core": "",
     "robot_core2": "",
-    "robot_description": "",
+    "robot_description": "Item Transportation Mecha",
     "robot_description2": "",
-    "robot_energy": 50,
+    "robot_energy": 60,
     "robot_weapons": 5,
-    "robot_attack": 50,
-    "robot_defense": 50,
-    "robot_speed": 50,
-    "robot_weaknesses": [],
-    "robot_resistances": [],
+    "robot_attack": 20,
+    "robot_defense": 80,
+    "robot_speed": 40,
+    "robot_weaknesses": [
+        "impact",
+        "shield"
+    ],
+    "robot_resistances": [
+        "explode"
+    ],
     "robot_affinities": [],
     "robot_immunities": [],
-    "robot_skill": "",
-    "robot_skill_name": "",
-    "robot_skill_description": "",
-    "robot_skill_description2": "",
-    "robot_skill_parameters": [],
+    "robot_skill": "inventory-submodule",
+    "robot_skill_name": "Walking Inventory",
+    "robot_skill_description": "Pulls out an energy or weapon tank for an ally at end of turn",
+    "robot_skill_description2": "The mecha manages to find an energy or weapon tank in it's head at the end of each turn for an ally in need.",
+    "robot_skill_parameters": {
+        "energy": true,
+        "weapons": true,
+        "tanks": true
+    },
     "robot_abilities_rewards": [
         {
             "level": 0,
             "token": "buster-shot"
+        },
+        {
+            "level": 2,
+            "token": "attack-support"
+        },
+        {
+            "level": 3,
+            "token": "defense-support"
+        },
+        {
+            "level": 4,
+            "token": "speed-support"
+        },
+        {
+            "level": 5,
+            "token": "energy-support"
+        },
+        {
+            "level": 6,
+            "token": "recovery-booster"
+        },
+        {
+            "level": 7,
+            "token": "damage-booster"
+        },
+        {
+            "level": 8,
+            "token": "experience-booster"
         }
     ],
     "robot_abilities_compatible": [],
-    "robot_quotes_start": "",
-    "robot_quotes_taunt": "",
-    "robot_quotes_victory": "",
-    "robot_quotes_defeat": "",
+    "robot_quotes_start": "Eddie to the rescue!",
+    "robot_quotes_taunt": "Go easy on me!",
+    "robot_quotes_victory": "Wow! Did I do well?",
+    "robot_quotes_defeat": "To be honest I'm not surprised.",
     "robot_quotes_custom": [],
     "robot_flag_hidden": 0,
     "robot_flag_complete": 1,
     "robot_flag_unlockable": 0,
-    "robot_flag_fightable": 0,
+    "robot_flag_fightable": 1,
     "robot_flag_exclusive": 0,
     "robot_flag_published": 1
 }
