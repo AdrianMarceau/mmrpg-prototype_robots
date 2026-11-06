@@ -17,6 +17,13 @@ $functions = array(
         // Check to see which battle strategy we should use
         $battle_strategy = $this_robot->robot_energy < $this_robot->robot_base_energy ? 'offensive' : 'defensive';
 
+        // If this isn't a story battle, don't mess with normal selection
+        if (!empty($this_battle->flags['world_battle'])
+            || !empty($this_battle->flags['starfield_battle'])
+            || !empty($this_battle->flags['challenge_battle'])){
+            return '';
+        }
+
         // If the robot has NOT taken damage, we will not use offensive moves
         if ($battle_strategy === 'offensive'){
 
@@ -28,7 +35,11 @@ $functions = array(
             // manually define which abilities are allowed (start with global support)
             $allowed_abilities = array();
             $allowed_abilities = array_merge($allowed_abilities, rpg_ability::get_global_support_abilities());
-            return $allowed_abilities;
+            $allowed_abilities = array_intersect($this_robot->robot_abilities, $allowed_abilities);
+            //error_log('$this_robot->robot_abilities = '.print_r($this_robot->robot_abilities, true));
+            //error_log('$allowed_abilities = '.print_r($allowed_abilities, true));
+            //error_log('array_intersect = '.print_r(array_intersect($this_robot->robot_abilities, $allowed_abilities), true));
+            return !empty($allowed_abilities) ? $allowed_abilities : '';
 
         }
 
