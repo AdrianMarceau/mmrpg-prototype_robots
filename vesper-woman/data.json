@@ -43,6 +43,10 @@
         {
             "level": 0,
             "token": "buster-shot"
+        },
+        {
+            "level": 1,
+            "token": "hornet-chaser"
         }
     ],
     "robot_abilities_compatible": [],
