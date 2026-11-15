@@ -43,6 +43,10 @@
         {
             "level": 0,
             "token": "buster-shot"
+        },
+        {
+            "level": 1,
+            "token": "drill-blitz"
         }
     ],
     "robot_abilities_compatible": [],
