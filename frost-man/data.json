@@ -3,8 +3,8 @@
     "robot_number": "DWN-062",
     "robot_name": "Frost Man",
     "robot_game": "MM8",
-    "robot_field": "",
-    "robot_field2": "arctic-jungle",
+    "robot_field": "frosty-slopes",
+    "robot_field2": "",
     "robot_support": "peng",
     "robot_class": "master",
     "robot_gender": "male",
@@ -12,6 +12,7 @@
     "robot_image_size": 80,
     "robot_image_editor": "brashbuster",
     "robot_image_editor2": "rockmanfc",
+    "robot_image_editor3": "",
     "robot_image_alts": [
         {
             "token": "alt",
